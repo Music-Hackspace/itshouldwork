@@ -21,11 +21,24 @@
       object-fit: contain;
       box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
     }
+    /* Small, unobtrusive source credit in the corner. */
+    #credit {
+      position: fixed;
+      right: 10px;
+      bottom: 8px;
+      font: 11px/1.4 -apple-system, system-ui, sans-serif;
+      color: rgba(255, 255, 255, 0.4);
+      text-decoration: none;
+      max-width: 60vw;
+      text-align: right;
+    }
+    #credit:hover { color: rgba(255, 255, 255, 0.75); }
   </style>
 </head>
 <body>
   <!-- The daily scout agent updates photo.json + the image file. This page just renders it. -->
   <img id="photo" alt="">
+  <a id="credit" href="#" target="_blank" rel="noopener noreferrer" hidden></a>
   <script>
     // Cache-bust photo.json so the latest pick shows up without a hard refresh.
     fetch('photo.json?t=' + Date.now())
@@ -34,6 +47,16 @@
         var img = document.getElementById('photo');
         img.src = data.file + '?v=' + encodeURIComponent(data.date || '');
         img.alt = data.alt || 'Photo of the day';
+
+        // Tiny corner credit, linked to the source when available.
+        var credit = document.getElementById('credit');
+        var label = data.credit || '';
+        if (data.license) label += (label ? ' · ' : '') + data.license;
+        if (label) {
+          credit.textContent = label;
+          if (data.source) credit.href = data.source; else credit.removeAttribute('href');
+          credit.hidden = false;
+        }
       })
       .catch(function () {
         document.getElementById('photo').src = 'https://picsum.photos/1200/800';
