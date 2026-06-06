@@ -1,0 +1,57 @@
+name: Daily photo scout
+
+# Publishes itshouldwork.org's photo of the day. Runs in GitHub's cloud, so it
+# works regardless of whether any local machine is on.
+#
+# One-time setup: add a repo secret named CLAUDE_CODE_OAUTH_TOKEN
+#   1. On your machine: run  claude setup-token   and copy the token it prints.
+#   2. gh secret set CLAUDE_CODE_OAUTH_TOKEN --repo Music-Hackspace/itshouldwork
+#      (or GitHub UI: Settings -> Secrets and variables -> Actions -> New secret)
+
+on:
+  schedule:
+    - cron: '0 7 * * *'   # 07:00 UTC = 08:00 Europe/London during BST
+  workflow_dispatch: {}    # lets you trigger a test run from the Actions tab
+
+permissions:
+  contents: write          # so the built-in token can push the daily update
+
+concurrency:
+  group: daily-scout
+  cancel-in-progress: false
+
+jobs:
+  scout:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history so the agent can de-dupe recent picks
+
+      - name: Run daily photo scout
+        uses: anthropics/claude-code-action@v1
+        with:
+          claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          prompt: |
+            Read the file agent/scout-prompt.md in this repository and follow its
+            instructions EXACTLY to publish today's photo of the day for itshouldwork.org.
+
+            You are running unattended in GitHub Actions: do NOT ask questions, make the
+            best judgment call yourself, and complete every step end to end.
+
+            First set the git identity:
+              git config user.name "itshouldwork-scout"
+              git config user.email "actions@users.noreply.github.com"
+
+            You MUST complete all of: discover a fresh, safe, funny design-flaw / unrealistic-
+            expectations news story (last 1-7 days); apply the safety filter (no injury, death,
+            illness, disaster, or human suffering); obtain a usable image (prefer a CC/Wikimedia
+            photo of the subject, else the article's og:image, crediting the publisher); download
+            it to the repo root as photo.jpg/.png/.webp and remove any other photo.*; verify it is
+            a valid image > 30KB; overwrite photo.json with correct metadata; do NOT reuse a
+            photo/subject/story from the last ~30 days (check git log + current photo.json); then:
+              git add -A && git commit -m "Daily photo: <short slug> (<today UTC date>)" && git push origin HEAD:main
+
+            Do NOT edit index.html (it loads photo.json dynamically). Never publish anything
+            depicting harm to people.
+          claude_args: '--model claude-sonnet-4-6 --allowedTools "Bash Read Write Edit Glob Grep WebSearch WebFetch"'
