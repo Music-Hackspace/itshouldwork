@@ -15,6 +15,7 @@ on:
 
 permissions:
   contents: write          # so the built-in token can push the daily update
+  id-token: write          # required by claude-code-action for OIDC auth
 
 concurrency:
   group: daily-scout
