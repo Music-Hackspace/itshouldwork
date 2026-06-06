@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Photo</title>
+  <title>It Should Work</title>
   <style>
     html, body {
       margin: 0;
@@ -24,7 +24,20 @@
   </style>
 </head>
 <body>
-  <!-- Swap the src below for your own photo (e.g. "photo.jpg" in this folder) -->
-  <img src="https://picsum.photos/1200/800" alt="Photo">
+  <!-- The daily scout agent updates photo.json + the image file. This page just renders it. -->
+  <img id="photo" alt="">
+  <script>
+    // Cache-bust photo.json so the latest pick shows up without a hard refresh.
+    fetch('photo.json?t=' + Date.now())
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        var img = document.getElementById('photo');
+        img.src = data.file + '?v=' + encodeURIComponent(data.date || '');
+        img.alt = data.alt || 'Photo of the day';
+      })
+      .catch(function () {
+        document.getElementById('photo').src = 'https://picsum.photos/1200/800';
+      });
+  </script>
 </body>
 </html>
