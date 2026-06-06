@@ -19,11 +19,27 @@ clone on `main`.
 - Clear enough to read on a full-screen black page with no caption.
 
 ## Sourcing & rights
-- Prefer images you can rehost: Creative Commons, Wikimedia, public domain, Openverse,
-  press handouts, or social posts where reuse is plausible.
-- Always capture the **source page URL** and a **credit** (photographer / outlet / handle)
-  and the **license** if stated. We rehost the image but keep attribution on record.
+Reality check (validated): most news sites and Reddit's JSON now return 403 / HTML to
+server-side fetchers, and their photos are copyrighted. So use a two-track approach:
+
+1. **Reliable backbone — Openverse API** (CC-licensed, never blocks, gives direct
+   Wikimedia URLs + creator + license, perfect for rehosting):
+   ```
+   curl -sL -A "itshouldwork-scout/1.0 (jb@musichackspace.org)" \
+     "https://api.openverse.org/v1/images/?q=<QUERY>&size=large&page_size=10"
+   ```
+   Good queries: `bad design`, `funny sign`, `confusing sign`, `design fail`,
+   `awkward architecture`, `useless`, `poor planning`. Each result gives `url`
+   (direct image), `creator`, `license`, `license_version`, `foreign_landing_url`.
+
+2. **Freshness layer — WebSearch** for the last few days' design-fail / "you had one job"
+   stories. If (and only if) you can actually fetch a usable image whose reuse is
+   plausible, prefer the fresher pick. If fetching fails, fall back to track 1.
+
+- Always capture the **source page URL**, a **credit**, and the **license**. We rehost the
+  image but keep attribution on record in `photo.json`.
 - Get the **direct image URL** (the actual .jpg/.png/.webp), not a webpage.
+- Avoid reusing the same source the previous run used (see step 6).
 
 ## Steps each run
 1. **Search.** Run several web searches for recent design-fail / "you had one job" /
