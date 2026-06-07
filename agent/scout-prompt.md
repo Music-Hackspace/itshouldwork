@@ -21,8 +21,18 @@ on `main`.
 - **Funny / absurd, NOT tragic.** HARD EXCLUDE anything involving injury, death, illness,
   casualties, recalls-due-to-harm, disasters, or human suffering. The FIFA ticket-pricing
   blunder = yes. A medical device linked to a death = NO. When in doubt, drop it.
-- A photo that conveys the story. Ideal: the gag is visible in the image. Acceptable: a
-  clear, recognizable photo of the thing the story is about.
+- **The IMAGE must be funny on its own — this is the most important rule.** The site is
+  just a photo on a black screen with no caption, so the absurdity has to read instantly
+  *from the picture*. Strongly prefer physical/visual gags: tangled signs, a bike lane into
+  a wall, a door 3m up, a bridge that narrows, an EV charger you can't reach, a gadget in a
+  ridiculous pose. **Screenshots, logos, app UI, headshots, and generic product/press shots
+  are a LAST RESORT** — a screenshot of a search bar is NOT funny no matter how good the
+  story. If the freshest story only has a dull image, drop it and pick a story with a
+  genuinely funny photo, even if that means a slightly older or less "newsy" item. A strong
+  visual on a so-so story beats a great story with a boring image, every time.
+- **Funny / absurd, NOT tragic.** HARD EXCLUDE anything involving injury, death, illness,
+  casualties, recalls-due-to-harm, disasters, or human suffering. (Duplicated below; it
+  matters.)
 
 ## Pipeline each run
 
@@ -50,8 +60,15 @@ For each shortlisted story, in this order of preference:
   c. Skip the candidate if you cannot obtain any fetchable image.
 
 ### 3. Pick the single best
-Freshest + funniest + clearest visual + safe + ideally rehostable under a clean license.
-Prefer a candidate where the image actually conveys the absurdity.
+Rank candidates in THIS priority order:
+  1. **Is the image itself funny / absurd at a glance?** (visual gag > screenshot/logo/UI)
+  2. Safe (passes the harm filter).
+  3. Funny story behind it.
+  4. Freshness.
+  5. Clean license for rehosting.
+A genuinely funny photo on an older story beats a fresh story with a boring image. If your
+best candidate's image is a screenshot, app UI, or logo, go back and find a better picture
+rather than settling.
 
 ### 4. Don't repeat
 Check `git log` and the current `photo.json` — do not reuse a photo, subject, or story
