@@ -22,5 +22,14 @@ claude -p "Read the file agent/scout-prompt.md in this repository and follow its
   --dangerously-skip-permissions >> "$LOG" 2>&1
 
 STATUS=$?
+
+# Regenerate archive + history.json + sitemap + SEO from git history, then publish.
+python3 agent/build-site.py >> "$LOG" 2>&1
+if ! git diff --quiet || [ -n "$(git status --porcelain)" ]; then
+  git add -A >> "$LOG" 2>&1
+  git commit -m "Update archive + SEO for latest photo" >> "$LOG" 2>&1
+  git push origin main >> "$LOG" 2>&1 && echo "$(date) build-site changes pushed" >> "$LOG"
+fi
+
 echo "========== scout run end $(date) (exit $STATUS) ==========" >> "$LOG"
 exit $STATUS

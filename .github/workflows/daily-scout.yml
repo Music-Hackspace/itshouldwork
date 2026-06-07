@@ -53,6 +53,19 @@ jobs:
             photo/subject/story from the last ~30 days (check git log + current photo.json); then:
               git add -A && git commit -m "Daily photo: <short slug> (<today UTC date>)" && git push origin HEAD:main
 
-            Do NOT edit index.html (it loads photo.json dynamically). Never publish anything
-            depicting harm to people.
+            Do NOT edit index.html, archive.html, history.json, sitemap.xml, or the archive/
+            folder — those are regenerated automatically by a later build step. Never publish
+            anything depicting harm to people.
           claude_args: '--model claude-sonnet-4-6 --allowedTools "Bash Read Write Edit Glob Grep WebSearch WebFetch"'
+
+      - name: Rebuild archive + SEO
+        run: |
+          git pull --rebase origin main
+          python3 agent/build-site.py
+          if [ -n "$(git status --porcelain)" ]; then
+            git config user.name "itshouldwork-scout"
+            git config user.email "actions@users.noreply.github.com"
+            git add -A
+            git commit -m "Update archive + SEO for latest photo"
+            git push origin HEAD:main
+          fi

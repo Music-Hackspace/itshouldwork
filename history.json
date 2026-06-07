@@ -1,0 +1,60 @@
+{
+  "count": 5,
+  "photos": [
+    {
+      "date": "2026-06-07",
+      "alt": "Apple promotional image showing a Mac, iPad, iPhone, and Apple Watch all running iOS 26's Liquid Glass interface \u2014 a translucent, blurry UI redesign so unpopular Apple is adding a slider to turn it off",
+      "source": "https://www.gadgetreview.com/apples-ios-26-backlash-why-liquid-glass-is-driving-users-away",
+      "credit": "Apple Inc. (promotional screenshot via GadgetReview)",
+      "license": "editorial \u2014 \u00a9 Apple Inc.",
+      "story": "Apple's 'Liquid Glass' redesign in iOS 26 was so roundly rejected that only 15% of iPhone users upgraded (vs 63% for iOS 18), and at WWDC 2026 this week Apple is quietly announcing a system-wide slider so users can dial down \u2014 or off \u2014 their own flagship design.",
+      "why_funny": "Apple spent years building a translucent UI so beautiful it needs a dimmer switch to make it usable.",
+      "id": "52e79272a1",
+      "file": "archive/2026-06-07-52e79272a1.jpg"
+    },
+    {
+      "date": "2026-06-06",
+      "alt": "A yellow diamond road warning sign in New South Wales whose arrows are so tangled and looping that the road layout it depicts is impossible to understand, with a baffled man pointing up at it",
+      "source": "https://commons.wikimedia.org/wiki/File:Confusing_road_sign_in_New_South_Wales,_Australia.JPG",
+      "credit": "Chelm261 (Wikimedia Commons)",
+      "license": "CC BY-SA 3.0",
+      "story": "A road sign meant to warn drivers about an upcoming junction is drawn with so many tangled, looping arrows that it conveys nothing except confusion.",
+      "why_funny": "The one job of a warning sign is to be understood at a glance \u2014 this one needs a warning sign of its own.",
+      "id": "04f5bb71e4",
+      "file": "archive/2026-06-06-04f5bb71e4.jpg"
+    },
+    {
+      "date": "2026-06-06",
+      "alt": "Screenshot of Amazon Shopping app search bar showing AI-generated images of non-existent clothing products while the user types a search query",
+      "source": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
+      "credit": "TechCrunch",
+      "license": "editorial \u2014 \u00a9 TechCrunch",
+      "story": "Amazon's Shopping app now generates AI images of clothes and furniture that don't exist while you type a search query, to 'help' you find real products on a site that already has millions of real product photos.",
+      "why_funny": "The world's largest product catalog decided the best way to help shoppers find real things is to first show them fake things \u2014 for some reason.",
+      "id": "98c5e6ff8c",
+      "file": "archive/2026-06-06-98c5e6ff8c.jpg"
+    },
+    {
+      "date": "2026-06-06",
+      "alt": "The Estadio Azteca (Estadio Banorte) in Mexico City, a 2026 FIFA World Cup venue, seen from the stands",
+      "source": "https://www.espn.com/soccer/story/_/id/48974024/fifa-cancels-world-cup-tickets-60-fans-got-free-error",
+      "credit": "Arne M\u00fcseler / arne-mueseler.com (Wikimedia Commons)",
+      "license": "CC BY-SA 3.0",
+      "story": "FIFA's World Cup 2026 ticketing site accidentally sold about 60 fans tickets for $0, then cancelled them and told the fans to buy the same seats again at full price.",
+      "why_funny": "The most lucrative World Cup ever, projected to make $11bn, built a checkout that gave seats away for free and then demanded the money back.",
+      "id": "14b51d573b",
+      "file": "archive/2026-06-06-14b51d573b.jpg"
+    },
+    {
+      "date": "2026-06-06",
+      "alt": "An Apple Magic Mouse flipped on its back to charge, with the cable plugging into the underside so it cannot be used while charging",
+      "source": "https://commons.wikimedia.org/wiki/File:Bad_design_-_Apple_Magic_Mouse_2,_unusable_when_charging_2.jpg",
+      "credit": "Syced (Wikimedia Commons)",
+      "license": "CC0 1.0 (public domain)",
+      "story": "Apple put the charging port on the bottom of the Magic Mouse, so it lies belly-up and unusable while it charges.",
+      "why_funny": "A premium mouse that has to flip over and play dead to charge \u2014 designed with a flaw nobody could miss.",
+      "id": "33a1763022",
+      "file": "archive/2026-06-06-33a1763022.jpg"
+    }
+  ]
+}
