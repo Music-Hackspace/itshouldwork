@@ -1,10 +1,10 @@
 {
   "file": "photo.jpg",
-  "date": "2026-06-06",
-  "alt": "A yellow diamond road warning sign in New South Wales whose arrows are so tangled and looping that the road layout it depicts is impossible to understand, with a baffled man pointing up at it",
-  "source": "https://commons.wikimedia.org/wiki/File:Confusing_road_sign_in_New_South_Wales,_Australia.JPG",
-  "credit": "Chelm261 (Wikimedia Commons)",
-  "license": "CC BY-SA 3.0",
-  "story": "A road sign meant to warn drivers about an upcoming junction is drawn with so many tangled, looping arrows that it conveys nothing except confusion.",
-  "why_funny": "The one job of a warning sign is to be understood at a glance — this one needs a warning sign of its own."
+  "date": "2026-06-07",
+  "alt": "Apple promotional image showing a Mac, iPad, iPhone, and Apple Watch all running iOS 26's Liquid Glass interface — a translucent, blurry UI redesign so unpopular Apple is adding a slider to turn it off",
+  "source": "https://www.gadgetreview.com/apples-ios-26-backlash-why-liquid-glass-is-driving-users-away",
+  "credit": "Apple Inc. (promotional screenshot via GadgetReview)",
+  "license": "editorial — © Apple Inc.",
+  "story": "Apple's 'Liquid Glass' redesign in iOS 26 was so roundly rejected that only 15% of iPhone users upgraded (vs 63% for iOS 18), and at WWDC 2026 this week Apple is quietly announcing a system-wide slider so users can dial down — or off — their own flagship design.",
+  "why_funny": "Apple spent years building a translucent UI so beautiful it needs a dimmer switch to make it usable."
 }
