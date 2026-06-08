@@ -1,6 +1,28 @@
 {
-  "count": 5,
+  "count": 7,
   "photos": [
+    {
+      "date": "2026-06-08",
+      "alt": "Official NEOM concept render showing two impossibly tall mirrored walls stretching along the Saudi Red Sea coast to the horizon \u2014 the planned 170km 'The Line' megacity",
+      "source": "https://www.semafor.com/article/05/22/2026/saudis-neom-halts-work-on-the-line-until-after-2030",
+      "credit": "NEOM (via Semafor)",
+      "license": "editorial \u2014 \u00a9 NEOM",
+      "story": "Saudi Arabia's NEOM halted construction of 'The Line' \u2014 a planned 170km mirrored-wall city for 9 million people \u2014 after completing just 2.4km of foundation (1.4%), delaying the project until at least 2030 as internal audits put the true cost near $9 trillion.",
+      "why_funny": "They unveiled billion-dollar CGI of a 170km city for 9 million and physically built less than a kilometre and a half of it.",
+      "id": "fa53ec87aa",
+      "file": "archive/2026-06-08-fa53ec87aa.jpg"
+    },
+    {
+      "date": "2026-06-07",
+      "alt": "Aerial view of the Mira-Bhayandar double-decker flyover near Mumbai, showing a wide 4-lane approach road abruptly funnelling into a thin 2-lane bridge over the city",
+      "source": "https://www.newsx.com/regionals/who-designs-a-flyover-like-this-mira-bhayander-flyover-in-mumbai-sparks-online-fury-as-four-lanes-suddenly-narrow-into-two-lane-amid-backlash-mmrda-says-154805/",
+      "credit": "NewsX / aerial footage",
+      "license": "editorial \u2014 \u00a9 NewsX",
+      "story": "A brand-new Mumbai Metro Line 9 double-decker flyover in Mira-Bhayandar went viral in January 2026 when aerial footage showed its four-lane stretch abruptly narrowing to two lanes \u2014 and the road authority's official response was that it was 'planned' and 'not a design flaw.'",
+      "why_funny": "They built half the bridge and called it a feature.",
+      "id": "7fe55d203b",
+      "file": "archive/2026-06-07-7fe55d203b.jpg"
+    },
     {
       "date": "2026-06-07",
       "alt": "Apple promotional image showing a Mac, iPad, iPhone, and Apple Watch all running iOS 26's Liquid Glass interface \u2014 a translucent, blurry UI redesign so unpopular Apple is adding a slider to turn it off",
