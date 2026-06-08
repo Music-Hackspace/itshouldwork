@@ -59,7 +59,14 @@ jobs:
           claude_args: '--model claude-sonnet-4-6 --allowedTools "Bash Read Write Edit Glob Grep WebSearch WebFetch"'
 
       - name: Rebuild archive + SEO
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
+          set -e
+          # The claude-code-action step above leaves origin's credentials unusable
+          # for a plain git push, so re-point origin at a token-authenticated URL.
+          # (Pushes via the built-in GITHUB_TOKEN don't re-trigger workflows, so no loop.)
+          git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           git pull --rebase origin main
           python3 agent/build-site.py
           if [ -n "$(git status --porcelain)" ]; then
