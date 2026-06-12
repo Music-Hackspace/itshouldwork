@@ -1,6 +1,17 @@
 {
-  "count": 10,
+  "count": 11,
   "photos": [
+    {
+      "date": "2026-06-12",
+      "alt": "Hotel front-desk receptionist and guest both stare at a Philips dual-sided monitor sitting between them on the counter, neither looking at the other",
+      "source": "https://www.core77.com/posts/144446/The-UX-Design-Flaw-of-Philips-Dual-Sided-Monitor",
+      "credit": "TechRadar / Philips",
+      "license": "editorial \u2014 \u00a9 TechRadar / Philips",
+      "story": "Philips launched the world's first 'dual-sided' business monitor so two people can share a screen in a face-to-face meeting \u2014 critics immediately noted the flaw: placing a screen between two people to help them look at each other ensures neither one does.",
+      "why_funny": "The device invented to improve 'face-to-face collaboration' is a screen you put between two faces so they stop looking at each other.",
+      "id": "abdbf68b94",
+      "file": "archive/2026-06-12-abdbf68b94.png"
+    },
     {
       "date": "2026-06-11",
       "alt": "Four-panel photo of Brazil soccer players at the 2026 World Cup wearing Nike jerseys with visibly stiff, protruding shoulder seams that jut outward like armored pauldrons instead of draping naturally",
