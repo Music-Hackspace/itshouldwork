@@ -1,6 +1,17 @@
 {
-  "count": 11,
+  "count": 12,
   "photos": [
+    {
+      "date": "2026-06-13",
+      "alt": "Aerial Google Maps view of Telford Drive in Slough showing a painted bike lane where the white bicycle symbol stencilled on the road is visibly wider than the lane boundary lines on either side",
+      "source": "https://road.cc/news/cycling-live-blog-10-june-2026",
+      "credit": "road.cc / Google Maps",
+      "license": "editorial \u2014 \u00a9 road.cc",
+      "story": "Slough Borough Council installed a painted advisory bike lane on Telford Drive so narrow that the bicycle symbol stencilled on it overflows both edges of the lane \u2014 cyclists noted it would 'fail to meet the minimum handlebar width for the UCI.'",
+      "why_funny": "The road marking that is supposed to mark the space for cyclists is physically larger than the space itself \u2014 a bike lane that cannot fit a bicycle.",
+      "id": "81f3e434a6",
+      "file": "archive/2026-06-13-81f3e434a6.png"
+    },
     {
       "date": "2026-06-12",
       "alt": "Hotel front-desk receptionist and guest both stare at a Philips dual-sided monitor sitting between them on the counter, neither looking at the other",
