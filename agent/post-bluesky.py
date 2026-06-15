@@ -48,6 +48,42 @@ def truncate(text, limit):
     return text[:limit].rsplit(" ", 1)[0].rstrip(" ,.;:—-") + "…"
 
 
+def image_for_bluesky(path):
+    """Return (bytes, mime) for an image that fits Bluesky's blob limit.
+
+    Small images pass through untouched. Oversized ones are downscaled and
+    re-encoded as JPEG via Pillow. Returns (None, None) if it can't be made to
+    fit (e.g. Pillow unavailable) so the caller posts text+link only.
+    """
+    ext = os.path.splitext(path)[1].lower()
+    mime = {".jpg": "image/jpeg", ".jpeg": "image/jpeg",
+            ".png": "image/png", ".webp": "image/webp"}.get(ext, "image/jpeg")
+    with open(path, "rb") as f:
+        raw = f.read()
+    if len(raw) <= MAX_IMAGE_BYTES:
+        return raw, mime
+    try:
+        import io
+        from PIL import Image
+    except ImportError:
+        print(f"post-bluesky: image {len(raw)}B over limit and Pillow unavailable "
+              f"— posting text+link only.")
+        return None, None
+    img = Image.open(io.BytesIO(raw))
+    if img.mode not in ("RGB", "L"):
+        img = img.convert("RGB")
+    img.thumbnail((1600, 1600))  # cap longest side; preserves aspect ratio
+    for quality in (85, 75, 65, 55, 45):
+        buf = io.BytesIO()
+        img.save(buf, format="JPEG", quality=quality, optimize=True)
+        if buf.tell() <= MAX_IMAGE_BYTES:
+            print(f"post-bluesky: recompressed image to {buf.tell()}B (q{quality}).")
+            return buf.getvalue(), "image/jpeg"
+    print(f"post-bluesky: could not get image under {MAX_IMAGE_BYTES}B "
+          f"— posting text+link only.")
+    return None, None
+
+
 def main():
     handle = os.environ.get("BLUESKY_HANDLE", "").strip()
     app_pw = os.environ.get("BLUESKY_APP_PASSWORD", "").strip()
@@ -88,23 +124,17 @@ def main():
     if facets:
         record["facets"] = facets
 
-    # Attach the image if present and within Bluesky's blob size limit.
+    # Attach the image, downscaling if it exceeds Bluesky's blob size limit.
     img_path = os.path.join(repo, pick.get("file", "photo.jpg"))
     if os.path.exists(img_path):
-        size = os.path.getsize(img_path)
-        if size <= MAX_IMAGE_BYTES:
-            ext = os.path.splitext(img_path)[1].lower()
-            mime = {".jpg": "image/jpeg", ".jpeg": "image/jpeg",
-                    ".png": "image/png", ".webp": "image/webp"}.get(ext, "image/jpeg")
-            with open(img_path, "rb") as f:
-                blob = api("com.atproto.repo.uploadBlob", token,
-                           raw=f.read(), content_type=mime)["blob"]
+        data, mime = image_for_bluesky(img_path)
+        if data is not None:
+            blob = api("com.atproto.repo.uploadBlob", token,
+                       raw=data, content_type=mime)["blob"]
             record["embed"] = {
                 "$type": "app.bsky.embed.images",
                 "images": [{"alt": truncate(pick.get("alt", ""), 1000), "image": blob}],
             }
-        else:
-            print(f"post-bluesky: image {size}B exceeds {MAX_IMAGE_BYTES}B — posting text+link only.")
 
     res = api("com.atproto.repo.createRecord", token, body={
         "repo": did,

@@ -81,4 +81,6 @@ jobs:
         env:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
-        run: python3 agent/post-bluesky.py
+        run: |
+          pip install --quiet Pillow
+          python3 agent/post-bluesky.py
