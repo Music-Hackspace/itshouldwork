@@ -74,7 +74,13 @@ def refresh_index_seo(pick):
     desc = " ".join(desc.split())
     if len(desc) > 157:
         desc = desc[:157].rsplit(" ", 1)[0].rstrip(" ,.;:—-") + "…"
-    title = "It Should Work"
+    # Share title carries the day's hook (drives click-through), not the brand —
+    # og:site_name already shows "It Should Work" in the card.
+    title = (pick.get("why_funny") or pick.get("story") or pick.get("alt") or "").strip()
+    title = " ".join(title.split())
+    if len(title) > 70:
+        title = title[:70].rsplit(" ", 1)[0].rstrip(" ,.;:—-") + "…"
+    title = title or "It Should Work"
     img = f"{DOMAIN}/photo.jpg?v={pick.get('date', '')}"
     alt = pick.get("alt", "Photo of the day")
     e = html.escape
