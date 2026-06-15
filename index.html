@@ -93,6 +93,13 @@
       max-width: 640px;
       text-align: left;
     }
+    #post-date {
+      margin: 0 0 8px;
+      font-size: 12px;
+      text-transform: uppercase;
+      letter-spacing: .08em;
+      color: rgba(255, 255, 255, 0.45);
+    }
     #story { font-size: 19px; line-height: 1.5; margin: 0 0 10px; color: #f3f3f3; }
     #why { font-size: 15px; margin: 0; color: rgba(255, 255, 255, 0.62); }
     #credit {
@@ -171,6 +178,7 @@
     <figure>
       <img id="photo" alt="">
       <figcaption>
+        <p id="post-date"></p>
         <p id="story"></p>
         <p id="why"></p>
         <a id="credit" href="#" target="_blank" rel="noopener noreferrer" hidden></a>
@@ -185,6 +193,13 @@
   </main>
 
   <script>
+    function fmtDate(s) {
+      if (!s) return '';
+      var d = new Date(s + 'T00:00:00Z');
+      return isNaN(d) ? s : d.toLocaleDateString(undefined,
+        { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+    }
+
     // Cache-bust photo.json so the latest pick shows up without a hard refresh.
     fetch('photo.json?t=' + Date.now())
       .then(function (r) { return r.json(); })
@@ -193,7 +208,8 @@
         img.src = data.file + '?v=' + encodeURIComponent(data.date || '');
         img.alt = data.alt || 'Photo of the day';
 
-        // Explanation, shown below the image.
+        // Date + explanation, shown below the image.
+        if (data.date) document.getElementById('post-date').textContent = fmtDate(data.date);
         if (data.story) document.getElementById('story').textContent = data.story;
         if (data.why_funny) document.getElementById('why').textContent = data.why_funny;
 
