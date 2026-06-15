@@ -10,7 +10,11 @@ name: Daily photo scout
 
 on:
   schedule:
-    - cron: '0 7 * * *'   # 07:00 UTC = 08:00 Europe/London during BST
+    # Two firings so the pick changes over at 08:00 UK time year-round (GitHub
+    # cron is UTC-only and does not follow DST). The gate job below lets exactly
+    # one of these proceed depending on whether the UK is on BST or GMT.
+    - cron: '0 7 * * *'   # 08:00 UK while on BST (summer)
+    - cron: '0 8 * * *'   # 08:00 UK while on GMT (winter)
   workflow_dispatch: {}    # lets you trigger a test run from the Actions tab
 
 permissions:
@@ -22,7 +26,33 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # Proceed only on the cron firing that corresponds to 08:00 UK *today*. Keys
+  # off the UK timezone abbreviation (BST/GMT), which is stable for months, so a
+  # delayed GitHub run still evaluates correctly. Manual runs always proceed.
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      go: ${{ steps.check.outputs.go }}
+    steps:
+      - id: check
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          ZONE=$(TZ=Europe/London date +%Z)
+          SCHED='${{ github.event.schedule }}'
+          if { [ "$ZONE" = "BST" ] && [ "$SCHED" = "0 7 * * *" ]; } || \
+             { [ "$ZONE" = "GMT" ] && [ "$SCHED" = "0 8 * * *" ]; }; then
+            echo "8am UK ($ZONE) — proceeding."
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Not the 8am-UK firing (zone=$ZONE sched=$SCHED) — skipping."
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          fi
+
   scout:
+    needs: gate
+    if: needs.gate.outputs.go == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

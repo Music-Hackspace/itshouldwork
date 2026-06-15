@@ -7,7 +7,10 @@ name: Weekly throwback
 
 on:
   schedule:
-    - cron: '0 7 * * 4'   # Thursday 07:00 UTC (GitHub often runs cron late)
+    # Two firings so the throwback posts at 08:00 UK on Thursday year-round
+    # (UTC cron doesn't follow DST); the gate lets exactly one proceed.
+    - cron: '0 7 * * 4'   # Thursday 08:00 UK while on BST (summer)
+    - cron: '0 8 * * 4'   # Thursday 08:00 UK while on GMT (winter)
   workflow_dispatch:
     inputs:
       window_days:
@@ -27,7 +30,32 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
+  # Proceed only on the cron firing that is 08:00 UK today (BST vs GMT), or on a
+  # manual run. Keys off the UK timezone, so a delayed run still evaluates right.
+  gate:
+    runs-on: ubuntu-latest
+    outputs:
+      go: ${{ steps.check.outputs.go }}
+    steps:
+      - id: check
+        run: |
+          if [ "${{ github.event_name }}" != "schedule" ]; then
+            echo "go=true" >> "$GITHUB_OUTPUT"; exit 0
+          fi
+          ZONE=$(TZ=Europe/London date +%Z)
+          SCHED='${{ github.event.schedule }}'
+          if { [ "$ZONE" = "BST" ] && [ "$SCHED" = "0 7 * * 4" ]; } || \
+             { [ "$ZONE" = "GMT" ] && [ "$SCHED" = "0 8 * * 4" ]; }; then
+            echo "8am UK ($ZONE) — proceeding."
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Not the 8am-UK firing (zone=$ZONE sched=$SCHED) — skipping."
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          fi
+
   throwback:
+    needs: gate
+    if: needs.gate.outputs.go == 'true'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
