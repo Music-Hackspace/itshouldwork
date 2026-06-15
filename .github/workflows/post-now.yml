@@ -1,0 +1,21 @@
+name: Post current pick to Bluesky
+
+# Manual utility: post the CURRENT photo.json pick to Bluesky on demand (e.g. to
+# re-share a pick or recover from a missed post). Does not run the scout or
+# change the site. The automatic daily post lives in daily-scout.yml.
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Post current pick to Bluesky
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: |
+          pip install --quiet Pillow
+          python3 agent/post-bluesky.py
