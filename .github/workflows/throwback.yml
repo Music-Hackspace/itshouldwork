@@ -1,0 +1,60 @@
+name: Weekly throwback
+
+# Posts a "Throwback Thursday" resurfacing of a past pick to Bluesky, in
+# addition to the daily fresh pick. Chooses at random among picks not shown in
+# the last ~30 days (see agent/post-throwback.py) and records the choice in
+# agent/throwback-log.json so the same post isn't repeated within a month.
+
+on:
+  schedule:
+    - cron: '0 7 * * 4'   # Thursday 07:00 UTC (GitHub often runs cron late)
+  workflow_dispatch:
+    inputs:
+      window_days:
+        description: "Dedup window in days (blank = 30). Set 0 to force a pick now."
+        required: false
+        default: ""
+      dry_run:
+        description: "Dry run: compute + log the choice but do not post"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: throwback
+  cancel-in-progress: false
+
+jobs:
+  throwback:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # full history so a rebase before push is clean
+
+      - name: Post throwback to Bluesky
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          THROWBACK_WINDOW_DAYS: ${{ github.event.inputs.window_days }}
+          THROWBACK_DRY_RUN: ${{ github.event.inputs.dry_run == 'true' && '1' || '' }}
+        run: |
+          pip install --quiet Pillow
+          python3 agent/post-throwback.py
+
+      - name: Commit throwback log
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          if [ -n "$(git status --porcelain agent/throwback-log.json)" ]; then
+            git config user.name "itshouldwork-scout"
+            git config user.email "actions@users.noreply.github.com"
+            git add agent/throwback-log.json
+            git commit -m "Record throwback post"
+            git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
