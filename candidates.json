@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-15",
+  "ns": "itshouldwork-org",
+  "candidates": [
+    {
+      "slot": "a",
+      "file": "candidate-a.jpg",
+      "tagline": "USA promised world-class World Cup transport. Scotland brought their own school buses.",
+      "story": "Scotland fans organised a fleet of 20 yellow school buses to reach Gillette Stadium for the 2026 World Cup after official FIFA shuttles charged $80–95 round-trip — versus the fans' self-organised rate of $38 — because the US public transit system offers no viable route to the venue.",
+      "why_funny": "Scotland returned to the World Cup for the first time in 28 years only to discover that the host nation's infrastructure is so inadequate that fan volunteers had to charter almost every school bus in Rhode Island to watch the match.",
+      "alt": "Three Scotland football fans in national-team jerseys smiling in front of a bright yellow 'SCHOOL BUS' — part of a fan-organised fleet of 20 school buses used to transport 1,100 Tartan Army supporters to Gillette Stadium for the 2026 World Cup",
+      "source": "https://www.wgbh.org/news/local/2026-06-14/were-having-a-party-inside-a-school-bus-with-scottish-soccer-fans-headed-to-the-world-cup",
+      "credit": "WGBH News",
+      "license": "editorial — © WGBH News",
+      "key": "2026-06-15-a"
+    },
+    {
+      "slot": "b",
+      "file": "candidate-b.jpg",
+      "tagline": "Fox had one job during the hydration break. It came back after the whistle.",
+      "story": "On day one of the 2026 World Cup, Fox Sports violated FIFA's own broadcast rules during the opening match: Fox cut to full-screen commercials during the mandatory hydration break — a break FIFA invented specifically to let broadcasters run ads — and then returned after play had already resumed, missing live action.",
+      "why_funny": "FIFA created a commercial break disguised as a player-safety measure specifically to let Fox make money, and Fox still couldn't follow the rules, managing to miss the very game it was paid to broadcast.",
+      "alt": "Mexico player in green #25 jersey drinking from a blue water bottle during the 2026 World Cup hydration break, with pink-uniformed FIFA staff and orange coolers in the background — the exact moment Fox Sports was showing commercials instead",
+      "source": "https://awfulannouncing.com/fox/botches-hydration-break-world-cup-returns-late-commercials.html",
+      "credit": "USA TODAY Sports / Awful Announcing",
+      "license": "editorial — © USA TODAY Sports",
+      "key": "2026-06-15-b"
+    }
+  ]
+}
