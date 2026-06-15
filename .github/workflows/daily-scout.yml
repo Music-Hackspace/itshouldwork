@@ -59,13 +59,42 @@ jobs:
         with:
           fetch-depth: 0   # full history so the agent can de-dupe recent picks
 
+      # Decide the previous day's vote BEFORE the scout overwrites candidates.json.
+      # Reads vote tallies, promotes the winner to photo.json (+ photo.<ext>), and
+      # announces it on Bluesky. No-op on the very first run (no candidates.json).
+      - name: Decide yesterday's winner
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: |
+          pip install --quiet Pillow
+          python3 agent/decide-winner.py
+
+      - name: Commit winner
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -e
+          if [ -n "$(git status --porcelain photo.json)" ]; then
+            DATE=$(python3 -c "import json;print(json.load(open('photo.json')).get('date',''))")
+            git config user.name "itshouldwork-scout"
+            git config user.email "actions@users.noreply.github.com"
+            git add photo.json photo.* 2>/dev/null || git add photo.json
+            git commit -m "Daily winner: vote result for ${DATE}"
+            git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          else
+            echo "No winner to commit (first run or no pending vote)."
+          fi
+
       - name: Run daily photo scout
         uses: anthropics/claude-code-action@v1
         with:
           claude_code_oauth_token: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           prompt: |
             Read the file agent/scout-prompt.md in this repository and follow its
-            instructions EXACTLY to publish today's photo of the day for itshouldwork.org.
+            instructions EXACTLY to publish TODAY'S TWO CANDIDATES for itshouldwork.org.
 
             You are running unattended in GitHub Actions: do NOT ask questions, make the
             best judgment call yourself, and complete every step end to end.
@@ -74,18 +103,20 @@ jobs:
               git config user.name "itshouldwork-scout"
               git config user.email "actions@users.noreply.github.com"
 
-            You MUST complete all of: discover a fresh, safe, funny design-flaw / unrealistic-
-            expectations news story (last 1-7 days); apply the safety filter (no injury, death,
-            illness, disaster, or human suffering); obtain a usable image (prefer a CC/Wikimedia
-            photo of the subject, else the article's og:image, crediting the publisher); download
-            it to the repo root as photo.jpg/.png/.webp and remove any other photo.*; verify it is
-            a valid image > 30KB; overwrite photo.json with correct metadata; do NOT reuse a
-            photo/subject/story from the last ~30 days (check git log + current photo.json); then:
-              git add -A && git commit -m "Daily photo: <short slug> (<today UTC date>)" && git push origin HEAD:main
+            You MUST complete all of: discover fresh, safe, funny design-flaw / unrealistic-
+            expectations news stories (last 1-7 days); apply the safety filter (no injury, death,
+            illness, disaster, or human suffering); pick the TWO best, each with a genuinely funny
+            image; obtain a usable image for each (prefer a CC/Wikimedia photo of the subject, else
+            the article's og:image, crediting the publisher); download them to the repo root as
+            candidate-a.<ext> and candidate-b.<ext>; verify each is a valid image > 30KB; write
+            candidates.json with both candidates' metadata (including a short `tagline` and the
+            vote `key` per the spec); do NOT reuse a photo/subject/story from the last ~30 days
+            (check git log, history.json, and photo.json); then:
+              git add -A && git commit -m "Daily candidates: <slug A> vs <slug B> (<today UTC date>)" && git push origin HEAD:main
 
-            Do NOT edit index.html, archive.html, history.json, sitemap.xml, or the archive/
-            folder — those are regenerated automatically by a later build step. Never publish
-            anything depicting harm to people.
+            Do NOT edit index.html, archive.html, history.json, sitemap.xml, the archive/ folder,
+            or photo.json / photo.* — those are managed automatically (photo.json holds the decided
+            winner). Never publish anything depicting harm to people.
           claude_args: '--model claude-sonnet-4-6 --allowedTools "Bash Read Write Edit Glob Grep WebSearch WebFetch"'
 
       - name: Rebuild archive + SEO
@@ -107,10 +138,10 @@ jobs:
             git push origin HEAD:main
           fi
 
-      - name: Post to Bluesky
+      - name: Post candidates to Bluesky
         env:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
         run: |
           pip install --quiet Pillow
-          python3 agent/post-bluesky.py
+          python3 agent/post-candidates.py

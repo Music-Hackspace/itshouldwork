@@ -43,7 +43,7 @@
       -webkit-font-smoothing: antialiased;
     }
     main {
-      max-width: 860px;
+      max-width: 980px;
       margin: 0 auto;
       padding: 22px 20px 72px;
       display: flex;
@@ -59,113 +59,82 @@
       align-items: baseline;
       margin-bottom: 20px;
     }
-    .site .brand {
-      font-weight: 700;
-      font-size: 15px;
-      letter-spacing: .01em;
-      color: #fff;
-      text-decoration: none;
-    }
-    .site .tagline {
-      margin: 3px 0 0;
-      font-size: 13px;
-      font-style: italic;
-      color: rgba(255, 255, 255, 0.5);
-    }
-    .site .nav {
-      font-size: 14px;
-      color: rgba(255, 255, 255, 0.6);
-      text-decoration: none;
-    }
+    .site .brand { font-weight: 700; font-size: 15px; letter-spacing: .01em; color: #fff; text-decoration: none; }
+    .site .tagline { margin: 3px 0 0; font-size: 13px; font-style: italic; color: rgba(255,255,255,0.5); }
+    .site .nav { font-size: 14px; color: rgba(255,255,255,0.6); text-decoration: none; }
     .site .nav:hover { color: #fff; }
 
-    /* Hero photo + explanation */
+    .post-date { margin: 0 0 4px; font-size: 12px; text-transform: uppercase; letter-spacing: .08em; color: rgba(255,255,255,0.45); }
+
+    /* Voting mode */
+    #vote { width: 100%; text-align: center; }
+    .vote-title { font-size: 22px; margin: 0 0 4px; font-weight: 700; color: #fff; }
+    .vote-sub { margin: 0 0 24px; font-size: 14px; color: rgba(255,255,255,0.55); }
+    .pair {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 26px;
+    }
+    .cand { display: flex; flex-direction: column; }
+    .cand-img {
+      aspect-ratio: 4 / 3;
+      background: #000;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 8px 30px rgba(0,0,0,0.45);
+    }
+    .cand-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .cand-tagline { font-size: 17px; line-height: 1.4; font-weight: 600; margin: 16px 0 8px; color: #f5f5f5; text-align: left; }
+    .cand-story { font-size: 14px; margin: 0 0 6px; color: rgba(255,255,255,0.7); text-align: left; }
+    .cand-why { font-size: 13px; margin: 0; color: rgba(255,255,255,0.5); text-align: left; }
+    .cand-credit { display: inline-block; margin-top: 8px; font-size: 11px; color: rgba(255,255,255,0.38); text-decoration: none; text-align: left; }
+    .cand-credit:hover { color: rgba(255,255,255,0.65); }
+    .vote-btn {
+      margin-top: 16px;
+      padding: 12px 18px;
+      border: 1px solid rgba(255,255,255,0.3);
+      border-radius: 999px;
+      background: transparent;
+      color: #fff;
+      font: inherit;
+      font-weight: 600;
+      font-size: 15px;
+      cursor: pointer;
+      transition: background .15s ease, border-color .15s ease, opacity .15s ease;
+    }
+    .vote-btn:hover:not(:disabled) { background: rgba(255,255,255,0.12); border-color: rgba(255,255,255,0.55); }
+    .vote-btn:disabled { cursor: default; opacity: 0.85; }
+    .vote-btn.chosen { background: #2e7d32; border-color: #2e7d32; }
+    .cand-count { margin-top: 10px; font-size: 13px; color: rgba(255,255,255,0.55); min-height: 18px; }
+    .vote-note { margin: 22px 0 0; font-size: 13px; color: rgba(255,255,255,0.45); }
+
+    /* Single-winner fallback */
     figure { margin: 0; width: 100%; text-align: center; }
-    #photo {
-      max-width: 100%;
-      max-height: 76vh;
-      object-fit: contain;
-      border-radius: 6px;
-      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
-    }
-    figcaption {
-      margin: 22px auto 0;
-      max-width: 640px;
-      text-align: left;
-    }
-    #post-date {
-      margin: 0 0 8px;
-      font-size: 12px;
-      text-transform: uppercase;
-      letter-spacing: .08em;
-      color: rgba(255, 255, 255, 0.45);
-    }
+    #photo { max-width: 100%; max-height: 76vh; object-fit: contain; border-radius: 6px; box-shadow: 0 10px 40px rgba(0,0,0,0.5); }
+    figcaption { margin: 22px auto 0; max-width: 640px; text-align: left; }
     #story { font-size: 19px; line-height: 1.5; margin: 0 0 10px; color: #f3f3f3; }
-    #why { font-size: 15px; margin: 0; color: rgba(255, 255, 255, 0.62); }
-    #credit {
-      display: inline-block;
-      margin-top: 14px;
-      font-size: 12px;
-      color: rgba(255, 255, 255, 0.4);
-      text-decoration: none;
-    }
-    #credit:hover { color: rgba(255, 255, 255, 0.7); }
+    #why { font-size: 15px; margin: 0; color: rgba(255,255,255,0.62); }
+    #credit { display: inline-block; margin-top: 14px; font-size: 12px; color: rgba(255,255,255,0.4); text-decoration: none; }
+    #credit:hover { color: rgba(255,255,255,0.7); }
 
     /* Archive strip */
-    .archive {
-      width: 100%;
-      margin-top: 56px;
-      border-top: 1px solid rgba(255, 255, 255, 0.1);
-      padding-top: 30px;
-      text-align: center;
-    }
-    .archive h2 {
-      font-size: 13px;
-      text-transform: uppercase;
-      letter-spacing: .09em;
-      color: rgba(255, 255, 255, 0.55);
-      margin: 0 0 18px;
-    }
-    #recent {
-      display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-      gap: 10px;
-    }
-    #recent a {
-      display: block;
-      aspect-ratio: 4 / 3;
-      border-radius: 4px;
-      overflow: hidden;
-      background: #1c1c1c;
-    }
-    #recent img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      display: block;
-      opacity: .85;
-      transition: transform .2s ease, opacity .2s ease;
-    }
+    .archive { width: 100%; margin-top: 56px; border-top: 1px solid rgba(255,255,255,0.1); padding-top: 30px; text-align: center; }
+    .archive h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .09em; color: rgba(255,255,255,0.55); margin: 0 0 18px; }
+    #recent { display: grid; grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); gap: 10px; }
+    #recent a { display: block; aspect-ratio: 4 / 3; border-radius: 4px; overflow: hidden; background: #1c1c1c; }
+    #recent img { width: 100%; height: 100%; object-fit: cover; display: block; opacity: .85; transition: transform .2s ease, opacity .2s ease; }
     #recent a:hover img { transform: scale(1.05); opacity: 1; }
-    .archive-btn {
-      display: inline-block;
-      margin-top: 24px;
-      padding: 11px 22px;
-      border: 1px solid rgba(255, 255, 255, 0.25);
-      border-radius: 999px;
-      color: #fff;
-      text-decoration: none;
-      font-size: 14px;
-      font-weight: 600;
-      transition: background .15s ease, border-color .15s ease;
-    }
-    .archive-btn:hover { background: rgba(255, 255, 255, 0.1); border-color: rgba(255, 255, 255, 0.5); }
+    .archive-btn { display: inline-block; margin-top: 24px; padding: 11px 22px; border: 1px solid rgba(255,255,255,0.25); border-radius: 999px; color: #fff; text-decoration: none; font-size: 14px; font-weight: 600; transition: background .15s ease, border-color .15s ease; }
+    .archive-btn:hover { background: rgba(255,255,255,0.1); border-color: rgba(255,255,255,0.5); }
 
-    @media (max-width: 520px) { #story { font-size: 17px; } }
+    @media (max-width: 600px) {
+      .pair { grid-template-columns: 1fr; gap: 34px; }
+      #story { font-size: 17px; }
+    }
   </style>
 </head>
 <body>
-  <!-- The daily scout agent updates photo.json + the image file. This page renders it. -->
+  <!-- The daily scout writes candidates.json (today's pair) + photo.json (last winner). -->
   <main>
     <header class="site">
       <div>
@@ -175,7 +144,17 @@
       <a class="nav" href="/archive.html">Archive →</a>
     </header>
 
-    <figure>
+    <!-- Voting mode: today's two candidates -->
+    <section id="vote" hidden>
+      <p id="vote-date" class="post-date"></p>
+      <h1 class="vote-title">Which one should make the cut?</h1>
+      <p class="vote-sub">Tap to vote. The winner joins the archive.</p>
+      <div class="pair" id="pair"></div>
+      <p class="vote-note">One vote per visitor. Today's winner is announced tomorrow.</p>
+    </section>
+
+    <!-- Fallback: the current/last winner as a single image -->
+    <figure id="single" hidden>
       <img id="photo" alt="">
       <figcaption>
         <p id="post-date"></p>
@@ -186,82 +165,156 @@
     </figure>
 
     <section class="archive">
-      <h2>More things that should work</h2>
+      <h2>Past winners</h2>
       <div id="recent"></div>
       <a class="archive-btn" href="/archive.html">Browse the full archive →</a>
     </section>
   </main>
 
   <script>
+    var COUNTER = 'https://abacus.jasoncameron.dev';
+
     function fmtDate(s) {
       if (!s) return '';
       var d = new Date(s + 'T00:00:00Z');
       return isNaN(d) ? s : d.toLocaleDateString(undefined,
         { year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
     }
+    function counterUrl(action, ns, key) {
+      return COUNTER + '/' + action + '/' + encodeURIComponent(ns) + '/' + encodeURIComponent(key);
+    }
+    function getCount(ns, key) {
+      return fetch(counterUrl('get', ns, key))
+        .then(function (r) { return r.ok ? r.json() : { value: 0 }; })
+        .then(function (j) { return (j && typeof j.value === 'number') ? j.value : 0; })
+        .catch(function () { return 0; });
+    }
+    function el(tag, cls, text) {
+      var n = document.createElement(tag);
+      if (cls) n.className = cls;
+      if (text != null) n.textContent = text;
+      return n;
+    }
 
-    // Cache-bust photo.json so the latest pick shows up without a hard refresh.
-    fetch('photo.json?t=' + Date.now())
-      .then(function (r) { return r.json(); })
-      .then(function (data) {
-        var img = document.getElementById('photo');
-        img.src = data.file + '?v=' + encodeURIComponent(data.date || '');
-        img.alt = data.alt || 'Photo of the day';
+    // ---- Voting mode -------------------------------------------------------
+    function renderVote(data) {
+      var ns = data.ns || 'itshouldwork-org';
+      var cands = (data.candidates || []).slice(0, 2);
+      if (cands.length < 2) return false;
 
-        // Date + explanation, shown below the image.
-        if (data.date) document.getElementById('post-date').textContent = fmtDate(data.date);
-        if (data.story) document.getElementById('story').textContent = data.story;
-        if (data.why_funny) document.getElementById('why').textContent = data.why_funny;
+      document.getElementById('vote-date').textContent = fmtDate(data.date);
+      var pair = document.getElementById('pair');
+      pair.innerHTML = '';
+      var votedKey = 'iswvote-' + data.date;
+      var alreadyVoted = !!localStorage.getItem(votedKey);
+      var buttons = [];
 
-        // Keep the meta description in sync for users and JS-capable crawlers
-        // (static tags above cover non-JS crawlers / social scrapers).
-        if (data.story) {
-          var d = (data.story + ' ' + (data.why_funny || '')).trim();
-          var m = document.querySelector('meta[name="description"]');
-          if (m) m.setAttribute('content', d);
-        }
+      cands.forEach(function (c) {
+        var card = el('div', 'cand');
 
-        // Source credit, linked to the original when available.
-        var credit = document.getElementById('credit');
-        var label = data.credit || '';
-        if (data.license) label += (label ? ' · ' : '') + data.license;
+        var imgWrap = el('div', 'cand-img');
+        var img = el('img'); img.loading = 'lazy'; img.alt = c.alt || ''; img.src = c.file;
+        imgWrap.appendChild(img);
+        card.appendChild(imgWrap);
+
+        if (c.tagline) card.appendChild(el('p', 'cand-tagline', c.tagline));
+        if (c.story) card.appendChild(el('p', 'cand-story', c.story));
+        if (c.why_funny) card.appendChild(el('p', 'cand-why', c.why_funny));
+
+        var btn = el('button', 'vote-btn', 'Vote');
+        btn.type = 'button';
+        var count = el('div', 'cand-count', '');
+        card.appendChild(btn);
+        card.appendChild(count);
+
+        var label = c.credit || '';
+        if (c.license) label += (label ? ' · ' : '') + c.license;
         if (label) {
-          credit.textContent = 'Source: ' + label;
-          if (data.source) credit.href = data.source; else credit.removeAttribute('href');
-          credit.hidden = false;
+          var cr = el('a', 'cand-credit', 'Source: ' + label);
+          if (c.source) { cr.href = c.source; cr.target = '_blank'; cr.rel = 'noopener noreferrer'; }
+          card.appendChild(cr);
         }
 
-        loadRecent(data.date);
-      })
-      .catch(function () {
-        document.getElementById('photo').src = 'https://picsum.photos/1200/800';
+        // show current count
+        getCount(ns, c.key).then(function (n) { count.textContent = n + (n === 1 ? ' vote' : ' votes'); });
+
+        btn.addEventListener('click', function () {
+          if (localStorage.getItem(votedKey)) return;
+          localStorage.setItem(votedKey, c.slot);
+          buttons.forEach(function (b) { b.disabled = true; });
+          btn.classList.add('chosen');
+          btn.textContent = 'Voted ✓';
+          if (typeof gtag === 'function') gtag('event', 'vote', { slot: c.slot, date: data.date });
+          fetch(counterUrl('hit', ns, c.key))
+            .then(function (r) { return r.json(); })
+            .then(function (j) { count.textContent = (j.value) + (j.value === 1 ? ' vote' : ' votes'); })
+            .catch(function () {});
+        });
+
+        buttons.push(btn);
+        pair.appendChild(card);
       });
 
-    // Recent picks strip — surfaces the archive without leaving the page.
-    function loadRecent(currentDate) {
-      fetch('history.json?t=' + Date.now())
-        .then(function (r) { return r.json(); })
-        .then(function (h) {
-          var photos = (h.photos || [])
-            .filter(function (p) { return p.file && p.date !== currentDate; })
-            .slice(0, 8);
-          var recent = document.getElementById('recent');
-          recent.innerHTML = '';
-          photos.forEach(function (p) {
-            var a = document.createElement('a');
-            a.href = '/archive.html';
-            a.title = p.alt || '';
-            var im = document.createElement('img');
-            im.src = p.file;
-            im.alt = p.alt || '';
-            im.loading = 'lazy';
-            a.appendChild(im);
-            recent.appendChild(a);
-          });
-          if (!photos.length) document.querySelector('.archive').style.display = 'none';
-        })
-        .catch(function () { /* archive strip is optional */ });
+      if (alreadyVoted) {
+        var chosen = localStorage.getItem(votedKey);
+        buttons.forEach(function (b) { b.disabled = true; });
+        cands.forEach(function (c, i) {
+          if (c.slot === chosen) { buttons[i].classList.add('chosen'); buttons[i].textContent = 'Voted ✓'; }
+        });
+      }
+
+      document.getElementById('vote').hidden = false;
+      return true;
     }
+
+    // ---- Single-winner fallback -------------------------------------------
+    function renderSingle(data) {
+      var fig = document.getElementById('single');
+      var img = document.getElementById('photo');
+      img.src = data.file + '?v=' + encodeURIComponent(data.date || '');
+      img.alt = data.alt || 'Photo of the day';
+      if (data.date) document.getElementById('post-date').textContent = fmtDate(data.date);
+      if (data.story) document.getElementById('story').textContent = data.story;
+      if (data.why_funny) document.getElementById('why').textContent = data.why_funny;
+      var credit = document.getElementById('credit');
+      var label = data.credit || '';
+      if (data.license) label += (label ? ' · ' : '') + data.license;
+      if (label) {
+        credit.textContent = 'Source: ' + label;
+        if (data.source) credit.href = data.source; else credit.removeAttribute('href');
+        credit.hidden = false;
+      }
+      fig.hidden = false;
+    }
+
+    // ---- Boot: prefer today's vote, else show the last winner -------------
+    fetch('candidates.json?t=' + Date.now())
+      .then(function (r) { if (!r.ok) throw 0; return r.json(); })
+      .then(function (data) {
+        if (!renderVote(data)) throw 0;
+      })
+      .catch(function () {
+        fetch('photo.json?t=' + Date.now())
+          .then(function (r) { return r.json(); })
+          .then(renderSingle)
+          .catch(function () { document.getElementById('photo').src = 'https://picsum.photos/1200/800'; document.getElementById('single').hidden = false; });
+      });
+
+    // Recent winners strip from the archive.
+    fetch('history.json?t=' + Date.now())
+      .then(function (r) { return r.json(); })
+      .then(function (h) {
+        var photos = (h.photos || []).filter(function (p) { return p.file; }).slice(0, 8);
+        var recent = document.getElementById('recent');
+        recent.innerHTML = '';
+        photos.forEach(function (p) {
+          var a = el('a'); a.href = '/archive.html'; a.title = p.alt || '';
+          var im = el('img'); im.src = p.file; im.alt = p.alt || ''; im.loading = 'lazy';
+          a.appendChild(im); recent.appendChild(a);
+        });
+        if (!photos.length) document.querySelector('.archive').style.display = 'none';
+      })
+      .catch(function () {});
   </script>
 </body>
 </html>
