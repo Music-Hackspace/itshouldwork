@@ -5,17 +5,26 @@ name: Test Bluesky post
 # not create a new daily pick. (The real daily post happens in daily-scout.yml.)
 
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      delete_all:
+        description: "Delete ALL Bluesky posts (test cleanup) instead of posting"
+        type: boolean
+        default: false
 
 jobs:
   test-post:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Post current pick to Bluesky
+      - name: Post or clean up Bluesky
         env:
           BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
         run: |
           pip install --quiet Pillow
-          python3 agent/post-bluesky.py
+          if [ "${{ github.event.inputs.delete_all }}" = "true" ]; then
+            python3 agent/cleanup-bluesky.py
+          else
+            python3 agent/post-bluesky.py
+          fi
