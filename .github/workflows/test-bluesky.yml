@@ -1,0 +1,19 @@
+name: Test Bluesky post
+
+# Manual-only: posts the CURRENT photo.json pick to Bluesky without running the
+# scout. Use to verify Bluesky credentials/wiring. Safe to run anytime; it does
+# not create a new daily pick. (The real daily post happens in daily-scout.yml.)
+
+on:
+  workflow_dispatch: {}
+
+jobs:
+  test-post:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Post current pick to Bluesky
+        env:
+          BLUESKY_HANDLE: ${{ secrets.BLUESKY_HANDLE }}
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: python3 agent/post-bluesky.py
