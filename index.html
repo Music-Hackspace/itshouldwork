@@ -34,51 +34,147 @@
   </script>
 
   <style>
-    html, body {
-      margin: 0;
-      height: 100%;
-      background: #111;
-    }
+    :root { color-scheme: dark; }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; background: #111; }
     body {
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      color: #eaeaea;
+      font: 16px/1.6 -apple-system, system-ui, "Segoe UI", Roboto, sans-serif;
+      -webkit-font-smoothing: antialiased;
     }
-    img {
-      max-width: 90vw;
-      max-height: 90vh;
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 22px 20px 72px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    /* Header / brand */
+    .site {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 20px;
+    }
+    .site .brand {
+      font-weight: 700;
+      font-size: 15px;
+      letter-spacing: .01em;
+      color: #fff;
+      text-decoration: none;
+    }
+    .site .nav {
+      font-size: 14px;
+      color: rgba(255, 255, 255, 0.6);
+      text-decoration: none;
+    }
+    .site .nav:hover { color: #fff; }
+
+    /* Hero photo + explanation */
+    figure { margin: 0; width: 100%; text-align: center; }
+    #photo {
+      max-width: 100%;
+      max-height: 76vh;
       object-fit: contain;
+      border-radius: 6px;
       box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
     }
-    /* Small, unobtrusive source credit in the corner. */
+    figcaption {
+      margin: 22px auto 0;
+      max-width: 640px;
+      text-align: left;
+    }
+    #story { font-size: 19px; line-height: 1.5; margin: 0 0 10px; color: #f3f3f3; }
+    #why { font-size: 15px; margin: 0; color: rgba(255, 255, 255, 0.62); }
     #credit {
-      position: fixed;
-      right: 10px;
-      bottom: 8px;
-      font: 11px/1.4 -apple-system, system-ui, sans-serif;
-      color: rgba(255, 255, 255, 0.4);
-      text-decoration: none;
-      max-width: 60vw;
-      text-align: right;
-    }
-    #credit:hover { color: rgba(255, 255, 255, 0.75); }
-    /* Link to the archive of past photos. */
-    #archive-link {
-      position: fixed;
-      left: 10px;
-      bottom: 8px;
-      font: 11px/1.4 -apple-system, system-ui, sans-serif;
+      display: inline-block;
+      margin-top: 14px;
+      font-size: 12px;
       color: rgba(255, 255, 255, 0.4);
       text-decoration: none;
     }
-    #archive-link:hover { color: rgba(255, 255, 255, 0.75); }
+    #credit:hover { color: rgba(255, 255, 255, 0.7); }
+
+    /* Archive strip */
+    .archive {
+      width: 100%;
+      margin-top: 56px;
+      border-top: 1px solid rgba(255, 255, 255, 0.1);
+      padding-top: 30px;
+      text-align: center;
+    }
+    .archive h2 {
+      font-size: 13px;
+      text-transform: uppercase;
+      letter-spacing: .09em;
+      color: rgba(255, 255, 255, 0.55);
+      margin: 0 0 18px;
+    }
+    #recent {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+      gap: 10px;
+    }
+    #recent a {
+      display: block;
+      aspect-ratio: 4 / 3;
+      border-radius: 4px;
+      overflow: hidden;
+      background: #1c1c1c;
+    }
+    #recent img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+      opacity: .85;
+      transition: transform .2s ease, opacity .2s ease;
+    }
+    #recent a:hover img { transform: scale(1.05); opacity: 1; }
+    .archive-btn {
+      display: inline-block;
+      margin-top: 24px;
+      padding: 11px 22px;
+      border: 1px solid rgba(255, 255, 255, 0.25);
+      border-radius: 999px;
+      color: #fff;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 600;
+      transition: background .15s ease, border-color .15s ease;
+    }
+    .archive-btn:hover { background: rgba(255, 255, 255, 0.1); border-color: rgba(255, 255, 255, 0.5); }
+
+    @media (max-width: 520px) { #story { font-size: 17px; } }
   </style>
 </head>
 <body>
-  <!-- The daily scout agent updates photo.json + the image file. This page just renders it. -->
-  <img id="photo" alt="">
-  <a id="credit" href="#" target="_blank" rel="noopener noreferrer" hidden></a>
-  <a id="archive-link" href="/archive.html">all photos →</a>
+  <!-- The daily scout agent updates photo.json + the image file. This page renders it. -->
+  <main>
+    <header class="site">
+      <a class="brand" href="/">It Should Work 🛠️</a>
+      <a class="nav" href="/archive.html">Archive →</a>
+    </header>
+
+    <figure>
+      <img id="photo" alt="">
+      <figcaption>
+        <p id="story"></p>
+        <p id="why"></p>
+        <a id="credit" href="#" target="_blank" rel="noopener noreferrer" hidden></a>
+      </figcaption>
+    </figure>
+
+    <section class="archive">
+      <h2>More things that should work</h2>
+      <div id="recent"></div>
+      <a class="archive-btn" href="/archive.html">Browse the full archive →</a>
+    </section>
+  </main>
+
   <script>
     // Cache-bust photo.json so the latest pick shows up without a hard refresh.
     fetch('photo.json?t=' + Date.now())
@@ -88,7 +184,11 @@
         img.src = data.file + '?v=' + encodeURIComponent(data.date || '');
         img.alt = data.alt || 'Photo of the day';
 
-        // Keep the description in sync for users and JS-capable crawlers
+        // Explanation, shown below the image.
+        if (data.story) document.getElementById('story').textContent = data.story;
+        if (data.why_funny) document.getElementById('why').textContent = data.why_funny;
+
+        // Keep the meta description in sync for users and JS-capable crawlers
         // (static tags above cover non-JS crawlers / social scrapers).
         if (data.story) {
           var d = (data.story + ' ' + (data.why_funny || '')).trim();
@@ -96,19 +196,47 @@
           if (m) m.setAttribute('content', d);
         }
 
-        // Tiny corner credit, linked to the source when available.
+        // Source credit, linked to the original when available.
         var credit = document.getElementById('credit');
         var label = data.credit || '';
         if (data.license) label += (label ? ' · ' : '') + data.license;
         if (label) {
-          credit.textContent = label;
+          credit.textContent = 'Source: ' + label;
           if (data.source) credit.href = data.source; else credit.removeAttribute('href');
           credit.hidden = false;
         }
+
+        loadRecent(data.date);
       })
       .catch(function () {
         document.getElementById('photo').src = 'https://picsum.photos/1200/800';
       });
+
+    // Recent picks strip — surfaces the archive without leaving the page.
+    function loadRecent(currentDate) {
+      fetch('history.json?t=' + Date.now())
+        .then(function (r) { return r.json(); })
+        .then(function (h) {
+          var photos = (h.photos || [])
+            .filter(function (p) { return p.file && p.date !== currentDate; })
+            .slice(0, 8);
+          var recent = document.getElementById('recent');
+          recent.innerHTML = '';
+          photos.forEach(function (p) {
+            var a = document.createElement('a');
+            a.href = '/archive.html';
+            a.title = p.alt || '';
+            var im = document.createElement('img');
+            im.src = p.file;
+            im.alt = p.alt || '';
+            im.loading = 'lazy';
+            a.appendChild(im);
+            recent.appendChild(a);
+          });
+          if (!photos.length) document.querySelector('.archive').style.display = 'none';
+        })
+        .catch(function () { /* archive strip is optional */ });
+    }
   </script>
 </body>
 </html>
