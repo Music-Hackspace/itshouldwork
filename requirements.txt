@@ -1,0 +1,2 @@
+# No third-party dependencies — server.py uses only the Python standard library.
+# This file's presence tells Heroku to use the Python buildpack.
