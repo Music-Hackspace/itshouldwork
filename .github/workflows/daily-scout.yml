@@ -79,10 +79,13 @@ jobs:
             DATE=$(python3 -c "import json;print(json.load(open('photo.json')).get('date',''))")
             git config user.name "itshouldwork-scout"
             git config user.email "actions@users.noreply.github.com"
-            git add photo.json photo.* 2>/dev/null || git add photo.json
+            # -A so a winner with a different extension also stages the deletion
+            # of the previous photo.<ext> (the photo type alternates jpg/png);
+            # a bare glob would leave that deletion unstaged and break the rebase.
+            git add -A
             git commit -m "Daily winner: vote result for ${DATE}"
             git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-            git pull --rebase origin main
+            git pull --rebase --autostash origin main
             git push origin HEAD:main
           else
             echo "No winner to commit (first run or no pending vote)."
@@ -128,7 +131,7 @@ jobs:
           # for a plain git push, so re-point origin at a token-authenticated URL.
           # (Pushes via the built-in GITHUB_TOKEN don't re-trigger workflows, so no loop.)
           git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          git pull --rebase origin main
+          git pull --rebase --autostash origin main
           python3 agent/build-site.py
           if [ -n "$(git status --porcelain)" ]; then
             git config user.name "itshouldwork-scout"
