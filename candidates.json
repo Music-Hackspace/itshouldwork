@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-15",
+  "date": "2026-06-17",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "USA promised world-class World Cup transport. Scotland brought their own school buses.",
-      "story": "Scotland fans organised a fleet of 20 yellow school buses to reach Gillette Stadium for the 2026 World Cup after official FIFA shuttles charged $80–95 round-trip — versus the fans' self-organised rate of $38 — because the US public transit system offers no viable route to the venue.",
-      "why_funny": "Scotland returned to the World Cup for the first time in 28 years only to discover that the host nation's infrastructure is so inadequate that fan volunteers had to charter almost every school bus in Rhode Island to watch the match.",
-      "alt": "Three Scotland football fans in national-team jerseys smiling in front of a bright yellow 'SCHOOL BUS' — part of a fan-organised fleet of 20 school buses used to transport 1,100 Tartan Army supporters to Gillette Stadium for the 2026 World Cup",
-      "source": "https://www.wgbh.org/news/local/2026-06-14/were-having-a-party-inside-a-school-bus-with-scottish-soccer-fans-headed-to-the-world-cup",
-      "credit": "WGBH News",
-      "license": "editorial — © WGBH News",
-      "key": "2026-06-15-a"
+      "tagline": "FIFA told Levi's to hide its logo. The tarp made it more famous.",
+      "story": "FIFA's 'clean venue' rule forced Levi's Stadium in Santa Clara to wrap its iconic batwing logo in a white tarp for the World Cup — but the tarp preserved the logo's distinctive silhouette so perfectly that the covered version went viral worldwide, becoming more recognisable than the original.",
+      "why_funny": "A rule designed to erase a brand from billions of TV screens instead turned that brand into the most-discussed logo at the tournament — Levi's even swapped their Instagram profile picture to the covered version.",
+      "alt": "The exterior of Levi's Stadium in Santa Clara showing the iconic red batwing logo tightly wrapped in a white tarp, the distinctive two-wing silhouette still clearly visible through the covering despite FIFA's clean-venue rules",
+      "source": "https://wwd.com/sourcing-journal/sj-denim/levis-viral-fifa-stadium-branding-controversy-world-cup-1239011017/",
+      "credit": "Getty Images / WWD",
+      "license": "editorial — © Getty Images",
+      "key": "2026-06-17-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Fox had one job during the hydration break. It came back after the whistle.",
-      "story": "On day one of the 2026 World Cup, Fox Sports violated FIFA's own broadcast rules during the opening match: Fox cut to full-screen commercials during the mandatory hydration break — a break FIFA invented specifically to let broadcasters run ads — and then returned after play had already resumed, missing live action.",
-      "why_funny": "FIFA created a commercial break disguised as a player-safety measure specifically to let Fox make money, and Fox still couldn't follow the rules, managing to miss the very game it was paid to broadcast.",
-      "alt": "Mexico player in green #25 jersey drinking from a blue water bottle during the 2026 World Cup hydration break, with pink-uniformed FIFA staff and orange coolers in the background — the exact moment Fox Sports was showing commercials instead",
-      "source": "https://awfulannouncing.com/fox/botches-hydration-break-world-cup-returns-late-commercials.html",
-      "credit": "USA TODAY Sports / Awful Announcing",
-      "license": "editorial — © USA TODAY Sports",
-      "key": "2026-06-15-b"
+      "tagline": "Mexico City hung a chandelier in the metro. The drains still flood.",
+      "story": "Mexico City installed a chandelier and Victorian wall lamps in its Hidalgo metro station for the World Cup, triggering a viral wave of mocking memes as residents arrived in ball gowns, Napoleon costumes and Beauty and the Beast outfits — while critics pointed out the city's underpasses still flood and its transit infrastructure still crumbles.",
+      "why_funny": "The city dressed up its broken metro with a chandelier to impress the world, so residents helpfully dressed up too.",
+      "alt": "Commuters walking through Mexico City's Hidalgo metro station beneath a newly installed chandelier and rows of decorative Victorian-style wall lamps added for the 2026 World Cup, the ornate lighting incongruous against the worn station infrastructure",
+      "source": "https://www.pbs.org/newshour/world/mexico-city-installed-a-chandelier-in-its-metro-for-the-world-cup-cue-the-mocking-memes",
+      "credit": "AP Photo / PBS NewsHour",
+      "license": "editorial — © Associated Press",
+      "key": "2026-06-17-b"
     }
   ]
 }
