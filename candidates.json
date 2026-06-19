@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-18",
+  "date": "2026-06-19",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "FIFA approved a World Cup training pitch next to a rattlesnake zone",
-      "story": "Switzerland's FIFA-approved 2026 World Cup training base at San Diego Jewish Academy required the Swiss Football Association to mark a red 'SNAKE AREA' on their official facility map — because four species of venomous rattlesnakes inhabit the California canyon behind the pitch.",
-      "why_funny": "FIFA planned a World Cup across North America without checking whether 'no venomous wildlife on the training pitch' was a reasonable expectation, forcing Switzerland to publish an official snake-exclusion zone as part of their training-camp layout.",
-      "alt": "Aerial photo of Switzerland's World Cup training pitch in San Diego with a bold red overlay on the canyon hillside behind it reading 'SNAKE AREA' in large white text",
-      "source": "https://www.swissinfo.ch/eng/various/world-cup-switzerland-training-camp-infested-with-snakes/91551495",
-      "credit": "SwissInfo.ch",
-      "license": "editorial — © SwissInfo.ch",
-      "key": "2026-06-18-a"
+      "tagline": "Bristol renamed its SS Great Britain museum. The ship still says Great Britain.",
+      "story": "Bristol's 'Brunel's SS Great Britain' museum site has been rebranded as 'Bristol Dockyards' — stripping 'Great Britain' from the organisational name of a museum whose entire centrepiece is a ship still officially called SS Great Britain.",
+      "why_funny": "The museum removed the most recognisable words from its own brand name, but the enormous iron ship in the middle of it still shouts 'GREAT BRITAIN!' at every visitor.",
+      "alt": "The bow of the SS Great Britain in its Bristol dry dock, with tall masts and signal flags above and a banner reading 'GREAT BRITAIN!' visible at the waterline",
+      "source": "https://www.museumsassociation.org/museums-journal/news/2026/06/brunels-ss-great-britain-site-renamed-as-new-museum-prepares-to-launch/",
+      "credit": "mattbuck / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "key": "2026-06-19-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Port authority builds world's largest soccer ball nobody can kick",
-      "story": "Massachusetts Port Authority erected a 47.9-foot inflatable soccer ball at East Boston's Piers Park II — breaking the Guinness World Record — covered in corporate sponsor logos and available to view for four days as the authority's contribution to World Cup 2026 promotion.",
-      "why_funny": "A port authority, not a football federation, responded to the World Cup by building a soccer ball the size of a four-storey building that you are not allowed to kick, covered it in sponsor logos, and put it next to the harbour.",
-      "alt": "A person stands gazing up at a massive blue inflatable soccer ball plastered with corporate sponsor logos, with the Boston city skyline visible in the background and a banner reading 'WORLD'S LARGEST SOCCER BALL' at the base",
-      "source": "https://www.boston.com/news/world-cup/2026/06/14/massport-officially-breaks-world-record-for-largest-soccer-ball/",
-      "credit": "Craig Walker / The Boston Globe",
-      "license": "editorial — © The Boston Globe",
-      "key": "2026-06-18-b"
+      "tagline": "7 years of FIFA pitch research. France wore flat shoes anyway.",
+      "story": "After seven years of engineering research, FIFA installed Tahoma 31 Bermudagrass at MetLife Stadium — the World Cup Final venue — but France coach Deschamps said it 'might be cement below the grass,' midfielder Rabiot called it 'more like an artificial surface,' and Brazil's Vinicius said it dries out so fast the ball slows mid-game.",
+      "why_funny": "Seven years and millions of dollars of sports-science turf research produced a field the world's best players refuse to wear studs on.",
+      "alt": "France's Kylian Mbappé stretching to reach the ball on the bright green Bermuda grass pitch at MetLife Stadium during the France vs Senegal World Cup Group I match on 16 June 2026",
+      "source": "https://www.amny.com/sports/world-cup-metlife-stadium-deschamps-6-16-26/",
+      "credit": "Reuters / amNewYork",
+      "license": "editorial — © Reuters",
+      "key": "2026-06-19-b"
     }
   ]
 }
