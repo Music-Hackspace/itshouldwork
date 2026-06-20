@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-19",
+  "date": "2026-06-20",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Bristol renamed its SS Great Britain museum. The ship still says Great Britain.",
-      "story": "Bristol's 'Brunel's SS Great Britain' museum site has been rebranded as 'Bristol Dockyards' — stripping 'Great Britain' from the organisational name of a museum whose entire centrepiece is a ship still officially called SS Great Britain.",
-      "why_funny": "The museum removed the most recognisable words from its own brand name, but the enormous iron ship in the middle of it still shouts 'GREAT BRITAIN!' at every visitor.",
-      "alt": "The bow of the SS Great Britain in its Bristol dry dock, with tall masts and signal flags above and a banner reading 'GREAT BRITAIN!' visible at the waterline",
-      "source": "https://www.museumsassociation.org/museums-journal/news/2026/06/brunels-ss-great-britain-site-renamed-as-new-museum-prepares-to-launch/",
-      "credit": "mattbuck / Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "key": "2026-06-19-a"
+      "tagline": "Ferrari's first EV: looks like a Nissan Leaf, costs $640,000",
+      "story": "Ferrari unveiled the Luce, its first all-electric car, and fans immediately called it a sci-fi bubble sedan with no Ferrari DNA — comparisons included Nissan Leaf and AI-generated concepts — causing Ferrari's stock to drop 8% the next day.",
+      "why_funny": "The world's most emotionally charged sports car brand built decades of mystique around roaring engines, then debuted a near-silent bubble sedan at the price of a Manhattan studio apartment.",
+      "alt": "The Ferrari Luce electric car, a sleek minimalist four-door liftback sedan, shown from a front three-quarter angle against a dramatic backdrop",
+      "source": "https://elitetraveler.com/cars-jets-and-yachts/ferrari-luce-backlash-future-of-electric-supercars",
+      "credit": "Elite Traveler",
+      "license": "editorial — © Elite Traveler",
+      "key": "2026-06-20-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "7 years of FIFA pitch research. France wore flat shoes anyway.",
-      "story": "After seven years of engineering research, FIFA installed Tahoma 31 Bermudagrass at MetLife Stadium — the World Cup Final venue — but France coach Deschamps said it 'might be cement below the grass,' midfielder Rabiot called it 'more like an artificial surface,' and Brazil's Vinicius said it dries out so fast the ball slows mid-game.",
-      "why_funny": "Seven years and millions of dollars of sports-science turf research produced a field the world's best players refuse to wear studs on.",
-      "alt": "France's Kylian Mbappé stretching to reach the ball on the bright green Bermuda grass pitch at MetLife Stadium during the France vs Senegal World Cup Group I match on 16 June 2026",
-      "source": "https://www.amny.com/sports/world-cup-metlife-stadium-deschamps-6-16-26/",
-      "credit": "Reuters / amNewYork",
-      "license": "editorial — © Reuters",
-      "key": "2026-06-19-b"
+      "tagline": "DreamWorks redesigned Shrek so badly they turned off the comments",
+      "story": "The Shrek 5 trailer dropped June 16, 2026, revealing redesigned characters with softer contours and Disney-large eyes — sparking such fierce backlash (#NotMyShrek, comparisons to 'AI slop') that Universal disabled YouTube comments entirely.",
+      "why_funny": "A studio spent years redesigning an ogre who was already perfectly ugly, made him look like a knockoff Disney sidekick, then silenced everyone who noticed.",
+      "alt": "New Shrek 5 animation still showing Shrek with a stunned expression, featuring the controversial redesigned softer, rounder character style with larger eyes",
+      "source": "https://screenrant.com/shrek-5-trailer-reactions/",
+      "credit": "DreamWorks Animation / Screen Rant",
+      "license": "editorial — © DreamWorks Animation",
+      "key": "2026-06-20-b"
     }
   ]
 }
