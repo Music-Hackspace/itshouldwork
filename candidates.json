@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-21",
+  "date": "2026-06-22",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "New grass, new sprinklers — the World Cup pitch nailed 50% of that plan",
-      "story": "During halftime of Norway vs Iraq at Gillette Stadium (June 16, 2026), a sprinkler erupted in Iraq's penalty box and flooded the pitch; ground crew rushed in with buckets while Norway's coach simultaneously complained the grass was 'tinder dry.'",
-      "why_funny": "The irrigation system at a FIFA World Cup venue managed to both drown one end of the pitch and leave the other parched — at the same time.",
-      "alt": "Ground crew workers with buckets and tools mopping water from the waterlogged Gillette Stadium pitch after a sprinkler flooded Iraq's penalty box during halftime of the Norway vs Iraq FIFA World Cup 2026 match",
-      "source": "https://ground.news/article/sprinkler-malfunctions-at-halftime-of-iraq-norway-world-cup-match-at-gillette-stadium",
-      "credit": "AP / bastillepost.com",
-      "license": "editorial — © AP",
-      "key": "2026-06-21-a"
+      "file": "candidate-a.png",
+      "tagline": "The stadium that needed 18 pink grow lights just to have grass",
+      "story": "AT&T Stadium — a billion-dollar indoor NFL dome in Arlington, Texas — installed 18 pink LED grow lights suspended from the ceiling and shipped Colorado-grown grass 800 miles to North Texas, raising the entire playing surface 24 inches above the concrete floor, all because FIFA insists on natural turf for World Cup matches.",
+      "why_funny": "They built a magnificent roofed stadium and then had to construct a full-scale greenhouse inside it to host a sport that normally happens outdoors.",
+      "alt": "AT&T Stadium interior entirely bathed in pink-purple glow from 18 LED grow lights suspended above a green grass soccer field",
+      "source": "https://www.cbsnews.com/texas/news/att-stadium-world-cup-2026-new-grass-pitch-transformation/",
+      "credit": "CBS News Texas (KTVT / CBS DFW)",
+      "license": "editorial — © CBS News Texas",
+      "key": "2026-06-22-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Lululemon's China anniversary: yoga, the Great Wall, and one very Japanese drum",
-      "story": "Lululemon's 10th anniversary China event at the Great Wall used a Japanese taiko drum instead of a Chinese dagu drum — sparking 50 million Weibo views and a public apology on June 17, 2026.",
-      "why_funny": "A global brand spent years in China without learning to distinguish a Japanese drum from a Chinese one — then put it front-and-centre at the Great Wall.",
-      "alt": "Celebrity ambassador Zhu Yilong standing beside a large Japanese taiko drum on the Great Wall of China during Lululemon's 10th anniversary yoga event, the wrong instrument that sparked mass backlash",
-      "source": "https://www.scmp.com/news/people-culture/trending-china/article/3357401/lululemon-apologises-china-event-actor-beating-japanese-drum-great-wall",
-      "credit": "South China Morning Post",
-      "license": "editorial — © South China Morning Post",
-      "key": "2026-06-21-b"
+      "tagline": "When your rebrand is so bad the vandals fix it for free",
+      "story": "UK retailer WH Smith — a 230-year high street institution — was rebranded to 'TGJones' by its new owners in 2025; the name proved so universally despised that someone spray-painted 'WHSmith' back over the new sign in Richmond, and it remained there for over a week while 150 stores face closure.",
+      "why_funny": "Three-quarters of British people hate the new name so much that actual citizens took to spray paint to undo the rebrand themselves.",
+      "alt": "Blue TGJones store sign with 'WHSmith' spray-painted in white graffiti over the logo on a UK high street, next to a Post Office",
+      "source": "https://richmond.nub.news/news/local-news/defacement-at-tgjones-richmond-sparks-online-whsmith-debate-298787",
+      "credit": "Richmond Nub News / César Medina",
+      "license": "editorial — © Richmond Nub News",
+      "key": "2026-06-22-b"
     }
   ]
 }
