@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-22",
+  "date": "2026-06-23",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.png",
-      "tagline": "The stadium that needed 18 pink grow lights just to have grass",
-      "story": "AT&T Stadium — a billion-dollar indoor NFL dome in Arlington, Texas — installed 18 pink LED grow lights suspended from the ceiling and shipped Colorado-grown grass 800 miles to North Texas, raising the entire playing surface 24 inches above the concrete floor, all because FIFA insists on natural turf for World Cup matches.",
-      "why_funny": "They built a magnificent roofed stadium and then had to construct a full-scale greenhouse inside it to host a sport that normally happens outdoors.",
-      "alt": "AT&T Stadium interior entirely bathed in pink-purple glow from 18 LED grow lights suspended above a green grass soccer field",
-      "source": "https://www.cbsnews.com/texas/news/att-stadium-world-cup-2026-new-grass-pitch-transformation/",
-      "credit": "CBS News Texas (KTVT / CBS DFW)",
-      "license": "editorial — © CBS News Texas",
-      "key": "2026-06-22-a"
+      "file": "candidate-a.jpg",
+      "tagline": "The official World Cup ball: confusing NASA and goalkeepers simultaneously",
+      "story": "Adidas designed the Trionda with a 500Hz sensor chip, deep seams, and fluid geometry — producing a ball so aerodynamically unpredictable that it has caused 19 goalkeeper errors in the tournament's opening weeks (nearly the same as all of Qatar 2022), while NASA simultaneously took one to the ISS to study why it behaves so oddly.",
+      "why_funny": "Adidas over-engineered a round ball so thoroughly that it baffled both the world's best goalkeepers and the world's best physicists at the exact same time.",
+      "alt": "Four NASA astronauts floating in zero gravity on the International Space Station, kicking and passing the official FIFA World Cup 2026 Trionda ball between them, with national flags visible on the wall behind",
+      "source": "https://gulfnews.com/sport/football/world-cup/2026-fifa-world-cup-ball-heads-to-space-as-nasa-studies-football-in-zero-gravity-1.500581577",
+      "credit": "Gulf News / NASA",
+      "license": "editorial — © Gulf News (NASA imagery not copyrighted)",
+      "key": "2026-06-23-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "When your rebrand is so bad the vandals fix it for free",
-      "story": "UK retailer WH Smith — a 230-year high street institution — was rebranded to 'TGJones' by its new owners in 2025; the name proved so universally despised that someone spray-painted 'WHSmith' back over the new sign in Richmond, and it remained there for over a week while 150 stores face closure.",
-      "why_funny": "Three-quarters of British people hate the new name so much that actual citizens took to spray paint to undo the rebrand themselves.",
-      "alt": "Blue TGJones store sign with 'WHSmith' spray-painted in white graffiti over the logo on a UK high street, next to a Post Office",
-      "source": "https://richmond.nub.news/news/local-news/defacement-at-tgjones-richmond-sparks-online-whsmith-debate-298787",
-      "credit": "Richmond Nub News / César Medina",
-      "license": "editorial — © Richmond Nub News",
-      "key": "2026-06-22-b"
+      "tagline": "TfL failed to fix Tube flooding for 10 years. Beavers solved it in weeks.",
+      "story": "London's Greenford Central Line station and surrounding streets flooded repeatedly for a decade despite engineering efforts; in June 2026 it emerged that five Eurasian beavers reintroduced to nearby Paradise Fields in 2023 had built natural dams that diverted the water entirely — no flooding since their first winter.",
+      "why_funny": "Transport for London's expensive infrastructure team failed for a decade, and an animal that went extinct in Britain 400 years ago outperformed them within weeks of moving in.",
+      "alt": "Close-up of a wet Eurasian beaver (Castor fiber) swimming in dark water, staring at the camera with small focused eyes",
+      "source": "https://uk.news.yahoo.com/london-beavers-stop-underground-station-091500861.html",
+      "credit": "Getty Images / MyLondon.news",
+      "license": "editorial — © Getty Images",
+      "key": "2026-06-23-b"
     }
   ]
 }
