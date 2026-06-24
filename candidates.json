@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-23",
+  "date": "2026-06-24",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "The official World Cup ball: confusing NASA and goalkeepers simultaneously",
-      "story": "Adidas designed the Trionda with a 500Hz sensor chip, deep seams, and fluid geometry — producing a ball so aerodynamically unpredictable that it has caused 19 goalkeeper errors in the tournament's opening weeks (nearly the same as all of Qatar 2022), while NASA simultaneously took one to the ISS to study why it behaves so oddly.",
-      "why_funny": "Adidas over-engineered a round ball so thoroughly that it baffled both the world's best goalkeepers and the world's best physicists at the exact same time.",
-      "alt": "Four NASA astronauts floating in zero gravity on the International Space Station, kicking and passing the official FIFA World Cup 2026 Trionda ball between them, with national flags visible on the wall behind",
-      "source": "https://gulfnews.com/sport/football/world-cup/2026-fifa-world-cup-ball-heads-to-space-as-nasa-studies-football-in-zero-gravity-1.500581577",
-      "credit": "Gulf News / NASA",
-      "license": "editorial — © Gulf News (NASA imagery not copyrighted)",
-      "key": "2026-06-23-a"
+      "tagline": "Waymo's 6th recall: its AI drove into freeway construction 13 times in 6 months",
+      "story": "Waymo issued its sixth safety recall in twelve months on June 18, 2026, pulling 3,871 robotaxis after 13 incidents of its self-driving AI autonomously entering closed freeway construction zones in Phoenix and San Francisco.",
+      "why_funny": "A vehicle billed as 'safer than human drivers' has now been recalled six times in a year — most recently for driving into road construction, the one obstacle every human driver knows to steer around.",
+      "alt": "White Waymo Jaguar I-PACE autonomous robotaxi on a West Miami street, sensor array visible on the roof, parked near a palm tree in clear daylight",
+      "source": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
+      "credit": "Phillip Pessar / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "key": "2026-06-24-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "TfL failed to fix Tube flooding for 10 years. Beavers solved it in weeks.",
-      "story": "London's Greenford Central Line station and surrounding streets flooded repeatedly for a decade despite engineering efforts; in June 2026 it emerged that five Eurasian beavers reintroduced to nearby Paradise Fields in 2023 had built natural dams that diverted the water entirely — no flooding since their first winter.",
-      "why_funny": "Transport for London's expensive infrastructure team failed for a decade, and an animal that went extinct in Britain 400 years ago outperformed them within weeks of moving in.",
-      "alt": "Close-up of a wet Eurasian beaver (Castor fiber) swimming in dark water, staring at the camera with small focused eyes",
-      "source": "https://uk.news.yahoo.com/london-beavers-stop-underground-station-091500861.html",
-      "credit": "Getty Images / MyLondon.news",
-      "license": "editorial — © Getty Images",
-      "key": "2026-06-23-b"
+      "tagline": "FIFA stops World Cup matches for 'hydration' in 66°F rain — so Fox can sell ads",
+      "story": "FIFA introduced mandatory three-minute 'hydration breaks' in all 2026 World Cup matches, insisting they're for player welfare — but they stop play even in 19°C/66°F rainy Toronto, air-conditioned Dallas, and indoor Atlanta, while Fox Sports airs full-screen commercials during every pause.",
+      "why_funny": "FIFA designed a player-welfare break that triggers in cold, wet, air-conditioned stadiums where the only thing being refreshed is Fox's $200,000-per-slot ad revenue — and every fan in every stadium boos it.",
+      "alt": "Scotland players in dark navy jerseys clustered at the touchline taking water bottles during an official hydration break in their 2026 World Cup match against Morocco",
+      "source": "https://awfulannouncing.com/soccer/fifa-world-cup-hydration-breaks-likely-here-stay-commercials-ads.html",
+      "credit": "Reuters / Brian Snyder (via Awful Announcing)",
+      "license": "editorial — © Reuters",
+      "key": "2026-06-24-b"
     }
   ]
 }
