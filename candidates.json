@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-24",
+  "date": "2026-06-25",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Waymo's 6th recall: its AI drove into freeway construction 13 times in 6 months",
-      "story": "Waymo issued its sixth safety recall in twelve months on June 18, 2026, pulling 3,871 robotaxis after 13 incidents of its self-driving AI autonomously entering closed freeway construction zones in Phoenix and San Francisco.",
-      "why_funny": "A vehicle billed as 'safer than human drivers' has now been recalled six times in a year — most recently for driving into road construction, the one obstacle every human driver knows to steer around.",
-      "alt": "White Waymo Jaguar I-PACE autonomous robotaxi on a West Miami street, sensor array visible on the roof, parked near a palm tree in clear daylight",
-      "source": "https://techcrunch.com/2026/06/18/waymo-recalls-nearly-4000-robotaxis-to-stop-them-driving-into-highway-construction-zones/",
-      "credit": "Phillip Pessar / Wikimedia Commons",
-      "license": "CC BY 4.0",
-      "key": "2026-06-24-a"
+      "tagline": "NZ Football misspelled 'Egypt' as 'EYGPT' on their official World Cup pennant",
+      "story": "Before their June 21, 2026 FIFA World Cup Group G match in Vancouver, New Zealand Football presented Egypt with a ceremonial pennant that spelled the country's name 'EYGPT' in large capital letters — and didn't notice until after the match.",
+      "why_funny": "They spent months preparing for their first World Cup match in 40+ years, had an official pennant printed, and nobody in the entire federation checked how to spell 'Egypt.'",
+      "alt": "Official FIFA World Cup '26 ceremonial pennant hanging in New Zealand's locker room reading 'NEW ZEALAND vs EYGPT — 21ST JUNE 2026 — VANCOUVER, CANADA' with the misspelling visible in large capital letters",
+      "source": "https://www.the-sun.com/sport/16554873/new-zealand-pennant-world-cup-mistake-spelling-egypt/",
+      "credit": "The Sun / Getty Images",
+      "license": "editorial — © The Sun / Getty Images",
+      "key": "2026-06-25-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "FIFA stops World Cup matches for 'hydration' in 66°F rain — so Fox can sell ads",
-      "story": "FIFA introduced mandatory three-minute 'hydration breaks' in all 2026 World Cup matches, insisting they're for player welfare — but they stop play even in 19°C/66°F rainy Toronto, air-conditioned Dallas, and indoor Atlanta, while Fox Sports airs full-screen commercials during every pause.",
-      "why_funny": "FIFA designed a player-welfare break that triggers in cold, wet, air-conditioned stadiums where the only thing being refreshed is Fox's $200,000-per-slot ad revenue — and every fan in every stadium boos it.",
-      "alt": "Scotland players in dark navy jerseys clustered at the touchline taking water bottles during an official hydration break in their 2026 World Cup match against Morocco",
-      "source": "https://awfulannouncing.com/soccer/fifa-world-cup-hydration-breaks-likely-here-stay-commercials-ads.html",
-      "credit": "Reuters / Brian Snyder (via Awful Announcing)",
-      "license": "editorial — © Reuters",
-      "key": "2026-06-24-b"
+      "tagline": "Google's first new speaker in 6 years has a hardwired cable you can never replace",
+      "story": "The Google Home Speaker, Google's first new smart speaker in six years, launched June 25, 2026 with a permanently attached USB-C power cable — there is no port on the device, so if the cable (the most fragile component) breaks, the $99 speaker cannot be repaired without opening the case.",
+      "why_funny": "Six years of development time and not a single engineer added a cable port — every previous Google speaker had a removable cord, making this the first that turns a frayed cable into a landfill trip.",
+      "alt": "Google Home Speaker in Jade green with rainbow LED touch-control lights at its base and a white USB-C power cable permanently exiting from the lower-back of the unit with no visible port to disconnect it",
+      "source": "https://9to5google.com/2026/06/23/google-home-speaker-early-purchase-impressions/",
+      "credit": "Google / Notebookcheck",
+      "license": "editorial — © Google",
+      "key": "2026-06-25-b"
     }
   ]
 }
