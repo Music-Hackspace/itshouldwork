@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-26",
+  "date": "2026-06-27",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Universal spent $550M on a kids' theme park that guests say looks like a maximum-security prison",
-      "story": "Universal Kids Resort, a $550M children's theme park in Frisco, Texas built for ages 3–8, opened for previews in June 2026 to find that vast stretches of bare concrete, minimal shade, and almost no theming left guests comparing it to 'a maximum-security prison in Texas' — with the official July 1 opening still days away.",
-      "why_funny": "Designers promised lush storybook lands full of Shrek and SpongeBob magic, delivered what guests called 'McDonald's landscaping: the ride,' and chose to build it in one of the hottest cities in America with virtually no shade.",
-      "alt": "Wide exterior view of Universal Kids Resort in Frisco, Texas showing broad concrete plazas with sparse theming and limited landscaping under bright Texas sun",
-      "source": "https://insidethemagic.net/2026/06/universal-kids-resort-negative-reviews-cj1/",
-      "credit": "InsideTheMagic / Universal Destinations & Experiences",
-      "license": "editorial — © Universal Destinations & Experiences",
-      "key": "2026-06-26-a"
+      "tagline": "Valve promised 4K 60fps — then quietly deleted that promise",
+      "story": "The $1,049 Valve Steam Machine launched June 22, 2026 with '4K gaming at 60 FPS' prominently on its store page; after reviews showed most AAA games couldn't hit that target even on medium settings, Valve silently changed the claim to 'up to 4K gaming with FSR 4.1' on June 25.",
+      "why_funny": "Valve spent years over-promising 4K 60fps performance and, when reviewers proved it wrong in real games, solved the controversy by just deleting the claim from the store page.",
+      "alt": "Dark navy blue Steam Machine gaming PC cube sitting on a wood desk next to a monitor showing a colorful game, with two small decorative mushroom figurines beside it",
+      "source": "https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663",
+      "credit": "Kotaku / Valve",
+      "license": "editorial — © Kotaku / Valve",
+      "key": "2026-06-27-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Man builds 23-foot driveable banana car; has been pulled over hundreds of times because the banana blocks his plate",
-      "story": "Steve Braithwaite's Big Banana Car — a 23-foot fiberglass banana mounted on a 1993 Ford F-150 — was pulled over again on I-90 near Billings, Montana on June 24, 2026 because cargo boxes partially blocked his 'SPLIT' license plate, continuing a 15-year tradition: he says he was 'the most pulled-over man in America' for the first eight years of driving it.",
-      "why_funny": "He built a vehicle specifically designed to look like a giant banana, expected to drive it legally across America, and is still surprised it keeps attracting police attention — the banana shape physically prevents proper license plate display.",
-      "alt": "Montana Highway Patrol trooper standing beside a 23-foot bright yellow fiberglass banana-shaped car pulled over on the shoulder of Interstate 90 near Billings",
-      "source": "https://www.thedrive.com/news/man-driving-giant-banana-gets-pulled-over-in-montana",
-      "credit": "Montana Highway Patrol / The Drive",
-      "license": "editorial — © Montana Highway Patrol",
-      "key": "2026-06-26-b"
+      "tagline": "The Coca-Cola ad display that ran out of space to advertise",
+      "story": "A Coca-Cola branded advertising display in a supermarket in São Miguel, Azores was running Ubuntu, and when the volume 'storage' dropped to 201.5 MB remaining, the Ubuntu 'Low Disk Space' dialog box interrupted the branded display with two options: 'Examine...' or 'Ignore.'",
+      "why_funny": "Coca-Cola's billion-dollar brand machine forgot to clear the logs on its fancy digital signage, exposing the unglamorous Ubuntu desktop to every shopper in the Azores.",
+      "alt": "Bright red Coca-Cola branded advertising display in a Portuguese supermarket with a Ubuntu 'Low Disk Space' dialog box reading 'The volume storage has only 201,5 MB disk space remaining' centered over the Coca-Cola bottle cap logo, with Coca-Cola cans on shelves visible at left",
+      "source": "https://www.theregister.com/offbeat/2026/06/23/digital-indigestion-fizzy-coca-cola-display-chokes-on-full-storage/5259124",
+      "credit": "reader submission / The Register",
+      "license": "editorial — © The Register",
+      "key": "2026-06-27-b"
     }
   ]
 }
