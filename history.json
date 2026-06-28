@@ -1,6 +1,17 @@
 {
-  "count": 26,
+  "count": 27,
   "photos": [
+    {
+      "date": "2026-06-27",
+      "alt": "Dark navy blue Steam Machine gaming PC cube sitting on a wood desk next to a monitor showing a colorful game, with two small decorative mushroom figurines beside it",
+      "source": "https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663",
+      "credit": "Kotaku / Valve",
+      "license": "editorial \u2014 \u00a9 Kotaku / Valve",
+      "story": "The $1,049 Valve Steam Machine launched June 22, 2026 with '4K gaming at 60 FPS' prominently on its store page; after reviews showed most AAA games couldn't hit that target even on medium settings, Valve silently changed the claim to 'up to 4K gaming with FSR 4.1' on June 25.",
+      "why_funny": "Valve spent years over-promising 4K 60fps performance and, when reviewers proved it wrong in real games, solved the controversy by just deleting the claim from the store page.",
+      "id": "b911cf89d3",
+      "file": "archive/2026-06-27-b911cf89d3.jpg"
+    },
     {
       "date": "2026-06-26",
       "alt": "Montana Highway Patrol trooper standing beside a 23-foot bright yellow fiberglass banana-shaped car pulled over on the shoulder of Interstate 90 near Billings",
