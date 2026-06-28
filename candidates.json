@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-27",
+  "date": "2026-06-28",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Valve promised 4K 60fps — then quietly deleted that promise",
-      "story": "The $1,049 Valve Steam Machine launched June 22, 2026 with '4K gaming at 60 FPS' prominently on its store page; after reviews showed most AAA games couldn't hit that target even on medium settings, Valve silently changed the claim to 'up to 4K gaming with FSR 4.1' on June 25.",
-      "why_funny": "Valve spent years over-promising 4K 60fps performance and, when reviewers proved it wrong in real games, solved the controversy by just deleting the claim from the store page.",
-      "alt": "Dark navy blue Steam Machine gaming PC cube sitting on a wood desk next to a monitor showing a colorful game, with two small decorative mushroom figurines beside it",
-      "source": "https://kotaku.com/valve-removes-4k-gaming-at-60-fps-from-steam-machine-page-after-early-review-backlash-2000710663",
-      "credit": "Kotaku / Valve",
-      "license": "editorial — © Kotaku / Valve",
-      "key": "2026-06-27-a"
+      "tagline": "The 'no social media' phone where WhatsApp is in the promo photo",
+      "story": "Commodore's $499 Callback 8020 flip phone launched June 2026 marketing itself as an OS-level social-media blocker — but the official press photo shows WhatsApp open on-screen, and the spec sheet confirms it runs 99% of all Android apps.",
+      "why_funny": "A phone sold specifically to cure social media addiction literally displays WhatsApp in its own marketing photography.",
+      "alt": "Two views of a translucent aqua-blue retro flip phone: open left showing WhatsApp conversations on screen, closed right showing Commodore Callback branding with LED dot-matrix display",
+      "source": "https://www.designboom.com/technology/commodore-callback-8020-y2k-flip-phone-t9-texting-no-social-media/",
+      "credit": "designboom / Commodore",
+      "license": "editorial — © designboom / Commodore",
+      "key": "2026-06-28-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "The Coca-Cola ad display that ran out of space to advertise",
-      "story": "A Coca-Cola branded advertising display in a supermarket in São Miguel, Azores was running Ubuntu, and when the volume 'storage' dropped to 201.5 MB remaining, the Ubuntu 'Low Disk Space' dialog box interrupted the branded display with two options: 'Examine...' or 'Ignore.'",
-      "why_funny": "Coca-Cola's billion-dollar brand machine forgot to clear the logs on its fancy digital signage, exposing the unglamorous Ubuntu desktop to every shopper in the Azores.",
-      "alt": "Bright red Coca-Cola branded advertising display in a Portuguese supermarket with a Ubuntu 'Low Disk Space' dialog box reading 'The volume storage has only 201,5 MB disk space remaining' centered over the Coca-Cola bottle cap logo, with Coca-Cola cans on shelves visible at left",
-      "source": "https://www.theregister.com/offbeat/2026/06/23/digital-indigestion-fizzy-coca-cola-display-chokes-on-full-storage/5259124",
-      "credit": "reader submission / The Register",
-      "license": "editorial — © The Register",
-      "key": "2026-06-27-b"
+      "tagline": "Samsung's $3,500 fridge has no handle — just tell it to open and hope for Wi-Fi",
+      "story": "Samsung's 2026 Bespoke AI Family Hub refrigerator removes the physical handle entirely, requiring voice commands or palm-tapping a sensor to open it; consumer groups named it 'Worst in Show' at CES 2026, and BGR named it a top disappointment of the year in June 2026, noting that if you lose internet you also lose the ability to open your fridge.",
+      "why_funny": "A $3,500 appliance whose designers solved the humble handle problem by requiring a stable broadband connection to access your own leftover pizza.",
+      "alt": "Modern Samsung 4-door white refrigerator with no handle, flush with wood-paneled kitchen cabinetry, small touchscreen displaying abstract art where a door handle would normally be",
+      "source": "https://www.bgr.com/2201345/most-disappointing-tech-gadgets-this-year/",
+      "credit": "Samsung / homecrux.com",
+      "license": "editorial — © Samsung",
+      "key": "2026-06-28-b"
     }
   ]
 }
