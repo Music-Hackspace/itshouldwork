@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-28",
+  "date": "2026-06-29",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "The 'no social media' phone where WhatsApp is in the promo photo",
-      "story": "Commodore's $499 Callback 8020 flip phone launched June 2026 marketing itself as an OS-level social-media blocker — but the official press photo shows WhatsApp open on-screen, and the spec sheet confirms it runs 99% of all Android apps.",
-      "why_funny": "A phone sold specifically to cure social media addiction literally displays WhatsApp in its own marketing photography.",
-      "alt": "Two views of a translucent aqua-blue retro flip phone: open left showing WhatsApp conversations on screen, closed right showing Commodore Callback branding with LED dot-matrix display",
-      "source": "https://www.designboom.com/technology/commodore-callback-8020-y2k-flip-phone-t9-texting-no-social-media/",
-      "credit": "designboom / Commodore",
-      "license": "editorial — © designboom / Commodore",
-      "key": "2026-06-28-a"
+      "tagline": "Court ordered one sign removed — solution: hide the whole building",
+      "story": "A federal court ordered Trump's name removed from the Kennedy Center facade in June 2026; rather than just swap the letters, workers erected a massive tarp covering the entire historic portico — prompting a judge to officially demand an explanation for why a national arts center was under 'marble maintenance.'",
+      "why_funny": "The solution to changing one building's lettering was to make the entire building disappear behind a tarp so conspicuous that a federal judge had to write an official order asking why it was there.",
+      "alt": "Giant white scaffolding tarp covering the Kennedy Center facade at night, with 'THE JOHN F. K...' letters still visible on the marble to the left, a construction worker in a yellow vest and a truck at lower right",
+      "source": "https://www.npr.org/2026/06/24/nx-s1-5869578/kennedy-center-tarp",
+      "credit": "Nvss132 / Wikimedia Commons",
+      "license": "CC0 1.0 (public domain)",
+      "key": "2026-06-29-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Samsung's $3,500 fridge has no handle — just tell it to open and hope for Wi-Fi",
-      "story": "Samsung's 2026 Bespoke AI Family Hub refrigerator removes the physical handle entirely, requiring voice commands or palm-tapping a sensor to open it; consumer groups named it 'Worst in Show' at CES 2026, and BGR named it a top disappointment of the year in June 2026, noting that if you lose internet you also lose the ability to open your fridge.",
-      "why_funny": "A $3,500 appliance whose designers solved the humble handle problem by requiring a stable broadband connection to access your own leftover pizza.",
-      "alt": "Modern Samsung 4-door white refrigerator with no handle, flush with wood-paneled kitchen cabinetry, small touchscreen displaying abstract art where a door handle would normally be",
-      "source": "https://www.bgr.com/2201345/most-disappointing-tech-gadgets-this-year/",
-      "credit": "Samsung / homecrux.com",
-      "license": "editorial — © Samsung",
-      "key": "2026-06-28-b"
+      "tagline": "Apple's desktop computer: flip it upside-down to turn it on",
+      "story": "Apple's M4 Mac mini (launched late 2024) placed the power button on the underside of the device; after 18 months of mockery, Apple 'fixed' this in macOS 26.5 with a Power Control software feature — and the official release notes admit users may 'not have easy access to the computer's power button.'",
+      "why_funny": "Apple's answer to 'we put the power button where no one can reach it' was to ship a software update so you can avoid ever touching the power button — rather than move the button.",
+      "alt": "Close-up of the dark grey underside of an Apple Mac mini M4, showing the circular ventilation grille and a power button symbol tucked in the corner, photographed from below against a blue background",
+      "source": "https://www.techradar.com/computing/macos-26-5-has-fixed-a-low-key-hilarious-problem-that-has-marred-the-mac-mini-for-years",
+      "credit": "TechRadar / Future Publishing",
+      "license": "editorial — © TechRadar / Future Publishing",
+      "key": "2026-06-29-b"
     }
   ]
 }
