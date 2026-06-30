@@ -1,6 +1,17 @@
 {
-  "count": 28,
+  "count": 29,
   "photos": [
+    {
+      "date": "2026-06-29",
+      "alt": "Close-up of the dark grey underside of an Apple Mac mini M4, showing the circular ventilation grille and a power button symbol tucked in the corner, photographed from below against a blue background",
+      "source": "https://www.techradar.com/computing/macos-26-5-has-fixed-a-low-key-hilarious-problem-that-has-marred-the-mac-mini-for-years",
+      "credit": "TechRadar / Future Publishing",
+      "license": "editorial \u2014 \u00a9 TechRadar / Future Publishing",
+      "story": "Apple's M4 Mac mini (launched late 2024) placed the power button on the underside of the device; after 18 months of mockery, Apple 'fixed' this in macOS 26.5 with a Power Control software feature \u2014 and the official release notes admit users may 'not have easy access to the computer's power button.'",
+      "why_funny": "Apple's answer to 'we put the power button where no one can reach it' was to ship a software update so you can avoid ever touching the power button \u2014 rather than move the button.",
+      "id": "b1c0ca8ef0",
+      "file": "archive/2026-06-29-b1c0ca8ef0.jpg"
+    },
     {
       "date": "2026-06-28",
       "alt": "Modern Samsung 4-door white refrigerator with no handle, flush with wood-paneled kitchen cabinetry, small touchscreen displaying abstract art where a door handle would normally be",
