@@ -1,10 +1,10 @@
 {
   "file": "photo.jpg",
-  "date": "2026-06-28",
-  "alt": "Modern Samsung 4-door white refrigerator with no handle, flush with wood-paneled kitchen cabinetry, small touchscreen displaying abstract art where a door handle would normally be",
-  "source": "https://www.bgr.com/2201345/most-disappointing-tech-gadgets-this-year/",
-  "credit": "Samsung / homecrux.com",
-  "license": "editorial \u2014 \u00a9 Samsung",
-  "story": "Samsung's 2026 Bespoke AI Family Hub refrigerator removes the physical handle entirely, requiring voice commands or palm-tapping a sensor to open it; consumer groups named it 'Worst in Show' at CES 2026, and BGR named it a top disappointment of the year in June 2026, noting that if you lose internet you also lose the ability to open your fridge.",
-  "why_funny": "A $3,500 appliance whose designers solved the humble handle problem by requiring a stable broadband connection to access your own leftover pizza."
+  "date": "2026-06-29",
+  "alt": "Close-up of the dark grey underside of an Apple Mac mini M4, showing the circular ventilation grille and a power button symbol tucked in the corner, photographed from below against a blue background",
+  "source": "https://www.techradar.com/computing/macos-26-5-has-fixed-a-low-key-hilarious-problem-that-has-marred-the-mac-mini-for-years",
+  "credit": "TechRadar / Future Publishing",
+  "license": "editorial \u2014 \u00a9 TechRadar / Future Publishing",
+  "story": "Apple's M4 Mac mini (launched late 2024) placed the power button on the underside of the device; after 18 months of mockery, Apple 'fixed' this in macOS 26.5 with a Power Control software feature \u2014 and the official release notes admit users may 'not have easy access to the computer's power button.'",
+  "why_funny": "Apple's answer to 'we put the power button where no one can reach it' was to ship a software update so you can avoid ever touching the power button \u2014 rather than move the button."
 }
