@@ -1,30 +1,30 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-07-01",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Police post 'AI-enhanced' drug bust photo — AI helpfully converts $ to ¥",
-      "story": "Vancouver Police Department posted an AI-edited social media photo of a June 2026 drug seizure on June 24, then deleted it after reporters noticed a visible 'Made with AI' watermark — and the AI had garbled all the cash amounts, converting Canadian dollars to '¥422.30' (a yen symbol) and '$.50.XX' on the official evidence labels.",
-      "why_funny": "An official police evidence photo edited with AI to look more professional ended up inventing a Japanese yen-denominated drug bust.",
-      "alt": "Two-panel AI-generated Vancouver Police evidence display on brown cardboard, showing seized drugs in plastic bags and Canadian cash, with AI-garbled handwritten labels including '¥422.30' using a yen symbol instead of Canadian dollars",
-      "source": "https://www.ctvnews.ca/vancouver/article/vancouver-police-explain-made-with-ai-image-of-seized-drugs-cash/",
-      "credit": "Vancouver Police Department / CTV News",
-      "license": "editorial — © Vancouver Police Department / CTV News",
-      "key": "2026-06-30-a"
+      "tagline": "Nike World Cup jerseys gave every player cartoon shoulder pads — official fix: iron them",
+      "story": "Nike's 2026 World Cup match kits for France, Brazil, England, USA and others have a structural seam defect that makes the shoulder panels protrude stiffly outward; the internet dubbed it 'Shredder Shoulders,' and Nike's official workaround for a jersey worn in live World Cup matches is to steam or iron it flat.",
+      "why_funny": "A $1B sportswear company spent years on 'computational design' for the biggest sporting event on Earth, produced jerseys that make elite athletes look like TMNT villains, and told fans to get an iron.",
+      "alt": "Close-up comparison of Nike 2026 World Cup jersey shoulders showing the stiff protruding seam flaw nicknamed Shredder Shoulders, where the shoulder panels jut out at a pointed angle instead of lying flat",
+      "source": "https://www.footyheadlines.com/7861053602/shoulder-gate-returns-nike-fails-to-fix-issue-on-2026-world-cup-kits.html",
+      "credit": "Footy Headlines",
+      "license": "editorial — © Footy Headlines",
+      "key": "2026-07-01-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Snap CEO calls $2,200 glasses 'highly wearable' while they crush his earlobes",
-      "story": "Snap launched 'Specs' AR glasses on June 16, 2026 at $2,195 — CEO Evan Spiegel described them as 'highly wearable' at the launch event in footage that visibly shows the 136-gram chunky frames flattening his earlobes, the company's top Specs exec had already quit, and Snap stock fell ~10% on launch day.",
-      "why_funny": "The CEO used himself as a live product demo to prove wearability and simultaneously demonstrated the opposite, on camera, at the launch event.",
-      "alt": "Snap CEO Evan Spiegel wearing chunky oversized black Snap Specs AR glasses while being interviewed by TV camera at the 2026 Specs launch event, with 'SPECS' branding signage visible behind him",
-      "source": "https://techcrunch.com/2026/06/16/snap-finally-debuts-its-long-awaited-ar-glasses-specs-and-oof-they-arent-cheap/",
-      "credit": "Getty Images / moneywise.com",
-      "license": "editorial — © Getty Images",
-      "key": "2026-06-30-b"
+      "tagline": "Sony's AI camera 'enhancement' made photos objectively worse — proven by Sony's own ad",
+      "story": "Sony launched an AI Camera Assistant for the Xperia 1 VIII that supposedly improves your photos, then posted official before/after marketing shots where the AI-processed version was visibly washed out, overexposed and lower quality; Nothing CEO Carl Pei publicly asked 'This must be engagement farming?' and Sony had to quietly post new comparisons.",
+      "why_funny": "Sony ran a marketing campaign to prove their AI made photos better, accidentally proved the opposite, and had to reshoot their own proof.",
+      "alt": "Side-by-side before/after comparison of photos processed by Sony Xperia AI Camera Assistant, showing the AI-enhanced right panel is noticeably washed out with reduced colour and contrast compared to the original",
+      "source": "https://www.digitalcameraworld.com/tech/artificial-intelligence/you-can-add-sonys-new-ai-photo-assistant-to-the-long-list-of-ai-features-nobody-wanted-being-rammed-down-our-throats-by-tech-companies",
+      "credit": "Notebookcheck",
+      "license": "editorial — © Notebookcheck",
+      "key": "2026-07-01-b"
     }
   ]
 }
