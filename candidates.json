@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-01",
+  "date": "2026-07-02",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Nike World Cup jerseys gave every player cartoon shoulder pads — official fix: iron them",
-      "story": "Nike's 2026 World Cup match kits for France, Brazil, England, USA and others have a structural seam defect that makes the shoulder panels protrude stiffly outward; the internet dubbed it 'Shredder Shoulders,' and Nike's official workaround for a jersey worn in live World Cup matches is to steam or iron it flat.",
-      "why_funny": "A $1B sportswear company spent years on 'computational design' for the biggest sporting event on Earth, produced jerseys that make elite athletes look like TMNT villains, and told fans to get an iron.",
-      "alt": "Close-up comparison of Nike 2026 World Cup jersey shoulders showing the stiff protruding seam flaw nicknamed Shredder Shoulders, where the shoulder panels jut out at a pointed angle instead of lying flat",
-      "source": "https://www.footyheadlines.com/7861053602/shoulder-gate-returns-nike-fails-to-fix-issue-on-2026-world-cup-kits.html",
-      "credit": "Footy Headlines",
-      "license": "editorial — © Footy Headlines",
-      "key": "2026-07-01-a"
+      "tagline": "'Zero-failure' security drone crashes and catches fire at World Cup fan zone",
+      "story": "NYPD's Skydio X10 drone — marketed by Skydio as providing 'zero-failure security' with 'autonomous patrols at scale' — malfunctioned, fell from the sky, and caught fire near the FIFA World Cup Fan Zone entrance at Brooklyn Bridge Park on June 23, 2026, while thousands of fans were in the area; this is the second time the same NYPD drone model has caught fire.",
+      "why_funny": "A 'zero-failure' security drone achieved total failure in the most literal way possible — by crashing and burning right next to the event it was supposed to protect.",
+      "alt": "A black Skydio X10 quadcopter drone in flight against a clear blue sky, rotors spinning, seen from a low angle showing all four arms and propellers",
+      "source": "https://dronexl.co/2026/07/01/nypd-skydio-drone-crash-fire-world-cup-fan-zone-brooklyn/",
+      "credit": "Sgt. Austin Steinborn / U.S. Army (Wikimedia Commons)",
+      "license": "public domain — U.S. Government work",
+      "key": "2026-07-02-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Sony's AI camera 'enhancement' made photos objectively worse — proven by Sony's own ad",
-      "story": "Sony launched an AI Camera Assistant for the Xperia 1 VIII that supposedly improves your photos, then posted official before/after marketing shots where the AI-processed version was visibly washed out, overexposed and lower quality; Nothing CEO Carl Pei publicly asked 'This must be engagement farming?' and Sony had to quietly post new comparisons.",
-      "why_funny": "Sony ran a marketing campaign to prove their AI made photos better, accidentally proved the opposite, and had to reshoot their own proof.",
-      "alt": "Side-by-side before/after comparison of photos processed by Sony Xperia AI Camera Assistant, showing the AI-enhanced right panel is noticeably washed out with reduced colour and contrast compared to the original",
-      "source": "https://www.digitalcameraworld.com/tech/artificial-intelligence/you-can-add-sonys-new-ai-photo-assistant-to-the-long-list-of-ai-features-nobody-wanted-being-rammed-down-our-throats-by-tech-companies",
-      "credit": "Notebookcheck",
-      "license": "editorial — © Notebookcheck",
-      "key": "2026-07-01-b"
+      "tagline": "The futuristic EV that can't charge at home",
+      "story": "Hundreds of Tesla Cybertruck owners discovered their trucks' Power Conversion System (PCS) fails and stops home charging entirely — first dropping from 48A to 24A, then nothing — and Tesla is quietly replacing the $1,000+ part case-by-case rather than issuing a recall, while offering free Supercharging as a workaround so owners must drive to a charging station to recharge an EV.",
+      "why_funny": "The $80,000 truck designed to power your house through a blackout can't reliably charge itself in your own garage, so Tesla's fix is 'please go to a petrol station instead.'",
+      "alt": "A silver angular Tesla Cybertruck Foundation Series electric pickup truck parked on green grass in front of a tree-lined pond, shot from the front-left showing its distinctive stainless steel body panels",
+      "source": "https://electrek.co/2026/07/01/tesla-cybertruck-pcs-failures-no-recall/",
+      "credit": "Mr.choppers / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "key": "2026-07-02-b"
     }
   ]
 }
