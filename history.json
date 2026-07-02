@@ -1,6 +1,17 @@
 {
-  "count": 30,
+  "count": 31,
   "photos": [
+    {
+      "date": "2026-07-01",
+      "alt": "Side-by-side before/after comparison of photos processed by Sony Xperia AI Camera Assistant, showing the AI-enhanced right panel is noticeably washed out with reduced colour and contrast compared to the original",
+      "source": "https://www.digitalcameraworld.com/tech/artificial-intelligence/you-can-add-sonys-new-ai-photo-assistant-to-the-long-list-of-ai-features-nobody-wanted-being-rammed-down-our-throats-by-tech-companies",
+      "credit": "Notebookcheck",
+      "license": "editorial \u2014 \u00a9 Notebookcheck",
+      "story": "Sony launched an AI Camera Assistant for the Xperia 1 VIII that supposedly improves your photos, then posted official before/after marketing shots where the AI-processed version was visibly washed out, overexposed and lower quality; Nothing CEO Carl Pei publicly asked 'This must be engagement farming?' and Sony had to quietly post new comparisons.",
+      "why_funny": "Sony ran a marketing campaign to prove their AI made photos better, accidentally proved the opposite, and had to reshoot their own proof.",
+      "id": "eeea42b32e",
+      "file": "archive/2026-07-01-eeea42b32e.jpg"
+    },
     {
       "date": "2026-06-30",
       "alt": "Snap CEO Evan Spiegel wearing chunky oversized black Snap Specs AR glasses while being interviewed by TV camera at the 2026 Specs launch event, with 'SPECS' branding signage visible behind him",
