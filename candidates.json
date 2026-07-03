@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-02",
+  "date": "2026-07-03",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "'Zero-failure' security drone crashes and catches fire at World Cup fan zone",
-      "story": "NYPD's Skydio X10 drone — marketed by Skydio as providing 'zero-failure security' with 'autonomous patrols at scale' — malfunctioned, fell from the sky, and caught fire near the FIFA World Cup Fan Zone entrance at Brooklyn Bridge Park on June 23, 2026, while thousands of fans were in the area; this is the second time the same NYPD drone model has caught fire.",
-      "why_funny": "A 'zero-failure' security drone achieved total failure in the most literal way possible — by crashing and burning right next to the event it was supposed to protect.",
-      "alt": "A black Skydio X10 quadcopter drone in flight against a clear blue sky, rotors spinning, seen from a low angle showing all four arms and propellers",
-      "source": "https://dronexl.co/2026/07/01/nypd-skydio-drone-crash-fire-world-cup-fan-zone-brooklyn/",
-      "credit": "Sgt. Austin Steinborn / U.S. Army (Wikimedia Commons)",
-      "license": "public domain — U.S. Government work",
-      "key": "2026-07-02-a"
+      "file": "candidate-a.png",
+      "tagline": "FIFA declared ketchup a branding threat and taped it into witness protection",
+      "story": "FIFA's 2026 World Cup 'clean stadium' rules required workers to apply black tape over every non-sponsor condiment label in the venues — turning rows of ketchup, mustard, hot sauce and BBQ bottles into redacted documents; Heinz responded by releasing a limited 'Unofficial Stadium Ketchup' with the label intentionally blacked out.",
+      "why_funny": "It takes a special kind of corporate overreach to make a bottle of ketchup feel like classified intelligence.",
+      "alt": "A condiment station with rows of ketchup, mustard, hot sauce, BBQ sauce and soy sauce bottles lined up on a red counter, most with wide black tape strips covering their brand labels",
+      "source": "https://sfstandard.com/2026/06/15/fifa-world-cup-heinz-banned/",
+      "credit": "SF Standard",
+      "license": "editorial — © SF Standard",
+      "key": "2026-07-03-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "The futuristic EV that can't charge at home",
-      "story": "Hundreds of Tesla Cybertruck owners discovered their trucks' Power Conversion System (PCS) fails and stops home charging entirely — first dropping from 48A to 24A, then nothing — and Tesla is quietly replacing the $1,000+ part case-by-case rather than issuing a recall, while offering free Supercharging as a workaround so owners must drive to a charging station to recharge an EV.",
-      "why_funny": "The $80,000 truck designed to power your house through a blackout can't reliably charge itself in your own garage, so Tesla's fix is 'please go to a petrol station instead.'",
-      "alt": "A silver angular Tesla Cybertruck Foundation Series electric pickup truck parked on green grass in front of a tree-lined pond, shot from the front-left showing its distinctive stainless steel body panels",
-      "source": "https://electrek.co/2026/07/01/tesla-cybertruck-pcs-failures-no-recall/",
-      "credit": "Mr.choppers / Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "key": "2026-07-02-b"
+      "tagline": "Sony spent 6 years selling disc-drive consoles. Now ending all game discs.",
+      "story": "Sony announced on July 1, 2026 that physical disc production for all new PlayStation games will end in January 2028 — simultaneously with GTA 6 confirming that its $80 'physical edition' ships with only a download code in an empty cardboard box, with no disc ever planned.",
+      "why_funny": "They engineered a beautifully slotted disc drive into millions of consoles, then announced the slot is now purely decorative.",
+      "alt": "A PlayStation 5 disc-edition console displayed in a locked glass case at a Japanese electronics store, with the Sony logo and PlayStation 5 branding visible",
+      "source": "https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/",
+      "credit": "KKPCW / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-07-03-b"
     }
   ]
 }
