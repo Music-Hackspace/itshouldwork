@@ -1,6 +1,17 @@
 {
-  "count": 31,
+  "count": 32,
   "photos": [
+    {
+      "date": "2026-07-02",
+      "alt": "A black Skydio X10 quadcopter drone in flight against a clear blue sky, rotors spinning, seen from a low angle showing all four arms and propellers",
+      "source": "https://dronexl.co/2026/07/01/nypd-skydio-drone-crash-fire-world-cup-fan-zone-brooklyn/",
+      "credit": "Sgt. Austin Steinborn / U.S. Army (Wikimedia Commons)",
+      "license": "public domain \u2014 U.S. Government work",
+      "story": "NYPD's Skydio X10 drone \u2014 marketed by Skydio as providing 'zero-failure security' with 'autonomous patrols at scale' \u2014 malfunctioned, fell from the sky, and caught fire near the FIFA World Cup Fan Zone entrance at Brooklyn Bridge Park on June 23, 2026, while thousands of fans were in the area; this is the second time the same NYPD drone model has caught fire.",
+      "why_funny": "A 'zero-failure' security drone achieved total failure in the most literal way possible \u2014 by crashing and burning right next to the event it was supposed to protect.",
+      "id": "94bd7f9f04",
+      "file": "archive/2026-07-02-94bd7f9f04.jpg"
+    },
     {
       "date": "2026-07-01",
       "alt": "Side-by-side before/after comparison of photos processed by Sony Xperia AI Camera Assistant, showing the AI-enhanced right panel is noticeably washed out with reduced colour and contrast compared to the original",
