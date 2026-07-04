@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.png",
-      "tagline": "FIFA declared ketchup a branding threat and taped it into witness protection",
-      "story": "FIFA's 2026 World Cup 'clean stadium' rules required workers to apply black tape over every non-sponsor condiment label in the venues — turning rows of ketchup, mustard, hot sauce and BBQ bottles into redacted documents; Heinz responded by releasing a limited 'Unofficial Stadium Ketchup' with the label intentionally blacked out.",
-      "why_funny": "It takes a special kind of corporate overreach to make a bottle of ketchup feel like classified intelligence.",
-      "alt": "A condiment station with rows of ketchup, mustard, hot sauce, BBQ sauce and soy sauce bottles lined up on a red counter, most with wide black tape strips covering their brand labels",
-      "source": "https://sfstandard.com/2026/06/15/fifa-world-cup-heinz-banned/",
-      "credit": "SF Standard",
-      "license": "editorial — © SF Standard",
-      "key": "2026-07-03-a"
+      "file": "candidate-a.jpg",
+      "tagline": "Someone bet $3M on a Spotify chart, then just… bought the chart.",
+      "story": "Kalshi launched a prediction market with $3M in trading volume betting on which song would be Spotify's most-streamed in June 2026; a trader then bought over 500,000 fake streams to push obscure artist Malcolm Todd's 'Earrings' to #1, collected the payout — and Spotify only removed the fraudulent streams after the market had already been settled and winners paid, exposing the fundamental design flaw in building a financial instrument on a metric any bettor can directly manipulate.",
+      "why_funny": "Kalshi spent months engineering a sophisticated prediction market on Spotify's chart data and apparently never considered that anyone with enough skin in the game could simply purchase a #1 for a fraction of the payout.",
+      "alt": "A phone screen showing the Kalshi prediction market app interface displaying bet options on streaming music outcomes, photographed in Chicago, Illinois",
+      "source": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-pulls-streams-over-kalshi-betting-fraud-1236636212/",
+      "credit": "Scott Olson/Getty Images via Hollywood Reporter",
+      "license": "editorial — © Scott Olson/Getty Images",
+      "key": "2026-07-04-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Sony spent 6 years selling disc-drive consoles. Now ending all game discs.",
-      "story": "Sony announced on July 1, 2026 that physical disc production for all new PlayStation games will end in January 2028 — simultaneously with GTA 6 confirming that its $80 'physical edition' ships with only a download code in an empty cardboard box, with no disc ever planned.",
-      "why_funny": "They engineered a beautifully slotted disc drive into millions of consoles, then announced the slot is now purely decorative.",
-      "alt": "A PlayStation 5 disc-edition console displayed in a locked glass case at a Japanese electronics store, with the Sony logo and PlayStation 5 branding visible",
-      "source": "https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/",
-      "credit": "KKPCW / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-07-03-b"
+      "tagline": "10 years of planning America's 250th birthday. They put a Ferris wheel on the Mall.",
+      "story": "Congress funded America250 in 2016 to plan a once-in-a-generation dignified national celebration for the 250th anniversary; by July 4, 2026, the centerpiece of the National Mall celebrations was the first-ever 110-foot Ferris wheel installed between the Lincoln Memorial and Washington Monument, along with a rodeo, as part of Freedom 250's 'Great American State Fair' — leaving two competing organisations with competing logos both claiming to run the country's birthday party.",
+      "why_funny": "Ten years and a Congressional appropriation to plan the most significant national birthday since the founding, and the landmark addition to the country's most sacred civic lawn was a carnival ride.",
+      "alt": "An ornate decorative arch in the foreground with a large 110-foot Ferris wheel dominating the mid-ground and the Washington Monument visible in the background on the National Mall, Washington DC, June 26, 2026",
+      "source": "https://commons.wikimedia.org/wiki/File:Ferris_Wheel_Great_American_State_Fair_Washington_DC_2026-06-26_12-50-32.jpg",
+      "credit": "G. Edward Johnson (Wikimedia Commons)",
+      "license": "CC BY 4.0",
+      "key": "2026-07-04-b"
     }
   ]
 }
