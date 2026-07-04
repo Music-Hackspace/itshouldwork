@@ -1,6 +1,17 @@
 {
-  "count": 32,
+  "count": 33,
   "photos": [
+    {
+      "date": "2026-07-03",
+      "alt": "A PlayStation 5 disc-edition console displayed in a locked glass case at a Japanese electronics store, with the Sony logo and PlayStation 5 branding visible",
+      "source": "https://techcrunch.com/2026/07/01/sony-to-end-physical-playstation-game-discs-in-2028/",
+      "credit": "KKPCW / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "story": "Sony announced on July 1, 2026 that physical disc production for all new PlayStation games will end in January 2028 \u2014 simultaneously with GTA 6 confirming that its $80 'physical edition' ships with only a download code in an empty cardboard box, with no disc ever planned.",
+      "why_funny": "They engineered a beautifully slotted disc drive into millions of consoles, then announced the slot is now purely decorative.",
+      "id": "792eebf04c",
+      "file": "archive/2026-07-03-792eebf04c.jpg"
+    },
     {
       "date": "2026-07-02",
       "alt": "A black Skydio X10 quadcopter drone in flight against a clear blue sky, rotors spinning, seen from a low angle showing all four arms and propellers",
