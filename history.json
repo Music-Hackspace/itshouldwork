@@ -1,6 +1,17 @@
 {
-  "count": 33,
+  "count": 34,
   "photos": [
+    {
+      "date": "2026-07-04",
+      "alt": "A phone screen showing the Kalshi prediction market app interface displaying bet options on streaming music outcomes, photographed in Chicago, Illinois",
+      "source": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-pulls-streams-over-kalshi-betting-fraud-1236636212/",
+      "credit": "Scott Olson/Getty Images via Hollywood Reporter",
+      "license": "editorial \u2014 \u00a9 Scott Olson/Getty Images",
+      "story": "Kalshi launched a prediction market with $3M in trading volume betting on which song would be Spotify's most-streamed in June 2026; a trader then bought over 500,000 fake streams to push obscure artist Malcolm Todd's 'Earrings' to #1, collected the payout \u2014 and Spotify only removed the fraudulent streams after the market had already been settled and winners paid, exposing the fundamental design flaw in building a financial instrument on a metric any bettor can directly manipulate.",
+      "why_funny": "Kalshi spent months engineering a sophisticated prediction market on Spotify's chart data and apparently never considered that anyone with enough skin in the game could simply purchase a #1 for a fraction of the payout.",
+      "id": "19ec175a11",
+      "file": "archive/2026-07-04-19ec175a11.jpg"
+    },
     {
       "date": "2026-07-03",
       "alt": "A PlayStation 5 disc-edition console displayed in a locked glass case at a Japanese electronics store, with the Sony logo and PlayStation 5 branding visible",
