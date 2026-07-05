@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-04",
+  "date": "2026-07-05",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Someone bet $3M on a Spotify chart, then just… bought the chart.",
-      "story": "Kalshi launched a prediction market with $3M in trading volume betting on which song would be Spotify's most-streamed in June 2026; a trader then bought over 500,000 fake streams to push obscure artist Malcolm Todd's 'Earrings' to #1, collected the payout — and Spotify only removed the fraudulent streams after the market had already been settled and winners paid, exposing the fundamental design flaw in building a financial instrument on a metric any bettor can directly manipulate.",
-      "why_funny": "Kalshi spent months engineering a sophisticated prediction market on Spotify's chart data and apparently never considered that anyone with enough skin in the game could simply purchase a #1 for a fraction of the payout.",
-      "alt": "A phone screen showing the Kalshi prediction market app interface displaying bet options on streaming music outcomes, photographed in Chicago, Illinois",
-      "source": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-pulls-streams-over-kalshi-betting-fraud-1236636212/",
-      "credit": "Scott Olson/Getty Images via Hollywood Reporter",
-      "license": "editorial — © Scott Olson/Getty Images",
-      "key": "2026-07-04-a"
+      "tagline": "They built a biometric border system for 500M arrivals — with no pre-registration.",
+      "story": "The EU's Entry/Exit System launched April 10, 2026 requiring all non-EU travellers to submit fingerprints and a face scan at the physical border with zero advance pre-registration option, generating five-hour queues at summer peak checkpoints; on July 1, airlines wrote to the EU Commission demanding emergency suspension, and Rome airport CEO Marco Troncone told the Financial Times the chaos is 'not a matter of implementation — it's a design flaw.'",
+      "why_funny": "Bureaucrats spent years and billions deploying a 'smart' biometric border upgrade that forces every single traveller to do their full enrollment in person, at the bottleneck, at peak summer travel — exactly when standing in a five-hour queue is least tolerable.",
+      "alt": "Travellers packed into a long, congested queue at Brussels Zaventem airport at a border control checkpoint, illustrating the delays caused by the EU Entry/Exit System biometric rollout in summer 2026",
+      "source": "https://www.euronews.com/my-europe/2026/07/02/how-the-entry-exit-system-is-becoming-a-nightmare-for-europes-summer-travellers",
+      "credit": "Euronews",
+      "license": "editorial — © Euronews",
+      "key": "2026-07-05-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "10 years of planning America's 250th birthday. They put a Ferris wheel on the Mall.",
-      "story": "Congress funded America250 in 2016 to plan a once-in-a-generation dignified national celebration for the 250th anniversary; by July 4, 2026, the centerpiece of the National Mall celebrations was the first-ever 110-foot Ferris wheel installed between the Lincoln Memorial and Washington Monument, along with a rodeo, as part of Freedom 250's 'Great American State Fair' — leaving two competing organisations with competing logos both claiming to run the country's birthday party.",
-      "why_funny": "Ten years and a Congressional appropriation to plan the most significant national birthday since the founding, and the landmark addition to the country's most sacred civic lawn was a carnival ride.",
-      "alt": "An ornate decorative arch in the foreground with a large 110-foot Ferris wheel dominating the mid-ground and the Washington Monument visible in the background on the National Mall, Washington DC, June 26, 2026",
-      "source": "https://commons.wikimedia.org/wiki/File:Ferris_Wheel_Great_American_State_Fair_Washington_DC_2026-06-26_12-50-32.jpg",
-      "credit": "G. Edward Johnson (Wikimedia Commons)",
-      "license": "CC BY 4.0",
-      "key": "2026-07-04-b"
+      "tagline": "Boeing spent $4.8 billion on a space taxi NASA now doubts will ever carry passengers.",
+      "story": "A NASA Inspector General report published July 1, 2026 formally expressed doubt that Boeing's CST-100 Starliner will ever achieve human-rating certification — after $4.8 billion spent, repeated helium leaks, propulsion failures, and unresolved parachute anomalies — explicitly citing 'overconfidence in Boeing's heritage systems' and 'unrealistic launch schedules' as root causes, with the ISS due to retire around 2030.",
+      "why_funny": "Boeing convinced NASA and Congress to fund a multi-decade space taxi entirely on the premise that their old aerospace skills were still reliable — the Inspector General's report is the official confirmation that they were not.",
+      "alt": "Boeing's CST-100 Starliner spacecraft undocking from the International Space Station following its Crew Flight Test mission in 2024, floating in orbit with the Earth's limb visible below",
+      "source": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/",
+      "credit": "NASA",
+      "license": "public domain — U.S. Government work",
+      "key": "2026-07-05-b"
     }
   ]
 }
