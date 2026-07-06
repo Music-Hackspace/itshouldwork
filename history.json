@@ -1,6 +1,17 @@
 {
-  "count": 34,
+  "count": 35,
   "photos": [
+    {
+      "date": "2026-07-05",
+      "alt": "Boeing's CST-100 Starliner spacecraft undocking from the International Space Station following its Crew Flight Test mission in 2024, floating in orbit with the Earth's limb visible below",
+      "source": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/",
+      "credit": "NASA",
+      "license": "public domain \u2014 U.S. Government work",
+      "story": "A NASA Inspector General report published July 1, 2026 formally expressed doubt that Boeing's CST-100 Starliner will ever achieve human-rating certification \u2014 after $4.8 billion spent, repeated helium leaks, propulsion failures, and unresolved parachute anomalies \u2014 explicitly citing 'overconfidence in Boeing's heritage systems' and 'unrealistic launch schedules' as root causes, with the ISS due to retire around 2030.",
+      "why_funny": "Boeing convinced NASA and Congress to fund a multi-decade space taxi entirely on the premise that their old aerospace skills were still reliable \u2014 the Inspector General's report is the official confirmation that they were not.",
+      "id": "b4e2021dee",
+      "file": "archive/2026-07-05-b4e2021dee.jpg"
+    },
     {
       "date": "2026-07-04",
       "alt": "A phone screen showing the Kalshi prediction market app interface displaying bet options on streaming music outcomes, photographed in Chicago, Illinois",
