@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-05",
+  "date": "2026-07-06",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "They built a biometric border system for 500M arrivals — with no pre-registration.",
-      "story": "The EU's Entry/Exit System launched April 10, 2026 requiring all non-EU travellers to submit fingerprints and a face scan at the physical border with zero advance pre-registration option, generating five-hour queues at summer peak checkpoints; on July 1, airlines wrote to the EU Commission demanding emergency suspension, and Rome airport CEO Marco Troncone told the Financial Times the chaos is 'not a matter of implementation — it's a design flaw.'",
-      "why_funny": "Bureaucrats spent years and billions deploying a 'smart' biometric border upgrade that forces every single traveller to do their full enrollment in person, at the bottleneck, at peak summer travel — exactly when standing in a five-hour queue is least tolerable.",
-      "alt": "Travellers packed into a long, congested queue at Brussels Zaventem airport at a border control checkpoint, illustrating the delays caused by the EU Entry/Exit System biometric rollout in summer 2026",
-      "source": "https://www.euronews.com/my-europe/2026/07/02/how-the-entry-exit-system-is-becoming-a-nightmare-for-europes-summer-travellers",
-      "credit": "Euronews",
-      "license": "editorial — © Euronews",
-      "key": "2026-07-05-a"
+      "tagline": "They spent $14.6M painting the Reflecting Pool blue — then the paint left.",
+      "story": "The Trump administration paid $14.6 million to renovate the Lincoln Memorial Reflecting Pool and paint the floor and walls 'American flag blue'; within weeks the polyurea coating was peeling off in large floating chunks, algae bloomed green, and when visitors touched the floating flakes Trump blamed 'vandals' and ordered arrests.",
+      "why_funny": "A renovation whose entire design premise was 'the pool should be blue' produced a pool that was blue for the wrong reasons — floating paint chips and algae — and the administration's response was to arrest tourists for touching the evidence.",
+      "alt": "The Lincoln Memorial Reflecting Pool in Washington DC in June 2026 showing the newly painted blue floor with algae bloom and cleanup equipment visible on the pool edge following the controversial $14.6M renovation",
+      "source": "https://www.forbes.com/sites/siladityaray/2026/06/19/blue-paint-seen-peeling-off-from-bottom-of-lincoln-memorial-reflecting-pool-photos/",
+      "credit": "G. Edward Johnson / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "key": "2026-07-06-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Boeing spent $4.8 billion on a space taxi NASA now doubts will ever carry passengers.",
-      "story": "A NASA Inspector General report published July 1, 2026 formally expressed doubt that Boeing's CST-100 Starliner will ever achieve human-rating certification — after $4.8 billion spent, repeated helium leaks, propulsion failures, and unresolved parachute anomalies — explicitly citing 'overconfidence in Boeing's heritage systems' and 'unrealistic launch schedules' as root causes, with the ISS due to retire around 2030.",
-      "why_funny": "Boeing convinced NASA and Congress to fund a multi-decade space taxi entirely on the premise that their old aerospace skills were still reliable — the Inspector General's report is the official confirmation that they were not.",
-      "alt": "Boeing's CST-100 Starliner spacecraft undocking from the International Space Station following its Crew Flight Test mission in 2024, floating in orbit with the Earth's limb visible below",
-      "source": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/",
-      "credit": "NASA",
-      "license": "public domain — U.S. Government work",
-      "key": "2026-07-05-b"
+      "tagline": "Commodore made a $499 retro phone — then sold branded AliExpress tat for $24.",
+      "story": "Commodore's Callback 8020 retro flip phone ($499, launched June 2026) is now joined by an official $24 'Backpack Holster' accessory — which fans immediately identified as a generic product sold on AliExpress for a fraction of the price with a Commodore logo slapped on, prompting one fan to call it 'one of the most embarrassingly awful things I've ever seen.'",
+      "why_funny": "A company charging $499 for the premium nostalgia of owning a Commodore-branded flip phone apparently expected those same fans to pay $24 extra for what is functionally a rebranded fanny-pack from a bulk Chinese wholesaler.",
+      "alt": "The official Commodore Callback 8020 Backpack Holster — a small transparent plastic backpack-style accessory with a Commodore logo, designed to carry the retro flip phone alongside a credit card or Walkman",
+      "source": "https://www.timeextension.com/news/2026/07/random-this-is-cringeworthy-commodores-callback-8020-holster-gets-ridiculed-by-fans",
+      "credit": "Time Extension",
+      "license": "editorial — © Time Extension",
+      "key": "2026-07-06-b"
     }
   ]
 }
