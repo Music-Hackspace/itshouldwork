@@ -1,10 +1,10 @@
 {
   "file": "photo.jpg",
-  "date": "2026-07-04",
-  "alt": "A phone screen showing the Kalshi prediction market app interface displaying bet options on streaming music outcomes, photographed in Chicago, Illinois",
-  "source": "https://www.hollywoodreporter.com/music/music-industry-news/spotify-pulls-streams-over-kalshi-betting-fraud-1236636212/",
-  "credit": "Scott Olson/Getty Images via Hollywood Reporter",
-  "license": "editorial \u2014 \u00a9 Scott Olson/Getty Images",
-  "story": "Kalshi launched a prediction market with $3M in trading volume betting on which song would be Spotify's most-streamed in June 2026; a trader then bought over 500,000 fake streams to push obscure artist Malcolm Todd's 'Earrings' to #1, collected the payout \u2014 and Spotify only removed the fraudulent streams after the market had already been settled and winners paid, exposing the fundamental design flaw in building a financial instrument on a metric any bettor can directly manipulate.",
-  "why_funny": "Kalshi spent months engineering a sophisticated prediction market on Spotify's chart data and apparently never considered that anyone with enough skin in the game could simply purchase a #1 for a fraction of the payout."
+  "date": "2026-07-05",
+  "alt": "Boeing's CST-100 Starliner spacecraft undocking from the International Space Station following its Crew Flight Test mission in 2024, floating in orbit with the Earth's limb visible below",
+  "source": "https://spacenews.com/report-links-starliner-problems-to-overconfidence-and-unrealistic-schedules/",
+  "credit": "NASA",
+  "license": "public domain \u2014 U.S. Government work",
+  "story": "A NASA Inspector General report published July 1, 2026 formally expressed doubt that Boeing's CST-100 Starliner will ever achieve human-rating certification \u2014 after $4.8 billion spent, repeated helium leaks, propulsion failures, and unresolved parachute anomalies \u2014 explicitly citing 'overconfidence in Boeing's heritage systems' and 'unrealistic launch schedules' as root causes, with the ISS due to retire around 2030.",
+  "why_funny": "Boeing convinced NASA and Congress to fund a multi-decade space taxi entirely on the premise that their old aerospace skills were still reliable \u2014 the Inspector General's report is the official confirmation that they were not."
 }
