@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-06",
+  "date": "2026-07-07",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "They spent $14.6M painting the Reflecting Pool blue — then the paint left.",
-      "story": "The Trump administration paid $14.6 million to renovate the Lincoln Memorial Reflecting Pool and paint the floor and walls 'American flag blue'; within weeks the polyurea coating was peeling off in large floating chunks, algae bloomed green, and when visitors touched the floating flakes Trump blamed 'vandals' and ordered arrests.",
-      "why_funny": "A renovation whose entire design premise was 'the pool should be blue' produced a pool that was blue for the wrong reasons — floating paint chips and algae — and the administration's response was to arrest tourists for touching the evidence.",
-      "alt": "The Lincoln Memorial Reflecting Pool in Washington DC in June 2026 showing the newly painted blue floor with algae bloom and cleanup equipment visible on the pool edge following the controversial $14.6M renovation",
-      "source": "https://www.forbes.com/sites/siladityaray/2026/06/19/blue-paint-seen-peeling-off-from-bottom-of-lincoln-memorial-reflecting-pool-photos/",
-      "credit": "G. Edward Johnson / Wikimedia Commons",
-      "license": "CC BY 4.0",
-      "key": "2026-07-06-a"
+      "file": "candidate-a.png",
+      "tagline": "America's highway — not built for America's July",
+      "story": "On July 4th, 2026, record heat caused a concrete section of I-97 near Baltimore to buckle and thrust broken slabs and exposed rebar upward across all three northbound lanes; engineers note the road was designed to historical temperature specs that assumed modern July heat would never occur.",
+      "why_funny": "American infrastructure failed spectacularly on Independence Day because mid-20th century engineers built roads for a climate that no longer exists — and the fix takes six to nine hours on a holiday weekend.",
+      "alt": "Buckled concrete slabs with rebar pushed upward across northbound lanes of Interstate 97 in Anne Arundel County, Maryland, after extreme July 4th heat caused the pavement to blow out",
+      "source": "https://wtop.com/anne-arundel-county/2026/07/portion-of-i-97-in-anne-arundel-co-buckles-under-extreme-heat/",
+      "credit": "Eye on Annapolis / MDOT",
+      "license": "editorial — © Eye on Annapolis",
+      "key": "2026-07-07-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Commodore made a $499 retro phone — then sold branded AliExpress tat for $24.",
-      "story": "Commodore's Callback 8020 retro flip phone ($499, launched June 2026) is now joined by an official $24 'Backpack Holster' accessory — which fans immediately identified as a generic product sold on AliExpress for a fraction of the price with a Commodore logo slapped on, prompting one fan to call it 'one of the most embarrassingly awful things I've ever seen.'",
-      "why_funny": "A company charging $499 for the premium nostalgia of owning a Commodore-branded flip phone apparently expected those same fans to pay $24 extra for what is functionally a rebranded fanny-pack from a bulk Chinese wholesaler.",
-      "alt": "The official Commodore Callback 8020 Backpack Holster — a small transparent plastic backpack-style accessory with a Commodore logo, designed to carry the retro flip phone alongside a credit card or Walkman",
-      "source": "https://www.timeextension.com/news/2026/07/random-this-is-cringeworthy-commodores-callback-8020-holster-gets-ridiculed-by-fans",
-      "credit": "Time Extension",
-      "license": "editorial — © Time Extension",
-      "key": "2026-07-06-b"
+      "tagline": "Projected 77 million subscribers. Got 30 million. Fired 3,200.",
+      "story": "Microsoft publicly projected Xbox Game Pass would reach 77 million subscribers by 2026 — a target disclosed to regulators during their $70 billion Activision acquisition — but the service currently has just 30 million after a botched 50% price hike drove a mass exodus; on July 6, 2026, Xbox fired 3,200 employees and shut five studios.",
+      "why_funny": "They used 'we'll have 77 million subscribers' to justify buying the world's biggest game publisher, missed by 61%, then filed 3,200 employees out the door — turning the most over-confident pitch to antitrust regulators in gaming history into pink slips.",
+      "alt": "Original first-generation Xbox Duke controller photographed against a white background, showing the large oval form factor and green Xbox logo button",
+      "source": "https://kotaku.com/game-pass-is-reportedly-back-down-to-30-million-subscribers-2000712971",
+      "credit": "Evan-Amos / Wikimedia Commons",
+      "license": "CC0 1.0 (public domain)",
+      "key": "2026-07-07-b"
     }
   ]
 }
