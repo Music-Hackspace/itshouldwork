@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-07",
+  "date": "2026-07-08",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.png",
-      "tagline": "America's highway — not built for America's July",
-      "story": "On July 4th, 2026, record heat caused a concrete section of I-97 near Baltimore to buckle and thrust broken slabs and exposed rebar upward across all three northbound lanes; engineers note the road was designed to historical temperature specs that assumed modern July heat would never occur.",
-      "why_funny": "American infrastructure failed spectacularly on Independence Day because mid-20th century engineers built roads for a climate that no longer exists — and the fix takes six to nine hours on a holiday weekend.",
-      "alt": "Buckled concrete slabs with rebar pushed upward across northbound lanes of Interstate 97 in Anne Arundel County, Maryland, after extreme July 4th heat caused the pavement to blow out",
-      "source": "https://wtop.com/anne-arundel-county/2026/07/portion-of-i-97-in-anne-arundel-co-buckles-under-extreme-heat/",
-      "credit": "Eye on Annapolis / MDOT",
-      "license": "editorial — © Eye on Annapolis",
-      "key": "2026-07-07-a"
+      "file": "candidate-a.jpg",
+      "tagline": "Merged a rocket company, an AI company, and a Reebok logo",
+      "story": "After SpaceX acquired xAI in February 2026, Elon Musk completed the full 'SpaceXAI' rebrand on July 6 — and the new logo immediately went viral for being nearly indistinguishable from the Reebok chevron, drawing mockery from designers worldwide who noted the $4-trillion AI empire had accidentally rebranded as a mid-tier sportswear company.",
+      "why_funny": "A company consolidating the world's most expensive tech brands produced a logo that looks exactly like the one on a $40 gym bag.",
+      "alt": "The new SpaceXAI wordmark logo shown alongside the classic Reebok chevron logo in a side-by-side comparison highlighting their near-identical visual design, as covered by Creative Bloq on July 7, 2026",
+      "source": "https://www.creativebloq.com/design/logos-icons/elon-musks-new-spacexai-logo-looks-surprisingly-familiar",
+      "credit": "Creative Bloq / Future PLC",
+      "license": "editorial — © Future PLC",
+      "key": "2026-07-08-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Projected 77 million subscribers. Got 30 million. Fired 3,200.",
-      "story": "Microsoft publicly projected Xbox Game Pass would reach 77 million subscribers by 2026 — a target disclosed to regulators during their $70 billion Activision acquisition — but the service currently has just 30 million after a botched 50% price hike drove a mass exodus; on July 6, 2026, Xbox fired 3,200 employees and shut five studios.",
-      "why_funny": "They used 'we'll have 77 million subscribers' to justify buying the world's biggest game publisher, missed by 61%, then filed 3,200 employees out the door — turning the most over-confident pitch to antitrust regulators in gaming history into pink slips.",
-      "alt": "Original first-generation Xbox Duke controller photographed against a white background, showing the large oval form factor and green Xbox logo button",
-      "source": "https://kotaku.com/game-pass-is-reportedly-back-down-to-30-million-subscribers-2000712971",
-      "credit": "Evan-Amos / Wikimedia Commons",
-      "license": "CC0 1.0 (public domain)",
-      "key": "2026-07-07-b"
+      "tagline": "Google's back-tap shortcut: works perfectly without a case",
+      "story": "Google's 'Quick Tap' feature lets Pixel owners double-tap the back of their phone to trigger shortcuts, but a July 7, 2026 Pocket-lint investigation found the sensor cannot reliably detect taps through even a thin silicone case — meaning the feature is functionally useless for the overwhelming majority of users who protect their phones.",
+      "why_funny": "Google engineered a time-saving shortcut for the imaginary Pixel owner who keeps their $1,000 phone naked, leaving everyone else to tap their way to absolutely nothing.",
+      "alt": "Back view of a white Google Pixel smartphone showing the camera module and Google logo, the location of the Quick Tap gesture sensor that stops working when a phone case is applied",
+      "source": "https://www.pocket-lint.com/google-pixel-gestures-not-good-enough/",
+      "credit": "X-SHLIED / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-07-08-b"
     }
   ]
 }
