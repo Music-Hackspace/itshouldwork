@@ -1,6 +1,17 @@
 {
-  "count": 37,
+  "count": 38,
   "photos": [
+    {
+      "date": "2026-07-08",
+      "alt": "Back view of a white Google Pixel smartphone showing the camera module and Google logo, the location of the Quick Tap gesture sensor that stops working when a phone case is applied",
+      "source": "https://www.pocket-lint.com/google-pixel-gestures-not-good-enough/",
+      "credit": "X-SHLIED / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "story": "Google's 'Quick Tap' feature lets Pixel owners double-tap the back of their phone to trigger shortcuts, but a July 7, 2026 Pocket-lint investigation found the sensor cannot reliably detect taps through even a thin silicone case \u2014 meaning the feature is functionally useless for the overwhelming majority of users who protect their phones.",
+      "why_funny": "Google engineered a time-saving shortcut for the imaginary Pixel owner who keeps their $1,000 phone naked, leaving everyone else to tap their way to absolutely nothing.",
+      "id": "472e56d6b1",
+      "file": "archive/2026-07-08-472e56d6b1.jpg"
+    },
     {
       "date": "2026-07-07",
       "alt": "Buckled concrete slabs with rebar pushed upward across northbound lanes of Interstate 97 in Anne Arundel County, Maryland, after extreme July 4th heat caused the pavement to blow out",
