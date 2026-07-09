@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-08",
+  "date": "2026-07-09",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Merged a rocket company, an AI company, and a Reebok logo",
-      "story": "After SpaceX acquired xAI in February 2026, Elon Musk completed the full 'SpaceXAI' rebrand on July 6 — and the new logo immediately went viral for being nearly indistinguishable from the Reebok chevron, drawing mockery from designers worldwide who noted the $4-trillion AI empire had accidentally rebranded as a mid-tier sportswear company.",
-      "why_funny": "A company consolidating the world's most expensive tech brands produced a logo that looks exactly like the one on a $40 gym bag.",
-      "alt": "The new SpaceXAI wordmark logo shown alongside the classic Reebok chevron logo in a side-by-side comparison highlighting their near-identical visual design, as covered by Creative Bloq on July 7, 2026",
-      "source": "https://www.creativebloq.com/design/logos-icons/elon-musks-new-spacexai-logo-looks-surprisingly-familiar",
-      "credit": "Creative Bloq / Future PLC",
-      "license": "editorial — © Future PLC",
-      "key": "2026-07-08-a"
+      "tagline": "No driver, no problem — except when the problem is a lit firework.",
+      "story": "On July 4, 2026, Waymo robotaxis drove directly into lit fireworks in San Francisco, gridlocked for hours as batteries ran out, and had to be towed — while the company's handful of remote operators couldn't unstick dozens of stalled cars at once.",
+      "why_funny": "The car designed to remove human error drove into explosives because there was no human to say 'maybe don't.'",
+      "alt": "Row of white Waymo autonomous robotaxis with sensor domes on their roofs, parked on a San Francisco city street",
+      "source": "https://sfstandard.com/2026/07/05/waymo-sf-gridlock-fourth-of-july-2026/",
+      "credit": "Mliu92 / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "key": "2026-07-09-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Google's back-tap shortcut: works perfectly without a case",
-      "story": "Google's 'Quick Tap' feature lets Pixel owners double-tap the back of their phone to trigger shortcuts, but a July 7, 2026 Pocket-lint investigation found the sensor cannot reliably detect taps through even a thin silicone case — meaning the feature is functionally useless for the overwhelming majority of users who protect their phones.",
-      "why_funny": "Google engineered a time-saving shortcut for the imaginary Pixel owner who keeps their $1,000 phone naked, leaving everyone else to tap their way to absolutely nothing.",
-      "alt": "Back view of a white Google Pixel smartphone showing the camera module and Google logo, the location of the Quick Tap gesture sensor that stops working when a phone case is applied",
-      "source": "https://www.pocket-lint.com/google-pixel-gestures-not-good-enough/",
-      "credit": "X-SHLIED / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-07-08-b"
+      "tagline": "Apple scraps affordable Vision Pro — $3,499 ski goggles remain aspirational.",
+      "story": "On July 8, 2026, Samsung cancelled display development for a cheaper Apple Vision Pro after Apple abandoned the project entirely, meaning there will never be a budget version of the headset that sold only ~600,000 units in two years at $3,499.",
+      "why_funny": "Apple designed $3,499 ski goggles tethered to an external battery puck, flopped with fewer sales than a slow iPhone afternoon, then cancelled the plan to make them affordable.",
+      "alt": "A conference attendee wearing an Apple Vision Pro headset — thick goggle-like device with an external cable attached — at a technology conference",
+      "source": "https://www.macrumors.com/2026/07/08/cheaper-apple-vision-pro-display-work-ended/",
+      "credit": "Collision Conf / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "key": "2026-07-09-b"
     }
   ]
 }
