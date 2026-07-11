@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-10",
+  "date": "2026-07-11",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "Snap CEO calls $2,195 glasses 'highly wearable' while they crush his ears.",
-      "story": "At AWE 2026, Snap CEO Evan Spiegel launched £1,995 Specs AR glasses and called them 'highly wearable' — a viral clip immediately showed the chunky frames visibly bending his earlobes; press couldn't even try them on as they were kept behind glass, and Snap stock fell ~10%.",
-      "why_funny": "The CEO's own launch video disproved the 'highly wearable' pitch, and the glasses were too precious to actually wear at the launch event.",
-      "alt": "Editorial illustration of a man wearing enormous, oversized Snap Specs AR glasses that dwarf his face",
-      "source": "https://www.pcgamer.com/hardware/snap-unveils-ar-glasses-which-ceo-describes-as-highly-wearable-in-clip-that-visibly-shows-the-chunky-frames-crushing-his-earlobes/",
-      "credit": "Futurism (editorial)",
-      "license": "editorial — © Futurism",
-      "key": "2026-07-10-a"
+      "file": "candidate-a.png",
+      "tagline": "Ferrari paid the Magic Mouse guy to design their $640K EV. Go figure.",
+      "story": "Ferrari's first electric car, the Luce, was co-designed by former Apple design chief Jony Ive at a price of $640,000 — and went instantly viral when the internet noticed the car's underside looks exactly like an Apple Magic Mouse plugged in with a Lightning cable.",
+      "why_funny": "Ferrari insisted the Luce 'isn't an electric car, it's a Ferrari that happens to be electric' — then hired the guy who made everything look like Apple products and got a car that looks like an Apple product.",
+      "alt": "Side-by-side meme image showing the Ferrari Luce EV seen from below next to an Apple Magic Mouse also flipped upside-down; the resemblance is striking — both have a similarly shaped white underbody with a port in the center",
+      "source": "https://www.notebookcheck.net/640-000-Ferrari-Luce-electric-car-turns-into-a-meme-sensation-Unreleased-Apple-Car-or-a-Magic-Mouse.1306854.0.html",
+      "credit": "NotebookCheck News",
+      "license": "editorial — © NotebookCheck",
+      "key": "2026-07-11-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "'NASA-designed, cools a room in 90 seconds' — it's a £6 fan in a box.",
-      "story": "Social-media ads for cheap 'portable air conditioners' — claiming NASA engineering and a 17°C room-drop in minutes — are going viral in the UK heatwave; a YouTuber who bought one found a small evaporative fan worth a few pounds; the ASA confirmed the claims are false and is banning the ads.",
-      "why_funny": "The product was marketed with AI-generated copper-coil imagery and fake customer reviews, but opens to reveal a tiny plastic box fan that can't meaningfully cool a closet.",
-      "alt": "A small white cube-shaped device on a workbench being tested — it looks like a compact desktop fan, not an air conditioner",
-      "source": "https://www.bbc.co.uk/news/articles/cj6g41pzy41o",
-      "credit": "Stuart Matthews / BBC News",
-      "license": "editorial — © BBC",
-      "key": "2026-07-10-b"
+      "tagline": "Your AI soulmate ships July 2026 — it just stares at you from your desk.",
+      "story": "Lepro's 'Ami' — an always-on desktop device with dual cameras, eye-tracking, and AR marketed as an AI 'soulmate' for remote workers — was voted the People's Choice Worst in Show at CES 2026 and is now hitting shelves in July 2026.",
+      "why_funny": "They built a surveillance camera that watches you all day, called it your romantic companion, and the public immediately voted it the single worst product at the world's biggest tech show.",
+      "alt": "The Lepro Ami device on the CES 2026 show floor: a compact standing curved OLED display showing an animated AI avatar face, surrounded by trade show visitors",
+      "source": "https://www.ifixit.com/News/115344/worst-in-show-returns-at-ces-2026-calling-out-gadgets-that-make-things-worse",
+      "credit": "iFixit / Repair.org — Worst in Show CES 2026",
+      "license": "editorial — © iFixit",
+      "key": "2026-07-11-b"
     }
   ]
 }
