@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-11",
+  "date": "2026-07-12",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.png",
-      "tagline": "Ferrari paid the Magic Mouse guy to design their $640K EV. Go figure.",
-      "story": "Ferrari's first electric car, the Luce, was co-designed by former Apple design chief Jony Ive at a price of $640,000 — and went instantly viral when the internet noticed the car's underside looks exactly like an Apple Magic Mouse plugged in with a Lightning cable.",
-      "why_funny": "Ferrari insisted the Luce 'isn't an electric car, it's a Ferrari that happens to be electric' — then hired the guy who made everything look like Apple products and got a car that looks like an Apple product.",
-      "alt": "Side-by-side meme image showing the Ferrari Luce EV seen from below next to an Apple Magic Mouse also flipped upside-down; the resemblance is striking — both have a similarly shaped white underbody with a port in the center",
-      "source": "https://www.notebookcheck.net/640-000-Ferrari-Luce-electric-car-turns-into-a-meme-sensation-Unreleased-Apple-Car-or-a-Magic-Mouse.1306854.0.html",
-      "credit": "NotebookCheck News",
-      "license": "editorial — © NotebookCheck",
-      "key": "2026-07-11-a"
+      "file": "candidate-a.jpg",
+      "tagline": "Nokia's 'dumbphone' has a giant AI button. Need a smartphone to pay for it.",
+      "story": "HMD launched four new Nokia feature phones — explicitly marketed to people who want to escape smartphones and AI — each with a prominent dedicated AI button in the centre that, after a 180-day free trial, requires a separate smartphone app to renew the subscription.",
+      "why_funny": "The entire value proposition of a dumb phone is that you don't need a smartphone; Nokia built one that literally requires you to own a smartphone just to keep its AI button working.",
+      "alt": "Nokia 210 4G feature phone with a large dedicated AI button prominently displayed on the front keypad panel",
+      "source": "https://www.digitaltrends.com/phones/hdm-just-launched-four-dumb-phones-with-a-nokia-badge-and-an-ai-button/",
+      "credit": "Digital Trends / HMD Global (Nokia)",
+      "license": "editorial — © Digital Trends / HMD Global",
+      "key": "2026-07-12-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Your AI soulmate ships July 2026 — it just stares at you from your desk.",
-      "story": "Lepro's 'Ami' — an always-on desktop device with dual cameras, eye-tracking, and AR marketed as an AI 'soulmate' for remote workers — was voted the People's Choice Worst in Show at CES 2026 and is now hitting shelves in July 2026.",
-      "why_funny": "They built a surveillance camera that watches you all day, called it your romantic companion, and the public immediately voted it the single worst product at the world's biggest tech show.",
-      "alt": "The Lepro Ami device on the CES 2026 show floor: a compact standing curved OLED display showing an animated AI avatar face, surrounded by trade show visitors",
-      "source": "https://www.ifixit.com/News/115344/worst-in-show-returns-at-ces-2026-calling-out-gadgets-that-make-things-worse",
-      "credit": "iFixit / Repair.org — Worst in Show CES 2026",
-      "license": "editorial — © iFixit",
-      "key": "2026-07-11-b"
+      "tagline": "OpenAI's browser was going to rethink the web. It didn't last 9 months.",
+      "story": "OpenAI launched the Atlas browser in October 2025 promising to 'rethink the web itself' with AI at the core — and is shutting it down August 9, 2026, less than 9 months later, after executives decided it was a 'side quest' and folded its features into a Chrome extension instead.",
+      "why_funny": "They announced they were going to reinvent how all of humanity browses the internet, then quietly concluded the browser was basically a distraction and shipped a Chrome extension.",
+      "alt": "Screenshot of the ChatGPT Atlas browser interface, showing an AI-powered browser window with a ChatGPT sidebar alongside a standard web page",
+      "source": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "credit": "TechCrunch / OpenAI",
+      "license": "editorial — © TechCrunch / OpenAI",
+      "key": "2026-07-12-b"
     }
   ]
 }
