@@ -1,6 +1,17 @@
 {
-  "count": 40,
+  "count": 41,
   "photos": [
+    {
+      "date": "2026-07-11",
+      "alt": "The Lepro Ami device on the CES 2026 show floor: a compact standing curved OLED display showing an animated AI avatar face, surrounded by trade show visitors",
+      "source": "https://www.ifixit.com/News/115344/worst-in-show-returns-at-ces-2026-calling-out-gadgets-that-make-things-worse",
+      "credit": "iFixit / Repair.org \u2014 Worst in Show CES 2026",
+      "license": "editorial \u2014 \u00a9 iFixit",
+      "story": "Lepro's 'Ami' \u2014 an always-on desktop device with dual cameras, eye-tracking, and AR marketed as an AI 'soulmate' for remote workers \u2014 was voted the People's Choice Worst in Show at CES 2026 and is now hitting shelves in July 2026.",
+      "why_funny": "They built a surveillance camera that watches you all day, called it your romantic companion, and the public immediately voted it the single worst product at the world's biggest tech show.",
+      "id": "8d2470cc74",
+      "file": "archive/2026-07-11-8d2470cc74.jpg"
+    },
     {
       "date": "2026-07-10",
       "alt": "A small white cube-shaped device on a workbench being tested \u2014 it looks like a compact desktop fan, not an air conditioner",
