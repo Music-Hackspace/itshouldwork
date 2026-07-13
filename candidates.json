@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Nokia's 'dumbphone' has a giant AI button. Need a smartphone to pay for it.",
-      "story": "HMD launched four new Nokia feature phones — explicitly marketed to people who want to escape smartphones and AI — each with a prominent dedicated AI button in the centre that, after a 180-day free trial, requires a separate smartphone app to renew the subscription.",
-      "why_funny": "The entire value proposition of a dumb phone is that you don't need a smartphone; Nokia built one that literally requires you to own a smartphone just to keep its AI button working.",
-      "alt": "Nokia 210 4G feature phone with a large dedicated AI button prominently displayed on the front keypad panel",
-      "source": "https://www.digitaltrends.com/phones/hdm-just-launched-four-dumb-phones-with-a-nokia-badge-and-an-ai-button/",
-      "credit": "Digital Trends / HMD Global (Nokia)",
-      "license": "editorial — © Digital Trends / HMD Global",
-      "key": "2026-07-12-a"
+      "tagline": "Trump International Airport's new logo looks like AI hallucinated a bald eagle.",
+      "story": "Palm Beach airport was renamed Donald J. Trump International Airport in July 2026, but the grand new welcome-sign logo appears to be AI-generated — the eagle has deformed talons of different shapes, wings with mismatched feather counts, and only 11 stripes on its shield instead of the correct 13.",
+      "why_funny": "They renamed an entire international airport and put a giant sign out front, then apparently asked an AI for the logo and didn't look too closely at the talons.",
+      "alt": "Annotated diagram of the Trump International Airport eagle logo with arrows pointing out deformed mismatched talons, unequal wing feathers, and wrong number of shield stripes",
+      "source": "https://futurism.com/artificial-intelligence/trump-airport-logo-ai",
+      "credit": "Futurism / Frank Landymore",
+      "license": "editorial — © Futurism",
+      "key": "2026-07-13-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "OpenAI's browser was going to rethink the web. It didn't last 9 months.",
-      "story": "OpenAI launched the Atlas browser in October 2025 promising to 'rethink the web itself' with AI at the core — and is shutting it down August 9, 2026, less than 9 months later, after executives decided it was a 'side quest' and folded its features into a Chrome extension instead.",
-      "why_funny": "They announced they were going to reinvent how all of humanity browses the internet, then quietly concluded the browser was basically a distraction and shipped a Chrome extension.",
-      "alt": "Screenshot of the ChatGPT Atlas browser interface, showing an AI-powered browser window with a ChatGPT sidebar alongside a standard web page",
-      "source": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
-      "credit": "TechCrunch / OpenAI",
-      "license": "editorial — © TechCrunch / OpenAI",
-      "key": "2026-07-12-b"
+      "tagline": "You paid $300 for hearing-boost smart glasses. Meta now charges $20/month to keep using the boost.",
+      "story": "Meta quietly put 'Conversation Focus' — the hearing-amplification feature on its Ray-Ban smart glasses — behind a $20/month subscription in July 2026, giving existing owners just 3 free hours a month before the feature shuts off, angering buyers who say they should not rent hardware they already own.",
+      "why_funny": "The key feature that justified buying expensive AI glasses is now a subscription on top of the glasses you already bought — like an airline charging extra to recline a seat you're already sitting in.",
+      "alt": "Ray-Ban Meta Gen 1 smart glasses resting next to their compact charging case on a white surface",
+      "source": "https://www.thecooldown.com/green-tech/meta-smart-glasses-hearing-boost-paywall/",
+      "credit": "CCadio / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "key": "2026-07-13-b"
     }
   ]
 }
