@@ -1,6 +1,17 @@
 {
-  "count": 41,
+  "count": 42,
   "photos": [
+    {
+      "date": "2026-07-12",
+      "alt": "Screenshot of the ChatGPT Atlas browser interface, showing an AI-powered browser window with a ChatGPT sidebar alongside a standard web page",
+      "source": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "credit": "TechCrunch / OpenAI",
+      "license": "editorial \u2014 \u00a9 TechCrunch / OpenAI",
+      "story": "OpenAI launched the Atlas browser in October 2025 promising to 'rethink the web itself' with AI at the core \u2014 and is shutting it down August 9, 2026, less than 9 months later, after executives decided it was a 'side quest' and folded its features into a Chrome extension instead.",
+      "why_funny": "They announced they were going to reinvent how all of humanity browses the internet, then quietly concluded the browser was basically a distraction and shipped a Chrome extension.",
+      "id": "5d4c9b0e57",
+      "file": "archive/2026-07-12-5d4c9b0e57.jpg"
+    },
     {
       "date": "2026-07-11",
       "alt": "The Lepro Ami device on the CES 2026 show floor: a compact standing curved OLED display showing an animated AI avatar face, surrounded by trade show visitors",
