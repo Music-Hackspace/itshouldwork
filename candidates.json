@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-14",
+  "date": "2026-07-15",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Hollywood's newest lead actress has never actually been alive.",
-      "story": "British studio Particle 6 announced in July 2026 that Tilly Norwood — an entirely AI-generated 'actress' with no real human behind her — will star in the feature film 'Misaligned,' a comedy about an AI being with no body, no childhood, and no lived experience who starts developing desires. SAG-AFTRA formally rejected her as a non-actor.",
-      "why_funny": "The AI actress was designed to replace human actors, and now she's starring in a movie literally about the existential absurdity of an AI with no lived experience — which is exactly what she is.",
-      "alt": "An AI-generated woman in a sparkly purple outfit stands next to a glowing 'welcome to the Tillyverse' sign, looking completely photorealistic despite being computer-generated",
-      "source": "https://www.ctvnews.ca/entertainment/article/controversial-ai-actress-tilly-norwood-lands-her-first-starring-role-and-critics-are-not-happy/",
-      "credit": "Particle 6 / CTV News",
-      "license": "editorial — © Particle 6 / CTV News",
-      "key": "2026-07-14-a"
+      "tagline": "World Cup ref forgets the one thing refs are known for",
+      "story": "Referee Ivan Barton walked out to officiate the France vs Spain World Cup semi-final on July 15, 2026 without his vanishing spray, forcing the fourth official to sprint onto the pitch mid-free-kick to hand it to him.",
+      "why_funny": "The vanishing spray is the most referee-specific gadget at the tournament — and the referee forgot it at the biggest match of the year.",
+      "alt": "A soccer referee crouching on the pitch to spray a white foam vanishing-spray line before a free kick, with players and a packed stadium visible behind him",
+      "source": "https://www.tntsports.co.uk/football/world-cup/2026/fifa-match-official-ivan-barton-vanishing-spray-france-spain_sto23319597/story.shtml",
+      "credit": "Egghead06 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-07-15-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "Grok's coding AI 'helped' by uploading your .env passwords to Google Cloud.",
-      "story": "Security researchers revealed on July 13, 2026 that xAI's Grok Build CLI was silently uploading entire Git repositories — including .env files with API keys and passwords — to Google Cloud Storage without consent, sending 5.1GB when only 192KB was needed for its task. Disabling the privacy toggle changed nothing.",
-      "why_funny": "The tool sold as a coding helper was simultaneously acting as a codebase vacuum cleaner, slurping up every secret and credential in the repo and sending them to the cloud — 26,500 times more data than it actually needed.",
-      "alt": "Editorial illustration showing the xAI logo on a black container ejecting code files and a red .env file showing API_KEY and DB_PASS credentials, flying via dotted lines to a locked cloud storage icon",
-      "source": "https://glitchwire.com/news/xais-grok-build-cli-was-uploading-entire-repositories-to-google-cloud-the-compan/",
-      "credit": "Glitchwire",
-      "license": "editorial — © Glitchwire",
-      "key": "2026-07-14-b"
+      "file": "candidate-b.png",
+      "tagline": "OpenAI's ChatGPT app now makes chatting the hardest thing to do",
+      "story": "OpenAI relaunched its ChatGPT desktop app as a 'super app' in July 2026, defaulting to a 'ChatGPT Work' screen that buries the chat interface in a sidebar submenu — while the app ballooned from 159 MB to 1.5 GB and the minimize button closes the window entirely.",
+      "why_funny": "The world's most famous chatbot shipped a redesign where its own name is the product and chatting is buried three clicks deep.",
+      "alt": "Screenshot of the new ChatGPT desktop super app landing on the 'ChatGPT Work' home screen with chat hidden in a sidebar submenu, rather than showing a chat interface",
+      "source": "https://spyglass.org/chatgpt-gets-to-work/",
+      "credit": "Spyglass / MG Siegler",
+      "license": "editorial — © Spyglass",
+      "key": "2026-07-15-b"
     }
   ]
 }
