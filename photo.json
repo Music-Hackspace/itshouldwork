@@ -1,10 +1,10 @@
 {
   "file": "photo.jpg",
-  "date": "2026-07-13",
-  "alt": "Annotated diagram of the Trump International Airport eagle logo with arrows pointing out deformed mismatched talons, unequal wing feathers, and wrong number of shield stripes",
-  "source": "https://futurism.com/artificial-intelligence/trump-airport-logo-ai",
-  "credit": "Futurism / Frank Landymore",
-  "license": "editorial \u2014 \u00a9 Futurism",
-  "story": "Palm Beach airport was renamed Donald J. Trump International Airport in July 2026, but the grand new welcome-sign logo appears to be AI-generated \u2014 the eagle has deformed talons of different shapes, wings with mismatched feather counts, and only 11 stripes on its shield instead of the correct 13.",
-  "why_funny": "They renamed an entire international airport and put a giant sign out front, then apparently asked an AI for the logo and didn't look too closely at the talons."
+  "date": "2026-07-14",
+  "alt": "Editorial illustration showing the xAI logo on a black container ejecting code files and a red .env file showing API_KEY and DB_PASS credentials, flying via dotted lines to a locked cloud storage icon",
+  "source": "https://glitchwire.com/news/xais-grok-build-cli-was-uploading-entire-repositories-to-google-cloud-the-compan/",
+  "credit": "Glitchwire",
+  "license": "editorial \u2014 \u00a9 Glitchwire",
+  "story": "Security researchers revealed on July 13, 2026 that xAI's Grok Build CLI was silently uploading entire Git repositories \u2014 including .env files with API keys and passwords \u2014 to Google Cloud Storage without consent, sending 5.1GB when only 192KB was needed for its task. Disabling the privacy toggle changed nothing.",
+  "why_funny": "The tool sold as a coding helper was simultaneously acting as a codebase vacuum cleaner, slurping up every secret and credential in the repo and sending them to the cloud \u2014 26,500 times more data than it actually needed."
 }
