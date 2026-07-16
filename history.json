@@ -1,6 +1,17 @@
 {
-  "count": 44,
+  "count": 45,
   "photos": [
+    {
+      "date": "2026-07-15",
+      "alt": "A soccer referee crouching on the pitch to spray a white foam vanishing-spray line before a free kick, with players and a packed stadium visible behind him",
+      "source": "https://www.tntsports.co.uk/football/world-cup/2026/fifa-match-official-ivan-barton-vanishing-spray-france-spain_sto23319597/story.shtml",
+      "credit": "Egghead06 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "story": "Referee Ivan Barton walked out to officiate the France vs Spain World Cup semi-final on July 15, 2026 without his vanishing spray, forcing the fourth official to sprint onto the pitch mid-free-kick to hand it to him.",
+      "why_funny": "The vanishing spray is the most referee-specific gadget at the tournament \u2014 and the referee forgot it at the biggest match of the year.",
+      "id": "70f563fbb7",
+      "file": "archive/2026-07-15-70f563fbb7.jpg"
+    },
     {
       "date": "2026-07-14",
       "alt": "Editorial illustration showing the xAI logo on a black container ejecting code files and a red .env file showing API_KEY and DB_PASS credentials, flying via dotted lines to a locked cloud storage icon",
