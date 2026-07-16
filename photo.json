@@ -1,10 +1,10 @@
 {
   "file": "photo.jpg",
-  "date": "2026-07-14",
-  "alt": "Editorial illustration showing the xAI logo on a black container ejecting code files and a red .env file showing API_KEY and DB_PASS credentials, flying via dotted lines to a locked cloud storage icon",
-  "source": "https://glitchwire.com/news/xais-grok-build-cli-was-uploading-entire-repositories-to-google-cloud-the-compan/",
-  "credit": "Glitchwire",
-  "license": "editorial \u2014 \u00a9 Glitchwire",
-  "story": "Security researchers revealed on July 13, 2026 that xAI's Grok Build CLI was silently uploading entire Git repositories \u2014 including .env files with API keys and passwords \u2014 to Google Cloud Storage without consent, sending 5.1GB when only 192KB was needed for its task. Disabling the privacy toggle changed nothing.",
-  "why_funny": "The tool sold as a coding helper was simultaneously acting as a codebase vacuum cleaner, slurping up every secret and credential in the repo and sending them to the cloud \u2014 26,500 times more data than it actually needed."
+  "date": "2026-07-15",
+  "alt": "A soccer referee crouching on the pitch to spray a white foam vanishing-spray line before a free kick, with players and a packed stadium visible behind him",
+  "source": "https://www.tntsports.co.uk/football/world-cup/2026/fifa-match-official-ivan-barton-vanishing-spray-france-spain_sto23319597/story.shtml",
+  "credit": "Egghead06 / Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "story": "Referee Ivan Barton walked out to officiate the France vs Spain World Cup semi-final on July 15, 2026 without his vanishing spray, forcing the fourth official to sprint onto the pitch mid-free-kick to hand it to him.",
+  "why_funny": "The vanishing spray is the most referee-specific gadget at the tournament \u2014 and the referee forgot it at the biggest match of the year."
 }
