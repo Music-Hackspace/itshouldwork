@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-16",
+  "date": "2026-07-17",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Built a billion-dollar closed stadium. Forgot grass needs sunlight.",
-      "story": "For the 2026 FIFA World Cup, AT&T Stadium hung 18 massive LED rigs from its ceiling and bathed the entire interior in magenta-pink light for months — because the retractable roof that makes the arena weather-proof also blocks the sunlight FIFA requires natural grass to have.",
-      "why_funny": "A $1.2 billion NFL stadium needed a full-scale indoor farm installation because the architects never considered that football grass and World Cup grass have one thing in common: they both need the sun.",
-      "alt": "Interior of AT&T Stadium in Arlington Texas glowing bright magenta-pink from rows of LED grow lights on suspended trusses above the soccer field, with the stands and giant video screens visible in the pink-lit darkness",
-      "source": "https://dallas.culturemap.com/news/entertainment/fifa-world-cup-field-arlington/",
-      "credit": "CultureMap Dallas",
-      "license": "editorial — © CultureMap Dallas",
-      "key": "2026-07-16-a"
+      "tagline": "FIFA picked a stadium stranded in NJ swampland for the World Cup Final",
+      "story": "The 2026 FIFA World Cup Final is at MetLife Stadium on July 19 — an 80,000-seat venue in the New Jersey Meadowlands completely surrounded by highway ramps and parking lots, with no direct subway from New York City, forcing fans to pay $98 for a two-train transfer or $225 to park near the American Dream mall.",
+      "why_funny": "FIFA sold 80,000 tickets to the world's biggest soccer event at America's most car-dependent stadium, then told everyone there was no parking and to take a bus — in New Jersey.",
+      "alt": "Aerial view of MetLife Stadium in East Rutherford, New Jersey, showing the arena completely encircled by parking lots and highway access ramps with no rail line or pedestrian approach visible",
+      "source": "https://www.salon.com/2026/06/03/getting-to-the-world-cup-wont-be-a-walk-in-the-park/",
+      "credit": "Anthony Quintano / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "key": "2026-07-17-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "Amazon's 'humans pretending to be AI' platform loses to actual AI after 21 years",
-      "story": "Amazon is shutting Mechanical Turk to new customers by July 30, 2026 — the platform named after an 18th-century chess 'automaton' that hid a human grandmaster in its cabinet built its whole business on paying people to do tasks AI couldn't handle, until AI could handle all of them.",
-      "why_funny": "Amazon created 'Artificial Artificial Intelligence' — a machine that was secretly a person — only for real artificial intelligence to make both the machine and the person inside completely redundant.",
-      "alt": "The original 18th-century Mechanical Turk chess-playing automaton on display: a wooden mannequin in a turban seated at a large cabinet chessboard, with the hinged compartments open below showing where a human chess master would hide during performances",
-      "source": "https://www.theregister.com/off-prem/2026/07/03/amazons-mechanical-turk-to-stop-accepting-new-customers-and-not-even-ai-can-save-it/",
-      "credit": "Marcin Wichary / Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "key": "2026-07-16-b"
+      "file": "candidate-b.webp",
+      "tagline": "Japan's 'last human social network' beat AI by closing in 6 months",
+      "story": "POPOPO — launched March 2026, backed by 4chan founder Hiroyuki, Evangelion director Hideaki Anno, and musician GACKT as 'the last human-made social network in the AI era' — announced its shutdown on July 15, 2026, only six months after launch, with the team stating 'we failed spectacularly.'",
+      "why_funny": "They declared war on AI with 'the last human social network,' then built an app where humans communicate exclusively through anime avatars called Holosuits, and it still collapsed in half a year.",
+      "alt": "Official POPOPO app promotional image showing two anime-style 3D avatar characters standing next to smartphones displaying video call screens, surrounded by floating cartoon mascots — a cat, panda, bear with a crown, and robot — against a bright blue background, with the POPOPO logo and Japanese text reading 'video calling without a camera'",
+      "source": "https://automaton-media.com/en/news/hiroyuki-hideaki-anno-and-gackts-last-human-made-social-network-in-the-ai-era-to-shut-down-after-only-6-months-we-failed-spectacularly/",
+      "credit": "POPOPO / GrowthEast Inc. (via Mogura VR)",
+      "license": "editorial — © POPOPO / GrowthEast Inc.",
+      "key": "2026-07-17-b"
     }
   ]
 }
