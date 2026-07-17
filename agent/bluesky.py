@@ -6,12 +6,19 @@ Used by post-bluesky.py (daily pick) and post-throwback.py (weekly throwback).
 import io
 import json
 import os
+import sys
+import time
 import urllib.request
 import urllib.error
 from datetime import datetime, timezone
 
 PDS = "https://bsky.social"
 MAX_IMAGE_BYTES = 976_000  # Bluesky blob limit is ~1MB
+
+# Bluesky's PDS returns transient 429/5xx (e.g. "502 UpstreamFailure") under
+# load; retry those a few times with backoff so one blip doesn't fail the run.
+RETRY_STATUSES = {429, 500, 502, 503, 504}
+MAX_ATTEMPTS = 4
 
 
 def api(method, token, body=None, raw=None, content_type=None):
@@ -25,9 +32,27 @@ def api(method, token, body=None, raw=None, content_type=None):
     else:
         data = json.dumps(body or {}).encode()
         headers["Content-Type"] = "application/json"
-    req = urllib.request.Request(url, data=data, headers=headers, method="POST")
-    with urllib.request.urlopen(req) as resp:
-        return json.loads(resp.read())
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        req = urllib.request.Request(url, data=data, headers=headers, method="POST")
+        try:
+            with urllib.request.urlopen(req) as resp:
+                return json.loads(resp.read())
+        except urllib.error.HTTPError as e:
+            if e.code in RETRY_STATUSES and attempt < MAX_ATTEMPTS:
+                wait = 2 ** attempt  # 2s, 4s, 8s
+                print(f"bluesky: {method} HTTP {e.code}, retry {attempt}/"
+                      f"{MAX_ATTEMPTS - 1} in {wait}s.", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            raise
+        except urllib.error.URLError as e:
+            if attempt < MAX_ATTEMPTS:
+                wait = 2 ** attempt
+                print(f"bluesky: {method} {e.reason}, retry {attempt}/"
+                      f"{MAX_ATTEMPTS - 1} in {wait}s.", file=sys.stderr)
+                time.sleep(wait)
+                continue
+            raise
 
 
 def truncate(text, limit):

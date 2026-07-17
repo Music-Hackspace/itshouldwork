@@ -83,6 +83,9 @@ jobs:
             git add agent/throwback-log.json
             git commit -m "Record throwback post"
             git remote set-url origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-            git pull --rebase origin main
+            # --autostash: the posting step can leave stray working-tree changes
+            # (e.g. Pillow-recompressed artifacts) that would otherwise abort the
+            # rebase with "cannot pull with rebase: You have unstaged changes."
+            git pull --rebase --autostash origin main
             git push origin HEAD:main
           fi
