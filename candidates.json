@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-18",
+  "date": "2026-07-19",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "OpenAI built a $230 keyboard so you can boss around your AI coding agents",
-      "story": "OpenAI launched its first-ever hardware product on July 15, 2026 — the Codex Micro, a $230 macro pad co-designed with Work Louder, featuring light-up 'Agent Keys' that glow different colors to show whether AI coding agents are idle, working, done, or erroring, plus a joystick and a dial to adjust AI 'reasoning' levels.",
-      "why_funny": "The company whose AI assistants are supposed to replace programmers just shipped a $230 specialized device to help programmers more efficiently supervise their AI assistants.",
-      "alt": "The OpenAI Codex Micro — a compact square macro pad with 13 illuminated mechanical keys in a dark housing, a rotary dial, small joystick, and color-coded LED status lights showing Codex agent states — displayed against a dark background with the OpenAI branding visible",
-      "source": "https://interestingengineering.com/ai-robotics/openai-codex-micro-ai-coding-keyboard",
-      "credit": "Interesting Engineering / OpenAI",
-      "license": "editorial — © OpenAI / Interesting Engineering",
-      "key": "2026-07-18-a"
+      "tagline": "Hyundai's Atlas kicked a ball at the World Cup; its factory workers kicked back with the first humanoid robot strike ever",
+      "story": "Hyundai deployed Boston Dynamics' Atlas robots to deliver the match ball at the FIFA World Cup on July 5 as a PR stunt, then 39,000 Hyundai factory workers launched the first-ever humanoid robot factory strike on July 13, demanding a say before Atlas enters their plants.",
+      "why_funny": "The same company that paid millions to showcase its human-replacement robots at the world's biggest sporting event triggered the first worker rebellion against those exact robots within two weeks.",
+      "alt": "Boston Dynamics' Atlas humanoid robot standing in an industrial promotional setting with Hyundai branding, the white and black bipedal robot looking both impressive and faintly ominous next to a Hyundai vehicle",
+      "source": "https://www.carscoops.com/2026/07/hyundai-workers-strike-robots/",
+      "credit": "Carscoops / Hyundai Motor Group",
+      "license": "editorial — © Hyundai Motor Group / Carscoops",
+      "key": "2026-07-19-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "Google's CEO said 'give us a month' for Gemini. He said it three times.",
-      "story": "Google's Gemini 3.5 Pro — announced at Google I/O in May 2026, with CEO Sundar Pichai telling a visibly frustrated crowd of developers 'Give us until next month to get it to you' — has since missed its promised June launch and its rescheduled July 17 target, making it the most publicly broken tech promise of the year.",
-      "why_funny": "The CEO of the world's most powerful search and AI infrastructure company promised his flagship model three times and missed all three, while rival models GPT-5.6 and Grok 4.5 already shipped.",
-      "alt": "Sundar Pichai, CEO of Google and Alphabet, on stage at the Google I/O developer conference at Moscone Center in San Francisco, presenting to a packed auditorium of developers with the Google I/O stage backdrop and lighting visible behind him",
-      "source": "https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/",
-      "credit": "Maurizio Pesce / Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "key": "2026-07-18-b"
+      "file": "candidate-b.png",
+      "tagline": "A sandwich chain mentioned AI 22 times in its IPO filing. It sells sandwiches.",
+      "story": "Jersey Mike's Subs filed its IPO documents in July 2026 mentioning 'artificial intelligence' or 'AI' 22 times — more than weather (5 times) or lightning (0 times), despite a location being struck by lightning in 2021 — because 'AI' is apparently what unlocks investor dollars when you sell cold cuts.",
+      "why_funny": "They dropped AI four times more often than they mentioned weather in an IPO for a business whose core technology is a deli slicer, and the investment banks apparently nodded along.",
+      "alt": "An AI-generated illustration of a glowing surreal sandwich with neural network patterns woven into the bread and fillings, representing the absurd collision of AI hype and the sandwich industry",
+      "source": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+      "credit": "TechCrunch",
+      "license": "editorial — © TechCrunch",
+      "key": "2026-07-19-b"
     }
   ]
 }
