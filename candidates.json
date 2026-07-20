@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-19",
+  "date": "2026-07-20",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Hyundai's Atlas kicked a ball at the World Cup; its factory workers kicked back with the first humanoid robot strike ever",
-      "story": "Hyundai deployed Boston Dynamics' Atlas robots to deliver the match ball at the FIFA World Cup on July 5 as a PR stunt, then 39,000 Hyundai factory workers launched the first-ever humanoid robot factory strike on July 13, demanding a say before Atlas enters their plants.",
-      "why_funny": "The same company that paid millions to showcase its human-replacement robots at the world's biggest sporting event triggered the first worker rebellion against those exact robots within two weeks.",
-      "alt": "Boston Dynamics' Atlas humanoid robot standing in an industrial promotional setting with Hyundai branding, the white and black bipedal robot looking both impressive and faintly ominous next to a Hyundai vehicle",
-      "source": "https://www.carscoops.com/2026/07/hyundai-workers-strike-robots/",
-      "credit": "Carscoops / Hyundai Motor Group",
-      "license": "editorial — © Hyundai Motor Group / Carscoops",
-      "key": "2026-07-19-a"
+      "tagline": "$6,880 for a ZTE phone in calfskin that can't tell 2am from 9pm",
+      "story": "Vertu's $6,880 Alphafold — reviewed by TechCrunch on July 17, 2026 — is fundamentally a $1,100 ZTE foldable phone wrapped in calfskin leather and titanium; the flagship AI executive assistant set a reminder for 9:08pm when asked at 2:32am, forgot documents it had analyzed days earlier, and abandoned a business travel booking mid-task.",
+      "why_funny": "An AI assistant sold at a 6x luxury markup as a replacement for your executive PA cannot tell the difference between 2am and 9pm.",
+      "alt": "Vertu Alphafold foldable phone standing open on a wooden table in front of floral wallpaper, showing the home screen with the tagline 'LIFE BEAUTIFULLY ARRANGED' and the VERTU Hermes AI app icon",
+      "source": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "credit": "TechCrunch / Vertu",
+      "license": "editorial — © TechCrunch / Vertu",
+      "key": "2026-07-20-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.png",
-      "tagline": "A sandwich chain mentioned AI 22 times in its IPO filing. It sells sandwiches.",
-      "story": "Jersey Mike's Subs filed its IPO documents in July 2026 mentioning 'artificial intelligence' or 'AI' 22 times — more than weather (5 times) or lightning (0 times), despite a location being struck by lightning in 2021 — because 'AI' is apparently what unlocks investor dollars when you sell cold cuts.",
-      "why_funny": "They dropped AI four times more often than they mentioned weather in an IPO for a business whose core technology is a deli slicer, and the investment banks apparently nodded along.",
-      "alt": "An AI-generated illustration of a glowing surreal sandwich with neural network patterns woven into the bread and fillings, representing the absurd collision of AI hype and the sandwich industry",
-      "source": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-      "credit": "TechCrunch",
-      "license": "editorial — © TechCrunch",
-      "key": "2026-07-19-b"
+      "file": "candidate-b.jpg",
+      "tagline": "AWS charges a guy $7 trillion. His normal bill: five cents.",
+      "story": "Amazon Web Services' billing system confused gigabytes with bytes on July 17, 2026 — a 1-billion-fold unit conversion error — sending customers estimated bills as high as $7.1 trillion for accounts that normally owe pennies; AWS acknowledged the bug on social media with: 'Typo alert: Slight miscalculation on our end (very slight)'",
+      "why_funny": "The company trusted with running roughly a third of the internet's infrastructure made a CS101 bytes-vs-gigabytes mistake and invoiced one customer for more than twice Amazon's entire market cap.",
+      "alt": "Chromatic-aberration glitch effect on the AWS logo — the lowercase 'aws' lettering appears with yellow and blue colour-channel offsets against a dark grey background, with the familiar Amazon orange arrow-smile beneath",
+      "source": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
+      "credit": "TechCrunch / Amazon Web Services",
+      "license": "editorial — © TechCrunch / Amazon Web Services",
+      "key": "2026-07-20-b"
     }
   ]
 }
