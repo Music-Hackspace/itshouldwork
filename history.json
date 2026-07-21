@@ -1,6 +1,17 @@
 {
-  "count": 49,
+  "count": 50,
   "photos": [
+    {
+      "date": "2026-07-20",
+      "alt": "Chromatic-aberration glitch effect on the AWS logo \u2014 the lowercase 'aws' lettering appears with yellow and blue colour-channel offsets against a dark grey background, with the familiar Amazon orange arrow-smile beneath",
+      "source": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
+      "credit": "TechCrunch / Amazon Web Services",
+      "license": "editorial \u2014 \u00a9 TechCrunch / Amazon Web Services",
+      "story": "Amazon Web Services' billing system confused gigabytes with bytes on July 17, 2026 \u2014 a 1-billion-fold unit conversion error \u2014 sending customers estimated bills as high as $7.1 trillion for accounts that normally owe pennies; AWS acknowledged the bug on social media with: 'Typo alert: Slight miscalculation on our end (very slight)'",
+      "why_funny": "The company trusted with running roughly a third of the internet's infrastructure made a CS101 bytes-vs-gigabytes mistake and invoiced one customer for more than twice Amazon's entire market cap.",
+      "id": "603908f071",
+      "file": "archive/2026-07-20-603908f071.jpg"
+    },
     {
       "date": "2026-07-19",
       "alt": "Boston Dynamics' Atlas humanoid robot standing in an industrial promotional setting with Hyundai branding, the white and black bipedal robot looking both impressive and faintly ominous next to a Hyundai vehicle",
