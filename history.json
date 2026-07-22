@@ -1,6 +1,17 @@
 {
-  "count": 50,
+  "count": 51,
   "photos": [
+    {
+      "date": "2026-07-21",
+      "alt": "Colorful Lollipop Star bone-conduction candy sticks displayed at CES 2026",
+      "source": "https://www.gearnews.com/lollipop-star-tech/",
+      "credit": "GearNews / LAVA (manufacturer)",
+      "license": "editorial \u2014 \u00a9 GearNews",
+      "story": "Lollipop Star debuted at CES 2026 as a single-use bone-conduction candy that beams celebrity songs through your jawbone to your inner ear, but only if you also wear earplugs to block ambient noise \u2014 after one session you throw away a plastic stick containing a lithium battery and a circuit board.",
+      "why_funny": "The 'Worst in Show' at CES 2026: you eat a $9 lollipop, plug your ears, and chew for music \u2014 the candy IS the speaker, the landfill IS the packaging.",
+      "id": "dc1d539bf2",
+      "file": "archive/2026-07-21-dc1d539bf2.jpg"
+    },
     {
       "date": "2026-07-20",
       "alt": "Chromatic-aberration glitch effect on the AWS logo \u2014 the lowercase 'aws' lettering appears with yellow and blue colour-channel offsets against a dark grey background, with the familiar Amazon orange arrow-smile beneath",
