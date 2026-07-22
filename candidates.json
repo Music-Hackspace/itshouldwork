@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-21",
+  "date": "2026-07-22",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "The $9 lollipop that plays music into your skull — earplugs sold separately",
-      "story": "Lollipop Star debuted at CES 2026 as a single-use bone-conduction candy that beams celebrity songs through your jawbone to your inner ear, but only if you also wear earplugs to block ambient noise — after one session you throw away a plastic stick containing a lithium battery and a circuit board.",
-      "why_funny": "The 'Worst in Show' at CES 2026: you eat a $9 lollipop, plug your ears, and chew for music — the candy IS the speaker, the landfill IS the packaging.",
-      "alt": "Colorful Lollipop Star bone-conduction candy sticks displayed at CES 2026",
-      "source": "https://www.gearnews.com/lollipop-star-tech/",
-      "credit": "GearNews / LAVA (manufacturer)",
-      "license": "editorial — © GearNews",
-      "key": "2026-07-21-a"
+      "tagline": "148 teams, one jury, one winner. Ecuador: 'It looks like DoodleBob.'",
+      "story": "Studio Campo Baeza and MAODA won an international competition to design Ecuador's new National Museum with 'Echoes of the Sun' — announced July 6, 2026 — but within days 20,000 Ecuadorians signed a petition comparing the concrete block to a cardboard box and DoodleBob from SpongeBob, the Vice Minister of Culture resigned, and the government 'recalled' the winning design.",
+      "why_funny": "148 architecture teams from 20+ countries competed, an international expert jury crowned a winner, and Ecuador's public response was to circulate a petition calling the proposed national museum a SpongeBob character — and the government agreed.",
+      "alt": "Architectural rendering of the MUNA Quito competition-winning design — a massive pale concrete cube with irregularly-spaced rectangular window cutouts on its facade, set in a city block next to La Carolina Park with Quito's mountains visible in the background",
+      "source": "https://www.dezeen.com/2026/07/15/national-museum-ecuador-recall-campo-baeza/",
+      "credit": "Studio Campo Baeza / MAODA via ArchDaily",
+      "license": "editorial — © Studio Campo Baeza / MAODA",
+      "key": "2026-07-22-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Samsung's 'Bespoke' fridge is no longer bespoke — now comes with ads instead",
-      "story": "Samsung's Bespoke AI Family Hub fridge (the name literally means 'custom-made') built its $3,500 brand on swappable door panels to match your kitchen — then on July 1, 2026, Samsung quietly removed interchangeable panels from all new models, while also showing banner ads for Tide on a screen you cannot fully disable.",
-      "why_funny": "A fridge named 'Bespoke' that removed customization and added ads: the only thing bespoke about it now is the price.",
-      "alt": "Samsung smart refrigerator with large touchscreen display on the door",
-      "source": "https://www.morningbrew.com/stories/2026/03/24/nobody-wants-ads-on-their-fridge",
-      "credit": "Eliseandchai / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-07-21-b"
+      "tagline": "Amazon's self-driving cab got confused by smoke — a human had to reverse it.",
+      "story": "Amazon's Zoox robotaxi drove into an active fire scene in Las Vegas on June 20, 2026, braked hard when it hit heavy smoke, and was unable to back itself out — a human teleoperator had to remotely reverse it so first responders could place cones; Zoox then issued a software recall for all 105 of its self-driving vehicles because none had been programmed to detect smoke.",
+      "why_funny": "The vehicle designed to eliminate human driving error needed a human to perform the most basic manoeuvre — reversing — because nobody thought to teach it that fires produce smoke.",
+      "alt": "A black Zoox autonomous robotaxi van seen from behind on a city street, with sensor pods on its roof and two square orange rear lights that resemble cartoon eyes",
+      "source": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
+      "credit": "TechCrunch / Zoox",
+      "license": "editorial — © TechCrunch / Zoox",
+      "key": "2026-07-22-b"
     }
   ]
 }
