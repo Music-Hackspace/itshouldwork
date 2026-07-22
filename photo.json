@@ -1,10 +1,10 @@
 {
   "file": "photo.jpg",
-  "date": "2026-07-20",
-  "alt": "Chromatic-aberration glitch effect on the AWS logo \u2014 the lowercase 'aws' lettering appears with yellow and blue colour-channel offsets against a dark grey background, with the familiar Amazon orange arrow-smile beneath",
-  "source": "https://techcrunch.com/2026/07/17/amazon-fixing-bug-that-billed-some-aws-customers-billions-of-dollars/",
-  "credit": "TechCrunch / Amazon Web Services",
-  "license": "editorial \u2014 \u00a9 TechCrunch / Amazon Web Services",
-  "story": "Amazon Web Services' billing system confused gigabytes with bytes on July 17, 2026 \u2014 a 1-billion-fold unit conversion error \u2014 sending customers estimated bills as high as $7.1 trillion for accounts that normally owe pennies; AWS acknowledged the bug on social media with: 'Typo alert: Slight miscalculation on our end (very slight)'",
-  "why_funny": "The company trusted with running roughly a third of the internet's infrastructure made a CS101 bytes-vs-gigabytes mistake and invoiced one customer for more than twice Amazon's entire market cap."
+  "date": "2026-07-21",
+  "alt": "Colorful Lollipop Star bone-conduction candy sticks displayed at CES 2026",
+  "source": "https://www.gearnews.com/lollipop-star-tech/",
+  "credit": "GearNews / LAVA (manufacturer)",
+  "license": "editorial \u2014 \u00a9 GearNews",
+  "story": "Lollipop Star debuted at CES 2026 as a single-use bone-conduction candy that beams celebrity songs through your jawbone to your inner ear, but only if you also wear earplugs to block ambient noise \u2014 after one session you throw away a plastic stick containing a lithium battery and a circuit board.",
+  "why_funny": "The 'Worst in Show' at CES 2026: you eat a $9 lollipop, plug your ears, and chew for music \u2014 the candy IS the speaker, the landfill IS the packaging."
 }
