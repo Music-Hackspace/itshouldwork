@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-22",
+  "date": "2026-07-23",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "148 teams, one jury, one winner. Ecuador: 'It looks like DoodleBob.'",
-      "story": "Studio Campo Baeza and MAODA won an international competition to design Ecuador's new National Museum with 'Echoes of the Sun' — announced July 6, 2026 — but within days 20,000 Ecuadorians signed a petition comparing the concrete block to a cardboard box and DoodleBob from SpongeBob, the Vice Minister of Culture resigned, and the government 'recalled' the winning design.",
-      "why_funny": "148 architecture teams from 20+ countries competed, an international expert jury crowned a winner, and Ecuador's public response was to circulate a petition calling the proposed national museum a SpongeBob character — and the government agreed.",
-      "alt": "Architectural rendering of the MUNA Quito competition-winning design — a massive pale concrete cube with irregularly-spaced rectangular window cutouts on its facade, set in a city block next to La Carolina Park with Quito's mountains visible in the background",
-      "source": "https://www.dezeen.com/2026/07/15/national-museum-ecuador-recall-campo-baeza/",
-      "credit": "Studio Campo Baeza / MAODA via ArchDaily",
-      "license": "editorial — © Studio Campo Baeza / MAODA",
-      "key": "2026-07-22-a"
+      "tagline": "Coca-Cola's rebrand brief: 'More Coca-Cola.' The internet: 'That's a Marlboro.'",
+      "story": "On July 20, 2026 Coca-Cola launched a global visual identity refresh — its new 'Better With' serif typeface is so similar to Marlboro's font that social media users immediately posted side-by-side comparisons, calling it the 'fridge cigarette' rebrand; simultaneously, swapping from black to white lettering makes Coke Zero nearly indistinguishable from regular Coke, alarming diabetics who rely on the colour difference.",
+      "why_funny": "The world's most iconic drink brand paid a branding agency millions to look 'more Coca-Cola' and accidentally arrived at 'more Marlboro' — while also making the safe-for-diabetics version of their drink invisible on the shelf.",
+      "alt": "New 2026 Coca-Cola global brand refresh showing the redesigned red-and-white cans and bottles with the updated tall serif typeface that internet users compare to Marlboro cigarette packaging",
+      "source": "https://www.dexerto.com/food/coca-cola-reveals-new-coke-can-designs-in-massive-global-brand-refresh-3389466/",
+      "credit": "The Coca-Cola Company via Dexerto",
+      "license": "editorial — © The Coca-Cola Company / Dexerto",
+      "key": "2026-07-23-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Amazon's self-driving cab got confused by smoke — a human had to reverse it.",
-      "story": "Amazon's Zoox robotaxi drove into an active fire scene in Las Vegas on June 20, 2026, braked hard when it hit heavy smoke, and was unable to back itself out — a human teleoperator had to remotely reverse it so first responders could place cones; Zoox then issued a software recall for all 105 of its self-driving vehicles because none had been programmed to detect smoke.",
-      "why_funny": "The vehicle designed to eliminate human driving error needed a human to perform the most basic manoeuvre — reversing — because nobody thought to teach it that fires produce smoke.",
-      "alt": "A black Zoox autonomous robotaxi van seen from behind on a city street, with sensor pods on its roof and two square orange rear lights that resemble cartoon eyes",
-      "source": "https://techcrunch.com/2026/07/17/zoox-issues-software-recall-after-a-robotaxi-got-confused-by-heavy-smoke/",
-      "credit": "TechCrunch / Zoox",
-      "license": "editorial — © TechCrunch / Zoox",
-      "key": "2026-07-22-b"
+      "tagline": "Elon promised 250,000 Cybertrucks a year. It's outsold by a 1958 Ford.",
+      "story": "Sales data published July 22, 2026 shows the Tesla Cybertruck — pre-reserved by over 2 million people and predicted by Elon Musk to sell 250,000+ units in its first year — registered just 38,965 units in 2024, 20,237 in 2025, and 7,133 through May 2026; Jalopnik and Bloomberg both declared it now sells at a pace worse than the Ford Edsel, the car that has been shorthand for 'legendary automotive disaster' since 1958.",
+      "why_funny": "The most pre-ordered vehicle in the history of the automobile turned out to sell slower than the universally-mocked car from the Eisenhower administration that became the dictionary definition of a flop.",
+      "alt": "A silver stainless-steel Tesla Cybertruck parked on a residential street corner in Greenwich, its distinctive angular wedge-shaped body gleaming in daylight",
+      "source": "https://www.jalopnik.com/2220957/tesla-cybertruck-flop-edsel",
+      "credit": "Mr.choppers / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "key": "2026-07-23-b"
     }
   ]
 }
