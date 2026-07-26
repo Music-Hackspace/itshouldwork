@@ -1,6 +1,17 @@
 {
-  "count": 53,
+  "count": 54,
   "photos": [
+    {
+      "date": "2026-07-24",
+      "alt": "Apple Mac mini M4 desktop computer photographed at an angle showing its front USB-C ports and the bottom face of the device, where the power button is hidden from normal view",
+      "source": "https://bgr.com/tech/one-of-the-mac-minis-biggest-flaws-has-finally-been-fixed/",
+      "credit": "Seasider53 / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "story": "Apple's Mac mini M4 (launched late 2024) has its power button recessed on the underside of the device, requiring users to flip their computer upside-down to press it; Apple defended the choice saying users 'hardly ever' need the physical button, until macOS 26.5 added a keyboard shortcut workaround in May 2026.",
+      "why_funny": "Apple charged up to 1,399 USD for a desktop computer and hid the on/off button where no one can see or reach it without turning the whole machine upside-down \u2014 then justified this by saying nobody uses it anyway.",
+      "id": "e41b8bb3b5",
+      "file": "archive/2026-07-24-e41b8bb3b5.jpg"
+    },
     {
       "date": "2026-07-23",
       "alt": "New 2026 Coca-Cola global brand refresh showing the redesigned red-and-white cans and bottles with the updated tall serif typeface that internet users compare to Marlboro cigarette packaging",
