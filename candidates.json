@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-24",
+  "date": "2026-07-26",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "They look just like regular sunglasses — and that's the whole problem",
-      "story": "Meta's Ray-Ban smart glasses are so well-designed to blend in that bystanders can't tell they're being filmed; singer Lorde told a Meta-sponsored Madrid festival crowd in July 2026 'don't get the glasses — they are not sexy,' and Meta has since added an Instagram ban for glasses-enabled harassment after public backlash.",
-      "why_funny": "The glasses succeeded perfectly at looking like normal sunglasses — which is exactly why everyone is outraged. They worked as designed.",
-      "alt": "Black Ray-Ban Wayfarer-style smart glasses resting in front of their tan leather charging case, indistinguishable from regular sunglasses with no visible camera",
-      "source": "https://techcrunch.com/2026/07/14/lorde-says-ai-glasses-are-not-sexy/",
-      "credit": "CCadio / Wikimedia Commons",
-      "license": "CC BY 4.0",
-      "key": "2026-07-24-a"
+      "file": "candidate-a.png",
+      "tagline": "China's biggest AI conference: 300 product debuts, one pony ride",
+      "story": "At China's World AI Conference (WAIC 2026) in Shanghai — where 300+ AI products debuted promising to transform civilization — the viral moment was a smiling conference-goer riding a quadruped robot like a fairground pony through the exhibition hall.",
+      "why_funny": "Every CEO pitched world-changing AI robotics; the actual crowd-pleaser at the world's biggest AI expo was giving people pony rides.",
+      "alt": "A woman sits and rides a sleek silver and black quadruped robot through a tech conference exhibition hall as a large crowd surrounds her, laughing and taking photos",
+      "source": "https://www.globaltimes.cn/page/202607/1366283.shtml",
+      "credit": "Global Times",
+      "license": "editorial — © Global Times",
+      "key": "2026-07-26-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "Apple hid the Mac mini power button on the BOTTOM — 'people hardly use it'",
-      "story": "Apple's Mac mini M4 (launched late 2024) has its power button recessed on the underside of the device, requiring users to flip their computer upside-down to press it; Apple defended the choice saying users 'hardly ever' need the physical button, until macOS 26.5 added a keyboard shortcut workaround in May 2026.",
-      "why_funny": "Apple charged up to 1,399 USD for a desktop computer and hid the on/off button where no one can see or reach it without turning the whole machine upside-down — then justified this by saying nobody uses it anyway.",
-      "alt": "Apple Mac mini M4 desktop computer photographed at an angle showing its front USB-C ports and the bottom face of the device, where the power button is hidden from normal view",
-      "source": "https://bgr.com/tech/one-of-the-mac-minis-biggest-flaws-has-finally-been-fixed/",
-      "credit": "Seasider53 / Wikimedia Commons",
-      "license": "CC BY 4.0",
-      "key": "2026-07-24-b"
+      "file": "candidate-b.png",
+      "tagline": "AI Love Irondale Day: the revolution is a man in a robot suit",
+      "story": "Irondale, Alabama rebranded its community festival as 'AI Love Irondale Day' to attract tech investment, faced an immediate online backlash calling it 'a pep rally for data centers,' and the mayor reversed course within days — but the festival's AI robot turned out to be a performer in an enormous LED-lit costume dancing in a parking lot.",
+      "why_funny": "The town promised an AI-powered future and delivered a dude in a very large plastic robot suit doing the Achy Breaky Heart in Spanish.",
+      "alt": "A huge LED-covered robot costume performer dances at an outdoor community festival with 'Irondale' visible on a sign in the background and a crowd of families watching",
+      "source": "https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day",
+      "credit": "NPR",
+      "license": "editorial — © NPR",
+      "key": "2026-07-26-b"
     }
   ]
 }
