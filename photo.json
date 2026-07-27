@@ -1,10 +1,10 @@
 {
-  "file": "photo.jpg",
-  "date": "2026-07-24",
-  "alt": "Apple Mac mini M4 desktop computer photographed at an angle showing its front USB-C ports and the bottom face of the device, where the power button is hidden from normal view",
-  "source": "https://bgr.com/tech/one-of-the-mac-minis-biggest-flaws-has-finally-been-fixed/",
-  "credit": "Seasider53 / Wikimedia Commons",
-  "license": "CC BY 4.0",
-  "story": "Apple's Mac mini M4 (launched late 2024) has its power button recessed on the underside of the device, requiring users to flip their computer upside-down to press it; Apple defended the choice saying users 'hardly ever' need the physical button, until macOS 26.5 added a keyboard shortcut workaround in May 2026.",
-  "why_funny": "Apple charged up to 1,399 USD for a desktop computer and hid the on/off button where no one can see or reach it without turning the whole machine upside-down \u2014 then justified this by saying nobody uses it anyway."
+  "file": "photo.png",
+  "date": "2026-07-26",
+  "alt": "A huge LED-covered robot costume performer dances at an outdoor community festival with 'Irondale' visible on a sign in the background and a crowd of families watching",
+  "source": "https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day",
+  "credit": "NPR",
+  "license": "editorial \u2014 \u00a9 NPR",
+  "story": "Irondale, Alabama rebranded its community festival as 'AI Love Irondale Day' to attract tech investment, faced an immediate online backlash calling it 'a pep rally for data centers,' and the mayor reversed course within days \u2014 but the festival's AI robot turned out to be a performer in an enormous LED-lit costume dancing in a parking lot.",
+  "why_funny": "The town promised an AI-powered future and delivered a dude in a very large plastic robot suit doing the Achy Breaky Heart in Spanish."
 }
