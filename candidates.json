@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-26",
+  "date": "2026-07-27",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.png",
-      "tagline": "China's biggest AI conference: 300 product debuts, one pony ride",
-      "story": "At China's World AI Conference (WAIC 2026) in Shanghai — where 300+ AI products debuted promising to transform civilization — the viral moment was a smiling conference-goer riding a quadruped robot like a fairground pony through the exhibition hall.",
-      "why_funny": "Every CEO pitched world-changing AI robotics; the actual crowd-pleaser at the world's biggest AI expo was giving people pony rides.",
-      "alt": "A woman sits and rides a sleek silver and black quadruped robot through a tech conference exhibition hall as a large crowd surrounds her, laughing and taking photos",
-      "source": "https://www.globaltimes.cn/page/202607/1366283.shtml",
-      "credit": "Global Times",
-      "license": "editorial — © Global Times",
-      "key": "2026-07-26-a"
+      "file": "candidate-a.jpg",
+      "tagline": "You bought it to clean your floors. It was casing the joint.",
+      "story": "SharkNinja robot vacuums stored your Wi-Fi password in plaintext and shared a single AWS certificate with 673,000 other devices — meaning anyone who unscrewed one vacuum could issue commands to all the others, download your home map, and tap into your camera feed.",
+      "why_funny": "Your robot cleaner passed a more thorough security audit of your home than most IT departments would.",
+      "alt": "A white Shark IQ robot vacuum sits on a hardwood floor looking completely innocent",
+      "source": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
+      "credit": "TaurusEmerald / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-07-27-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.png",
-      "tagline": "AI Love Irondale Day: the revolution is a man in a robot suit",
-      "story": "Irondale, Alabama rebranded its community festival as 'AI Love Irondale Day' to attract tech investment, faced an immediate online backlash calling it 'a pep rally for data centers,' and the mayor reversed course within days — but the festival's AI robot turned out to be a performer in an enormous LED-lit costume dancing in a parking lot.",
-      "why_funny": "The town promised an AI-powered future and delivered a dude in a very large plastic robot suit doing the Achy Breaky Heart in Spanish.",
-      "alt": "A huge LED-covered robot costume performer dances at an outdoor community festival with 'Irondale' visible on a sign in the background and a crowd of families watching",
-      "source": "https://www.npr.org/2026/07/23/nx-s1-5896481/data-center-backlash-ai-love-irondale-day",
-      "credit": "NPR",
-      "license": "editorial — © NPR",
-      "key": "2026-07-26-b"
+      "file": "candidate-b.jpg",
+      "tagline": "SF café used AI food photos. Someone spray-painted 'SERIOUSLY.'",
+      "story": "Grind & Unwind café in San Francisco used AI-generated images on their storefront menu that looked like food hallucinated by a model that had never seen food, sparking enough online fury that someone spray-painted 'SERIOUSLY' on the facade — costing the owner $700 to clean.",
+      "why_funny": "The AI was given one job: make people want to eat here. It produced images that made people want to spray-paint the building.",
+      "alt": "The Grind & Unwind café storefront with AI-generated food display photos visible in the window and graffiti on the facade",
+      "source": "https://petapixel.com/2026/07/22/san-francisco-restaurant-defaced-over-ai-generated-food-photos/",
+      "credit": "PetaPixel",
+      "license": "editorial — © PetaPixel",
+      "key": "2026-07-27-b"
     }
   ]
 }
