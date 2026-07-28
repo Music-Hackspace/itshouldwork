@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-27",
+  "date": "2026-07-28",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "You bought it to clean your floors. It was casing the joint.",
-      "story": "SharkNinja robot vacuums stored your Wi-Fi password in plaintext and shared a single AWS certificate with 673,000 other devices — meaning anyone who unscrewed one vacuum could issue commands to all the others, download your home map, and tap into your camera feed.",
-      "why_funny": "Your robot cleaner passed a more thorough security audit of your home than most IT departments would.",
-      "alt": "A white Shark IQ robot vacuum sits on a hardwood floor looking completely innocent",
-      "source": "https://thehackernews.com/2026/07/unpatched-shark-vacuum-flaw-could-let.html",
-      "credit": "TaurusEmerald / Wikimedia Commons",
+      "tagline": "They tried to fire Uncle Herschel. Now the CEO is fired instead.",
+      "story": "Cracker Barrel unveiled a sleek new logo in August 2025, quietly dropping the beloved 'Uncle Herschel' mascot leaning on a barrel — lasted six days before mass backlash, a Trump post, and a 7% same-store sales plunge; the CEO who ordered the change now steps down.",
+      "why_funny": "The only thing that got fired was the CEO — Uncle Herschel is still on every sign.",
+      "alt": "Cracker Barrel Old Country Store exterior porch and sign showing the classic logo with a silhouette of a man in overalls leaning on a barrel",
+      "source": "https://www.cnbc.com/2026/07/27/cracker-barrel-ceo-steps-down-a-year-after-logo-debacle.html",
+      "credit": "Deans Charbal / Wikimedia Commons",
       "license": "CC BY-SA 4.0",
-      "key": "2026-07-27-a"
+      "key": "2026-07-28-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "SF café used AI food photos. Someone spray-painted 'SERIOUSLY.'",
-      "story": "Grind & Unwind café in San Francisco used AI-generated images on their storefront menu that looked like food hallucinated by a model that had never seen food, sparking enough online fury that someone spray-painted 'SERIOUSLY' on the facade — costing the owner $700 to clean.",
-      "why_funny": "The AI was given one job: make people want to eat here. It produced images that made people want to spray-paint the building.",
-      "alt": "The Grind & Unwind café storefront with AI-generated food display photos visible in the window and graffiti on the facade",
-      "source": "https://petapixel.com/2026/07/22/san-francisco-restaurant-defaced-over-ai-generated-food-photos/",
-      "credit": "PetaPixel",
-      "license": "editorial — © PetaPixel",
-      "key": "2026-07-27-b"
+      "tagline": "Sony killed the disc. Sony also just launched a vinyl turntable.",
+      "story": "Sony announced physical PlayStation game disc production ends January 2028 — despite 82% of PS5 consoles sold having disc drives — while simultaneously unveiling a Sony Electronics vinyl turntable for music fans who love physical media.",
+      "why_funny": "Sony supports physical media in exactly one format: the one PlayStation doesn't use.",
+      "alt": "Open PS4 game cases with physical Blu-ray discs visible for The Witcher: Wild Hunt and Call of Duty: Black Ops 6, surrounded by more physical game cases",
+      "source": "https://slate.com/technology/2026/07/sony-playstation-discs-physical-media.html",
+      "credit": "Stanislav Kogiku/SOPA Images/LightRocket via Getty Images",
+      "license": "editorial — © Getty Images",
+      "key": "2026-07-28-b"
     }
   ]
 }
