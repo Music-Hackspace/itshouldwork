@@ -1,6 +1,17 @@
 {
-  "count": 55,
+  "count": 56,
   "photos": [
+    {
+      "date": "2026-07-27",
+      "alt": "The Grind & Unwind caf\u00e9 storefront with AI-generated food display photos visible in the window and graffiti on the facade",
+      "source": "https://petapixel.com/2026/07/22/san-francisco-restaurant-defaced-over-ai-generated-food-photos/",
+      "credit": "PetaPixel",
+      "license": "editorial \u2014 \u00a9 PetaPixel",
+      "story": "Grind & Unwind caf\u00e9 in San Francisco used AI-generated images on their storefront menu that looked like food hallucinated by a model that had never seen food, sparking enough online fury that someone spray-painted 'SERIOUSLY' on the facade \u2014 costing the owner $700 to clean.",
+      "why_funny": "The AI was given one job: make people want to eat here. It produced images that made people want to spray-paint the building.",
+      "id": "3854fedc04",
+      "file": "archive/2026-07-27-3854fedc04.jpg"
+    },
     {
       "date": "2026-07-26",
       "alt": "A huge LED-covered robot costume performer dances at an outdoor community festival with 'Irondale' visible on a sign in the background and a crowd of families watching",
