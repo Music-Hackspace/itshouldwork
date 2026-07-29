@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-28",
+  "date": "2026-07-29",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "They tried to fire Uncle Herschel. Now the CEO is fired instead.",
-      "story": "Cracker Barrel unveiled a sleek new logo in August 2025, quietly dropping the beloved 'Uncle Herschel' mascot leaning on a barrel — lasted six days before mass backlash, a Trump post, and a 7% same-store sales plunge; the CEO who ordered the change now steps down.",
-      "why_funny": "The only thing that got fired was the CEO — Uncle Herschel is still on every sign.",
-      "alt": "Cracker Barrel Old Country Store exterior porch and sign showing the classic logo with a silhouette of a man in overalls leaning on a barrel",
-      "source": "https://www.cnbc.com/2026/07/27/cracker-barrel-ceo-steps-down-a-year-after-logo-debacle.html",
-      "credit": "Deans Charbal / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-07-28-a"
+      "tagline": "School spent $60K on a robot teacher made by a sex-doll company",
+      "story": "Salamanca City Central School District in rural upstate New York approved a $60,000 purchase of a humanlike AI robot named 'Sally' — built by Realbotix, whose sibling company manufactures hyper-realistic adult sex dolls — to teach high school students robotics; state education officials and the teachers union forced the school to pause the pilot after the manufacturer's product line was discovered.",
+      "why_funny": "The school board vetted the robot's teaching credentials before anyone checked what else the manufacturer makes.",
+      "alt": "A humanlike Realbotix humanoid robot with realistic silicone skin and facial features stands at the Realbotix booth at CES 2025 in Las Vegas, interacting with attendees",
+      "source": "https://abcnews.com/Technology/wireStory/new-york-school-pauses-plan-deploy-humanlike-ai-135169545",
+      "credit": "AP via WFTV",
+      "license": "editorial — © AP",
+      "key": "2026-07-29-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Sony killed the disc. Sony also just launched a vinyl turntable.",
-      "story": "Sony announced physical PlayStation game disc production ends January 2028 — despite 82% of PS5 consoles sold having disc drives — while simultaneously unveiling a Sony Electronics vinyl turntable for music fans who love physical media.",
-      "why_funny": "Sony supports physical media in exactly one format: the one PlayStation doesn't use.",
-      "alt": "Open PS4 game cases with physical Blu-ray discs visible for The Witcher: Wild Hunt and Call of Duty: Black Ops 6, surrounded by more physical game cases",
-      "source": "https://slate.com/technology/2026/07/sony-playstation-discs-physical-media.html",
-      "credit": "Stanislav Kogiku/SOPA Images/LightRocket via Getty Images",
-      "license": "editorial — © Getty Images",
-      "key": "2026-07-28-b"
+      "tagline": "Samsung's $2,100 foldable: eight generations and still defeated by pocket dust",
+      "story": "Samsung unveiled the Galaxy Z Fold 8, Z Fold 8 Ultra, and Z Flip 8 at Galaxy Unpacked on July 22, 2026 — all still rated IP48, which means they are not dustproof; while rivals Google, HONOR, vivo, and OPPO have achieved full IP68 dust-and-water resistance on their foldables, Samsung's flagship $2,100 phone can be damaged by the lint in your pocket, a flaw critics have flagged across all eight generations.",
+      "why_funny": "Samsung has spent six years charging flagship prices for a folding phone that cannot survive the interior of a trouser pocket, while budget Android rivals quietly solved the problem years ago.",
+      "alt": "A hand holding three Samsung Galaxy foldable phones — Galaxy Z Fold 8, Z Flip 8, and Z Fold 8 Ultra — side by side against a white background",
+      "source": "https://www.androidauthority.com/samsung-ignoring-hardware-flaw-foldables-dust-protection-3689745/",
+      "credit": "Android Authority",
+      "license": "editorial — © Android Authority",
+      "key": "2026-07-29-b"
     }
   ]
 }
