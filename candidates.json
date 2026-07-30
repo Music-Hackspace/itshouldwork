@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-29",
+  "date": "2026-07-30",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "School spent $60K on a robot teacher made by a sex-doll company",
-      "story": "Salamanca City Central School District in rural upstate New York approved a $60,000 purchase of a humanlike AI robot named 'Sally' — built by Realbotix, whose sibling company manufactures hyper-realistic adult sex dolls — to teach high school students robotics; state education officials and the teachers union forced the school to pause the pilot after the manufacturer's product line was discovered.",
-      "why_funny": "The school board vetted the robot's teaching credentials before anyone checked what else the manufacturer makes.",
-      "alt": "A humanlike Realbotix humanoid robot with realistic silicone skin and facial features stands at the Realbotix booth at CES 2025 in Las Vegas, interacting with attendees",
-      "source": "https://abcnews.com/Technology/wireStory/new-york-school-pauses-plan-deploy-humanlike-ai-135169545",
-      "credit": "AP via WFTV",
-      "license": "editorial — © AP",
-      "key": "2026-07-29-a"
+      "tagline": "€240M Rotterdam landmark winner looks like cartoon rocks on the riverbank",
+      "story": "Dutch firm MVRDV won a €240M competition to build Rotterdam's next landmark with 'Rotterdam Rocks!' — seven stacked lumpy boulders on the Maas riverfront — and readers immediately called it 'a bad acid trip' and 'something Shrek would throw up.'",
+      "why_funny": "An architectural rendering of what is objectively a pile of cartoon boulders, presented to the public as a serious world wonder.",
+      "alt": "Architectural rendering of seven large stacked boulder-shaped structures rising from Rotterdam's riverbank, rendered as smooth rounded lumps",
+      "source": "https://www.dezeen.com/2026/07/21/mvrdv-rotterdam-rocks-shift-competition/",
+      "credit": "MVRDV / Dezeen",
+      "license": "editorial — © MVRDV / Dezeen",
+      "key": "2026-07-30-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Samsung's $2,100 foldable: eight generations and still defeated by pocket dust",
-      "story": "Samsung unveiled the Galaxy Z Fold 8, Z Fold 8 Ultra, and Z Flip 8 at Galaxy Unpacked on July 22, 2026 — all still rated IP48, which means they are not dustproof; while rivals Google, HONOR, vivo, and OPPO have achieved full IP68 dust-and-water resistance on their foldables, Samsung's flagship $2,100 phone can be damaged by the lint in your pocket, a flaw critics have flagged across all eight generations.",
-      "why_funny": "Samsung has spent six years charging flagship prices for a folding phone that cannot survive the interior of a trouser pocket, while budget Android rivals quietly solved the problem years ago.",
-      "alt": "A hand holding three Samsung Galaxy foldable phones — Galaxy Z Fold 8, Z Flip 8, and Z Fold 8 Ultra — side by side against a white background",
-      "source": "https://www.androidauthority.com/samsung-ignoring-hardware-flaw-foldables-dust-protection-3689745/",
-      "credit": "Android Authority",
-      "license": "editorial — © Android Authority",
-      "key": "2026-07-29-b"
+      "tagline": "Qualcomm's AI robot faceplanted mid-keynote. Spokesman: 'Designed safe-collapse.'",
+      "story": "A NEURA Robotics humanoid running Qualcomm's Dragonwing IQ10 chip pitched forward and collapsed face-down on stage mid-demo at Computex 2026 in Taipei; staff hastily covered it with a tarp and carried it off — dropping it on the way — while the presenter kept talking.",
+      "why_funny": "A robot lying face-down on a polished conference stage under a tiny tarp, while a slide behind it reads 'FUTURE OF AI ROBOTICS.'",
+      "alt": "A humanoid robot lying face-down on a keynote stage, being covered with a black tarp by conference staff while the presentation continues behind them",
+      "source": "https://www.gadgetreview.com/a-humanoid-robot-dies-on-stage-at-computex-2026-gets-carried-off",
+      "credit": "GadgetReview / Al Landes",
+      "license": "editorial — © GadgetReview",
+      "key": "2026-07-30-b"
     }
   ]
 }
