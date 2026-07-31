@@ -1,30 +1,30 @@
 {
-  "date": "2026-07-30",
+  "date": "2026-07-31",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "€240M Rotterdam landmark winner looks like cartoon rocks on the riverbank",
-      "story": "Dutch firm MVRDV won a €240M competition to build Rotterdam's next landmark with 'Rotterdam Rocks!' — seven stacked lumpy boulders on the Maas riverfront — and readers immediately called it 'a bad acid trip' and 'something Shrek would throw up.'",
-      "why_funny": "An architectural rendering of what is objectively a pile of cartoon boulders, presented to the public as a serious world wonder.",
-      "alt": "Architectural rendering of seven large stacked boulder-shaped structures rising from Rotterdam's riverbank, rendered as smooth rounded lumps",
-      "source": "https://www.dezeen.com/2026/07/21/mvrdv-rotterdam-rocks-shift-competition/",
-      "credit": "MVRDV / Dezeen",
-      "license": "editorial — © MVRDV / Dezeen",
-      "key": "2026-07-30-a"
+      "tagline": "The AI loneliness pendant flopped — so they brought it back at double the price",
+      "story": "Friend, the AI companionship pendant launched in 2024 at $99 (whose NYC subway ads were immediately graffitied with 'go make some real friends'), relaunched in July 2026 as Friend 2.0 at $249 — now with a speaker — plus a $10/month subscription or it forgets you after 30 days.",
+      "why_funny": "The product designed to fix loneliness flopped so hard that the founders' solution was to charge 151% more for it and add a forgetting-you subscription.",
+      "alt": "A woman wearing the white circular Friend AI companion pendant around her neck while brushing her teeth, illustrating the always-on AI wearable",
+      "source": "https://techcrunch.com/2026/07/30/friend-the-lonely-ai-wearable-returns-with-a-new-voice-and-a-much-bigger-price-tag/",
+      "credit": "Engadget / Friend",
+      "license": "editorial — © Engadget",
+      "key": "2026-07-31-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "Qualcomm's AI robot faceplanted mid-keynote. Spokesman: 'Designed safe-collapse.'",
-      "story": "A NEURA Robotics humanoid running Qualcomm's Dragonwing IQ10 chip pitched forward and collapsed face-down on stage mid-demo at Computex 2026 in Taipei; staff hastily covered it with a tarp and carried it off — dropping it on the way — while the presenter kept talking.",
-      "why_funny": "A robot lying face-down on a polished conference stage under a tiny tarp, while a slide behind it reads 'FUTURE OF AI ROBOTICS.'",
-      "alt": "A humanoid robot lying face-down on a keynote stage, being covered with a black tarp by conference staff while the presentation continues behind them",
-      "source": "https://www.gadgetreview.com/a-humanoid-robot-dies-on-stage-at-computex-2026-gets-carried-off",
-      "credit": "GadgetReview / Al Landes",
-      "license": "editorial — © GadgetReview",
-      "key": "2026-07-30-b"
+      "file": "candidate-b.png",
+      "tagline": "NYC's new 'protected' bike lane is 4 feet wide. Per direction. On a 34-foot street.",
+      "story": "New York City's DOT revealed plans for a two-way 'protected' bike lane on Grand Street in Lower Manhattan that is only 8 feet total — 4 feet per direction — less than half the recommended minimum width, while 23 of the street's 34 feet remain allocated to cars including space for double-parking.",
+      "why_funny": "The city's own planning diagram shows cyclists getting a strip barely wider than a car door while the double-parking lane stays, then called it a 'protected' bike path.",
+      "alt": "NYC DOT cross-section diagram of Grand Street showing the proposed layout: two car travel lanes and a parking lane taking 23 feet, with only an 8-foot two-way bike lane squeezed into the remainder",
+      "source": "https://nyc.streetsblog.org/2026/07/23/alarmingly-narrow-bike-lanes-are-coming-to-grand-and-canal-streets",
+      "credit": "NYC Department of Transportation / Streetsblog NYC",
+      "license": "editorial — © NYC DOT / Streetsblog NYC",
+      "key": "2026-07-31-b"
     }
   ]
 }
