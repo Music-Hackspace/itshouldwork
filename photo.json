@@ -1,10 +1,10 @@
 {
   "file": "photo.png",
-  "date": "2026-07-31",
-  "alt": "NYC DOT cross-section diagram of Grand Street showing the proposed layout: two car travel lanes and a parking lane taking 23 feet, with only an 8-foot two-way bike lane squeezed into the remainder",
-  "source": "https://nyc.streetsblog.org/2026/07/23/alarmingly-narrow-bike-lanes-are-coming-to-grand-and-canal-streets",
-  "credit": "NYC Department of Transportation / Streetsblog NYC",
-  "license": "editorial \u2014 \u00a9 NYC DOT / Streetsblog NYC",
-  "story": "New York City's DOT revealed plans for a two-way 'protected' bike lane on Grand Street in Lower Manhattan that is only 8 feet total \u2014 4 feet per direction \u2014 less than half the recommended minimum width, while 23 of the street's 34 feet remain allocated to cars including space for double-parking.",
-  "why_funny": "The city's own planning diagram shows cyclists getting a strip barely wider than a car door while the double-parking lane stays, then called it a 'protected' bike path."
+  "date": "2026-08-01",
+  "alt": "Screenshot of Google Earth's AI image creation interface showing a prompt-generated futuristic fantasy city with glowing green hyperloop pathways, a massive transparent dome arena, and a spiraling tower, overlaid on real satellite imagery of a city grid, with 'Refine image' and 'Save to project' buttons visible and a disclaimer reading 'Generative AI can make mistakes, so double-check it'",
+  "source": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+  "credit": "TechCrunch / Google",
+  "license": "editorial \u2014 \u00a9 TechCrunch / Google",
+  "story": "On July 31, 2026, Google launched an AI image generation feature for Google Earth that let users prompt-generate fake imagery and superimpose it over real satellite maps; after critics flagged that this gave anyone a tool to fabricate evidence using 'one of the most reliable sources of visual evidence,' Google pulled the feature the following day \u2014 while it was live the disclaimer read 'Generative AI can make mistakes, so double-check it.'",
+  "why_funny": "Google built a way to put photorealistic fake cities on real maps, released it to the public, and then noticed this was a bad idea at exactly the same moment everyone else did."
 }
