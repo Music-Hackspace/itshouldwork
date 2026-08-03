@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-02",
+  "date": "2026-08-03",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Garmin made a $200 fitness tracker with no screen — your wrist knows nothing",
-      "story": "Garmin launched the $200 CIRQA Smart Band on July 21, 2026 — a wrist-worn fitness tracker with zero display, meaning the device that is supposed to give you instant health data literally cannot show you your heart rate, steps, or calories without opening your phone; DC Rainmaker's hands-on review asked 'How on earth does a heart rate band not show me my actual current heart rate?' — and buyers are waiting up to eight weeks to find out.",
-      "why_funny": "The whole point of a wrist device is the instant glance — Garmin built the exact opposite and sold out anyway.",
-      "alt": "Garmin CIRQA Smart Band in black shown from the side against a white background — a minimal fabric band with a small rectangular sensor pod and a single physical button, no screen or display of any kind on the device",
-      "source": "https://www.garmin.com/en-US/newsroom/press-release/wearables-health/meet-cirqa-smart-band-the-screen-free-health-and-fitness-tracker-from-garmin/",
-      "credit": "Garmin",
-      "license": "press/promotional — © Garmin",
-      "key": "2026-08-02-a"
+      "tagline": "Elon called it Tesla's 'best product ever' — it's now selling worse than the Ford Edsel",
+      "story": "A Bloomberg analysis published July 22, 2026 showed Tesla's Cybertruck is a bigger commercial failure relative to targets than Ford's 1957 Edsel — the historical benchmark for automotive flops — after Musk projected 250,000 annual sales but the truck managed only 3,519 deliveries in Q1 2026 and fewer than 8,000 units through May 2026, with stock falling 18% in a week.",
+      "why_funny": "The man who promised Tesla's 'best product ever' built a stainless steel truck that looks like a refrigerator tipped on its side and sold it at one-sixth the promised annual rate — to fewer people, proportionally, than even the Edsel.",
+      "alt": "A Foundation Series Tesla Cybertruck photographed at dusk in South San Jose, showing the flat angular stainless steel body, geometric headlight strip, and completely straight panel lines with no visible curves",
+      "source": "https://www.jalopnik.com/2220957/tesla-cybertruck-flop-edsel/",
+      "credit": "Dllu / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-08-03-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "This $49 butt-face toy for ages 4+ just went viral in Australia for all the wrong reasons",
-      "story": "Goliath Games launched Chester Cheeks worldwide on July 6, 2026 — a $49 interactive toy whose face is literally shaped like cartoon buttocks, which makes fart sounds and dances when children press, squeeze, or spread its cheeks; Australian Big W shoppers found it on July 30 and demanded a recall, with one parent calling it 'very inappropriate indeed' while Goliath markets it as 'perfect for parties and pranks.'",
-      "why_funny": "The product team looked at a butt, thought 'children's face,' a global toy company approved it, and the only people who weren't in on the joke were the parents at the school-supply aisle.",
-      "alt": "Chester Cheeks toy product packaging — a round smiling face that is unmistakably shaped from cartoon buttock forms, wearing oversized headphones, shown against colourful product art with the Butt Face logo",
-      "source": "https://au.lifestyle.yahoo.com/big-w-shoppers-demand-product-recall-of-inappropriate-toy-gross-031256064.html",
-      "credit": "Goliath Games / Toy Book",
-      "license": "press/promotional — © Goliath Games",
-      "key": "2026-08-02-b"
+      "tagline": "Audi's $90,000 Q9 projects turn-signal arrows onto the road, in case your eyes are on the asphalt",
+      "story": "Audi revealed its 2027 Q9 flagship at $90,000+ in late July 2026 with a headline feature that uses Digital Matrix LEDs to project animated turn-signal arrow graphics directly onto the pavement when signaling — plus a 'welcome rug' of light cast on the ground when you open the door — which reviewers at Men's Journal immediately called 'solving problems nobody had.'",
+      "why_funny": "Audi engineered an animated arrow light show on the street in case pedestrians who somehow missed the turn indicator — a device unchanged in principle since 1939 — are looking down at the asphalt instead.",
+      "alt": "The 2027 Audi Q9 luxury SUV projecting a glowing animated turn-signal arrow graphic onto dark asphalt from its Digital Matrix LED system, photographed from the rear quarter",
+      "source": "https://www.thedrive.com/news/audis-new-q9-will-project-your-turn-signals-onto-the-road",
+      "credit": "The Drive / Audi",
+      "license": "editorial — © The Drive / Audi",
+      "key": "2026-08-03-b"
     }
   ]
 }
