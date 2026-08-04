@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-03",
+  "date": "2026-08-04",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Elon called it Tesla's 'best product ever' — it's now selling worse than the Ford Edsel",
-      "story": "A Bloomberg analysis published July 22, 2026 showed Tesla's Cybertruck is a bigger commercial failure relative to targets than Ford's 1957 Edsel — the historical benchmark for automotive flops — after Musk projected 250,000 annual sales but the truck managed only 3,519 deliveries in Q1 2026 and fewer than 8,000 units through May 2026, with stock falling 18% in a week.",
-      "why_funny": "The man who promised Tesla's 'best product ever' built a stainless steel truck that looks like a refrigerator tipped on its side and sold it at one-sixth the promised annual rate — to fewer people, proportionally, than even the Edsel.",
-      "alt": "A Foundation Series Tesla Cybertruck photographed at dusk in South San Jose, showing the flat angular stainless steel body, geometric headlight strip, and completely straight panel lines with no visible curves",
-      "source": "https://www.jalopnik.com/2220957/tesla-cybertruck-flop-edsel/",
-      "credit": "Dllu / Wikimedia Commons",
+      "tagline": "Cracker Barrel replaced their 50-year logo to attract millennials. The logo is back. The CEO isn't.",
+      "story": "Cracker Barrel CEO Julie Masino unveiled a minimalist wordmark in August 2025, dumping the beloved 'Uncle Herschel' rocking-chair logo; the stock lost $100M in one day, Trump tweeted, and the logo was reversed in six days — then Masino stepped down July 27, 2026, telling Glenn Beck: 'I feel like I've been fired by America.'",
+      "why_funny": "The CEO hired to modernize America's most aggressively un-modern restaurant chain outlasted her rebrand by exactly one year before being un-modernized herself.",
+      "alt": "Cracker Barrel Old Country Store restaurant exterior in Bloomsburg, Pennsylvania, showing the original red sign, rocking chairs on the porch, and barrels by the entrance — the nostalgic branding management tried and failed to replace.",
+      "source": "https://247wallst.com/investing/2026/07/28/i-feel-like-ive-been-fired-by-america-cracker-barrels-ceo-steps-down-a-year-after-its-100-million-logo-disaster/",
+      "credit": "Deans Charbal / Wikimedia Commons",
       "license": "CC BY-SA 4.0",
-      "key": "2026-08-03-a"
+      "key": "2026-08-04-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Audi's $90,000 Q9 projects turn-signal arrows onto the road, in case your eyes are on the asphalt",
-      "story": "Audi revealed its 2027 Q9 flagship at $90,000+ in late July 2026 with a headline feature that uses Digital Matrix LEDs to project animated turn-signal arrow graphics directly onto the pavement when signaling — plus a 'welcome rug' of light cast on the ground when you open the door — which reviewers at Men's Journal immediately called 'solving problems nobody had.'",
-      "why_funny": "Audi engineered an animated arrow light show on the street in case pedestrians who somehow missed the turn indicator — a device unchanged in principle since 1939 — are looking down at the asphalt instead.",
-      "alt": "The 2027 Audi Q9 luxury SUV projecting a glowing animated turn-signal arrow graphic onto dark asphalt from its Digital Matrix LED system, photographed from the rear quarter",
-      "source": "https://www.thedrive.com/news/audis-new-q9-will-project-your-turn-signals-onto-the-road",
-      "credit": "The Drive / Audi",
-      "license": "editorial — © The Drive / Audi",
-      "key": "2026-08-03-b"
+      "tagline": "Vancouver's Mayor called a $10M bike lane 'La La Land.' He's now proposing a $20M one that experts say is worse.",
+      "story": "Mayor Ken Sim rejected the Broadway protected bike lane as fiscally reckless ('we don't live in La La land'), then proposed a $20M redesign of the existing protected lanes outside Vancouver General Hospital — a plan city engineers and advocates say is less safe, creates new hazards for people with vision disabilities, and introduces confusion between cyclists and vehicles.",
+      "why_funny": "The politician who killed a project for being too expensive is now championing one that costs double and delivers less, outside a hospital, where you'd least want a poorly designed bike lane.",
+      "alt": "Protected separated bicycle lane on Dunsmuir Street in downtown Vancouver, showing green-painted asphalt and bright plastic bollards creating a physical barrier between cyclists and vehicle traffic.",
+      "source": "https://visionzerovancouver.ca/2026/07/30/abcs-latest-bike-lane-boondoggle/",
+      "credit": "Paul Krueger / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "key": "2026-08-04-b"
     }
   ]
 }
