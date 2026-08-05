@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-04",
+  "date": "2026-08-05",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Cracker Barrel replaced their 50-year logo to attract millennials. The logo is back. The CEO isn't.",
-      "story": "Cracker Barrel CEO Julie Masino unveiled a minimalist wordmark in August 2025, dumping the beloved 'Uncle Herschel' rocking-chair logo; the stock lost $100M in one day, Trump tweeted, and the logo was reversed in six days — then Masino stepped down July 27, 2026, telling Glenn Beck: 'I feel like I've been fired by America.'",
-      "why_funny": "The CEO hired to modernize America's most aggressively un-modern restaurant chain outlasted her rebrand by exactly one year before being un-modernized herself.",
-      "alt": "Cracker Barrel Old Country Store restaurant exterior in Bloomsburg, Pennsylvania, showing the original red sign, rocking chairs on the porch, and barrels by the entrance — the nostalgic branding management tried and failed to replace.",
-      "source": "https://247wallst.com/investing/2026/07/28/i-feel-like-ive-been-fired-by-america-cracker-barrels-ceo-steps-down-a-year-after-its-100-million-logo-disaster/",
-      "credit": "Deans Charbal / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-08-04-a"
+      "tagline": "Meta designed camera glasses to look exactly like normal sunglasses so no one would judge you. Now everyone judges you.",
+      "story": "Meta's Ray-Ban smart glasses were deliberately designed to be indistinguishable from regular sunglasses so people wouldn't feel judged wearing them; that exact design decision enabled users to secretly film strangers without detection, earning the glasses the nickname 'pervert glasses,' and now legitimate wearers are too scared to wear them in public — Instagram cracked down on covertly-shot videos from the glasses on July 28, 2026.",
+      "why_funny": "The feature that was supposed to make the glasses socially acceptable — looking completely normal — is the same feature that made them socially radioactive.",
+      "alt": "Ray-Ban Meta Gen 1 smart glasses and their white charging case resting on a surface, looking identical to regular Ray-Ban sunglasses with no visible camera or recording indicators",
+      "source": "https://fortune.com/2026/07/28/ray-ban-meta-pervert-glasses-secret-videos-women/",
+      "credit": "CCadio / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "key": "2026-08-05-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Vancouver's Mayor called a $10M bike lane 'La La Land.' He's now proposing a $20M one that experts say is worse.",
-      "story": "Mayor Ken Sim rejected the Broadway protected bike lane as fiscally reckless ('we don't live in La La land'), then proposed a $20M redesign of the existing protected lanes outside Vancouver General Hospital — a plan city engineers and advocates say is less safe, creates new hazards for people with vision disabilities, and introduces confusion between cyclists and vehicles.",
-      "why_funny": "The politician who killed a project for being too expensive is now championing one that costs double and delivers less, outside a hospital, where you'd least want a poorly designed bike lane.",
-      "alt": "Protected separated bicycle lane on Dunsmuir Street in downtown Vancouver, showing green-painted asphalt and bright plastic bollards creating a physical barrier between cyclists and vehicle traffic.",
-      "source": "https://visionzerovancouver.ca/2026/07/30/abcs-latest-bike-lane-boondoggle/",
-      "credit": "Paul Krueger / Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "key": "2026-08-04-b"
+      "tagline": "A gaming console from 2020 just got a 43% price hike in Europe. In 2026. Because Microsoft needs the RAM for its AI.",
+      "story": "Microsoft raised Xbox Series X/S prices by up to €200 (43%) across Europe and £170 in the UK on August 1, 2026 — four years into the console's lifespan — citing memory shortages caused by AI data center demand; the same AI infrastructure Microsoft has been investing billions in is the primary driver of the memory crisis, making Xbox gamers in Europe effectively subsidize Microsoft's AI ambitions.",
+      "why_funny": "Consumer electronics normally get cheaper as hardware ages; Microsoft has managed to make a six-year-old console more expensive while blaming a shortage their own AI spending helped cause.",
+      "alt": "Xbox Series X console on display at an Albert Heijn supermarket in Hillegersberg, Rotterdam, Netherlands, showing the sleek black tower design in a European retail setting",
+      "source": "https://dataconomy.com/2026/08/03/microsoft-raises-xbox-prices-across-europe-and-uk/",
+      "credit": "Donald Trung Quoc Don / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-08-05-b"
     }
   ]
 }
