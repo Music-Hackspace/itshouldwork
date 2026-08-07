@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-05",
+  "date": "2026-08-07",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Meta designed camera glasses to look exactly like normal sunglasses so no one would judge you. Now everyone judges you.",
-      "story": "Meta's Ray-Ban smart glasses were deliberately designed to be indistinguishable from regular sunglasses so people wouldn't feel judged wearing them; that exact design decision enabled users to secretly film strangers without detection, earning the glasses the nickname 'pervert glasses,' and now legitimate wearers are too scared to wear them in public — Instagram cracked down on covertly-shot videos from the glasses on July 28, 2026.",
-      "why_funny": "The feature that was supposed to make the glasses socially acceptable — looking completely normal — is the same feature that made them socially radioactive.",
-      "alt": "Ray-Ban Meta Gen 1 smart glasses and their white charging case resting on a surface, looking identical to regular Ray-Ban sunglasses with no visible camera or recording indicators",
-      "source": "https://fortune.com/2026/07/28/ray-ban-meta-pervert-glasses-secret-videos-women/",
-      "credit": "CCadio / Wikimedia Commons",
+      "tagline": "Apple moved Mac Mini's power button to the bottom, said 'nobody uses it,' then needed a macOS patch to skip it entirely.",
+      "story": "Apple's Mac Mini M4, released November 2024, relocated the power button to the underside of the device — requiring users to flip or tilt their computer to turn it on; Apple's official defence was that people 'hardly ever use' the power button. After 18 months of mocking (including third-party 3D-printed button extenders going viral), macOS 26.5 added an 'auto-start when plugged in' option specifically so users never need to touch the bottom-mounted button again.",
+      "why_funny": "Apple's answer to a badly placed hardware button was to release a software update that makes the button entirely unnecessary — out-engineering their own mistake rather than admitting it.",
+      "alt": "Apple Mac Mini M4 compact desktop computer photographed from above and the side, with no visible power button on any accessible surface — because the button is on the bottom",
+      "source": "https://www.tomsguide.com/computing/macos/the-mac-minis-ridiculously-placed-power-button-just-became-irrelevant-thanks-to-this-new-macos-26-5-feature-heres-how-to-activate-it",
+      "credit": "Seasider53 / Wikimedia Commons",
       "license": "CC BY 4.0",
-      "key": "2026-08-05-a"
+      "key": "2026-08-07-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "A gaming console from 2020 just got a 43% price hike in Europe. In 2026. Because Microsoft needs the RAM for its AI.",
-      "story": "Microsoft raised Xbox Series X/S prices by up to €200 (43%) across Europe and £170 in the UK on August 1, 2026 — four years into the console's lifespan — citing memory shortages caused by AI data center demand; the same AI infrastructure Microsoft has been investing billions in is the primary driver of the memory crisis, making Xbox gamers in Europe effectively subsidize Microsoft's AI ambitions.",
-      "why_funny": "Consumer electronics normally get cheaper as hardware ages; Microsoft has managed to make a six-year-old console more expensive while blaming a shortage their own AI spending helped cause.",
-      "alt": "Xbox Series X console on display at an Albert Heijn supermarket in Hillegersberg, Rotterdam, Netherlands, showing the sleek black tower design in a European retail setting",
-      "source": "https://dataconomy.com/2026/08/03/microsoft-raises-xbox-prices-across-europe-and-uk/",
-      "credit": "Donald Trung Quoc Don / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-08-05-b"
+      "file": "candidate-b.png",
+      "tagline": "Tower Hamlets council installed a padlocked gate in the middle of an active cycle path. The gate is locked. Cyclists cannot open it.",
+      "story": "In August 2026, Tower Hamlets council installed a full-width padlocked gate across a marked, heavily-used cycle path in London, with no alternative route and no key for cyclists — prompting widespread ridicule from residents who called it 'car-brained' planning; cyclists arriving at the gate are forced to turn back or lift their bikes around it, while a standard removable bollard would have blocked cars without stopping cyclists at all.",
+      "why_funny": "The council chose the most bicycle-hostile possible solution to stop cars from entering a cycle path — accidentally converting an active cycle route into a dead-end.",
+      "alt": "A padlocked metal gate installed across the full width of a marked cycle path in Tower Hamlets, London, with cycle lane markings visible on the ground and the locked gate completely blocking access",
+      "source": "https://road.cc/news/cycling-live-blog-5-august-2026",
+      "credit": "@nutella_filled/Reddit via road.cc",
+      "license": "editorial — © @nutella_filled/Reddit",
+      "key": "2026-08-07-b"
     }
   ]
 }
