@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Apple moved Mac Mini's power button to the bottom, said 'nobody uses it,' then needed a macOS patch to skip it entirely.",
-      "story": "Apple's Mac Mini M4, released November 2024, relocated the power button to the underside of the device — requiring users to flip or tilt their computer to turn it on; Apple's official defence was that people 'hardly ever use' the power button. After 18 months of mocking (including third-party 3D-printed button extenders going viral), macOS 26.5 added an 'auto-start when plugged in' option specifically so users never need to touch the bottom-mounted button again.",
-      "why_funny": "Apple's answer to a badly placed hardware button was to release a software update that makes the button entirely unnecessary — out-engineering their own mistake rather than admitting it.",
-      "alt": "Apple Mac Mini M4 compact desktop computer photographed from above and the side, with no visible power button on any accessible surface — because the button is on the bottom",
-      "source": "https://www.tomsguide.com/computing/macos/the-mac-minis-ridiculously-placed-power-button-just-became-irrelevant-thanks-to-this-new-macos-26-5-feature-heres-how-to-activate-it",
-      "credit": "Seasider53 / Wikimedia Commons",
+      "tagline": "$90,000 flagship SUV. 45-week emergency redesign. Achievement: door handles.",
+      "story": "Audi's CEO Gernot Döllner drove the Q9 prototype once with its piezoelectric winglet door handles — which would open via a touch-sensitive flap instead of a conventional lever — decided they were 'worse than a conventional door handle', and ordered an emergency 45-week redesign to put regular door handles back on their upcoming $90,000 flagship SUV, a process that normally takes two years.",
+      "why_funny": "Audi's proudest engineering achievement for its most expensive SUV is that it successfully put back the thing it spent years trying to remove.",
+      "alt": "2026 Audi Q9 SUV photographed from the right-front quarter in daylight, showing the massive Singleframe grille, four-ring badge, and — crucially — perfectly ordinary conventional door handles on a $90,000 car",
+      "source": "https://www.thedrive.com/news/audi-ceo-admits-new-flagship-suv-almost-got-those-electronic-door-handles-nobody-asked-for",
+      "credit": "Autowizja / Wikimedia Commons",
       "license": "CC BY 4.0",
-      "key": "2026-08-07-a"
+      "key": "2026-08-08-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.png",
-      "tagline": "Tower Hamlets council installed a padlocked gate in the middle of an active cycle path. The gate is locked. Cyclists cannot open it.",
-      "story": "In August 2026, Tower Hamlets council installed a full-width padlocked gate across a marked, heavily-used cycle path in London, with no alternative route and no key for cyclists — prompting widespread ridicule from residents who called it 'car-brained' planning; cyclists arriving at the gate are forced to turn back or lift their bikes around it, while a standard removable bollard would have blocked cars without stopping cyclists at all.",
-      "why_funny": "The council chose the most bicycle-hostile possible solution to stop cars from entering a cycle path — accidentally converting an active cycle route into a dead-end.",
-      "alt": "A padlocked metal gate installed across the full width of a marked cycle path in Tower Hamlets, London, with cycle lane markings visible on the ground and the locked gate completely blocking access",
-      "source": "https://road.cc/news/cycling-live-blog-5-august-2026",
-      "credit": "@nutella_filled/Reddit via road.cc",
-      "license": "editorial — © @nutella_filled/Reddit",
-      "key": "2026-08-07-b"
+      "file": "candidate-b.jpg",
+      "tagline": "Sony's official PS5 stance turns out to be how you slowly destroy it.",
+      "story": "Service technicians confirmed in August 2026 that the liquid metal thermal compound between the PS5's processor and heatsink physically migrates away from the contact zone over time when the console stands vertically — exactly the orientation Sony used in all marketing and product shots — leaving dry spots that cause the console to overheat; Sony quietly fixed the problem in the CFI-2100 revision (September 2025) with grooved contact surfaces, but only for new units.",
+      "why_funny": "For five years Sony showed you the PS5 standing upright in ads, on box art, and in stores — that pose is also how you slowly bake the processor.",
+      "alt": "A Sony PlayStation 5 console standing vertically next to a DualSense controller on a white surface, exactly the official marketing orientation that causes the liquid metal thermal compound to gradually shift away from the processor",
+      "source": "https://ixbt.games/en/news/2026/08/06/426687-starye-ps5-vse-cashhe-peregrevaiutsia-servis-ukazal-na-konstruktivnyi-nedostatok-sony.html",
+      "credit": "Osh33m / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-08-08-b"
     }
   ]
 }
