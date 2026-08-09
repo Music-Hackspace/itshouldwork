@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-08",
+  "date": "2026-08-09",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "$90,000 flagship SUV. 45-week emergency redesign. Achievement: door handles.",
-      "story": "Audi's CEO Gernot Döllner drove the Q9 prototype once with its piezoelectric winglet door handles — which would open via a touch-sensitive flap instead of a conventional lever — decided they were 'worse than a conventional door handle', and ordered an emergency 45-week redesign to put regular door handles back on their upcoming $90,000 flagship SUV, a process that normally takes two years.",
-      "why_funny": "Audi's proudest engineering achievement for its most expensive SUV is that it successfully put back the thing it spent years trying to remove.",
-      "alt": "2026 Audi Q9 SUV photographed from the right-front quarter in daylight, showing the massive Singleframe grille, four-ring badge, and — crucially — perfectly ordinary conventional door handles on a $90,000 car",
-      "source": "https://www.thedrive.com/news/audi-ceo-admits-new-flagship-suv-almost-got-those-electronic-door-handles-nobody-asked-for",
-      "credit": "Autowizja / Wikimedia Commons",
-      "license": "CC BY 4.0",
-      "key": "2026-08-08-a"
+      "file": "candidate-a.png",
+      "tagline": "OpenAI spent $6.4 billion on design talent. First product: a $350 squirmy donut.",
+      "story": "OpenAI acquired Jony Ive's design studio for $6.4 billion in 2025, assembled a 200-person hardware team, and unveiled its first product on August 6: a hockey-puck-sized ring speaker with no screen and 'moving parts for personality,' priced at $300–$400 and launching in 2027 — critics immediately compared it to the failed $699 Humane AI Pin.",
+      "why_funny": "The world's most hyped AI company paid iPhone-designer money to put a hole in a speaker and give it fidget-toy features.",
+      "alt": "Concept render of the OpenAI speaker — a fabric-covered donut/ring shape shown in a hand alongside diagrams labelled Spin, Tilt, and Click, with OpenAI logo and text reading 'Moving parts that help give it personality'",
+      "source": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
+      "credit": "technosports.co.in",
+      "license": "editorial — © technosports.co.in",
+      "key": "2026-08-09-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Sony's official PS5 stance turns out to be how you slowly destroy it.",
-      "story": "Service technicians confirmed in August 2026 that the liquid metal thermal compound between the PS5's processor and heatsink physically migrates away from the contact zone over time when the console stands vertically — exactly the orientation Sony used in all marketing and product shots — leaving dry spots that cause the console to overheat; Sony quietly fixed the problem in the CFI-2100 revision (September 2025) with grooved contact surfaces, but only for new units.",
-      "why_funny": "For five years Sony showed you the PS5 standing upright in ads, on box art, and in stores — that pose is also how you slowly bake the processor.",
-      "alt": "A Sony PlayStation 5 console standing vertically next to a DualSense controller on a white surface, exactly the official marketing orientation that causes the liquid metal thermal compound to gradually shift away from the processor",
-      "source": "https://ixbt.games/en/news/2026/08/06/426687-starye-ps5-vse-cashhe-peregrevaiutsia-servis-ukazal-na-konstruktivnyi-nedostatok-sony.html",
-      "credit": "Osh33m / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-08-08-b"
+      "tagline": "$2.79 billion, 26 lanes, traffic 51% worse. Houston is planning a $13 billion sequel.",
+      "story": "Houston widened I-10 (the Katy Freeway) to 26 lanes at a cost of $2.79 billion between 2003 and 2008, making it the world's widest highway; within three years commute times had increased by up to 51% due to induced demand — and the city is now pursuing a $13 billion expansion of nearby I-45, rerunning the same experiment at four times the cost.",
+      "why_funny": "They spent three billion dollars making the world's widest road to reduce traffic, traffic got worse, and the plan is now to make a nearby road even wider for $13 billion.",
+      "alt": "The Katy Freeway (I-10) in Houston showing massive gridlock across many lanes of traffic with elevated interchange ramps converging overhead, demonstrating the induced demand problem the $2.79 billion expansion was meant to solve",
+      "source": "https://spacedaily.com/d-houston-spent-nearly-three-billion-dollars-widening-a-single-freeway-to-26-lanes-to-kill-its-traffic-and-within-three-years-the-drive-was-taking-up-to-51-per-cent-longer-proof-of-a-rule-pla/",
+      "credit": "Hequals2Henry / CC via Streetsblog USA",
+      "license": "CC BY 2.0",
+      "key": "2026-08-09-b"
     }
   ]
 }
