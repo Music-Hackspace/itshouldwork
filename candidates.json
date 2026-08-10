@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-09",
+  "date": "2026-08-10",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.png",
-      "tagline": "OpenAI spent $6.4 billion on design talent. First product: a $350 squirmy donut.",
-      "story": "OpenAI acquired Jony Ive's design studio for $6.4 billion in 2025, assembled a 200-person hardware team, and unveiled its first product on August 6: a hockey-puck-sized ring speaker with no screen and 'moving parts for personality,' priced at $300–$400 and launching in 2027 — critics immediately compared it to the failed $699 Humane AI Pin.",
-      "why_funny": "The world's most hyped AI company paid iPhone-designer money to put a hole in a speaker and give it fidget-toy features.",
-      "alt": "Concept render of the OpenAI speaker — a fabric-covered donut/ring shape shown in a hand alongside diagrams labelled Spin, Tilt, and Click, with OpenAI logo and text reading 'Moving parts that help give it personality'",
-      "source": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-      "credit": "technosports.co.in",
-      "license": "editorial — © technosports.co.in",
-      "key": "2026-08-09-a"
+      "file": "candidate-a.jpg",
+      "tagline": "Trinity axed their famous tower logo. Replacement looks like Days Inn.",
+      "story": "Trinity University (San Antonio) unveiled a new 'sunburst' logo on July 30, 2026, retiring the Murchison Tower it had used since 2003; alumni immediately compared the generic starburst to logos for Days Inn, La Quinta, and Frost Bank — and the university paused its rollout on August 4 after the backlash overwhelmed social media, postponing a planned brand-launch celebration.",
+      "why_funny": "A university spent money hiring designers to replace a distinctive landmark with something indistinguishable from a mid-tier hotel chain, then got so embarrassed it pulled the logo before the official launch party.",
+      "alt": "Trinity University's Murchison Tower — the slender red-brick bell tower standing tall above surrounding trees, reflected in a campus pool — the iconic campus landmark erased from the new logo",
+      "source": "https://www.yahoo.com/news/us/articles/trinity-university-replaced-tower-sunburst-234812441.html",
+      "credit": "Jim Evans / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "key": "2026-08-10-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "$2.79 billion, 26 lanes, traffic 51% worse. Houston is planning a $13 billion sequel.",
-      "story": "Houston widened I-10 (the Katy Freeway) to 26 lanes at a cost of $2.79 billion between 2003 and 2008, making it the world's widest highway; within three years commute times had increased by up to 51% due to induced demand — and the city is now pursuing a $13 billion expansion of nearby I-45, rerunning the same experiment at four times the cost.",
-      "why_funny": "They spent three billion dollars making the world's widest road to reduce traffic, traffic got worse, and the plan is now to make a nearby road even wider for $13 billion.",
-      "alt": "The Katy Freeway (I-10) in Houston showing massive gridlock across many lanes of traffic with elevated interchange ramps converging overhead, demonstrating the induced demand problem the $2.79 billion expansion was meant to solve",
-      "source": "https://spacedaily.com/d-houston-spent-nearly-three-billion-dollars-widening-a-single-freeway-to-26-lanes-to-kill-its-traffic-and-within-three-years-the-drive-was-taking-up-to-51-per-cent-longer-proof-of-a-rule-pla/",
-      "credit": "Hequals2Henry / CC via Streetsblog USA",
-      "license": "CC BY 2.0",
-      "key": "2026-08-09-b"
+      "tagline": "Ford's 'Model T moment': a truck so new you can't see it until 2027.",
+      "story": "Ford CEO Jim Farley announced on August 6, 2026 that the 'Fathom,' a $28,350 electric pickup truck, represents Ford's 'Model T moment' and 'breakthrough electric vehicle' — but the actual truck design won't be revealed until early 2027, so the announcement image is literally just the name badge on a black surface while critics said the compact pickup doesn't address the right market.",
+      "why_funny": "Ford declared a historic 'Model T moment' for a truck they are not yet allowed to show anyone, which means their generation-defining breakthrough currently looks like a hotel room safe.",
+      "alt": "The Ford 'FATHOM' name badge — white letters spelling FATHOM™ on a black rectangular metal plate against a dark textured background — the entire visual announcement for Ford's declared 'Model T moment'",
+      "source": "https://techcrunch.com/2026/08/06/fords-new-electric-truck-fathom-starts-at-28350/",
+      "credit": "Ford Motor Company / TechCrunch",
+      "license": "editorial — © Ford Motor Company",
+      "key": "2026-08-10-b"
     }
   ]
 }
