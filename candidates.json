@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "$2.1 billion stadium — exclusive railing-view seats included.",
-      "story": "The brand-new Highmark Stadium opened for its first public event on August 9, 2026, and fans discovered hundreds of seats had views obstructed by structural railings, overhangs, and frosted glass — despite sales staff assuring buyers the renderings 'weren't to scale' and there would be no obstruction.",
-      "why_funny": "The Buffalo Bills spent two billion dollars on a new stadium (with $850 million from taxpayers), and still managed to sell seats that face directly into a railing.",
-      "alt": "Wide-angle interior view of the new Highmark Stadium in Orchard Park, New York — the modern NFL stadium seen from above with empty seats, curved architecture, and the green field below",
-      "source": "https://www.cbssports.com/nfl/news/bills-new-stadium-obstructed-views-fans-complaints/",
-      "credit": "Quintin Soloviev / Wikimedia Commons",
-      "license": "CC BY 4.0",
-      "key": "2026-08-11-a"
+      "tagline": "NYC spent millions on a protected bike lane that ends at a staircase",
+      "story": "In August 2026, NYC DOT opened a new protected bike lane on Riverside Drive in Inwood — designed to connect cyclists to the Hudson River Greenway — but the route dead-ends at a flight of stairs, forcing riders to haul their bikes up on foot; the direct stair-free alternative was rejected by the local community board in 2024 to preserve 40 parking spots.",
+      "why_funny": "The city built a 'protected' cycling connection to a greenway that requires abandoning your bike to use, because protecting 40 parking spots was more important than a route cyclists can actually cycle on.",
+      "alt": "A cyclist hauling a bicycle up a concrete flight of stairs on Riverside Drive in Inwood, New York City, where the new protected bike lane physically ends at the staircase leading to the Hudson River Greenway",
+      "source": "https://nyc.streetsblog.org/2026/08/05/eyes-on-the-street-inwoods-newest-bike-lane-forces-greenway-cyclists-to-take-the-stairs",
+      "credit": "Streetsblog New York City",
+      "license": "editorial — © Streetsblog NYC",
+      "key": "2026-08-12-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "You bought the EV for convenience. The charger is just a pole in a parking lot.",
-      "story": "On August 10, 2026, a viral clip of a man charging his EV at Walmart sparked widespread 'why can't we build chargers with covers?' complaints — Walmart's outdoor charging stations have no overhead canopy, unlike every gas station built in the last century, leaving EV drivers exposed to sun, rain, and snow.",
-      "why_funny": "The future of transportation promises to be frictionless, yet the reality is standing in the rain next to a pole in a Walmart lot wondering why 1940s gas station designers managed to figure out canopies.",
-      "alt": "Man standing at a Walmart electric vehicle charging station in an outdoor parking lot, no overhead canopy or weather protection visible",
-      "source": "https://www.motor1.com/news/797992/walmart-ev-chargers-no-canopy/",
-      "credit": "Motor1.com / Unsplash",
-      "license": "editorial — © Motor1.com / Unsplash",
-      "key": "2026-08-11-b"
+      "tagline": "Samsung's $1,200 flagship tablet still has the notch users have begged them to remove since 2022",
+      "story": "Leaked renders published August 8–11, 2026 confirmed that the upcoming Samsung Galaxy Tab S12 Ultra will keep the exact same V-shaped display notch first introduced on the Tab S8 Ultra in 2022 — a design users have criticised as 'unsightly' for four years — while rivals moved to punch-hole or under-display cameras; tech outlets called it 'our worst fears confirmed.'",
+      "why_funny": "Samsung spent four years listening to customers beg them to remove the notch from their premium 14.6-inch AMOLED display, then built the exact same notch again and called it a flagship.",
+      "alt": "Close-up of the front of a Samsung Galaxy Tab S8 Ultra showing the dual front-facing cameras mounted in the V-shaped notch cutout at the top of the display — the same notch design confirmed to continue in the Tab S12 Ultra",
+      "source": "https://www.androidheadlines.com/2026/08/samsung-galaxy-tab-s12-ultra-renders-leak-specs-wallpaper.html",
+      "credit": "Dylan240 / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "key": "2026-08-12-b"
     }
   ]
 }
