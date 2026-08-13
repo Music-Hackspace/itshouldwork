@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-12",
+  "date": "2026-08-13",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "NYC spent millions on a protected bike lane that ends at a staircase",
-      "story": "In August 2026, NYC DOT opened a new protected bike lane on Riverside Drive in Inwood — designed to connect cyclists to the Hudson River Greenway — but the route dead-ends at a flight of stairs, forcing riders to haul their bikes up on foot; the direct stair-free alternative was rejected by the local community board in 2024 to preserve 40 parking spots.",
-      "why_funny": "The city built a 'protected' cycling connection to a greenway that requires abandoning your bike to use, because protecting 40 parking spots was more important than a route cyclists can actually cycle on.",
-      "alt": "A cyclist hauling a bicycle up a concrete flight of stairs on Riverside Drive in Inwood, New York City, where the new protected bike lane physically ends at the staircase leading to the Hudson River Greenway",
-      "source": "https://nyc.streetsblog.org/2026/08/05/eyes-on-the-street-inwoods-newest-bike-lane-forces-greenway-cyclists-to-take-the-stairs",
-      "credit": "Streetsblog New York City",
-      "license": "editorial — © Streetsblog NYC",
-      "key": "2026-08-12-a"
+      "tagline": "Roku launched a 24/7 AI slop channel. Characters don't blink. Arrows travel backwards.",
+      "story": "In August 2026, Roku quietly added 'Fairground AI' — a free channel broadcasting AI-generated content 24 hours a day, interrupted only by AI-generated ads — promising 'gorgeous things' and delivering medieval soldiers with frozen eyes, backwards physics, and cosmic octopuses attacking cities.",
+      "why_funny": "The world's most confident description of AI content as 'gorgeous' is now a 24/7 monument to everything AI video gets wrong.",
+      "alt": "Futurism article thumbnail showing Roku's Fairground AI channel — a collage of AI-generated scenes including blurry cinematic landscapes and uncanny figures, with the Futurism logo and the headline 'Roku Unleashes 24/7 AI Slop Channel'",
+      "source": "https://futurism.com/artificial-intelligence/roku-unleashes-24-7-ai-slop-channel",
+      "credit": "Futurism / Fairground AI",
+      "license": "editorial — © Futurism",
+      "key": "2026-08-13-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Samsung's $1,200 flagship tablet still has the notch users have begged them to remove since 2022",
-      "story": "Leaked renders published August 8–11, 2026 confirmed that the upcoming Samsung Galaxy Tab S12 Ultra will keep the exact same V-shaped display notch first introduced on the Tab S8 Ultra in 2022 — a design users have criticised as 'unsightly' for four years — while rivals moved to punch-hole or under-display cameras; tech outlets called it 'our worst fears confirmed.'",
-      "why_funny": "Samsung spent four years listening to customers beg them to remove the notch from their premium 14.6-inch AMOLED display, then built the exact same notch again and called it a flagship.",
-      "alt": "Close-up of the front of a Samsung Galaxy Tab S8 Ultra showing the dual front-facing cameras mounted in the V-shaped notch cutout at the top of the display — the same notch design confirmed to continue in the Tab S12 Ultra",
-      "source": "https://www.androidheadlines.com/2026/08/samsung-galaxy-tab-s12-ultra-renders-leak-specs-wallpaper.html",
-      "credit": "Dylan240 / Wikimedia Commons",
-      "license": "CC0 1.0",
-      "key": "2026-08-12-b"
+      "tagline": "Edinburgh's North Bridge: closed 8 years for works, reopened with exactly zero cycle lanes.",
+      "story": "Edinburgh's North Bridge closed in 2018 for major refurbishment, with plans to create a cycling and public transport corridor; it fully reopened on July 31, 2026 — after eight years — with no cycling infrastructure whatsoever, just regular car lanes, leaving cyclists to navigate around one of the city's busiest crossings exactly as before.",
+      "why_funny": "Eight years of Edinburgh telling cyclists 'we're working on it' culminated in a grand unveiling of: a road.",
+      "alt": "Edinburgh North Bridge viewed from street level, showing the grand Victorian stone bridge carrying car traffic across a deep valley, with no cycle lanes or cycling infrastructure visible",
+      "source": "https://www.edinburghnews.scotsman.com/news/edinburghs-north-bridge-to-fully-reopen-today-after-eight-years-of-restrictions-on-key-city-route-8833442",
+      "credit": "ozz13x / Wikimedia Commons",
+      "license": "CC BY",
+      "key": "2026-08-13-b"
     }
   ]
 }
