@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Roku launched a 24/7 AI slop channel. Characters don't blink. Arrows travel backwards.",
-      "story": "In August 2026, Roku quietly added 'Fairground AI' — a free channel broadcasting AI-generated content 24 hours a day, interrupted only by AI-generated ads — promising 'gorgeous things' and delivering medieval soldiers with frozen eyes, backwards physics, and cosmic octopuses attacking cities.",
-      "why_funny": "The world's most confident description of AI content as 'gorgeous' is now a 24/7 monument to everything AI video gets wrong.",
-      "alt": "Futurism article thumbnail showing Roku's Fairground AI channel — a collage of AI-generated scenes including blurry cinematic landscapes and uncanny figures, with the Futurism logo and the headline 'Roku Unleashes 24/7 AI Slop Channel'",
-      "source": "https://futurism.com/artificial-intelligence/roku-unleashes-24-7-ai-slop-channel",
-      "credit": "Futurism / Fairground AI",
-      "license": "editorial — © Futurism",
-      "key": "2026-08-13-a"
+      "tagline": "The phone with a dancing titanium robot arm that winks at you",
+      "story": "HONOR launched the Robot Phone on August 12, 2026 — a $1,485 smartphone with a 4-degree-of-freedom titanium robotic arm camera that extends above the screen, tracks subjects, responds to 10 gestures, and dances to music — co-engineered with cinema camera company ARRI, because apparently normal cameras weren't cinematically ambitious enough.",
+      "why_funny": "The design brief was apparently 'what if the camera was alive?' and the answer was a phone that can nod its tiny titanium head in agreement with you.",
+      "alt": "Side-by-side product photo of the HONOR Robot Phone: left panel shows the silver handset back with its mechanical gimbal arm module; right panel shows a close-up of the robotic camera arm fully extended with the square camera module dangling on the articulated titanium arm",
+      "source": "https://www.honor.com/global/news/honor-robot-phone-launch/",
+      "credit": "PetaPixel / HONOR Global",
+      "license": "editorial — © PetaPixel / HONOR Global",
+      "key": "2026-08-14-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Edinburgh's North Bridge: closed 8 years for works, reopened with exactly zero cycle lanes.",
-      "story": "Edinburgh's North Bridge closed in 2018 for major refurbishment, with plans to create a cycling and public transport corridor; it fully reopened on July 31, 2026 — after eight years — with no cycling infrastructure whatsoever, just regular car lanes, leaving cyclists to navigate around one of the city's busiest crossings exactly as before.",
-      "why_funny": "Eight years of Edinburgh telling cyclists 'we're working on it' culminated in a grand unveiling of: a road.",
-      "alt": "Edinburgh North Bridge viewed from street level, showing the grand Victorian stone bridge carrying car traffic across a deep valley, with no cycle lanes or cycling infrastructure visible",
-      "source": "https://www.edinburghnews.scotsman.com/news/edinburghs-north-bridge-to-fully-reopen-today-after-eight-years-of-restrictions-on-key-city-route-8833442",
-      "credit": "ozz13x / Wikimedia Commons",
-      "license": "CC BY",
-      "key": "2026-08-13-b"
+      "tagline": "The AI data center that drifts across the ocean in a giant sphere",
+      "story": "Korean tech giant Naver invested in Panthalassa on August 13, 2026 — a startup building unmanned AI data centers inside wave-powered spherical platforms that drift freely in the open Pacific with no anchors or cables, beaming compute results back via Starlink satellite, because apparently on-land data centres weren't experimental enough.",
+      "why_funny": "The CEO describes the floating AI servers as 'like a little Roomba, except enormous' — and if the sphere breaks down in the middle of the Pacific Ocean, good luck dispatching a technician.",
+      "alt": "Left: aerial concept render of an Ocean-3 wave-energy platform floating on dark open-ocean water. Right: real photo of the Panthalassa Ocean-2 prototype at sea — a large white sphere with measurement markings, the Panthalassa logo, and an American flag, bobbing in choppy waves",
+      "source": "https://www.koreatimes.co.kr/business/tech-science/20260813/naver-invests-in-us-startup-developing-wave-powered-ai-data-centers",
+      "credit": "Interesting Engineering / Panthalassa",
+      "license": "editorial — © Interesting Engineering / Panthalassa",
+      "key": "2026-08-14-b"
     }
   ]
 }
