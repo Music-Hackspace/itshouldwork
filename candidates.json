@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-14",
+  "date": "2026-08-15",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "The phone with a dancing titanium robot arm that winks at you",
-      "story": "HONOR launched the Robot Phone on August 12, 2026 — a $1,485 smartphone with a 4-degree-of-freedom titanium robotic arm camera that extends above the screen, tracks subjects, responds to 10 gestures, and dances to music — co-engineered with cinema camera company ARRI, because apparently normal cameras weren't cinematically ambitious enough.",
-      "why_funny": "The design brief was apparently 'what if the camera was alive?' and the answer was a phone that can nod its tiny titanium head in agreement with you.",
-      "alt": "Side-by-side product photo of the HONOR Robot Phone: left panel shows the silver handset back with its mechanical gimbal arm module; right panel shows a close-up of the robotic camera arm fully extended with the square camera module dangling on the articulated titanium arm",
-      "source": "https://www.honor.com/global/news/honor-robot-phone-launch/",
-      "credit": "PetaPixel / HONOR Global",
-      "license": "editorial — © PetaPixel / HONOR Global",
-      "key": "2026-08-14-a"
+      "tagline": "Your €80,000 BMW plays a Spider-Man ad the moment you start it",
+      "story": "BMW pushed a Spider-Man: Brand New Day promotional banner to 70+ countries via an over-the-air software update in late July 2026, appearing on iDrive screens the instant drivers started their cars — despite BMW's own SVP declaring in 2023 that 'to sell the screen for a commercial, I don't see it; it's a private space.'",
+      "why_funny": "BMW spent years insisting your car dashboard was a sacred private space, then used that sacred private space to play a Sony movie trailer at 7am in your own driveway.",
+      "alt": "A BMW iDrive touchscreen showing a Spider-Man: Brand New Day promotional banner that appeared automatically at car startup across more than 70 markets worldwide via over-the-air update",
+      "source": "https://www.techspot.com/news/113327-bmw-putting-spider-man-ads-dashboard-after-promising.html",
+      "credit": "TechSpot / BMW",
+      "license": "editorial — © TechSpot / BMW",
+      "key": "2026-08-15-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "The AI data center that drifts across the ocean in a giant sphere",
-      "story": "Korean tech giant Naver invested in Panthalassa on August 13, 2026 — a startup building unmanned AI data centers inside wave-powered spherical platforms that drift freely in the open Pacific with no anchors or cables, beaming compute results back via Starlink satellite, because apparently on-land data centres weren't experimental enough.",
-      "why_funny": "The CEO describes the floating AI servers as 'like a little Roomba, except enormous' — and if the sphere breaks down in the middle of the Pacific Ocean, good luck dispatching a technician.",
-      "alt": "Left: aerial concept render of an Ocean-3 wave-energy platform floating on dark open-ocean water. Right: real photo of the Panthalassa Ocean-2 prototype at sea — a large white sphere with measurement markings, the Panthalassa logo, and an American flag, bobbing in choppy waves",
-      "source": "https://www.koreatimes.co.kr/business/tech-science/20260813/naver-invests-in-us-startup-developing-wave-powered-ai-data-centers",
-      "credit": "Interesting Engineering / Panthalassa",
-      "license": "editorial — © Interesting Engineering / Panthalassa",
-      "key": "2026-08-14-b"
+      "tagline": "Musk's AI Wikipedia quietly died in April — 6.7 million readers weren't told",
+      "story": "xAI launched Grokipedia in October 2025 as an AI-powered Wikipedia rival that grew to 6 million articles; it stopped updating entirely on April 24, 2026, leaving 13,002 user edits stuck 'in review' for three months — while Musk never mentioned it after February and 6.7 million monthly visitors kept reading its frozen, unmoderated content without any warning.",
+      "why_funny": "The AI encyclopedia that promised to never go out of date became more out of date than the Encyclopaedia Britannica volumes gathering dust in your parents' garage — and it didn't even tell anyone.",
+      "alt": "The Grokipedia homepage interface — a Wikipedia-style AI-generated encyclopedia launched by Elon Musk's xAI in 2025 — as it appeared before its April 2026 editorial freeze",
+      "source": "https://www.lawfaremedia.org/article/grokipedia-stopped-reviewing-edits-in-april.-it-didn-t-tell-anyone",
+      "credit": "Lawfare / Renée DiResta & Ronald Robertson",
+      "license": "editorial — © Lawfare",
+      "key": "2026-08-15-b"
     }
   ]
 }
