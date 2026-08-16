@@ -1,6 +1,17 @@
 {
-  "count": 73,
+  "count": 74,
   "photos": [
+    {
+      "date": "2026-08-15",
+      "alt": "The Grokipedia homepage interface \u2014 a Wikipedia-style AI-generated encyclopedia launched by Elon Musk's xAI in 2025 \u2014 as it appeared before its April 2026 editorial freeze",
+      "source": "https://www.lawfaremedia.org/article/grokipedia-stopped-reviewing-edits-in-april.-it-didn-t-tell-anyone",
+      "credit": "Lawfare / Ren\u00e9e DiResta & Ronald Robertson",
+      "license": "editorial \u2014 \u00a9 Lawfare",
+      "story": "xAI launched Grokipedia in October 2025 as an AI-powered Wikipedia rival that grew to 6 million articles; it stopped updating entirely on April 24, 2026, leaving 13,002 user edits stuck 'in review' for three months \u2014 while Musk never mentioned it after February and 6.7 million monthly visitors kept reading its frozen, unmoderated content without any warning.",
+      "why_funny": "The AI encyclopedia that promised to never go out of date became more out of date than the Encyclopaedia Britannica volumes gathering dust in your parents' garage \u2014 and it didn't even tell anyone.",
+      "id": "29ee8d2be8",
+      "file": "archive/2026-08-15-29ee8d2be8.jpg"
+    },
     {
       "date": "2026-08-14",
       "alt": "Side-by-side product photo of the HONOR Robot Phone: left panel shows the silver handset back with its mechanical gimbal arm module; right panel shows a close-up of the robotic camera arm fully extended with the square camera module dangling on the articulated titanium arm",
