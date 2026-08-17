@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-16",
+  "date": "2026-08-17",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Instagram's new 'r' looks like a 'z' — welcome to Instagzam",
-      "story": "Instagram unveiled its first wordmark redesign in a decade on August 13, 2026, but the stylised lowercase 'r' sits so close to the 'g' that the internet immediately renamed the platform 'Instagzam' — a typography design flaw baked into a global brand refresh used by two billion people.",
-      "why_funny": "A trillion-dollar company hired designers to update four letters and shipped a logo that mispells the product name at first glance.",
-      "alt": "Instagram's 2026 redesigned wordmark displayed in black on a light background, showing the distinctive new lowercase 'r' letterform that closely resembles a 'z'",
-      "source": "https://techcrunch.com/2026/08/13/instagram-introduces-a-redesigned-wordmark/",
-      "credit": "Jukeboxprint / editorial — © Meta / Instagram",
-      "license": "editorial — © Meta / Instagram",
-      "key": "2026-08-16-a"
+      "tagline": "8 years of 'almost ready' — Tesla's flying Roadster demo is happening, driver not invited",
+      "story": "Tesla's next-gen Roadster with SpaceX cold-gas thrusters has missed at least eight deadlines since 2017; the August 2026 demo will be remotely operated with no driver inside because the thruster noise and force make it unsafe to occupy, and spectators must stand hundreds of yards away — a brief hover a few inches off the ground is the scaled-back reality of a car that was once supposed to drive upside-down on a magnetised roller-coaster ramp.",
+      "why_funny": "A car company delayed a 'flying' vehicle for nearly a decade only to produce a demo where nobody is allowed near it and the vehicle barely leaves the tarmac.",
+      "alt": "The second-generation Tesla Roadster concept car — a low-slung red sports car with a frameless windshield and aggressive wedge profile — shown at its 2019 preview event",
+      "source": "https://electrek.co/2026/08/14/tesla-flying-roadster-demo-this-month-no-driver/",
+      "credit": "Steve Jurvetson / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "key": "2026-08-17-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Jaguar's designer admits: the rebrand that broke the internet was a mistake",
-      "story": "Jaguar's ex-creative chief Gerry McGovern admitted on August 13–15, 2026 that the company's infamous 2024 'Copy Nothing' rebrand — which replaced all heritage imagery with abstract pink ads and unveiled the Type 00 concept car — caused such extreme backlash that Jaguar scrapped all planned follow-up communications, with McGovern confirming 'the backlash set the schedule.'",
-      "why_funny": "They deleted a century of British motoring heritage, replaced it with a CGI pink abstraction, the whole world laughed, and the man who designed it just told a journalist the critics were right.",
-      "alt": "The Jaguar Type 00 concept car — the dramatic angular pink-and-silver electric showcar unveiled as the centrepiece of Jaguar's 2024 rebrand, featuring radical styling with no traditional Jaguar design cues",
-      "source": "https://www.carscoops.com/2026/08/jaguar-woke-advertising-campaign/",
-      "credit": "SamuraiArmada / CC0 1.0 / Wikimedia Commons",
-      "license": "CC0 1.0",
-      "key": "2026-08-16-b"
+      "tagline": "Billions spent on space-age electromagnetic catapults — now the Navy is going back to steam",
+      "story": "On August 13, 2026, Trump signed a directive ordering Ford-class aircraft carriers to replace EMALS — the electromagnetic launch system the Navy spent $4+ billion extra on because steam was 'outdated' — with steam catapults starting from the USS Doris Miller (CVN-81); the catch is that nobody in the US has built a steam catapult in roughly twenty years, the reversal will cost billions more and could delay the carrier from 2034 to the end of the next decade.",
+      "why_funny": "The US Navy replaced steam catapults with billion-dollar electromagnetic ones because steam was old-fashioned, then ordered the billion-dollar electromagnetic ones replaced with steam because steam is reliable — making both decisions simultaneously correct and catastrophically expensive.",
+      "alt": "The USS Gerald R. Ford (CVN-78), the lead Ford-class aircraft carrier, photographed at sea near the Solent off the English coast in 2022 — the class whose EMALS electromagnetic launch system is at the centre of the reversal decision",
+      "source": "https://www.navylookout.com/full-steam-in-reverse-trump-orders-us-navy-back-to-old-style-aircraft-catapults/",
+      "credit": "ITookSomePhotos / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-08-17-b"
     }
   ]
 }
