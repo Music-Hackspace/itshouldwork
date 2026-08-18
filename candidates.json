@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-17",
+  "date": "2026-08-18",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "8 years of 'almost ready' — Tesla's flying Roadster demo is happening, driver not invited",
-      "story": "Tesla's next-gen Roadster with SpaceX cold-gas thrusters has missed at least eight deadlines since 2017; the August 2026 demo will be remotely operated with no driver inside because the thruster noise and force make it unsafe to occupy, and spectators must stand hundreds of yards away — a brief hover a few inches off the ground is the scaled-back reality of a car that was once supposed to drive upside-down on a magnetised roller-coaster ramp.",
-      "why_funny": "A car company delayed a 'flying' vehicle for nearly a decade only to produce a demo where nobody is allowed near it and the vehicle barely leaves the tarmac.",
-      "alt": "The second-generation Tesla Roadster concept car — a low-slung red sports car with a frameless windshield and aggressive wedge profile — shown at its 2019 preview event",
-      "source": "https://electrek.co/2026/08/14/tesla-flying-roadster-demo-this-month-no-driver/",
-      "credit": "Steve Jurvetson / Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "key": "2026-08-17-a"
+      "tagline": "Fired by America: CEO out after logo change lost $94M in a day",
+      "story": "On the one-year anniversary of Cracker Barrel's infamous 2025 rebrand — removing 'Uncle Herschel' from the logo cost $94 million in market cap in 24 hours and drew a Trump Truth Social rebuke — CEO Julie Masino stepped down on August 10, 2026, walking away with $4.63 million in severance from a chain famous for selling rocking chairs.",
+      "why_funny": "A restaurant chain whose entire brand identity is 'rustic old-timey rocking-chair porch' tried to modernise its logo and discovered, at a cost of $94M in one day, that its customers liked the rustic old-timey rocking-chair porch.",
+      "alt": "The exterior of a Cracker Barrel Old Country Store restaurant in Bloomsburg, Pennsylvania, showing the iconic wooden-plank facade, rows of wooden rocking chairs lined up across the full-length front porch, and the classic 'Old Country Store' signage.",
+      "source": "https://www.nbcnews.com/business/consumer/cracker-barrel-ceo-logo-debacle-rcna589523",
+      "credit": "Deans Charbal / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-08-18-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Billions spent on space-age electromagnetic catapults — now the Navy is going back to steam",
-      "story": "On August 13, 2026, Trump signed a directive ordering Ford-class aircraft carriers to replace EMALS — the electromagnetic launch system the Navy spent $4+ billion extra on because steam was 'outdated' — with steam catapults starting from the USS Doris Miller (CVN-81); the catch is that nobody in the US has built a steam catapult in roughly twenty years, the reversal will cost billions more and could delay the carrier from 2034 to the end of the next decade.",
-      "why_funny": "The US Navy replaced steam catapults with billion-dollar electromagnetic ones because steam was old-fashioned, then ordered the billion-dollar electromagnetic ones replaced with steam because steam is reliable — making both decisions simultaneously correct and catastrophically expensive.",
-      "alt": "The USS Gerald R. Ford (CVN-78), the lead Ford-class aircraft carrier, photographed at sea near the Solent off the English coast in 2022 — the class whose EMALS electromagnetic launch system is at the centre of the reversal decision",
-      "source": "https://www.navylookout.com/full-steam-in-reverse-trump-orders-us-navy-back-to-old-style-aircraft-catapults/",
-      "credit": "ITookSomePhotos / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-08-17-b"
+      "tagline": "Google's new phone blinks alerts — on the back, where you can't see them",
+      "story": "Google's Pixel 11 Pro (launched August 12, 2026, starting at $1,099) features 'HiLight' — an array of RGB LEDs on the back of the phone that glow to notify you of calls and Gemini AI activity; the fundamental problem, immediately noted by reviewers, is that the lights face away from you and are almost invisible during normal face-up use.",
+      "why_funny": "A premium smartphone's headline new feature is a notification light placed on the side of the screen you're never looking at, and at launch it only tells you two things: a favourite contact is calling, or the AI is thinking.",
+      "alt": "The back of the Google Pixel 11 Pro being held in a hand, with the HiLight LED array glowing in vivid blue-green hues along the camera bar — the notification lights visible only because the phone is being shown from behind.",
+      "source": "https://www.androidauthority.com/pixel-11-pro-hilight-notification-led-problem-3696162/",
+      "credit": "Android Authority",
+      "license": "editorial — © Android Authority",
+      "key": "2026-08-18-b"
     }
   ]
 }
