@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-18",
+  "date": "2026-08-20",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "Fired by America: CEO out after logo change lost $94M in a day",
-      "story": "On the one-year anniversary of Cracker Barrel's infamous 2025 rebrand — removing 'Uncle Herschel' from the logo cost $94 million in market cap in 24 hours and drew a Trump Truth Social rebuke — CEO Julie Masino stepped down on August 10, 2026, walking away with $4.63 million in severance from a chain famous for selling rocking chairs.",
-      "why_funny": "A restaurant chain whose entire brand identity is 'rustic old-timey rocking-chair porch' tried to modernise its logo and discovered, at a cost of $94M in one day, that its customers liked the rustic old-timey rocking-chair porch.",
-      "alt": "The exterior of a Cracker Barrel Old Country Store restaurant in Bloomsburg, Pennsylvania, showing the iconic wooden-plank facade, rows of wooden rocking chairs lined up across the full-length front porch, and the classic 'Old Country Store' signage.",
-      "source": "https://www.nbcnews.com/business/consumer/cracker-barrel-ceo-logo-debacle-rcna589523",
-      "credit": "Deans Charbal / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-08-18-a"
+      "file": "candidate-a.png",
+      "tagline": "$10 lollipop. One use. Three songs. Disposable circuit board included.",
+      "story": "Lollipop Star launched at CES 2026 as a single-use bone-conduction candy: bite the stick, hear music through your jaw, then throw away the lollipop AND the embedded electronics — a micro motor, capacitor, and memory chip — every single time.",
+      "why_funny": "The entire premise of sustainable electronics is violated by a product whose core design is 'discard the circuit board after 30 seconds of Akon.'",
+      "alt": "The Lollipop Star product showing a translucent blue lollipop with a large electronic vibration module capsule at the base of the stick, alongside branded packaging reading 'Pop It, Play It' and 'Taste the Music — Akon'.",
+      "source": "https://www.avclub.com/sure-lets-put-music-in-a-lollipop",
+      "credit": "Lollipop Star / Lava Tech Brands",
+      "license": "editorial — © Lollipop Star",
+      "key": "2026-08-20-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Google's new phone blinks alerts — on the back, where you can't see them",
-      "story": "Google's Pixel 11 Pro (launched August 12, 2026, starting at $1,099) features 'HiLight' — an array of RGB LEDs on the back of the phone that glow to notify you of calls and Gemini AI activity; the fundamental problem, immediately noted by reviewers, is that the lights face away from you and are almost invisible during normal face-up use.",
-      "why_funny": "A premium smartphone's headline new feature is a notification light placed on the side of the screen you're never looking at, and at launch it only tells you two things: a favourite contact is calling, or the AI is thinking.",
-      "alt": "The back of the Google Pixel 11 Pro being held in a hand, with the HiLight LED array glowing in vivid blue-green hues along the camera bar — the notification lights visible only because the phone is being shown from behind.",
-      "source": "https://www.androidauthority.com/pixel-11-pro-hilight-notification-led-problem-3696162/",
-      "credit": "Android Authority",
-      "license": "editorial — © Android Authority",
-      "key": "2026-08-18-b"
+      "tagline": "$2.2 billion stadium — view sold separately, not included",
+      "story": "The Buffalo Bills opened brand-new Highmark Stadium in August 2026 to viral complaints: fans who paid tens of thousands for Personal Seat Licenses found their $2.2B views blocked by concrete ledges, glass safety barriers, and staircase railings — and the architect called it 'intentional design'.",
+      "why_funny": "A stadium costing $2.2 billion managed to block paying fans' sightlines with concrete and glass, then the designer said the obstructions were a feature, not a bug.",
+      "alt": "Buffalo Bills fans peering over a thick concrete platform labelled 'BRUCE SMITH 78' at the new Highmark Stadium, looking through a glass safety barrier in an attempt to see the field below.",
+      "source": "https://www.foxnews.com/outkick-sports/buffalo-bills-fans-brand-new-2-2-billion-highmark-stadium-finding-views-obstructed",
+      "credit": "OutKick / Fox News",
+      "license": "editorial — © Fox News / OutKick",
+      "key": "2026-08-20-b"
     }
   ]
 }
