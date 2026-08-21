@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-20",
+  "date": "2026-08-21",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.png",
-      "tagline": "$10 lollipop. One use. Three songs. Disposable circuit board included.",
-      "story": "Lollipop Star launched at CES 2026 as a single-use bone-conduction candy: bite the stick, hear music through your jaw, then throw away the lollipop AND the embedded electronics — a micro motor, capacitor, and memory chip — every single time.",
-      "why_funny": "The entire premise of sustainable electronics is violated by a product whose core design is 'discard the circuit board after 30 seconds of Akon.'",
-      "alt": "The Lollipop Star product showing a translucent blue lollipop with a large electronic vibration module capsule at the base of the stick, alongside branded packaging reading 'Pop It, Play It' and 'Taste the Music — Akon'.",
-      "source": "https://www.avclub.com/sure-lets-put-music-in-a-lollipop",
-      "credit": "Lollipop Star / Lava Tech Brands",
-      "license": "editorial — © Lollipop Star",
-      "key": "2026-08-20-a"
+      "file": "candidate-a.jpg",
+      "tagline": "Trinity Univ. spent a year redesigning their logo. Alumni revolted in 5 days.",
+      "story": "Trinity University unveiled a new sunburst logo on July 30, 2026, replacing the iconic 166-foot Murchison Tower — then paused the entire rollout within five days after alumni flooded social media saying it looked like every hotel and bank logo ever made.",
+      "why_funny": "After consulting over 300 people for nearly a year, they produced something so generic that the university itself had to hit pause before anyone even ordered new stationery.",
+      "alt": "Murchison Tower at Trinity University in San Antonio — a tall Gothic stone bell tower on the campus skyline.",
+      "source": "https://sanantonioreport.org/trinity-university-pauses-launch-of-a-new-logo-citing-alumni-response/",
+      "credit": "Picpost / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "key": "2026-08-21-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "$2.2 billion stadium — view sold separately, not included",
-      "story": "The Buffalo Bills opened brand-new Highmark Stadium in August 2026 to viral complaints: fans who paid tens of thousands for Personal Seat Licenses found their $2.2B views blocked by concrete ledges, glass safety barriers, and staircase railings — and the architect called it 'intentional design'.",
-      "why_funny": "A stadium costing $2.2 billion managed to block paying fans' sightlines with concrete and glass, then the designer said the obstructions were a feature, not a bug.",
-      "alt": "Buffalo Bills fans peering over a thick concrete platform labelled 'BRUCE SMITH 78' at the new Highmark Stadium, looking through a glass safety barrier in an attempt to see the field below.",
-      "source": "https://www.foxnews.com/outkick-sports/buffalo-bills-fans-brand-new-2-2-billion-highmark-stadium-finding-views-obstructed",
-      "credit": "OutKick / Fox News",
-      "license": "editorial — © Fox News / OutKick",
-      "key": "2026-08-20-b"
+      "tagline": "Ferrari's 'ugly' EV that nobody wanted just sold for $40 million.",
+      "story": "Ferrari unveiled its first electric car, the Luce, designed by Jony Ive — critics called it 'an aesthetic and technological insult to anyone who loves Ferrari' and compared it to a Nissan Leaf, sending stock down 8%; then Chassis 0 sold at Sotheby's for $40M, sixty times its retail price.",
+      "why_funny": "The car so many people said looked wrong for Ferrari turned out to be so collectible as history's first Ferrari EV that it fetched the highest price ever paid at auction for a new vehicle.",
+      "alt": "The all-white Ferrari Luce Chassis 0 on display at RM Sotheby's auction house in Monterey, California.",
+      "source": "https://www.dezeen.com/2026/08/17/ferrari-luce-ev-auction-record/",
+      "credit": "Lcaa9 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-08-21-b"
     }
   ]
 }
