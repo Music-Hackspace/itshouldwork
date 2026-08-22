@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Trinity Univ. spent a year redesigning their logo. Alumni revolted in 5 days.",
-      "story": "Trinity University unveiled a new sunburst logo on July 30, 2026, replacing the iconic 166-foot Murchison Tower — then paused the entire rollout within five days after alumni flooded social media saying it looked like every hotel and bank logo ever made.",
-      "why_funny": "After consulting over 300 people for nearly a year, they produced something so generic that the university itself had to hit pause before anyone even ordered new stationery.",
-      "alt": "Murchison Tower at Trinity University in San Antonio — a tall Gothic stone bell tower on the campus skyline.",
-      "source": "https://sanantonioreport.org/trinity-university-pauses-launch-of-a-new-logo-citing-alumni-response/",
-      "credit": "Picpost / Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "key": "2026-08-21-a"
+      "tagline": "Built to outrun Usain Bolt. Forgot to install brakes.",
+      "story": "Unitree's 'Superman' humanoid robot hit 12.66 m/s during sprint training for the 2026 World Humanoid Robot Games in Beijing — faster than Usain Bolt's peak speed — then couldn't stop and slammed into a safety cushion, snapping completely at the waist in a shower of sparks, one day before the games officially opened.",
+      "why_funny": "The robot nailed the speed goal and completely failed at the 'not destroying itself upon reaching the end of the track' part, prompting the internet to coin 'first career-ending injury in robotic athletics.'",
+      "alt": "Unitree Superman humanoid robot bent sharply in half at the waist after crashing into a padded safety barrier during sprint training for the 2026 World Humanoid Robot Games in Beijing, torso folded forward over its legs with sparks at the impact point.",
+      "source": "https://futurism.com/robots-and-machines/most-amazing-robot-death-ever",
+      "credit": "pianhang via X, via Futurism.com",
+      "license": "editorial — © Futurism / pianhang via X",
+      "key": "2026-08-22-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Ferrari's 'ugly' EV that nobody wanted just sold for $40 million.",
-      "story": "Ferrari unveiled its first electric car, the Luce, designed by Jony Ive — critics called it 'an aesthetic and technological insult to anyone who loves Ferrari' and compared it to a Nissan Leaf, sending stock down 8%; then Chassis 0 sold at Sotheby's for $40M, sixty times its retail price.",
-      "why_funny": "The car so many people said looked wrong for Ferrari turned out to be so collectible as history's first Ferrari EV that it fetched the highest price ever paid at auction for a new vehicle.",
-      "alt": "The all-white Ferrari Luce Chassis 0 on display at RM Sotheby's auction house in Monterey, California.",
-      "source": "https://www.dezeen.com/2026/08/17/ferrari-luce-ev-auction-record/",
-      "credit": "Lcaa9 / Wikimedia Commons",
+      "tagline": "Apple hid cameras in earbuds so subtle nobody nearby could tell. The internet named them 'PervertPods.'",
+      "story": "Apple accidentally leaked new AirPods Pro with hidden cameras in macOS 26.7 RC on August 18, 2026 — the sensors are so small and the earbuds look so normal that people nearby cannot tell you are scanning them; the internet immediately nicknamed them 'PervertPods'; Apple confirmed the product has been delayed to 2027.",
+      "why_funny": "Apple's entire design argument for putting cameras in earbuds is that nobody nearby would know the cameras are there — which is precisely what disturbed everyone about them.",
+      "alt": "Apple AirPods Pro 2nd generation white earbuds and charging case — the form factor Apple plans to add hidden cameras to in an upcoming version, already dubbed 'PervertPods' by the internet after an accidental macOS beta leak.",
+      "source": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
+      "credit": "Hajoon0102 / Wikimedia Commons",
       "license": "CC BY-SA 4.0",
-      "key": "2026-08-21-b"
+      "key": "2026-08-22-b"
     }
   ]
 }
