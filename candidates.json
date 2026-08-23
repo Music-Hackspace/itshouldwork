@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Built to outrun Usain Bolt. Forgot to install brakes.",
-      "story": "Unitree's 'Superman' humanoid robot hit 12.66 m/s during sprint training for the 2026 World Humanoid Robot Games in Beijing — faster than Usain Bolt's peak speed — then couldn't stop and slammed into a safety cushion, snapping completely at the waist in a shower of sparks, one day before the games officially opened.",
-      "why_funny": "The robot nailed the speed goal and completely failed at the 'not destroying itself upon reaching the end of the track' part, prompting the internet to coin 'first career-ending injury in robotic athletics.'",
-      "alt": "Unitree Superman humanoid robot bent sharply in half at the waist after crashing into a padded safety barrier during sprint training for the 2026 World Humanoid Robot Games in Beijing, torso folded forward over its legs with sparks at the impact point.",
-      "source": "https://futurism.com/robots-and-machines/most-amazing-robot-death-ever",
-      "credit": "pianhang via X, via Futurism.com",
-      "license": "editorial — © Futurism / pianhang via X",
-      "key": "2026-08-22-a"
+      "tagline": "EU paid €30M for traffic cameras. Moscow got 279 new spy posts.",
+      "story": "Slovakia installed 279 NERO R-ONE speed cameras using EU road-safety funds, then its national security service discovered they were rebranded Russian gear with SMS-triggered backdoor shell access and passwordless live video feeds.",
+      "why_funny": "A government scheme to make roads safer accidentally handed Russia a ready-to-activate nationwide surveillance network—reachable by a text from a St Petersburg phone number.",
+      "alt": "A grey traffic speed-enforcement camera mounted on a roadside pole, trees in the background",
+      "source": "https://eureports.com/2026/08/slovakias-russian-made-cameras-raise-fears-of-kremlin-surveillance/",
+      "credit": "eureports.com",
+      "license": "editorial — © eureports.com",
+      "key": "2026-08-23-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Apple hid cameras in earbuds so subtle nobody nearby could tell. The internet named them 'PervertPods.'",
-      "story": "Apple accidentally leaked new AirPods Pro with hidden cameras in macOS 26.7 RC on August 18, 2026 — the sensors are so small and the earbuds look so normal that people nearby cannot tell you are scanning them; the internet immediately nicknamed them 'PervertPods'; Apple confirmed the product has been delayed to 2027.",
-      "why_funny": "Apple's entire design argument for putting cameras in earbuds is that nobody nearby would know the cameras are there — which is precisely what disturbed everyone about them.",
-      "alt": "Apple AirPods Pro 2nd generation white earbuds and charging case — the form factor Apple plans to add hidden cameras to in an upcoming version, already dubbed 'PervertPods' by the internet after an accidental macOS beta leak.",
-      "source": "https://techcrunch.com/2026/08/18/why-apples-camera-equipped-airpods-may-not-be-the-pervert-pods-consumers-fear/",
-      "credit": "Hajoon0102 / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-08-22-b"
+      "tagline": "New messaging app delivers texts by pigeon. LA→NYC: 22 hrs. Bird may die.",
+      "story": "Developer Noah Iarrobino launched Carrier Pidge, an iOS app that sends messages via virtual carrier pigeon at 110 mph real-world distance — a cross-country text takes 22 hours to arrive, and there is a 0.2% chance the pigeon dies en route.",
+      "why_funny": "The developer openly describes the app as having 'genuinely no practical use', yet it went viral as the logical endpoint of inbox-fatigue culture.",
+      "alt": "Close-up portrait of a pigeon strutting across sandy ground, looking directly ahead",
+      "source": "https://www.techspot.com/news/113501-carrier-pidge-app-delivers-texts-110-mph-unless.html",
+      "credit": "TechSpot",
+      "license": "editorial — © TechSpot",
+      "key": "2026-08-23-b"
     }
   ]
 }
