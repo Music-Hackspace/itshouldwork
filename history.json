@@ -1,6 +1,17 @@
 {
-  "count": 80,
+  "count": 81,
   "photos": [
+    {
+      "date": "2026-08-23",
+      "alt": "A grey traffic speed-enforcement camera mounted on a roadside pole, trees in the background",
+      "source": "https://eureports.com/2026/08/slovakias-russian-made-cameras-raise-fears-of-kremlin-surveillance/",
+      "credit": "eureports.com",
+      "license": "editorial \u2014 \u00a9 eureports.com",
+      "story": "Slovakia installed 279 NERO R-ONE speed cameras using EU road-safety funds, then its national security service discovered they were rebranded Russian gear with SMS-triggered backdoor shell access and passwordless live video feeds.",
+      "why_funny": "A government scheme to make roads safer accidentally handed Russia a ready-to-activate nationwide surveillance network\u2014reachable by a text from a St Petersburg phone number.",
+      "id": "5656625d53",
+      "file": "archive/2026-08-23-5656625d53.jpg"
+    },
     {
       "date": "2026-08-22",
       "alt": "Unitree Superman humanoid robot bent sharply in half at the waist after crashing into a padded safety barrier during sprint training for the 2026 World Humanoid Robot Games in Beijing, torso folded forward over its legs with sparks at the impact point.",
