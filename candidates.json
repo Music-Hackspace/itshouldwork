@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-23",
+  "date": "2026-08-24",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "EU paid €30M for traffic cameras. Moscow got 279 new spy posts.",
-      "story": "Slovakia installed 279 NERO R-ONE speed cameras using EU road-safety funds, then its national security service discovered they were rebranded Russian gear with SMS-triggered backdoor shell access and passwordless live video feeds.",
-      "why_funny": "A government scheme to make roads safer accidentally handed Russia a ready-to-activate nationwide surveillance network—reachable by a text from a St Petersburg phone number.",
-      "alt": "A grey traffic speed-enforcement camera mounted on a roadside pole, trees in the background",
-      "source": "https://eureports.com/2026/08/slovakias-russian-made-cameras-raise-fears-of-kremlin-surveillance/",
-      "credit": "eureports.com",
-      "license": "editorial — © eureports.com",
-      "key": "2026-08-23-a"
+      "tagline": "40,000 Sydney runners get a medal featuring a stadium in Germany",
+      "story": "The 2026 Sydney Marathon finisher medal — going to ~40,000 runners — celebrates Sydney's iconic landmarks but accidentally engraved Munich's Allianz Arena instead of Sydney's Allianz Stadium because a designer confused the two Allianz-named venues.",
+      "why_funny": "Organisers declined to replace the medals and quipped 'We're not going to run from it,' while Munich's Allianz Arena posted: 'Oh wow, we didn't have that on our bingo card!'",
+      "alt": "The back face of the 2026 Sydney Marathon finisher medal showing Sydney landmarks including the Opera House and Harbour Bridge — alongside Munich's Allianz Arena diamond-patterned roof.",
+      "source": "https://www.abc.net.au/news/2026-08-23/nsw-sydney-marathon-medal-mix-up-munich-arena/107068624",
+      "credit": "ABC News (Australian Broadcasting Corporation)",
+      "license": "editorial — © ABC",
+      "key": "2026-08-24-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "New messaging app delivers texts by pigeon. LA→NYC: 22 hrs. Bird may die.",
-      "story": "Developer Noah Iarrobino launched Carrier Pidge, an iOS app that sends messages via virtual carrier pigeon at 110 mph real-world distance — a cross-country text takes 22 hours to arrive, and there is a 0.2% chance the pigeon dies en route.",
-      "why_funny": "The developer openly describes the app as having 'genuinely no practical use', yet it went viral as the logical endpoint of inbox-fatigue culture.",
-      "alt": "Close-up portrait of a pigeon strutting across sandy ground, looking directly ahead",
-      "source": "https://www.techspot.com/news/113501-carrier-pidge-app-delivers-texts-110-mph-unless.html",
-      "credit": "TechSpot",
-      "license": "editorial — © TechSpot",
-      "key": "2026-08-23-b"
+      "tagline": "Robot loses signal mid-demo, thrashes on the floor at China's big robot showcase",
+      "story": "At the 2026 World Robot Conference in Beijing — an event designed to impress the world with China's robotics progress — a humanoid robot lost its remote-control connection, toppled onto its back, and violently flailed its limbs while engineers scrambled to shut it down.",
+      "why_funny": "The one conference specifically meant to demonstrate how well robots work produced a robot that couldn't be stopped even by the engineers who built it.",
+      "alt": "A humanoid robot lying on its back on an exhibition floor, arms and legs extended mid-flail, with engineers in the background rushing toward it.",
+      "source": "https://newsable.asianetnews.com/world/humanoid-robot-malfunctions-suffers-seizure-thrashes-at-china-conference-video-articleshow-iiowef2",
+      "credit": "Asianet Newsable / viral video still",
+      "license": "editorial — © Asianet News",
+      "key": "2026-08-24-b"
     }
   ]
 }
