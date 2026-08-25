@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-24",
+  "date": "2026-08-25",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "40,000 Sydney runners get a medal featuring a stadium in Germany",
-      "story": "The 2026 Sydney Marathon finisher medal — going to ~40,000 runners — celebrates Sydney's iconic landmarks but accidentally engraved Munich's Allianz Arena instead of Sydney's Allianz Stadium because a designer confused the two Allianz-named venues.",
-      "why_funny": "Organisers declined to replace the medals and quipped 'We're not going to run from it,' while Munich's Allianz Arena posted: 'Oh wow, we didn't have that on our bingo card!'",
-      "alt": "The back face of the 2026 Sydney Marathon finisher medal showing Sydney landmarks including the Opera House and Harbour Bridge — alongside Munich's Allianz Arena diamond-patterned roof.",
-      "source": "https://www.abc.net.au/news/2026-08-23/nsw-sydney-marathon-medal-mix-up-munich-arena/107068624",
-      "credit": "ABC News (Australian Broadcasting Corporation)",
-      "license": "editorial — © ABC",
-      "key": "2026-08-24-a"
+      "tagline": "Amazon promised precision delivery — it landed in the pool",
+      "story": "Amazon's Prime Air MK30 drone autonomously dropped a customer's package into her backyard swimming pool in Richmond, Texas on August 17, 2026 — then Amazon announced its biggest-ever expansion to 500 U.S. cities just two days later.",
+      "why_funny": "A delivery system sold specifically on its precision couldn't distinguish 'lawn' from 'pool,' then the company celebrated with a press release about bringing this technology to 30 million more customers.",
+      "alt": "Amazon Prime Air MK30 delivery drone hovering low over a residential house rooftop against a blue sky",
+      "source": "https://futurism.com/robots-and-machines/amazon-drone-package-pool",
+      "credit": "Futurism.com",
+      "license": "editorial — © Futurism",
+      "key": "2026-08-25-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Robot loses signal mid-demo, thrashes on the floor at China's big robot showcase",
-      "story": "At the 2026 World Robot Conference in Beijing — an event designed to impress the world with China's robotics progress — a humanoid robot lost its remote-control connection, toppled onto its back, and violently flailed its limbs while engineers scrambled to shut it down.",
-      "why_funny": "The one conference specifically meant to demonstrate how well robots work produced a robot that couldn't be stopped even by the engineers who built it.",
-      "alt": "A humanoid robot lying on its back on an exhibition floor, arms and legs extended mid-flail, with engineers in the background rushing toward it.",
-      "source": "https://newsable.asianetnews.com/world/humanoid-robot-malfunctions-suffers-seizure-thrashes-at-china-conference-video-articleshow-iiowef2",
-      "credit": "Asianet Newsable / viral video still",
-      "license": "editorial — © Asianet News",
-      "key": "2026-08-24-b"
+      "tagline": "Google said '3x stronger' — it snapped in exactly the same place. Again.",
+      "story": "The Google Pixel 11 Pro Fold cracked at the antenna-line hinge weakness in JerryRigEverything's bend test on August 21, 2026 — the fourth consecutive Google foldable to fail at the identical structural point, despite Google marketing it as 'three times stronger.'",
+      "why_funny": "After four generations of the same phone breaking in the same spot, Google shipped the next one with a '3x stronger' press release — and it broke in the same spot.",
+      "alt": "Pixel 11 Pro Fold after JerryRigEverything durability test, with the front display panel completely detached from the hinge, the device splayed open and visibly destroyed on a workbench",
+      "source": "https://9to5google.com/2026/08/21/pixel-11-pro-fold-still-doesnt-survive-bend-test-but-at-least-it-didnt-explode-this-time-video/",
+      "credit": "9to5Google / JerryRigEverything",
+      "license": "editorial — © 9to5Google / JerryRigEverything",
+      "key": "2026-08-25-b"
     }
   ]
 }
