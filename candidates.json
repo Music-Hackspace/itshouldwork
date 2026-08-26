@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-25",
+  "date": "2026-08-26",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Amazon promised precision delivery — it landed in the pool",
-      "story": "Amazon's Prime Air MK30 drone autonomously dropped a customer's package into her backyard swimming pool in Richmond, Texas on August 17, 2026 — then Amazon announced its biggest-ever expansion to 500 U.S. cities just two days later.",
-      "why_funny": "A delivery system sold specifically on its precision couldn't distinguish 'lawn' from 'pool,' then the company celebrated with a press release about bringing this technology to 30 million more customers.",
-      "alt": "Amazon Prime Air MK30 delivery drone hovering low over a residential house rooftop against a blue sky",
-      "source": "https://futurism.com/robots-and-machines/amazon-drone-package-pool",
-      "credit": "Futurism.com",
-      "license": "editorial — © Futurism",
-      "key": "2026-08-25-a"
+      "tagline": "A $1,800 foldable that wobbles — so one owner got a razor blade",
+      "story": "The Samsung Galaxy Z Fold 8's camera bump is so large the phone rocks on any flat surface; one owner's fix was to razor off the entire camera module so it would lie still on a desk.",
+      "why_funny": "Someone spent $1,800 on a flagship foldable phone and solved its biggest design flaw with a $0.10 razor blade.",
+      "alt": "Samsung Galaxy Z Fold 8 standing folded in an inverted-V tent position on a wooden outdoor table, showing the large camera bump on the back that prevents it lying flat",
+      "source": "https://www.techradar.com/phones/samsung-galaxy-phones/the-wobble-is-so-annoying-one-galaxy-z-fold-8-user-has-resorted-to-an-extreme-fix-to-ensure-their-foldable-lies-perfectly-flat",
+      "credit": "TechRadar / Future plc",
+      "license": "editorial — © TechRadar / Future plc",
+      "key": "2026-08-26-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Google said '3x stronger' — it snapped in exactly the same place. Again.",
-      "story": "The Google Pixel 11 Pro Fold cracked at the antenna-line hinge weakness in JerryRigEverything's bend test on August 21, 2026 — the fourth consecutive Google foldable to fail at the identical structural point, despite Google marketing it as 'three times stronger.'",
-      "why_funny": "After four generations of the same phone breaking in the same spot, Google shipped the next one with a '3x stronger' press release — and it broke in the same spot.",
-      "alt": "Pixel 11 Pro Fold after JerryRigEverything durability test, with the front display panel completely detached from the hinge, the device splayed open and visibly destroyed on a workbench",
-      "source": "https://9to5google.com/2026/08/21/pixel-11-pro-fold-still-doesnt-survive-bend-test-but-at-least-it-didnt-explode-this-time-video/",
-      "credit": "9to5Google / JerryRigEverything",
-      "license": "editorial — © 9to5Google / JerryRigEverything",
-      "key": "2026-08-25-b"
+      "tagline": "Apple's 'affordable' Mac mini now starts at $899 — for 256 GB",
+      "story": "Apple raised the Mac mini's starting price 50% over two years to $899 for a base 256 GB model; the 1 TB storage upgrade costs $500 more — itself exceeding the machine's original asking price.",
+      "why_funny": "The whole pitch of the Mac mini was 'cheapest Mac ever' — it now costs more than many laptops, and the storage bump costs more than a second Mac mini used to.",
+      "alt": "Apple Mac mini viewed from the front against an orange-to-yellow gradient, showing its compact aluminum enclosure with two USB-C ports and power indicator",
+      "source": "https://www.macrumors.com/2026/08/25/apple-announces-2026-mac-mini/",
+      "credit": "MacRumors / Apple",
+      "license": "editorial — © MacRumors / Apple",
+      "key": "2026-08-26-b"
     }
   ]
 }
