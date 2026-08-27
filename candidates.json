@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "A $1,800 foldable that wobbles — so one owner got a razor blade",
-      "story": "The Samsung Galaxy Z Fold 8's camera bump is so large the phone rocks on any flat surface; one owner's fix was to razor off the entire camera module so it would lie still on a desk.",
-      "why_funny": "Someone spent $1,800 on a flagship foldable phone and solved its biggest design flaw with a $0.10 razor blade.",
-      "alt": "Samsung Galaxy Z Fold 8 standing folded in an inverted-V tent position on a wooden outdoor table, showing the large camera bump on the back that prevents it lying flat",
-      "source": "https://www.techradar.com/phones/samsung-galaxy-phones/the-wobble-is-so-annoying-one-galaxy-z-fold-8-user-has-resorted-to-an-extreme-fix-to-ensure-their-foldable-lies-perfectly-flat",
-      "credit": "TechRadar / Future plc",
-      "license": "editorial — © TechRadar / Future plc",
-      "key": "2026-08-26-a"
+      "tagline": "Amazon's 'artificial AI' — humans pretending to be bots — shut down by actual AI",
+      "story": "Amazon announced on August 26, 2026 that it's shutting down Mechanical Turk (MTurk) on September 30 — the platform Jeff Bezos called 'artificial artificial intelligence' because it used human workers to perform tasks too hard for real AI; after 21 years of humans training AI, the AI got good enough to replace them.",
+      "why_funny": "The platform was literally named after an 18th-century chess automaton that hid a human grandmaster inside a fake robot — and now the fake AI has been defeated by the real thing it spent two decades helping build.",
+      "alt": "A museum replica of the 18th-century Mechanical Turk chess automaton — a wooden cabinet with a mechanical arm and a mannequin in Ottoman dress, the famous hoax that concealed a human chess master inside the machine",
+      "source": "https://www.fastcompany.com/91596625/amazon-is-shutting-down-mechanical-turk-after-21-years-quietly-ending-the-human-powered-platform",
+      "credit": "Marcin Wichary / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "key": "2026-08-27-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Apple's 'affordable' Mac mini now starts at $899 — for 256 GB",
-      "story": "Apple raised the Mac mini's starting price 50% over two years to $899 for a base 256 GB model; the 1 TB storage upgrade costs $500 more — itself exceeding the machine's original asking price.",
-      "why_funny": "The whole pitch of the Mac mini was 'cheapest Mac ever' — it now costs more than many laptops, and the storage bump costs more than a second Mac mini used to.",
-      "alt": "Apple Mac mini viewed from the front against an orange-to-yellow gradient, showing its compact aluminum enclosure with two USB-C ports and power indicator",
-      "source": "https://www.macrumors.com/2026/08/25/apple-announces-2026-mac-mini/",
-      "credit": "MacRumors / Apple",
-      "license": "editorial — © MacRumors / Apple",
-      "key": "2026-08-26-b"
+      "tagline": "Council's new cycle lane is narrower than the parking lines underneath it",
+      "story": "Brighton and Hove Council repainted a cycle lane on Dyke Road in August 2026 during road resurfacing — producing a lane so narrow it barely extends beyond the double-yellow parking restriction lines already on the road, prompting cyclists to call it 'impressively dumb' and a 'box ticking exercise.'",
+      "why_funny": "The council technically fulfilled its obligation to build cycling infrastructure, but delivered a lane so narrow cyclists say it's safer to ignore it and ride in traffic — meaning the only effect of the work is a fresh coat of paint that still helps nobody.",
+      "alt": "A narrow cycle lane on Dyke Road, Brighton, so thin it barely extends beyond the double yellow no-parking lines painted beneath it — the white lane markings almost indistinguishable from the yellow parking restrictions they sit on top of",
+      "source": "https://road.cc/news/cycling-live-blog-27-august-2026",
+      "credit": "u/special_noodles via r/ukbike / road.cc",
+      "license": "editorial — © road.cc",
+      "key": "2026-08-27-b"
     }
   ]
 }
