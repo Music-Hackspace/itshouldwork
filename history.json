@@ -1,6 +1,17 @@
 {
-  "count": 83,
+  "count": 84,
   "photos": [
+    {
+      "date": "2026-08-26",
+      "alt": "Apple Mac mini viewed from the front against an orange-to-yellow gradient, showing its compact aluminum enclosure with two USB-C ports and power indicator",
+      "source": "https://www.macrumors.com/2026/08/25/apple-announces-2026-mac-mini/",
+      "credit": "MacRumors / Apple",
+      "license": "editorial \u2014 \u00a9 MacRumors / Apple",
+      "story": "Apple raised the Mac mini's starting price 50% over two years to $899 for a base 256 GB model; the 1 TB storage upgrade costs $500 more \u2014 itself exceeding the machine's original asking price.",
+      "why_funny": "The whole pitch of the Mac mini was 'cheapest Mac ever' \u2014 it now costs more than many laptops, and the storage bump costs more than a second Mac mini used to.",
+      "id": "aeeeb0eda9",
+      "file": "archive/2026-08-26-aeeeb0eda9.jpg"
+    },
     {
       "date": "2026-08-25",
       "alt": "Amazon Prime Air MK30 delivery drone hovering low over a residential house rooftop against a blue sky",
