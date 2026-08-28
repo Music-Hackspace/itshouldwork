@@ -1,6 +1,17 @@
 {
-  "count": 84,
+  "count": 85,
   "photos": [
+    {
+      "date": "2026-08-27",
+      "alt": "A museum replica of the 18th-century Mechanical Turk chess automaton \u2014 a wooden cabinet with a mechanical arm and a mannequin in Ottoman dress, the famous hoax that concealed a human chess master inside the machine",
+      "source": "https://www.fastcompany.com/91596625/amazon-is-shutting-down-mechanical-turk-after-21-years-quietly-ending-the-human-powered-platform",
+      "credit": "Marcin Wichary / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "story": "Amazon announced on August 26, 2026 that it's shutting down Mechanical Turk (MTurk) on September 30 \u2014 the platform Jeff Bezos called 'artificial artificial intelligence' because it used human workers to perform tasks too hard for real AI; after 21 years of humans training AI, the AI got good enough to replace them.",
+      "why_funny": "The platform was literally named after an 18th-century chess automaton that hid a human grandmaster inside a fake robot \u2014 and now the fake AI has been defeated by the real thing it spent two decades helping build.",
+      "id": "c5a0093a2c",
+      "file": "archive/2026-08-27-c5a0093a2c.jpg"
+    },
     {
       "date": "2026-08-26",
       "alt": "Apple Mac mini viewed from the front against an orange-to-yellow gradient, showing its compact aluminum enclosure with two USB-C ports and power indicator",
