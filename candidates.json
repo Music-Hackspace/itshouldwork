@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-28",
+  "date": "2026-08-29",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "Politician paints a DIY 'No Cycling' ban on the pavement. It says the opposite.",
-      "story": "DUP councillor Kyle Moutray spray-painted an unofficial 'No Cycling' stencil on a Portadown pavement on August 26, 2026, but added an extra slash that creates a double negative — effectively 'no prohibited cycling' — and chose blue/yellow Irish road sign colors, accidentally using the iconography of the Republic he opposes.",
-      "why_funny": "The sign he painted to ban cycling technically legalises it, and the pro-British Unionist politician did it in the exact colours used on Irish road signs.",
-      "alt": "DUP councillor Kyle Moutray crouching on a Portadown footpath, spray-painting a blue-and-yellow stencil of a bicycle with a double-slash — a double-negative 'No Cycling' sign",
-      "source": "https://road.cc/news/cycling-live-blog-26-august-2026",
-      "credit": "road.cc",
-      "license": "editorial — © road.cc",
-      "key": "2026-08-28-a"
+      "file": "candidate-a.webp",
+      "tagline": "30 signs. 45 trucks. Zero fixes. Louisville's Can Opener is still hungry.",
+      "story": "During Louisville's I-65 closure (June–August 2026), GPS rerouted 125,000 daily vehicles past a railroad underpass with 11-foot-8 clearance — peeling the roofs off 45 tractor-trailers in two months while officials' only response was adding more warning signs (now 30+).",
+      "why_funny": "The official solution to a bridge that destroys roughly one truck per day is to keep stapling more signs to things, earning the bridge its own community memorial website, t-shirt line, and the nickname 'Can Opener' — while the fix (raise or lower the road) sits in the 'too expensive' pile.",
+      "alt": "Black-and-white photo of a box truck crammed under Louisville's Third Street railroad overpass, its roof buckled against the bridge with the LOW CLEARANCE 11-8 ALL TRUCKS sign hanging directly above the point of impact, debris on the road",
+      "source": "https://www.yahoo.com/news/us/articles/louisvilles-infamous-opener-bridge-eaten-115618105.html",
+      "credit": "LouisvilleCanOpener.live",
+      "license": "editorial — © LouisvilleCanOpener.live",
+      "key": "2026-08-29-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "9 months, 7 yellow stripes, over a crater field. She called it 'infrastructure'.",
-      "story": "LA Councilwoman and mayoral candidate Nithya Raman celebrated a 'completed' crosswalk on August 26, 2026 — eight months after residents first asked for it — posting a photo of fresh yellow paint applied directly over a severely cracked, pothole-riddled street.",
-      "why_funny": "The photo intended to show an infrastructure win instead shows yellow stripes stretched across what looks like a road-shaped jigsaw puzzle, with every crack still gaping underneath.",
-      "alt": "Freshly painted yellow crosswalk stripes over a badly cracked and crumbling Los Angeles street, with deep fissures visible between and beneath the new paint",
-      "source": "https://www.yahoo.com/news/politics/articles/nithya-raman-roasted-boasting-paint-212117578.html",
-      "credit": "CA Post / Jonathan Alcorn",
-      "license": "editorial — © CA Post",
-      "key": "2026-08-28-b"
+      "tagline": "Built a metro viaduct next to an airport. Forgot to check if planes could fly over it.",
+      "story": "Mumbai's Metro Line 7A viaduct near Chhatrapati Shivaji Maharaj International Airport was fully constructed before anyone noticed the overhead electrification poles exceed the airport funnel zone by 2.5 metres — potentially requiring demolition of nearly 1 km of brand-new elevated track worth ₹250 crore ($30M).",
+      "why_funny": "Engineers designed, approved, and built a metro viaduct beside one of India's busiest airports and somehow failed to check airport height clearance rules at any stage of the design or construction — the consultant is blamed for not 'highlighting and factoring in' aviation restrictions that are publicly available.",
+      "alt": "Editorial composite showing blue-and-red Mumbai Metro 7A trains on elevated track alongside Mumbai Airport's iconic canopy interior, with overlay text reading 'Metro 7A Viaduct At Risk — MMRDA Says Consultant Missed OHE Height'",
+      "source": "https://www.freepressjournal.in/mumbai/mumbai-metro-7a-viaduct-at-risk-of-reconstruction-as-mmrda-consultant-missed-ohe-height-requirements",
+      "credit": "Free Press Journal",
+      "license": "editorial — © Free Press Journal",
+      "key": "2026-08-29-b"
     }
   ]
 }
