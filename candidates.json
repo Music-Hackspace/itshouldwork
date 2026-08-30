@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.webp",
-      "tagline": "30 signs. 45 trucks. Zero fixes. Louisville's Can Opener is still hungry.",
-      "story": "During Louisville's I-65 closure (June–August 2026), GPS rerouted 125,000 daily vehicles past a railroad underpass with 11-foot-8 clearance — peeling the roofs off 45 tractor-trailers in two months while officials' only response was adding more warning signs (now 30+).",
-      "why_funny": "The official solution to a bridge that destroys roughly one truck per day is to keep stapling more signs to things, earning the bridge its own community memorial website, t-shirt line, and the nickname 'Can Opener' — while the fix (raise or lower the road) sits in the 'too expensive' pile.",
-      "alt": "Black-and-white photo of a box truck crammed under Louisville's Third Street railroad overpass, its roof buckled against the bridge with the LOW CLEARANCE 11-8 ALL TRUCKS sign hanging directly above the point of impact, debris on the road",
-      "source": "https://www.yahoo.com/news/us/articles/louisvilles-infamous-opener-bridge-eaten-115618105.html",
-      "credit": "LouisvilleCanOpener.live",
-      "license": "editorial — © LouisvilleCanOpener.live",
-      "key": "2026-08-29-a"
+      "file": "candidate-a.jpg",
+      "tagline": "40 parking spots saved. Bike lane built. It ends at stairs.",
+      "story": "NYC DOT installed a protected bike lane on Riverside Drive in Inwood that funnels cyclists to a flight of stairs with no bike runnel, because the community board vetoed the simpler route to preserve 40 parking spaces — so cyclists carry their bikes up the stairs or skip the new lane entirely.",
+      "why_funny": "The official answer to 'we can't lose 40 parking spots' was a fully engineered protected bike lane that still requires cyclists to hump their bikes up a flight of stairs — which they don't, so the shiny new lane sits empty.",
+      "alt": "Cyclist hauling a bicycle up a flight of concrete stairs beneath the Henry Hudson Parkway overpass to access the Hudson River Greenway, with the new empty protected bike lane visible below",
+      "source": "https://nyc.streetsblog.org/2026/08/05/eyes-on-the-street-inwoods-newest-bike-lane-forces-greenway-cyclists-to-take-the-stairs",
+      "credit": "Streetsblog NYC",
+      "license": "editorial — © Streetsblog NYC",
+      "key": "2026-08-30-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Built a metro viaduct next to an airport. Forgot to check if planes could fly over it.",
-      "story": "Mumbai's Metro Line 7A viaduct near Chhatrapati Shivaji Maharaj International Airport was fully constructed before anyone noticed the overhead electrification poles exceed the airport funnel zone by 2.5 metres — potentially requiring demolition of nearly 1 km of brand-new elevated track worth ₹250 crore ($30M).",
-      "why_funny": "Engineers designed, approved, and built a metro viaduct beside one of India's busiest airports and somehow failed to check airport height clearance rules at any stage of the design or construction — the consultant is blamed for not 'highlighting and factoring in' aviation restrictions that are publicly available.",
-      "alt": "Editorial composite showing blue-and-red Mumbai Metro 7A trains on elevated track alongside Mumbai Airport's iconic canopy interior, with overlay text reading 'Metro 7A Viaduct At Risk — MMRDA Says Consultant Missed OHE Height'",
-      "source": "https://www.freepressjournal.in/mumbai/mumbai-metro-7a-viaduct-at-risk-of-reconstruction-as-mmrda-consultant-missed-ohe-height-requirements",
-      "credit": "Free Press Journal",
-      "license": "editorial — © Free Press Journal",
-      "key": "2026-08-29-b"
+      "tagline": "$249. Always listening. Forgets you in 30 days. Meet Friend 2.0.",
+      "story": "Friend launched its AI pendant 2.0 in July 2026 at double the original price ($249 vs $129), now with a built-in speaker so it can talk back — but without a $10/month subscription, the device deletes all its memories of you every 30 days, meaning your AI bestie has to re-learn who you are from scratch each month.",
+      "why_funny": "A device marketed as a cure for loneliness charges you double to listen to everything you say, then ghosts your entire relationship history unless you keep paying — the AI companion that forgets you is now louder and more expensive.",
+      "alt": "Person wearing a small white circular Friend AI pendant around their neck while brushing their teeth, with the always-on microphone recording their morning routine",
+      "source": "https://www.engadget.com/2227503/that-friend-ai-wearable-you-dont-like-just-got-worse/",
+      "credit": "Engadget / Ian Carlos Campbell",
+      "license": "editorial — © Engadget",
+      "key": "2026-08-30-b"
     }
   ]
 }
