@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "40 parking spots saved. Bike lane built. It ends at stairs.",
-      "story": "NYC DOT installed a protected bike lane on Riverside Drive in Inwood that funnels cyclists to a flight of stairs with no bike runnel, because the community board vetoed the simpler route to preserve 40 parking spaces — so cyclists carry their bikes up the stairs or skip the new lane entirely.",
-      "why_funny": "The official answer to 'we can't lose 40 parking spots' was a fully engineered protected bike lane that still requires cyclists to hump their bikes up a flight of stairs — which they don't, so the shiny new lane sits empty.",
-      "alt": "Cyclist hauling a bicycle up a flight of concrete stairs beneath the Henry Hudson Parkway overpass to access the Hudson River Greenway, with the new empty protected bike lane visible below",
-      "source": "https://nyc.streetsblog.org/2026/08/05/eyes-on-the-street-inwoods-newest-bike-lane-forces-greenway-cyclists-to-take-the-stairs",
-      "credit": "Streetsblog NYC",
-      "license": "editorial — © Streetsblog NYC",
-      "key": "2026-08-30-a"
+      "tagline": "Lake Ontario has been renamed 'Lake America.' The lake has not complied.",
+      "story": "On August 29, 2026, Trump signed an executive order renaming Lake Ontario 'Lake America' as part of escalating trade tensions with Canada; Google Maps immediately updated it for U.S. users, while Canadian maps still say 'Lake Ontario' — making the same body of water officially three different names at once.",
+      "why_funny": "Renaming a 400-year-old Great Lake by executive order doesn't change the water, the fish, or what Canadians see on their side of the border — it just means the most-used map app now disagrees with itself at the shoreline.",
+      "alt": "Family walking past a bilingual roadside sign reading 'Lake Ontario, Now and Always' in English and French near Grimsby, Ontario, on August 29 2026, in response to the Trump administration's executive order renaming the lake",
+      "source": "https://www.aljazeera.com/news/2026/8/30/google-maps-renames-lake-ontario-after-trumps-decree-on-lake-america",
+      "credit": "Carlos Osorio/Reuters",
+      "license": "editorial — © Reuters",
+      "key": "2026-08-31-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "$249. Always listening. Forgets you in 30 days. Meet Friend 2.0.",
-      "story": "Friend launched its AI pendant 2.0 in July 2026 at double the original price ($249 vs $129), now with a built-in speaker so it can talk back — but without a $10/month subscription, the device deletes all its memories of you every 30 days, meaning your AI bestie has to re-learn who you are from scratch each month.",
-      "why_funny": "A device marketed as a cure for loneliness charges you double to listen to everything you say, then ghosts your entire relationship history unless you keep paying — the AI companion that forgets you is now louder and more expensive.",
-      "alt": "Person wearing a small white circular Friend AI pendant around their neck while brushing their teeth, with the always-on microphone recording their morning routine",
-      "source": "https://www.engadget.com/2227503/that-friend-ai-wearable-you-dont-like-just-got-worse/",
-      "credit": "Engadget / Ian Carlos Campbell",
-      "license": "editorial — © Engadget",
-      "key": "2026-08-30-b"
+      "tagline": "Apple redesigned Safari's compass icon. It now has two needles. Compasses have one.",
+      "story": "iOS 27 Beta 5 shipped in August 2026 with a redesigned Safari compass icon featuring a centre pin that makes the red and white needle tips appear to be two separate, independently-spinning pointers — like clock hands — rather than the single bipolar needle of a real compass; the design went viral on August 24–25 with critics noting the icon seems to have been designed by someone who has never seen a compass.",
+      "why_funny": "Apple spent months crafting 'Liquid Glass' icons to more faithfully represent real-world objects, then shipped a compass whose physics suggest the north needle and south needle can point wherever they like.",
+      "alt": "Apple's iOS 27 Safari browser icon in the Liquid Glass redesign, showing a compass whose overlapping red and white needle tips look like two separate independently-spinning pointers rather than a single bipolar needle",
+      "source": "https://www.creativebloq.com/design/logos-icons/apples-glaring-safari-logo-design-fail-shows-the-company-has-lost-its-direction",
+      "credit": "Creative Bloq / Future Publishing",
+      "license": "editorial — © Creative Bloq / Future Publishing",
+      "key": "2026-08-31-b"
     }
   ]
 }
