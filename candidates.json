@@ -1,30 +1,30 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Lake Ontario has been renamed 'Lake America.' The lake has not complied.",
-      "story": "On August 29, 2026, Trump signed an executive order renaming Lake Ontario 'Lake America' as part of escalating trade tensions with Canada; Google Maps immediately updated it for U.S. users, while Canadian maps still say 'Lake Ontario' — making the same body of water officially three different names at once.",
-      "why_funny": "Renaming a 400-year-old Great Lake by executive order doesn't change the water, the fish, or what Canadians see on their side of the border — it just means the most-used map app now disagrees with itself at the shoreline.",
-      "alt": "Family walking past a bilingual roadside sign reading 'Lake Ontario, Now and Always' in English and French near Grimsby, Ontario, on August 29 2026, in response to the Trump administration's executive order renaming the lake",
-      "source": "https://www.aljazeera.com/news/2026/8/30/google-maps-renames-lake-ontario-after-trumps-decree-on-lake-america",
-      "credit": "Carlos Osorio/Reuters",
-      "license": "editorial — © Reuters",
-      "key": "2026-08-31-a"
+      "tagline": "OPPO put three 200MP cameras on a phone and called the total '600MP'",
+      "story": "OPPO's leaked Find X10 Pro Max (Aug 28, 2026) features three separate 200-megapixel cameras — wide, ultrawide, and telephoto — which OPPO is marketing as a '600 MP Hasselblad camera system,' a number reached by simply adding three identical specs together.",
+      "why_funny": "Adding three of the same absurd spec to get a bigger absurd spec is phone-design arithmetic at its finest — next year's model will presumably have four 200MP cameras and be called '800MP.'",
+      "alt": "Back of the OPPO Find X10 Pro Max showing a wide horizontal camera island spanning the full width of the phone with three large identical 200MP camera circles in a row, plus the Hasselblad branding",
+      "source": "https://www.notebookcheck.net/Oppo-Find-X10-Pro-Max-First-ever-600-MP-Hasselblad-camera-system-moves-closer-to-mass-production.1341610.0.html",
+      "credit": "Notebookcheck.net",
+      "license": "editorial — © Notebookcheck.net",
+      "key": "2026-09-01-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Apple redesigned Safari's compass icon. It now has two needles. Compasses have one.",
-      "story": "iOS 27 Beta 5 shipped in August 2026 with a redesigned Safari compass icon featuring a centre pin that makes the red and white needle tips appear to be two separate, independently-spinning pointers — like clock hands — rather than the single bipolar needle of a real compass; the design went viral on August 24–25 with critics noting the icon seems to have been designed by someone who has never seen a compass.",
-      "why_funny": "Apple spent months crafting 'Liquid Glass' icons to more faithfully represent real-world objects, then shipped a compass whose physics suggest the north needle and south needle can point wherever they like.",
-      "alt": "Apple's iOS 27 Safari browser icon in the Liquid Glass redesign, showing a compass whose overlapping red and white needle tips look like two separate independently-spinning pointers rather than a single bipolar needle",
-      "source": "https://www.creativebloq.com/design/logos-icons/apples-glaring-safari-logo-design-fail-shows-the-company-has-lost-its-direction",
-      "credit": "Creative Bloq / Future Publishing",
-      "license": "editorial — © Creative Bloq / Future Publishing",
-      "key": "2026-08-31-b"
+      "tagline": "Vaseline officially renamed itself 'Baseline' because an influencer couldn't pronounce it",
+      "story": "In late August 2026, Vaseline's UK Instagram officially 'rebranded' to 'Baseline' and appointed Korean beauty creator Min Day Lee — who mispronounced 'Vaseline' as 'Baseline' throughout a viral 36-million-view video — as 'CEO of Baseline,' with the brand's stated review process being 'approximately one video, watched over 1 million times.'",
+      "why_funny": "A century-old brand whose name derives from German and Greek chemistry decided its 'extensive review process' for a global rebrand was watching one influencer make a pronunciation mistake.",
+      "alt": "Side-by-side of the classic Vaseline blue-and-white branding next to the 'Baseline' rebrand mockup, showing the familiar design with the name changed to BASELINE",
+      "source": "https://www.dexerto.com/entertainment/vaseline-actually-changes-name-after-viral-baseline-pronunciation-3402876/",
+      "credit": "Dexerto",
+      "license": "editorial — © Dexerto",
+      "key": "2026-09-01-b"
     }
   ]
 }
