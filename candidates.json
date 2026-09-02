@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-01",
+  "date": "2026-09-02",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "OPPO put three 200MP cameras on a phone and called the total '600MP'",
-      "story": "OPPO's leaked Find X10 Pro Max (Aug 28, 2026) features three separate 200-megapixel cameras — wide, ultrawide, and telephoto — which OPPO is marketing as a '600 MP Hasselblad camera system,' a number reached by simply adding three identical specs together.",
-      "why_funny": "Adding three of the same absurd spec to get a bigger absurd spec is phone-design arithmetic at its finest — next year's model will presumably have four 200MP cameras and be called '800MP.'",
-      "alt": "Back of the OPPO Find X10 Pro Max showing a wide horizontal camera island spanning the full width of the phone with three large identical 200MP camera circles in a row, plus the Hasselblad branding",
-      "source": "https://www.notebookcheck.net/Oppo-Find-X10-Pro-Max-First-ever-600-MP-Hasselblad-camera-system-moves-closer-to-mass-production.1341610.0.html",
-      "credit": "Notebookcheck.net",
-      "license": "editorial — © Notebookcheck.net",
-      "key": "2026-09-01-a"
+      "tagline": "$2.2B stadium, glass railing in your sightline — architect says it's a feature",
+      "story": "Buffalo's new $2.2B Highmark Stadium opened in August 2026 with glass safety railings that obstruct at least three rows of 400-level seats, and when fans complained the architect explained the blockage was an intentional consequence of concourse design decisions.",
+      "why_funny": "Paying hundreds of dollars for an NFL seat only to be told the railing blocking your view was deliberately put there is architectural gaslighting at stadium scale.",
+      "alt": "Interior of the new Highmark Stadium showing upper-level seating with glass safety railings partially blocking the sightline to the field below",
+      "source": "https://brobible.com/sports/article/new-highmark-stadium-pros-cons-obstructed-views-complaints-buffalo-bills-problems/",
+      "credit": "BroBible",
+      "license": "editorial — © BroBible",
+      "key": "2026-09-02-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Vaseline officially renamed itself 'Baseline' because an influencer couldn't pronounce it",
-      "story": "In late August 2026, Vaseline's UK Instagram officially 'rebranded' to 'Baseline' and appointed Korean beauty creator Min Day Lee — who mispronounced 'Vaseline' as 'Baseline' throughout a viral 36-million-view video — as 'CEO of Baseline,' with the brand's stated review process being 'approximately one video, watched over 1 million times.'",
-      "why_funny": "A century-old brand whose name derives from German and Greek chemistry decided its 'extensive review process' for a global rebrand was watching one influencer make a pronunciation mistake.",
-      "alt": "Side-by-side of the classic Vaseline blue-and-white branding next to the 'Baseline' rebrand mockup, showing the familiar design with the name changed to BASELINE",
-      "source": "https://www.dexerto.com/entertainment/vaseline-actually-changes-name-after-viral-baseline-pronunciation-3402876/",
-      "credit": "Dexerto",
-      "license": "editorial — © Dexerto",
-      "key": "2026-09-01-b"
+      "tagline": "No steering wheel, no pedals, no proven self-driving — launch is tomorrow",
+      "story": "Tesla's Cybercab robotaxi officially launches September 3, 2026 — a two-seat car physically incapable of being driven by a human (no wheel, no pedals) whose only function depends on an autonomous system that has logged 380,000 driverless miles versus Waymo's 220 million.",
+      "why_funny": "Mass-producing a car that cannot be operated without software that hasn't been proven to work is putting the robot before the robotaxi — Tesla is shipping 100+ units of a vehicle it 'can neither sell nor drive itself,' per Electrek.",
+      "alt": "The Tesla Cybercab, a low-slung futuristic two-seat electric vehicle with butterfly doors and a minimalist interior — no steering wheel visible",
+      "source": "https://electrek.co/2026/08/17/tesla-cybercab-launch-least-exciting-vehicle-ever/",
+      "credit": "Electrek",
+      "license": "editorial — © Electrek",
+      "key": "2026-09-02-b"
     }
   ]
 }
