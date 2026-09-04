@@ -1,6 +1,17 @@
 {
-  "count": 91,
+  "count": 92,
   "photos": [
+    {
+      "date": "2026-09-03",
+      "alt": "Person holding the TECNO Borderless Concept phone, its 6.7-inch display appearing to run fully edge-to-edge with no visible border around the screen",
+      "source": "https://www.androidauthority.com/tecno-bezel-less-phone-hands-on-video-3703090/",
+      "credit": "Android Authority",
+      "license": "editorial \u2014 \u00a9 Android Authority",
+      "story": "TECNO's concept phone, unveiled at IFA 2026 on September 3, 2026, claims 'literally zero display border \u2014 not 1mm, not 0.5mm, zero' by raising the metal frame slightly above the screen surface, but hands-on testing found users' fingers catch on the raised lip with every edge swipe gesture \u2014 the exact problem bezels were designed to prevent.",
+      "why_funny": "They eliminated the visible bezel and replaced it with an invisible physical lip that catches your thumb even more \u2014 and the official fix is adding a screen protector, which is just a bezel with extra steps.",
+      "id": "2af0dca757",
+      "file": "archive/2026-09-03-2af0dca757.jpg"
+    },
     {
       "date": "2026-09-02",
       "alt": "Interior of the new Highmark Stadium showing upper-level seating with glass safety railings partially blocking the sightline to the field below",
