@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-04",
+  "date": "2026-09-05",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "$499 toothbrush with a camera watches you brush at 28fps — floss was too simple",
-      "story": "Dyson launched the CameraJet on September 1, 2026 — a $499 electric toothbrush with a 100,000-pixel AI camera that fires precision mouthrinse jets at detected plaque gaps, backed by 16 million lines of code, 470,000 dental training images, and a team of fluid dynamicists — to automate what dental floss does for about $3.",
-      "why_funny": "Dyson recruited ML engineers, fluid dynamicists, and Singapore's National University to build a product whose core value proposition is 'we noticed you weren't flossing and decided the answer was a camera in your mouth.'",
-      "alt": "Two Dyson CameraJet electric toothbrushes in Ceramic Ultra Blue standing next to a bathroom sink, showing the compact design with an AI camera module mounted beneath the brush head",
-      "source": "https://www.engadget.com/2248230/dyson-camerajet-is-a-500-three-in-one-toothbrush-that-scans-your-maw/",
-      "credit": "Engadget / Dyson",
-      "license": "editorial — © Engadget / Dyson",
-      "key": "2026-09-04-a"
+      "tagline": "Petpogo built a smartphone for your dog — it even 'calls' you when the dog escapes",
+      "story": "At IFA 2026 in Berlin, Petpogo unveiled the upgraded PetPhone, a pet collar marketed as 'the world's first AI smartphone for pets' that uses a vocalization model trained on millions of animal sounds to translate pet emotions into human language, supports two-way PetChat audio, and theoretically lets pets initiate calls on their own.",
+      "why_funny": "Petpogo applied the full smartphone product stack — calls, AI emotion insights, geo-fencing, push notifications, companion app — to an animal that cannot read, speak, or dial.",
+      "alt": "Petpogo PetPhone AI pet collar ecosystem product photo showing the compact wearable device alongside its companion app and PetCam components",
+      "source": "https://www.prnewswire.com/news-releases/petphone-headlines-petpogos-ai-pet-tech-ecosystem-upgrade-at-ifa-2026-302870165.html",
+      "credit": "Petpogo / PR Newswire",
+      "license": "editorial — © Petpogo",
+      "key": "2026-09-05-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Google said '3× stronger'. It cracked in the same spot. For the fourth year.",
-      "story": "Google's Pixel 11 Pro Fold launched August 12, 2026 at $1,799 with marketing claiming it was '3× stronger' than its predecessor; on August 21, durability tester JerryRigEverything bent it and it cracked along the exact same antenna line near the hinge as the Pixel Fold, Pixel 9 Pro Fold, and Pixel 10 Pro Fold — with the outer display popping off completely for good measure.",
-      "why_funny": "For four consecutive generations Google has launched a foldable phone, promised meaningful structural improvements, and then watched it crack in precisely the same spot when someone pushes on it — which is a remarkably consistent way to be wrong.",
-      "alt": "Google Pixel 11 Pro Fold under lateral stress during a bend test, showing visible deformation at the antenna line next to the hinge where the device cracked, with the outer display partially separating",
-      "source": "https://9to5google.com/2026/08/21/pixel-11-pro-fold-still-doesnt-survive-bend-test-but-at-least-it-didnt-explode-this-time-video/",
-      "credit": "9to5Google",
-      "license": "editorial — © 9to5Google",
-      "key": "2026-09-04-b"
+      "tagline": "A full robot vacuum — engineered exclusively to clean the thing you sleep on",
+      "story": "Creatulize unveiled the X1 Pro at IFA 2026 in Berlin, an autonomous robot vacuum with 11 precision sensors, UV-C LEDs, and specialized silicone wheels designed entirely to roam the surface of your mattress, because standard robot vacuums were failing to address the one surface they don't reach.",
+      "why_funny": "They packed a full autonomous robot's worth of sensors, navigation, and UV sanitation into a device whose entire purpose is vacuuming the one thing the robot vacuum already parked next to it can't reach.",
+      "alt": "Creatulize X1 Pro autonomous bed-cleaning robot photographed on top of a mattress, showing the compact white device with its silicone wheels and sensor array",
+      "source": "https://www.ubergizmo.com/2026/09/creatulize-unveils-x1-series-autonomous-bed-cleaning-robots-at-ifa-2026/",
+      "credit": "Ubergizmo / Creatulize",
+      "license": "editorial — © Ubergizmo / Creatulize",
+      "key": "2026-09-05-b"
     }
   ]
 }
