@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-05",
+  "date": "2026-09-06",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "Petpogo built a smartphone for your dog — it even 'calls' you when the dog escapes",
-      "story": "At IFA 2026 in Berlin, Petpogo unveiled the upgraded PetPhone, a pet collar marketed as 'the world's first AI smartphone for pets' that uses a vocalization model trained on millions of animal sounds to translate pet emotions into human language, supports two-way PetChat audio, and theoretically lets pets initiate calls on their own.",
-      "why_funny": "Petpogo applied the full smartphone product stack — calls, AI emotion insights, geo-fencing, push notifications, companion app — to an animal that cannot read, speak, or dial.",
-      "alt": "Petpogo PetPhone AI pet collar ecosystem product photo showing the compact wearable device alongside its companion app and PetCam components",
-      "source": "https://www.prnewswire.com/news-releases/petphone-headlines-petpogos-ai-pet-tech-ecosystem-upgrade-at-ifa-2026-302870165.html",
-      "credit": "Petpogo / PR Newswire",
-      "license": "editorial — © Petpogo",
-      "key": "2026-09-05-a"
+      "file": "candidate-a.png",
+      "tagline": "Chicago raised a bridge rated 'intolerable' for a dinner cruise — it got stuck open for 4 hours, so they hosed it with a fireboat.",
+      "story": "Chicago's DuSable Lake Shore Drive bridge, already rated structurally deficient and 'intolerable' in federal inspections, was raised for the Spirit of Chicago dinner yacht on September 2, 2026, in 96°F heat; the steel spans thermally expanded, couldn't close, and a Chicago Fire Department fireboat had to spray thousands of gallons of water on the span to cool it back down — blocking all traffic for over four hours.",
+      "why_funny": "Officials raised a bridge they already knew was broken, for a dinner cruise, in extreme heat, and the only fix available was to put a literal fireboat on the river to cool off the not-on-fire bridge.",
+      "alt": "Aerial view from Sky 5 helicopter of the DuSable Lake Shore Drive drawbridge stuck in the raised position over the Chicago River with water spraying across the steel span from a Chicago Fire Department fireboat below",
+      "source": "https://www.nbcchicago.com/news/local/dusable-lake-shore-drive-bridge-malfunctions-due-to-heat-leading-to-major-traffic-jam/3983892/",
+      "credit": "NBC Chicago / NBCUniversal",
+      "license": "editorial — © NBC Chicago / NBCUniversal",
+      "key": "2026-09-06-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "A full robot vacuum — engineered exclusively to clean the thing you sleep on",
-      "story": "Creatulize unveiled the X1 Pro at IFA 2026 in Berlin, an autonomous robot vacuum with 11 precision sensors, UV-C LEDs, and specialized silicone wheels designed entirely to roam the surface of your mattress, because standard robot vacuums were failing to address the one surface they don't reach.",
-      "why_funny": "They packed a full autonomous robot's worth of sensors, navigation, and UV sanitation into a device whose entire purpose is vacuuming the one thing the robot vacuum already parked next to it can't reach.",
-      "alt": "Creatulize X1 Pro autonomous bed-cleaning robot photographed on top of a mattress, showing the compact white device with its silicone wheels and sensor array",
-      "source": "https://www.ubergizmo.com/2026/09/creatulize-unveils-x1-series-autonomous-bed-cleaning-robots-at-ifa-2026/",
-      "credit": "Ubergizmo / Creatulize",
-      "license": "editorial — © Ubergizmo / Creatulize",
-      "key": "2026-09-05-b"
+      "tagline": "Anker's fix for 'I don't want to wear a sleep tracker': a $270 radar gun aimed at your bed all night.",
+      "story": "Anker unveiled the SleepLab Pro at IFA 2026 in Berlin on September 5, 2026 — a $270 bedside speaker that replaces your sleep-tracking wearable by firing a 60GHz millimeter-wave radar beam at your body all night to monitor heart rate, breathing, and sleep stages from the nightstand.",
+      "why_funny": "The solution to 'I hate sleeping with a device' is to replace the wrist device with a bedroom radar station — you still can't escape surveillance, it just moved three feet away.",
+      "alt": "The Anker Soundcore SleepLab Pro bedside speaker/nightlight on a nightstand, showing its cylindrical white form with soft ambient LED lighting",
+      "source": "https://www.techradar.com/health-fitness/sleep/anker-unveils-bedside-sleeplab-pro-speaker-with-60ghz-radar-subscription-free-sidekick-tracks-your-sleep-without-a-wearable",
+      "credit": "TechRadar / Anker",
+      "license": "editorial — © TechRadar / Anker",
+      "key": "2026-09-06-b"
     }
   ]
 }
