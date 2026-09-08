@@ -1,6 +1,17 @@
 {
-  "count": 95,
+  "count": 96,
   "photos": [
+    {
+      "date": "2026-09-07",
+      "alt": "The HONOR Robot Phone with its mechanical gimbal arm extended, holding the camera module aloft on a folding robotic appendage",
+      "source": "https://www.engadget.com/2247473/honor-robot-phone-hands-on/",
+      "credit": "Engadget",
+      "license": "editorial \u2014 \u00a9 Engadget / AOL",
+      "story": "HONOR launched the 'Robot Phone,' a $1,930 smartphone with a mechanical folding gimbal arm that pops out of the back so the camera can stabilize itself \u2014 solving camera shake by adding a robot appendage to your pocket.",
+      "why_funny": "The logical conclusion of 'we added AI stabilization' is apparently just strapping a physical robot arm to the outside of the phone.",
+      "id": "79fcdd6515",
+      "file": "archive/2026-09-07-79fcdd6515.jpg"
+    },
     {
       "date": "2026-09-06",
       "alt": "Aerial view from Sky 5 helicopter of the DuSable Lake Shore Drive drawbridge stuck in the raised position over the Chicago River with water spraying across the steel span from a Chicago Fire Department fireboat below",
