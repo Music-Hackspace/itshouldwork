@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "Sydney Marathon medal features a German stadium instead of Sydney's",
-      "story": "The 2026 Sydney Marathon finisher medal depicts the Munich Allianz Arena instead of Sydney's Allianz Stadium — designers apparently Googled 'Allianz stadium' and grabbed the wrong continent's iconic venue.",
-      "why_funny": "Every finisher of the Sydney Marathon received a medal celebrating a German building, and organisers' response was that it's now 'a little more unique.'",
-      "alt": "Sydney Marathon 2026 finisher medal showing the distinctive diamond-patterned Allianz Arena from Munich, Germany, instead of the Sydney stadium",
-      "source": "https://www.abc.net.au/news/2026-08-23/nsw-sydney-marathon-medal-mix-up-munich-arena/107068624",
-      "credit": "ABC Australia",
-      "license": "editorial — © ABC Australia",
-      "key": "2026-09-07-a"
+      "file": "candidate-a.png",
+      "tagline": "Bloomington paid $95K for a logo that looks like a butt",
+      "story": "Bloomington, Indiana hired a Colorado agency for $95,000 to rebrand the city and got back a stylized 'B' that residents and council members immediately agreed looks exactly like a pair of buttocks.",
+      "why_funny": "Nothing says 'we thought deeply about our civic identity' like six figures spent on a logo that looks like someone bent over.",
+      "alt": "The proposed new Bloomington city logo, a geometric stylized capital B, annotated with the satirical label 'Great place to fart'",
+      "source": "https://bsquarebulletin.com/editors-note-proposed-new-bloomington-logo-looks-like-a-butt/",
+      "credit": "B Square Bulletin / Dave Askins",
+      "license": "editorial — © B Square Bulletin",
+      "key": "2026-09-08-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "HONOR's $1,930 phone sprouts a robot arm to hold its own camera",
-      "story": "HONOR launched the 'Robot Phone,' a $1,930 smartphone with a mechanical folding gimbal arm that pops out of the back so the camera can stabilize itself — solving camera shake by adding a robot appendage to your pocket.",
-      "why_funny": "The logical conclusion of 'we added AI stabilization' is apparently just strapping a physical robot arm to the outside of the phone.",
-      "alt": "The HONOR Robot Phone with its mechanical gimbal arm extended, holding the camera module aloft on a folding robotic appendage",
-      "source": "https://www.engadget.com/2247473/honor-robot-phone-hands-on/",
-      "credit": "Engadget",
-      "license": "editorial — © Engadget / AOL",
-      "key": "2026-09-07-b"
+      "file": "candidate-b.png",
+      "tagline": "$2,300 robot legs so you can go hiking with your actual legs off-duty",
+      "story": "Hypershell debuted the Halo at IFA Berlin 2026 — a $2,300 full-leg consumer exoskeleton with four AI-controlled motors that straps to your hips and knees so you can hike without your knees noticing.",
+      "why_funny": "The solution to having legs that get tired on hills is apparently to buy a second, robotic pair of legs for the price of a used car.",
+      "alt": "A hiker outdoors wearing the Hypershell Halo full-leg exoskeleton, with carbon-fiber motorised modules clamped to both hips and knees",
+      "source": "https://hypershell.tech/blogs/media-center/hypershell-halo-flagship-full-leg-exoskeleton-built-for-all-terrain-mobility",
+      "credit": "Hypershell",
+      "license": "editorial — © Hypershell",
+      "key": "2026-09-08-b"
     }
   ]
 }
