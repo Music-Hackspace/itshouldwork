@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-08",
+  "date": "2026-09-09",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.png",
-      "tagline": "Bloomington paid $95K for a logo that looks like a butt",
-      "story": "Bloomington, Indiana hired a Colorado agency for $95,000 to rebrand the city and got back a stylized 'B' that residents and council members immediately agreed looks exactly like a pair of buttocks.",
-      "why_funny": "Nothing says 'we thought deeply about our civic identity' like six figures spent on a logo that looks like someone bent over.",
-      "alt": "The proposed new Bloomington city logo, a geometric stylized capital B, annotated with the satirical label 'Great place to fart'",
-      "source": "https://bsquarebulletin.com/editors-note-proposed-new-bloomington-logo-looks-like-a-butt/",
-      "credit": "B Square Bulletin / Dave Askins",
-      "license": "editorial — © B Square Bulletin",
-      "key": "2026-09-08-a"
+      "file": "candidate-a.jpg",
+      "tagline": "Your LG TV is still listening after you 'turn it off'",
+      "story": "A 500-hour, $70,000 Gamers Nexus and Level1Techs investigation published September 7–8, 2026 proved that LG smart TVs record room audio and scan every device on your home Wi-Fi network even in standby — directly contradicting LG's own July 2026 public statement that the TVs 'do not collect, record or store ambient conversations.'",
+      "why_funny": "LG looked into the camera, said 'we don't record ambient conversations,' and then left the microphone running while the camera was off.",
+      "alt": "A sleek LG smart TV mounted on a wall in a modern living room, its screen dark as if switched off, appearing perfectly innocent",
+      "source": "https://www.gadgetreview.com/lg-smart-tvs-caught-recording-audio-in-standby-and-scanning-your-network",
+      "credit": "LG전자 / LG Electronics / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "key": "2026-09-09-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.png",
-      "tagline": "$2,300 robot legs so you can go hiking with your actual legs off-duty",
-      "story": "Hypershell debuted the Halo at IFA Berlin 2026 — a $2,300 full-leg consumer exoskeleton with four AI-controlled motors that straps to your hips and knees so you can hike without your knees noticing.",
-      "why_funny": "The solution to having legs that get tired on hills is apparently to buy a second, robotic pair of legs for the price of a used car.",
-      "alt": "A hiker outdoors wearing the Hypershell Halo full-leg exoskeleton, with carbon-fiber motorised modules clamped to both hips and knees",
-      "source": "https://hypershell.tech/blogs/media-center/hypershell-halo-flagship-full-leg-exoskeleton-built-for-all-terrain-mobility",
-      "credit": "Hypershell",
-      "license": "editorial — © Hypershell",
-      "key": "2026-09-08-b"
+      "file": "candidate-b.jpg",
+      "tagline": "You installed a wallpaper app. Microsoft installed a Harry Potter billboard.",
+      "story": "Microsoft's Bing Wallpaper app delivered a full-screen Harry Potter 'Now Available' promotional ad as users' Windows 11 desktop backgrounds on September 8, 2026 — people who had opted in for scenic photography instead found a Warner Bros. marketing image covering their entire desktop, triggering mass uninstalls.",
+      "why_funny": "The app whose one job is 'show a pretty picture behind your icons' delivered a movie poster, and users responded the way everyone responds to pop-up ads: by making it stop existing on their computer.",
+      "alt": "A Windows 11 desktop background taken over entirely by a large Harry Potter film promotional advertisement with prominent 'Now Available' text, where a scenic landscape photo should be",
+      "source": "https://www.aroged.com/2026/09/08/microsoft-turns-windows-11-wallpaper-into-advertising-billboard-angering-users/",
+      "credit": "3DNews.ru / editorial — © Microsoft",
+      "license": "editorial — © Microsoft / 3DNews.ru",
+      "key": "2026-09-09-b"
     }
   ]
 }
