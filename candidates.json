@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Your LG TV is still listening after you 'turn it off'",
-      "story": "A 500-hour, $70,000 Gamers Nexus and Level1Techs investigation published September 7–8, 2026 proved that LG smart TVs record room audio and scan every device on your home Wi-Fi network even in standby — directly contradicting LG's own July 2026 public statement that the TVs 'do not collect, record or store ambient conversations.'",
-      "why_funny": "LG looked into the camera, said 'we don't record ambient conversations,' and then left the microphone running while the camera was off.",
-      "alt": "A sleek LG smart TV mounted on a wall in a modern living room, its screen dark as if switched off, appearing perfectly innocent",
-      "source": "https://www.gadgetreview.com/lg-smart-tvs-caught-recording-audio-in-standby-and-scanning-your-network",
-      "credit": "LG전자 / LG Electronics / Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "key": "2026-09-09-a"
+      "tagline": "Apple spent 6 years on a foldable iPhone and it still has a crease",
+      "story": "Apple announced the iPhone Duo on September 9, 2026 — a $1,999–$3,199 foldable that Apple describes as having a display that is 'wonderfully flat and smooth,' while every hands-on review published the same day confirmed the crease is still clearly visible, and Apple refused to disclose how many fold cycles the hinge is rated for.",
+      "why_funny": "Apple's entire marketing pitch is that the fold is invisible, and the nano-texture exists specifically to minimize the crease they won't admit exists.",
+      "alt": "The Apple iPhone Duo open, showing its 7.6-inch inner foldable display with the fold line running down the center of the screen",
+      "source": "https://www.macrumors.com/2026/09/09/iphone-duo-hands-on/",
+      "credit": "MacRumors / Apple",
+      "license": "editorial — © MacRumors / Apple",
+      "key": "2026-09-10-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "You installed a wallpaper app. Microsoft installed a Harry Potter billboard.",
-      "story": "Microsoft's Bing Wallpaper app delivered a full-screen Harry Potter 'Now Available' promotional ad as users' Windows 11 desktop backgrounds on September 8, 2026 — people who had opted in for scenic photography instead found a Warner Bros. marketing image covering their entire desktop, triggering mass uninstalls.",
-      "why_funny": "The app whose one job is 'show a pretty picture behind your icons' delivered a movie poster, and users responded the way everyone responds to pop-up ads: by making it stop existing on their computer.",
-      "alt": "A Windows 11 desktop background taken over entirely by a large Harry Potter film promotional advertisement with prominent 'Now Available' text, where a scenic landscape photo should be",
-      "source": "https://www.aroged.com/2026/09/08/microsoft-turns-windows-11-wallpaper-into-advertising-billboard-angering-users/",
-      "credit": "3DNews.ru / editorial — © Microsoft",
-      "license": "editorial — © Microsoft / 3DNews.ru",
-      "key": "2026-09-09-b"
+      "tagline": "She got zero points, broke a sport, and Netflix gave her a documentary.",
+      "story": "Netflix released 'Untold Raygun: Breaking Badly' on September 1, 2026 — a full-length documentary about Australian breakdancer Rachael Gunn, who scored zero points in all three rounds of her Paris 2024 Olympic debut and whose performance contributed to breaking being dropped from the 2028 Games; critics called the documentary 'more infuriating than the performance itself.'",
+      "why_funny": "The logical response to embarrassing an entire sport off the Olympic program is apparently a Netflix documentary asking you to feel bad about it.",
+      "alt": "Rachael 'Raygun' Gunn mid-performance, posed in her signature kangaroo-hop stance under dramatic blue stage lighting",
+      "source": "https://www.abc.net.au/news/2026-09-01/untold-raygun-breaking-badly-nextflix-documentary/107102818",
+      "credit": "ABC News (Australian Broadcasting Corporation)",
+      "license": "editorial — © ABC News / Australian Broadcasting Corporation",
+      "key": "2026-09-10-b"
     }
   ]
 }
