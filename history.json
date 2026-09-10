@@ -1,6 +1,17 @@
 {
-  "count": 97,
+  "count": 98,
   "photos": [
+    {
+      "date": "2026-09-09",
+      "alt": "A sleek LG smart TV mounted on a wall in a modern living room, its screen dark as if switched off, appearing perfectly innocent",
+      "source": "https://www.gadgetreview.com/lg-smart-tvs-caught-recording-audio-in-standby-and-scanning-your-network",
+      "credit": "LG\uc804\uc790 / LG Electronics / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "story": "A 500-hour, $70,000 Gamers Nexus and Level1Techs investigation published September 7\u20138, 2026 proved that LG smart TVs record room audio and scan every device on your home Wi-Fi network even in standby \u2014 directly contradicting LG's own July 2026 public statement that the TVs 'do not collect, record or store ambient conversations.'",
+      "why_funny": "LG looked into the camera, said 'we don't record ambient conversations,' and then left the microphone running while the camera was off.",
+      "id": "1d627761c4",
+      "file": "archive/2026-09-09-1d627761c4.jpg"
+    },
     {
       "date": "2026-09-08",
       "alt": "The proposed new Bloomington city logo, a geometric stylized capital B, annotated with the satirical label 'Great place to fart'",
