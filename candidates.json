@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-10",
+  "date": "2026-09-11",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Apple spent 6 years on a foldable iPhone and it still has a crease",
-      "story": "Apple announced the iPhone Duo on September 9, 2026 — a $1,999–$3,199 foldable that Apple describes as having a display that is 'wonderfully flat and smooth,' while every hands-on review published the same day confirmed the crease is still clearly visible, and Apple refused to disclose how many fold cycles the hinge is rated for.",
-      "why_funny": "Apple's entire marketing pitch is that the fold is invisible, and the nano-texture exists specifically to minimize the crease they won't admit exists.",
-      "alt": "The Apple iPhone Duo open, showing its 7.6-inch inner foldable display with the fold line running down the center of the screen",
-      "source": "https://www.macrumors.com/2026/09/09/iphone-duo-hands-on/",
-      "credit": "MacRumors / Apple",
-      "license": "editorial — © MacRumors / Apple",
-      "key": "2026-09-10-a"
+      "tagline": "The front row in Australia is farther than the nosebleeds in America",
+      "story": "The first-ever NFL regular-season game in Australia was played at the Melbourne Cricket Ground on September 10, 2026, but the oval cricket stadium's 100,024-seat design placed even front-row fans approximately 165 feet from the NFL sideline — more than three times the typical NFL stadium distance — because the rectangular 120×53-yard football field occupies only about 25% of the MCG's enormous oval grass surface.",
+      "why_funny": "The NFL spent two years and millions of dollars planning Australia's first game, sold 100,000 tickets including 'front row' seats, and the only answer to fans who needed binoculars was: 'We can't change the building's basic geometry.'",
+      "alt": "The NFL field at the Melbourne Cricket Ground seen from the stands during the Rams vs 49ers game, showing the enormous expanse of empty cricket oval grass between the football sideline and the distant seating bowl",
+      "source": "https://www.hitc.com/waste-of-jet-fuel-fans-troll-mcg-after-viral-clip-sparks-questions-over-rams-49ers-clash-in-australia/",
+      "credit": "Getty Images / HITC",
+      "license": "editorial — © Getty Images",
+      "key": "2026-09-11-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "She got zero points, broke a sport, and Netflix gave her a documentary.",
-      "story": "Netflix released 'Untold Raygun: Breaking Badly' on September 1, 2026 — a full-length documentary about Australian breakdancer Rachael Gunn, who scored zero points in all three rounds of her Paris 2024 Olympic debut and whose performance contributed to breaking being dropped from the 2028 Games; critics called the documentary 'more infuriating than the performance itself.'",
-      "why_funny": "The logical response to embarrassing an entire sport off the Olympic program is apparently a Netflix documentary asking you to feel bad about it.",
-      "alt": "Rachael 'Raygun' Gunn mid-performance, posed in her signature kangaroo-hop stance under dramatic blue stage lighting",
-      "source": "https://www.abc.net.au/news/2026-09-01/untold-raygun-breaking-badly-nextflix-documentary/107102818",
-      "credit": "ABC News (Australian Broadcasting Corporation)",
-      "license": "editorial — © ABC News / Australian Broadcasting Corporation",
-      "key": "2026-09-10-b"
+      "file": "candidate-b.png",
+      "tagline": "$400 AI ceiling light that simulates the sky — shown in rooms that have windows",
+      "story": "Govee launched the $399 Sky Ceiling Light at IFA 2026 (available September 4, 2026), marketed as an 'AI mood-responsive' fixture that brings 'natural daylight and sky effects' indoors — its own promotional photos show the product installed in rooms with large windows already letting in actual outdoor sky.",
+      "why_funny": "The 'AI mood-responsive' feature works by asking you to type how you want to feel, then it suggests a color temperature — which is exactly what a standard dimmer switch has always done, with the addition of an LLM and a $400 price tag.",
+      "alt": "A bedroom with the Govee Sky Ceiling Light glowing warm orange on the ceiling while actual daylight streams through two large windows and a glass balcony door, showing the real outdoors behind the $400 fake-sky light",
+      "source": "https://9to5toys.com/2026/09/03/govee-sky-ceiling-light-and-cob-lights-2-pro-ifa-2026/",
+      "credit": "Govee / 9to5toys",
+      "license": "editorial — © Govee",
+      "key": "2026-09-11-b"
     }
   ]
 }
