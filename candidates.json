@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-11",
+  "date": "2026-09-12",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "The front row in Australia is farther than the nosebleeds in America",
-      "story": "The first-ever NFL regular-season game in Australia was played at the Melbourne Cricket Ground on September 10, 2026, but the oval cricket stadium's 100,024-seat design placed even front-row fans approximately 165 feet from the NFL sideline — more than three times the typical NFL stadium distance — because the rectangular 120×53-yard football field occupies only about 25% of the MCG's enormous oval grass surface.",
-      "why_funny": "The NFL spent two years and millions of dollars planning Australia's first game, sold 100,000 tickets including 'front row' seats, and the only answer to fans who needed binoculars was: 'We can't change the building's basic geometry.'",
-      "alt": "The NFL field at the Melbourne Cricket Ground seen from the stands during the Rams vs 49ers game, showing the enormous expanse of empty cricket oval grass between the football sideline and the distant seating bowl",
-      "source": "https://www.hitc.com/waste-of-jet-fuel-fans-troll-mcg-after-viral-clip-sparks-questions-over-rams-49ers-clash-in-australia/",
-      "credit": "Getty Images / HITC",
-      "license": "editorial — © Getty Images",
-      "key": "2026-09-11-a"
+      "tagline": "Golf's first AI commentator arrives — whether golf wanted it or not",
+      "story": "The 2026 New Mexico Open (September 14–16) is introducing 'Duff Foreman,' an autonomous AI broadcast personality that will provide live, unscripted golf commentary alongside human hosts for nine hours of YouTube coverage, despite the rollout being 'universally hated and mocked on social media' and the AI's X account consisting of nothing but, per critics, 'pointless AI slop.'",
+      "why_funny": "The first AI golf commentator's most impressive credential is a video of itself playing golf from the summit of Mount Everest, and the tournament's official press release quoted a former PGA Tour winner earnestly explaining that the AI would help viewers understand what players are thinking.",
+      "alt": "Notah Begay III, former PGA Tour winner and human co-host of the New Mexico Open broadcast, photographed in a TV studio — he will be joined in the booth by AI commentator Duff Foreman for nine hours of live coverage",
+      "source": "https://www.foxnews.com/outkick-sports/nobody-wants-ai-generated-sports-commentators-pro-golf-tournament-introducing-one-anyway",
+      "credit": "Fox News / OutKick",
+      "license": "editorial — © Fox News / OutKick",
+      "key": "2026-09-12-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.png",
-      "tagline": "$400 AI ceiling light that simulates the sky — shown in rooms that have windows",
-      "story": "Govee launched the $399 Sky Ceiling Light at IFA 2026 (available September 4, 2026), marketed as an 'AI mood-responsive' fixture that brings 'natural daylight and sky effects' indoors — its own promotional photos show the product installed in rooms with large windows already letting in actual outdoor sky.",
-      "why_funny": "The 'AI mood-responsive' feature works by asking you to type how you want to feel, then it suggests a color temperature — which is exactly what a standard dimmer switch has always done, with the addition of an LLM and a $400 price tag.",
-      "alt": "A bedroom with the Govee Sky Ceiling Light glowing warm orange on the ceiling while actual daylight streams through two large windows and a glass balcony door, showing the real outdoors behind the $400 fake-sky light",
-      "source": "https://9to5toys.com/2026/09/03/govee-sky-ceiling-light-and-cob-lights-2-pro-ifa-2026/",
-      "credit": "Govee / 9to5toys",
-      "license": "editorial — © Govee",
-      "key": "2026-09-11-b"
+      "file": "candidate-b.jpg",
+      "tagline": "Packard Bell turns 100 and celebrates by pivoting to steam cleaners",
+      "story": "Acer relaunched the Packard Bell brand at IFA 2026 to mark its centennial, repositioning the company that helped democratize the beige desktop PC as a 'lifestyle brand' — whose inaugural product line includes a suitcase-style vinyl turntable, audio glasses, a 4G feature phone, and a connected mini-steamer alongside the obligatory laptop.",
+      "why_funny": "The brand that spent a century going from consumer radios to color televisions to cheap unreliable PCs has now found its hundred-year destiny: a Wi-Fi-connected clothes steamer.",
+      "alt": "The new Packard Bell DotBook laptop displayed alongside the DotLoop suitcase-style vinyl turntable at IFA 2026, representing the brand's relaunch as a lifestyle brand under Acer",
+      "source": "https://www.engadget.com/2252026/packard-bell-acer-back-only-available-europe/",
+      "credit": "Engadget / Acer",
+      "license": "editorial — © Engadget / Acer",
+      "key": "2026-09-12-b"
     }
   ]
 }
