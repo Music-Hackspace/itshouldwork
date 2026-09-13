@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-12",
+  "date": "2026-09-13",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "Golf's first AI commentator arrives — whether golf wanted it or not",
-      "story": "The 2026 New Mexico Open (September 14–16) is introducing 'Duff Foreman,' an autonomous AI broadcast personality that will provide live, unscripted golf commentary alongside human hosts for nine hours of YouTube coverage, despite the rollout being 'universally hated and mocked on social media' and the AI's X account consisting of nothing but, per critics, 'pointless AI slop.'",
-      "why_funny": "The first AI golf commentator's most impressive credential is a video of itself playing golf from the summit of Mount Everest, and the tournament's official press release quoted a former PGA Tour winner earnestly explaining that the AI would help viewers understand what players are thinking.",
-      "alt": "Notah Begay III, former PGA Tour winner and human co-host of the New Mexico Open broadcast, photographed in a TV studio — he will be joined in the booth by AI commentator Duff Foreman for nine hours of live coverage",
-      "source": "https://www.foxnews.com/outkick-sports/nobody-wants-ai-generated-sports-commentators-pro-golf-tournament-introducing-one-anyway",
-      "credit": "Fox News / OutKick",
-      "license": "editorial — © Fox News / OutKick",
-      "key": "2026-09-12-a"
+      "file": "candidate-a.png",
+      "tagline": "Delivery robot 'brake-checks' Chicago cyclist — cyclist wins",
+      "story": "Coco autonomous delivery robots, deployed across Chicago pavements to modernise urban last-mile logistics, had already sent residents to hospitals and smashed through bus stops before a fixie rider filmed himself hurling one into a hedge on September 11, 2026, after it blocked and 'brake-checked' him.",
+      "why_funny": "Coco's entire design premise is that autonomous robots can safely share city footpaths with humans — and the public verdict arrived in the form of one man's determined hedge-toss.",
+      "alt": "A Coco autonomous delivery robot lying upturned in a roadside hedge in Chicago after being thrown there by a cyclist frustrated by being brake-checked on the pavement",
+      "source": "https://road.cc/news/cycling-live-blog-11-september-2026",
+      "credit": "road.cc",
+      "license": "editorial — © road.cc",
+      "key": "2026-09-13-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Packard Bell turns 100 and celebrates by pivoting to steam cleaners",
-      "story": "Acer relaunched the Packard Bell brand at IFA 2026 to mark its centennial, repositioning the company that helped democratize the beige desktop PC as a 'lifestyle brand' — whose inaugural product line includes a suitcase-style vinyl turntable, audio glasses, a 4G feature phone, and a connected mini-steamer alongside the obligatory laptop.",
-      "why_funny": "The brand that spent a century going from consumer radios to color televisions to cheap unreliable PCs has now found its hundred-year destiny: a Wi-Fi-connected clothes steamer.",
-      "alt": "The new Packard Bell DotBook laptop displayed alongside the DotLoop suitcase-style vinyl turntable at IFA 2026, representing the brand's relaunch as a lifestyle brand under Acer",
-      "source": "https://www.engadget.com/2252026/packard-bell-acer-back-only-available-europe/",
-      "credit": "Engadget / Acer",
-      "license": "editorial — © Engadget / Acer",
-      "key": "2026-09-12-b"
+      "tagline": "Apple's $2,000+ iPhone Duo has the worst camera of any iPhone",
+      "story": "Apple's iPhone Duo, announced September 9, 2026, is the most expensive iPhone ever made (starting over $2,000), yet reviewers unanimously found it has the worst camera system of the three iPhones launched — no telephoto lens, no variable aperture, and a previous-generation sensor — while the $200-cheaper iPhone 18 Pro Max has all three.",
+      "why_funny": "The more you pay Apple, the fewer cameras you get: their priciest phone is missing the telephoto lens that ships on every Pro model, and Apple's official workaround is to crop a 48MP photo and call it zoom.",
+      "alt": "Apple iPhone Duo foldable smartphone rear camera module showing only two camera lenses, compared to the three-lens setup on the standard iPhone 18 Pro",
+      "source": "https://www.engadget.com/2254121/the-iphone-duo-lacks-variable-aperture-and-a-dedicated-telephoto-camera/",
+      "credit": "Engadget / AOL",
+      "license": "editorial — © Engadget / AOL",
+      "key": "2026-09-13-b"
     }
   ]
 }
