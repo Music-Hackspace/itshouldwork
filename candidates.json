@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-14",
+  "date": "2026-09-15",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Dyson's $499 toothbrush streams live footage of the inside of your mouth",
-      "story": "Dyson's CameraJet, unveiled at IFA 2026, is a $499 electric toothbrush with a 100,000-pixel AI camera that identifies tooth gaps and fires precision mouthwash jets at them — and also lets you watch the operation live on your phone in real time.",
-      "why_funny": "The phone shows live surveillance footage of your own teeth mid-brush, turning oral hygiene into a dental stakeout — 661 Dyson engineers apparently agreed this was the missing feature.",
-      "alt": "A person holding a smartphone showing a live camera feed of the inside of their own mouth while brushing with the Dyson CameraJet toothbrush, with close-up teeth visible on the phone screen",
-      "source": "https://futurism.com/artificial-intelligence/dyson-ai-toothbrush-video-surveillance-mouth",
-      "credit": "Futurism / Dyson",
-      "license": "editorial — © Futurism",
-      "key": "2026-09-14-a"
+      "tagline": "Dog's new phone plan: jump three times and we'll connect your call",
+      "story": "Petpogo's PetPhone, updated at IFA 2026, is marketed as the first AI smartphone for pets — the 'Paw Call Me' feature lets your dog call you by jumping at least a foot off the ground three times within six seconds.",
+      "why_funny": "Engineers built a phone contract around a dog's jump pattern, then needed AI to confirm the animal is actually trying to call and not just being a dog.",
+      "alt": "A dog holding and looking down at a smartphone screen",
+      "source": "http://www.prnewswire.com/news-releases/petphone-headlines-petpogos-ai-pet-tech-ecosystem-upgrade-at-ifa-2026-302870165.html",
+      "credit": "Slate",
+      "license": "editorial — © Slate",
+      "key": "2026-09-15-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.png",
-      "tagline": "Four HD cameras now required to tell you where your dart landed",
-      "story": "Winmau's Autodarts X, launched at IFA Berlin on September 10 2026, is a £450 camera rig with four HD cameras and 360° pro-grade lighting that clips around any standard dartboard to automatically detect and score every throw via AI.",
-      "why_funny": "Darts — a pub game where the entire point is watching where the dart lands — now needs four surveillance cameras and an AI ref to solve the problem of looking at the board.",
-      "alt": "A traditional dartboard encircled by an elaborate ring of four HD cameras and bright studio lighting, with a tablet showing a digital scoreboard app beside it",
-      "source": "https://www.forbes.com/sites/paullamkin/2026/09/10/winmau-and-autodarts-bring-smart-scoring-to-your-dumb-dartboard/",
-      "credit": "Winmau",
-      "license": "editorial — © Winmau",
-      "key": "2026-09-14-b"
+      "file": "candidate-b.jpg",
+      "tagline": "It's a Roomba — for your bed. Your mattress has been asking for this.",
+      "story": "Creatulize unveiled the X1 Pro at IFA 2026: a fully autonomous robot vacuum designed to crawl across your mattress, cleaning dust mites and skin flakes with UV-C sterilisation, 11 sensors, and four cleaning modes.",
+      "why_funny": "You now have to unmake your bed so a robot can service it, then remake it — solving the ancient human problem of not wanting to clean the thing you sleep on by adding a robot you also have to manage.",
+      "alt": "A small white autonomous robot vacuum navigating across a white mattress",
+      "source": "https://www.ubergizmo.com/2026/09/creatulize-unveils-x1-series-autonomous-bed-cleaning-robots-at-ifa-2026/",
+      "credit": "Ubergizmo / Creatulize",
+      "license": "editorial — © Ubergizmo",
+      "key": "2026-09-15-b"
     }
   ]
 }
