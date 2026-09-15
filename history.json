@@ -1,6 +1,17 @@
 {
-  "count": 102,
+  "count": 103,
   "photos": [
+    {
+      "date": "2026-09-14",
+      "alt": "A person holding a smartphone showing a live camera feed of the inside of their own mouth while brushing with the Dyson CameraJet toothbrush, with close-up teeth visible on the phone screen",
+      "source": "https://futurism.com/artificial-intelligence/dyson-ai-toothbrush-video-surveillance-mouth",
+      "credit": "Futurism / Dyson",
+      "license": "editorial \u2014 \u00a9 Futurism",
+      "story": "Dyson's CameraJet, unveiled at IFA 2026, is a $499 electric toothbrush with a 100,000-pixel AI camera that identifies tooth gaps and fires precision mouthwash jets at them \u2014 and also lets you watch the operation live on your phone in real time.",
+      "why_funny": "The phone shows live surveillance footage of your own teeth mid-brush, turning oral hygiene into a dental stakeout \u2014 661 Dyson engineers apparently agreed this was the missing feature.",
+      "id": "8a23d0ba68",
+      "file": "archive/2026-09-14-8a23d0ba68.jpg"
+    },
     {
       "date": "2026-09-13",
       "alt": "A Coco autonomous delivery robot lying upturned in a roadside hedge in Chicago after being thrown there by a cyclist frustrated by being brake-checked on the pavement",
