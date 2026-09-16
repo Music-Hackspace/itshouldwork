@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "Dog's new phone plan: jump three times and we'll connect your call",
-      "story": "Petpogo's PetPhone, updated at IFA 2026, is marketed as the first AI smartphone for pets — the 'Paw Call Me' feature lets your dog call you by jumping at least a foot off the ground three times within six seconds.",
-      "why_funny": "Engineers built a phone contract around a dog's jump pattern, then needed AI to confirm the animal is actually trying to call and not just being a dog.",
-      "alt": "A dog holding and looking down at a smartphone screen",
-      "source": "http://www.prnewswire.com/news-releases/petphone-headlines-petpogos-ai-pet-tech-ecosystem-upgrade-at-ifa-2026-302870165.html",
-      "credit": "Slate",
-      "license": "editorial — © Slate",
-      "key": "2026-09-15-a"
+      "file": "candidate-a.webp",
+      "tagline": "For $17,500 it will love you unconditionally. The warranty is 1 year.",
+      "story": "UBTECH's UWORLD U1 humanoid companion robot — lifelike silicone skin, blinking lashes, 88 degrees of freedom — began shipping to buyers this week, promising 'unconditional love' at prices starting from $17,500.",
+      "why_funny": "Nothing says 'unconditional' like a one-year warranty and a subscription-based emotion AI that recognizes your mood at 90% accuracy — the remaining 10% it just stares at you.",
+      "alt": "A humanoid robot with lifelike silicone skin and realistic facial features posed at a product launch event",
+      "source": "https://theaiinsider.tech/2026/07/01/ubtech-launches-uworld-u1-ultra-bionic-humanoid-robot-line/",
+      "credit": "The AI Insider / UBTECH",
+      "license": "editorial — © The AI Insider",
+      "key": "2026-09-16-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "It's a Roomba — for your bed. Your mattress has been asking for this.",
-      "story": "Creatulize unveiled the X1 Pro at IFA 2026: a fully autonomous robot vacuum designed to crawl across your mattress, cleaning dust mites and skin flakes with UV-C sterilisation, 11 sensors, and four cleaning modes.",
-      "why_funny": "You now have to unmake your bed so a robot can service it, then remake it — solving the ancient human problem of not wanting to clean the thing you sleep on by adding a robot you also have to manage.",
-      "alt": "A small white autonomous robot vacuum navigating across a white mattress",
-      "source": "https://www.ubergizmo.com/2026/09/creatulize-unveils-x1-series-autonomous-bed-cleaning-robots-at-ifa-2026/",
-      "credit": "Ubergizmo / Creatulize",
-      "license": "editorial — © Ubergizmo",
-      "key": "2026-09-15-b"
+      "tagline": "Robots hired to protest robots taking jobs. The robots had no comment.",
+      "story": "On September 9 in Warsaw, humanoid robots rented from a robot-rental business marched through the city waving flags to demand AI regulation and protection for human workers displaced by automation.",
+      "why_funny": "The organiser deployed the exact technology threatening human employment to argue that the technology threatens human employment — and his robot rental business charged for each unit on the march.",
+      "alt": "A humanoid robot waving a flag during a street demonstration in Warsaw calling for regulation of artificial intelligence",
+      "source": "https://www.uniladtech.com/news/ai/humanoid-robot-protest-ai-warsaw-908449-20260909",
+      "credit": "UNILAD Tech / LADbible Group",
+      "license": "editorial — © LADbible Group",
+      "key": "2026-09-16-b"
     }
   ]
 }
