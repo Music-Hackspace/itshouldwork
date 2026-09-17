@@ -1,6 +1,17 @@
 {
-  "count": 104,
+  "count": 105,
   "photos": [
+    {
+      "date": "2026-09-16",
+      "alt": "A humanoid robot waving a flag during a street demonstration in Warsaw calling for regulation of artificial intelligence",
+      "source": "https://www.uniladtech.com/news/ai/humanoid-robot-protest-ai-warsaw-908449-20260909",
+      "credit": "UNILAD Tech / LADbible Group",
+      "license": "editorial \u2014 \u00a9 LADbible Group",
+      "story": "On September 9 in Warsaw, humanoid robots rented from a robot-rental business marched through the city waving flags to demand AI regulation and protection for human workers displaced by automation.",
+      "why_funny": "The organiser deployed the exact technology threatening human employment to argue that the technology threatens human employment \u2014 and his robot rental business charged for each unit on the march.",
+      "id": "a8b5bcb966",
+      "file": "archive/2026-09-16-a8b5bcb966.jpg"
+    },
     {
       "date": "2026-09-15",
       "alt": "A small white autonomous robot vacuum navigating across a white mattress",
