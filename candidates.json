@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-16",
+  "date": "2026-09-17",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.webp",
-      "tagline": "For $17,500 it will love you unconditionally. The warranty is 1 year.",
-      "story": "UBTECH's UWORLD U1 humanoid companion robot — lifelike silicone skin, blinking lashes, 88 degrees of freedom — began shipping to buyers this week, promising 'unconditional love' at prices starting from $17,500.",
-      "why_funny": "Nothing says 'unconditional' like a one-year warranty and a subscription-based emotion AI that recognizes your mood at 90% accuracy — the remaining 10% it just stares at you.",
-      "alt": "A humanoid robot with lifelike silicone skin and realistic facial features posed at a product launch event",
-      "source": "https://theaiinsider.tech/2026/07/01/ubtech-launches-uworld-u1-ultra-bionic-humanoid-robot-line/",
-      "credit": "The AI Insider / UBTECH",
-      "license": "editorial — © The AI Insider",
-      "key": "2026-09-16-a"
+      "file": "candidate-a.jpg",
+      "tagline": "In 2018, Tesla launched this exact Roadster to space. The next-gen still can't ship.",
+      "story": "Tesla announced its second-generation Roadster in November 2017, collected $250 million in deposits at up to $250,000 per reservation, promised delivery by 2020, and this week set October 1 as the fifth 'reveal event' date of 2026 alone — with production still 12–18 months away from wherever the reveal lands.",
+      "why_funny": "The original Roadster went to space in 2018; nine years later, deposit-holders are still waiting for the next-gen one to reach their driveway.",
+      "alt": "Elon Musk's red Tesla Roadster floating in space above Earth with a space-suited mannequin in the driver's seat, photographed from the SpaceX Falcon Heavy payload bay in February 2018",
+      "source": "https://evxl.co/2026/09/14/tesla-roadster-october-1-reveal-date/",
+      "credit": "SpaceX",
+      "license": "CC0 1.0",
+      "key": "2026-09-17-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Robots hired to protest robots taking jobs. The robots had no comment.",
-      "story": "On September 9 in Warsaw, humanoid robots rented from a robot-rental business marched through the city waving flags to demand AI regulation and protection for human workers displaced by automation.",
-      "why_funny": "The organiser deployed the exact technology threatening human employment to argue that the technology threatens human employment — and his robot rental business charged for each unit on the march.",
-      "alt": "A humanoid robot waving a flag during a street demonstration in Warsaw calling for regulation of artificial intelligence",
-      "source": "https://www.uniladtech.com/news/ai/humanoid-robot-protest-ai-warsaw-908449-20260909",
-      "credit": "UNILAD Tech / LADbible Group",
-      "license": "editorial — © LADbible Group",
-      "key": "2026-09-16-b"
+      "tagline": "New Apple Watch records ambient conversations. In 11 states, that might be illegal.",
+      "story": "Apple's Watch Series 12 (announced September 9, 2026) includes 'Live Rewind' — an always-on feature that processes the last 15 seconds of nearby audio and can replay it as text; lawyers in 11 US states with all-party consent laws say that a watch beeping at bystanders does not constitute consent to be recorded.",
+      "why_funny": "Apple spent years building trust as a privacy company, then shipped a wearable that continuously listens to everyone in the room and decided a beep is a legally sufficient substitute for asking.",
+      "alt": "An Apple Watch Series 12 shown on a wrist, illustrating the new always-listening Audio Intelligence feature that processes ambient conversations and may raise eavesdropping concerns under US state wiretapping laws",
+      "source": "https://9to5mac.com/2026/09/15/new-apple-watch-features-may-require-new-legal-precedent-for-privacy/",
+      "credit": "9to5Mac / Apple",
+      "license": "editorial — © 9to5Mac",
+      "key": "2026-09-17-b"
     }
   ]
 }
