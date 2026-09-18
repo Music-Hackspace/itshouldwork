@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "In 2018, Tesla launched this exact Roadster to space. The next-gen still can't ship.",
-      "story": "Tesla announced its second-generation Roadster in November 2017, collected $250 million in deposits at up to $250,000 per reservation, promised delivery by 2020, and this week set October 1 as the fifth 'reveal event' date of 2026 alone — with production still 12–18 months away from wherever the reveal lands.",
-      "why_funny": "The original Roadster went to space in 2018; nine years later, deposit-holders are still waiting for the next-gen one to reach their driveway.",
-      "alt": "Elon Musk's red Tesla Roadster floating in space above Earth with a space-suited mannequin in the driver's seat, photographed from the SpaceX Falcon Heavy payload bay in February 2018",
-      "source": "https://evxl.co/2026/09/14/tesla-roadster-october-1-reveal-date/",
-      "credit": "SpaceX",
-      "license": "CC0 1.0",
-      "key": "2026-09-17-a"
+      "tagline": "CEO calls them 'highly wearable' while frames visibly crush his earlobes",
+      "story": "Snap launched its $2,195 Specs AR glasses on September 16, 2026 — glasses that weigh three times more than regular sunglasses — and CEO Evan Spiegel's keynote clip immediately went viral for showing the 'highly wearable' frames pressing visibly into his earlobes while he described them as comfortable; the company has already burned hundreds of millions on unsold earlier-generation Spectacles.",
+      "why_funny": "Snap's answer to the 'smart glasses look dorky' problem was to build glasses weighing four times more than normal ones, have the CEO declare them 'highly wearable' in a clip that showed them crushing his ears, and charge $2,195 for the privilege.",
+      "alt": "Snap CEO Evan Spiegel on a darkened stage wearing the bulky Snap Specs AR glasses during the September 2026 consumer launch keynote in Los Angeles, with the chunky frames visibly pressing against the sides of his head",
+      "source": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
+      "credit": "Engadget / AOL",
+      "license": "editorial — © Engadget / AOL",
+      "key": "2026-09-18-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "New Apple Watch records ambient conversations. In 11 states, that might be illegal.",
-      "story": "Apple's Watch Series 12 (announced September 9, 2026) includes 'Live Rewind' — an always-on feature that processes the last 15 seconds of nearby audio and can replay it as text; lawyers in 11 US states with all-party consent laws say that a watch beeping at bystanders does not constitute consent to be recorded.",
-      "why_funny": "Apple spent years building trust as a privacy company, then shipped a wearable that continuously listens to everyone in the room and decided a beep is a legally sufficient substitute for asking.",
-      "alt": "An Apple Watch Series 12 shown on a wrist, illustrating the new always-listening Audio Intelligence feature that processes ambient conversations and may raise eavesdropping concerns under US state wiretapping laws",
-      "source": "https://9to5mac.com/2026/09/15/new-apple-watch-features-may-require-new-legal-precedent-for-privacy/",
-      "credit": "9to5Mac / Apple",
-      "license": "editorial — © 9to5Mac",
-      "key": "2026-09-17-b"
+      "tagline": "Apple's $1,999 foldable phone is unusable for left-handers — again",
+      "story": "Apple's first foldable iPhone, the Duo, launched September 9 at $1,999, but its Touch ID fingerprint sensor and Camera Control button sit exclusively on the right edge — the same right-biased design that sparked antennagate in 2010 — leaving the 10.6% of users who are left-handed unable to comfortably unlock or shoot photos on a phone Apple markets as its most ambitious ever.",
+      "why_funny": "After Steve Jobs' infamous 'you're holding it wrong' response in 2010, Apple spent 16 years and released a $2,000 foldable phone that once again asks left-handed users to hold it differently.",
+      "alt": "The Apple iPhone Duo foldable phone shown both folded and open, with the Touch ID fingerprint sensor and Camera Control button visible only on the right side of the device",
+      "source": "https://consequence.net/2026/09/iphone-duo-design-left-handed-accessibility-issues/",
+      "credit": "Consequence / Apple",
+      "license": "editorial — © Consequence / Apple",
+      "key": "2026-09-18-b"
     }
   ]
 }
