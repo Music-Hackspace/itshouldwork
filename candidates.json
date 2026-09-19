@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-18",
+  "date": "2026-09-19",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "CEO calls them 'highly wearable' while frames visibly crush his earlobes",
-      "story": "Snap launched its $2,195 Specs AR glasses on September 16, 2026 — glasses that weigh three times more than regular sunglasses — and CEO Evan Spiegel's keynote clip immediately went viral for showing the 'highly wearable' frames pressing visibly into his earlobes while he described them as comfortable; the company has already burned hundreds of millions on unsold earlier-generation Spectacles.",
-      "why_funny": "Snap's answer to the 'smart glasses look dorky' problem was to build glasses weighing four times more than normal ones, have the CEO declare them 'highly wearable' in a clip that showed them crushing his ears, and charge $2,195 for the privilege.",
-      "alt": "Snap CEO Evan Spiegel on a darkened stage wearing the bulky Snap Specs AR glasses during the September 2026 consumer launch keynote in Los Angeles, with the chunky frames visibly pressing against the sides of his head",
-      "source": "https://techcrunch.com/2026/09/16/snap-tries-to-make-the-case-again-for-its-2200-smart-glasses/",
-      "credit": "Engadget / AOL",
-      "license": "editorial — © Engadget / AOL",
-      "key": "2026-09-18-a"
+      "tagline": "€28k rebrand ignored protests, copied a Belgian shelf company's logo",
+      "story": "Galway City Council spent €28,000 overriding a 'Keep the Galway G' public campaign to unveil a new minimalist lowercase 'g' logo on September 17, 2026 — only to have it immediately identified as nearly identical to the logos of both Gondella, a Belgian shopfitting company, and Gousto, a British meal-kit firm.",
+      "why_funny": "The council paused the rebrand due to public outcry, then quietly released it anyway — and within hours the €28,000 'g' was being compared side-by-side to a Belgian warehouse-shelving company's logo.",
+      "alt": "Side-by-side comparison of Galway City Council's old elaborate circular G logo with coat of arms on the left versus its new plain maroon lowercase g design on the right — which critics note looks identical to a Belgian shopfitting firm's logo",
+      "source": "https://www.connachttribune.ie/news/galway-city/galway-g-logo-european-company-9088422",
+      "credit": "Creative Bloq / Galway City Council",
+      "license": "editorial — © Creative Bloq",
+      "key": "2026-09-19-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Apple's $1,999 foldable phone is unusable for left-handers — again",
-      "story": "Apple's first foldable iPhone, the Duo, launched September 9 at $1,999, but its Touch ID fingerprint sensor and Camera Control button sit exclusively on the right edge — the same right-biased design that sparked antennagate in 2010 — leaving the 10.6% of users who are left-handed unable to comfortably unlock or shoot photos on a phone Apple markets as its most ambitious ever.",
-      "why_funny": "After Steve Jobs' infamous 'you're holding it wrong' response in 2010, Apple spent 16 years and released a $2,000 foldable phone that once again asks left-handed users to hold it differently.",
-      "alt": "The Apple iPhone Duo foldable phone shown both folded and open, with the Touch ID fingerprint sensor and Camera Control button visible only on the right side of the device",
-      "source": "https://consequence.net/2026/09/iphone-duo-design-left-handed-accessibility-issues/",
-      "credit": "Consequence / Apple",
-      "license": "editorial — © Consequence / Apple",
-      "key": "2026-09-18-b"
+      "tagline": "Humanoid Robot Olympics 2026: things got sparky in the home straight",
+      "story": "At the 2026 World Humanoid Robot Games in Beijing — a competition designed to prove that humanoid robots can sprint, jump, and kick like people — multiple robots collided, disintegrated, and caught fire mid-race, including one that burst into flames at the finish line of the 100-metre sprint on August 25.",
+      "why_funny": "The entire premise of the games was that AI-powered humanoid robots can safely compete in athletics; several immediately proved that premise aggressively wrong by exploding on contact with the foam crash pad.",
+      "alt": "Two humanoid robots in mid-air collision during a race at the 2026 World Humanoid Robot Games in Beijing, one sparking and catching fire while robot limbs scatter across the blue athletics track",
+      "source": "https://www.aol.com/articles/best-robot-fails-2026-world-184549000.html",
+      "credit": "AOL / Getty Images",
+      "license": "editorial — © Getty Images",
+      "key": "2026-09-19-b"
     }
   ]
 }
