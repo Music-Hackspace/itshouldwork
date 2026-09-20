@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "€28k rebrand ignored protests, copied a Belgian shelf company's logo",
-      "story": "Galway City Council spent €28,000 overriding a 'Keep the Galway G' public campaign to unveil a new minimalist lowercase 'g' logo on September 17, 2026 — only to have it immediately identified as nearly identical to the logos of both Gondella, a Belgian shopfitting company, and Gousto, a British meal-kit firm.",
-      "why_funny": "The council paused the rebrand due to public outcry, then quietly released it anyway — and within hours the €28,000 'g' was being compared side-by-side to a Belgian warehouse-shelving company's logo.",
-      "alt": "Side-by-side comparison of Galway City Council's old elaborate circular G logo with coat of arms on the left versus its new plain maroon lowercase g design on the right — which critics note looks identical to a Belgian shopfitting firm's logo",
-      "source": "https://www.connachttribune.ie/news/galway-city/galway-g-logo-european-company-9088422",
-      "credit": "Creative Bloq / Galway City Council",
-      "license": "editorial — © Creative Bloq",
-      "key": "2026-09-19-a"
+      "tagline": "50 years, no funding, no finish: Cape Town releases designs for its famous bridge to nowhere",
+      "story": "Cape Town's Foreshore Freeway Bridge was abandoned mid-construction in 1977 when the city ran out of money; in September 2026 the city finally released its first designs for public comment — but the project still has no confirmed funding, will cost an estimated R1.8 billion, and may take another nine years to complete.",
+      "why_funny": "The city built half a highway bridge in the 1970s, ran out of cash, turned the top deck into a car park for a decade, and in 2026 announced plans to finish it — with a budget of zero and a nine-year timeline.",
+      "alt": "Cape Town's Foreshore Freeway Bridge photographed from street level, a dramatic concrete elevated highway that ends abruptly in mid-air above the city centre, its unfinished span jutting out with nothing beyond it against a clear blue sky",
+      "source": "https://www.getaway.co.za/news/cape-town-prepares-to-unveil-plans-for-its-unfinished-foreshore-freeway/",
+      "credit": "KruegA / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-09-20-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Humanoid Robot Olympics 2026: things got sparky in the home straight",
-      "story": "At the 2026 World Humanoid Robot Games in Beijing — a competition designed to prove that humanoid robots can sprint, jump, and kick like people — multiple robots collided, disintegrated, and caught fire mid-race, including one that burst into flames at the finish line of the 100-metre sprint on August 25.",
-      "why_funny": "The entire premise of the games was that AI-powered humanoid robots can safely compete in athletics; several immediately proved that premise aggressively wrong by exploding on contact with the foam crash pad.",
-      "alt": "Two humanoid robots in mid-air collision during a race at the 2026 World Humanoid Robot Games in Beijing, one sparking and catching fire while robot limbs scatter across the blue athletics track",
-      "source": "https://www.aol.com/articles/best-robot-fails-2026-world-184549000.html",
-      "credit": "AOL / Getty Images",
-      "license": "editorial — © Getty Images",
-      "key": "2026-09-19-b"
+      "tagline": "Salesforce's platform crashed during its own 40,000-person AI conference — blame: one legacy login server",
+      "story": "On September 16, 2026 — Day 2 of Dreamforce, Salesforce's flagship conference with 40,000 in-person attendees — the company's entire global CRM platform went down due to a legacy login server buckling under load, locking customers out worldwide while executives were on stage unveiling AIforce and Claudeforce AI products.",
+      "why_funny": "A company charging enterprise rates for AI-powered cloud reliability crashed its own flagship event because nobody had upgraded the login server — The Register noted Salesforce's $400 million annual AI budget had apparently 'gone somewhere other than their login server.'",
+      "alt": "Salesforce Tower, the 61-storey tapering glass skyscraper and tallest building in San Francisco, photographed from street level against a blue sky — the headquarters of the company whose global platform collapsed during its own AI conference",
+      "source": "https://www.channelinsider.com/ai/news-salesforce-outage-dreamforce/",
+      "credit": "Dead.rabbit / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-09-20-b"
     }
   ]
 }
