@@ -1,10 +1,10 @@
 {
   "file": "photo.jpg",
-  "date": "2026-09-19",
-  "alt": "Two humanoid robots in mid-air collision during a race at the 2026 World Humanoid Robot Games in Beijing, one sparking and catching fire while robot limbs scatter across the blue athletics track",
-  "source": "https://www.aol.com/articles/best-robot-fails-2026-world-184549000.html",
-  "credit": "AOL / Getty Images",
-  "license": "editorial \u2014 \u00a9 Getty Images",
-  "story": "At the 2026 World Humanoid Robot Games in Beijing \u2014 a competition designed to prove that humanoid robots can sprint, jump, and kick like people \u2014 multiple robots collided, disintegrated, and caught fire mid-race, including one that burst into flames at the finish line of the 100-metre sprint on August 25.",
-  "why_funny": "The entire premise of the games was that AI-powered humanoid robots can safely compete in athletics; several immediately proved that premise aggressively wrong by exploding on contact with the foam crash pad."
+  "date": "2026-09-20",
+  "alt": "Salesforce Tower, the 61-storey tapering glass skyscraper and tallest building in San Francisco, photographed from street level against a blue sky \u2014 the headquarters of the company whose global platform collapsed during its own AI conference",
+  "source": "https://www.channelinsider.com/ai/news-salesforce-outage-dreamforce/",
+  "credit": "Dead.rabbit / Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "story": "On September 16, 2026 \u2014 Day 2 of Dreamforce, Salesforce's flagship conference with 40,000 in-person attendees \u2014 the company's entire global CRM platform went down due to a legacy login server buckling under load, locking customers out worldwide while executives were on stage unveiling AIforce and Claudeforce AI products.",
+  "why_funny": "A company charging enterprise rates for AI-powered cloud reliability crashed its own flagship event because nobody had upgraded the login server \u2014 The Register noted Salesforce's $400 million annual AI budget had apparently 'gone somewhere other than their login server.'"
 }
