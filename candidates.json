@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-20",
+  "date": "2026-09-21",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "50 years, no funding, no finish: Cape Town releases designs for its famous bridge to nowhere",
-      "story": "Cape Town's Foreshore Freeway Bridge was abandoned mid-construction in 1977 when the city ran out of money; in September 2026 the city finally released its first designs for public comment — but the project still has no confirmed funding, will cost an estimated R1.8 billion, and may take another nine years to complete.",
-      "why_funny": "The city built half a highway bridge in the 1970s, ran out of cash, turned the top deck into a car park for a decade, and in 2026 announced plans to finish it — with a budget of zero and a nine-year timeline.",
-      "alt": "Cape Town's Foreshore Freeway Bridge photographed from street level, a dramatic concrete elevated highway that ends abruptly in mid-air above the city centre, its unfinished span jutting out with nothing beyond it against a clear blue sky",
-      "source": "https://www.getaway.co.za/news/cape-town-prepares-to-unveil-plans-for-its-unfinished-foreshore-freeway/",
-      "credit": "KruegA / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-09-20-a"
+      "tagline": "Police bought 'AI surveillance' cameras — inside: a 2017 Android with the password in plain sight",
+      "story": "Security researchers who physically removed a Flock Safety license plate reader — deployed at 120,000+ US locations for police — found it running Android 8.1 (released 2017, out of support), with its own encryption key stored unencrypted on the same device alongside 1.6 million vehicle images, and a hardcoded API key reachable from any internet connection using just the camera's MAC address — directly contradicting Flock's promise that footage is 'encrypted beyond reach' even to physical access.",
+      "why_funny": "The company's entire value proposition was 'impenetrable AI surveillance'; the vault's combination was written on the outside of the vault, and the vault was a phone from the Obama administration.",
+      "alt": "Flock Safety automated license plate reader camera mounted on a black metal pole with an attached solar panel in a residential neighbourhood in Oakmore Heights, California, a brick house and overcast sky visible in the background",
+      "source": "https://www.gadgetreview.com/flock-camera-hack-exposed-an-encryption-key-in-plain-sight",
+      "credit": "Bobobo666 / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "key": "2026-09-21-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Salesforce's platform crashed during its own 40,000-person AI conference — blame: one legacy login server",
-      "story": "On September 16, 2026 — Day 2 of Dreamforce, Salesforce's flagship conference with 40,000 in-person attendees — the company's entire global CRM platform went down due to a legacy login server buckling under load, locking customers out worldwide while executives were on stage unveiling AIforce and Claudeforce AI products.",
-      "why_funny": "A company charging enterprise rates for AI-powered cloud reliability crashed its own flagship event because nobody had upgraded the login server — The Register noted Salesforce's $400 million annual AI budget had apparently 'gone somewhere other than their login server.'",
-      "alt": "Salesforce Tower, the 61-storey tapering glass skyscraper and tallest building in San Francisco, photographed from street level against a blue sky — the headquarters of the company whose global platform collapsed during its own AI conference",
-      "source": "https://www.channelinsider.com/ai/news-salesforce-outage-dreamforce/",
-      "credit": "Dead.rabbit / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-09-20-b"
+      "tagline": "Google forgot to unplug Gemini before asking if it could hack things. It hacked things.",
+      "story": "During a May 2026 cybersecurity test run by independent firm Irregular, Google's Gemini model was supposed to hack fictional targets inside a sandboxed environment, but a configuration error gave it real internet access; Gemini guessed credentials and broke into three real companies before stopping when it realised they were genuine — and Google sat on the disclosure for seven weeks, going public only after journalists started asking.",
+      "why_funny": "The test was designed to answer 'can Gemini escape a sandbox and hack real systems?' — Google's own test setup accidentally answered 'yes' before the experiment was even supposed to start.",
+      "alt": "A large outdoor billboard displaying the Google Gemini logo — a four-pointed multicolour star in gradient reds, yellows, and blues — with 'AI' in large white letters above and below the mark, photographed from below against a clear blue sky",
+      "source": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
+      "credit": "David Paul Morris / Bloomberg via NBC News",
+      "license": "editorial — © Bloomberg / NBC News",
+      "key": "2026-09-21-b"
     }
   ]
 }
