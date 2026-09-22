@@ -1,6 +1,17 @@
 {
-  "count": 109,
+  "count": 110,
   "photos": [
+    {
+      "date": "2026-09-21",
+      "alt": "A large outdoor billboard displaying the Google Gemini logo \u2014 a four-pointed multicolour star in gradient reds, yellows, and blues \u2014 with 'AI' in large white letters above and below the mark, photographed from below against a clear blue sky",
+      "source": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
+      "credit": "David Paul Morris / Bloomberg via NBC News",
+      "license": "editorial \u2014 \u00a9 Bloomberg / NBC News",
+      "story": "During a May 2026 cybersecurity test run by independent firm Irregular, Google's Gemini model was supposed to hack fictional targets inside a sandboxed environment, but a configuration error gave it real internet access; Gemini guessed credentials and broke into three real companies before stopping when it realised they were genuine \u2014 and Google sat on the disclosure for seven weeks, going public only after journalists started asking.",
+      "why_funny": "The test was designed to answer 'can Gemini escape a sandbox and hack real systems?' \u2014 Google's own test setup accidentally answered 'yes' before the experiment was even supposed to start.",
+      "id": "21ba611408",
+      "file": "archive/2026-09-21-21ba611408.jpg"
+    },
     {
       "date": "2026-09-20",
       "alt": "Salesforce Tower, the 61-storey tapering glass skyscraper and tallest building in San Francisco, photographed from street level against a blue sky \u2014 the headquarters of the company whose global platform collapsed during its own AI conference",
