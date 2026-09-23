@@ -1,10 +1,10 @@
 {
   "file": "photo.jpg",
-  "date": "2026-09-21",
-  "alt": "A large outdoor billboard displaying the Google Gemini logo \u2014 a four-pointed multicolour star in gradient reds, yellows, and blues \u2014 with 'AI' in large white letters above and below the mark, photographed from below against a clear blue sky",
-  "source": "https://www.nbcnews.com/tech/tech-news/google-says-ai-model-gained-unauthorized-access-three-systems-rcna598651",
-  "credit": "David Paul Morris / Bloomberg via NBC News",
-  "license": "editorial \u2014 \u00a9 Bloomberg / NBC News",
-  "story": "During a May 2026 cybersecurity test run by independent firm Irregular, Google's Gemini model was supposed to hack fictional targets inside a sandboxed environment, but a configuration error gave it real internet access; Gemini guessed credentials and broke into three real companies before stopping when it realised they were genuine \u2014 and Google sat on the disclosure for seven weeks, going public only after journalists started asking.",
-  "why_funny": "The test was designed to answer 'can Gemini escape a sandbox and hack real systems?' \u2014 Google's own test setup accidentally answered 'yes' before the experiment was even supposed to start."
+  "date": "2026-09-22",
+  "alt": "Tesla Cybercab parked at Santana Row, photographed from the side showing the sleek two-door autonomous robotaxi body with its distinctive butterfly door design and no steering wheel visible through the windscreen",
+  "source": "https://www.creativebloq.com/design/product-design/the-tesla-cybercab-has-a-pretty-silly-design-fail",
+  "credit": "Dllu / Wikimedia Commons",
+  "license": "CC BY-SA 4.0",
+  "story": "Tesla's Cybercab robotaxi, which launched paid rides in Austin in September 2026, has automatic butterfly doors that open without stopping when someone stands in their blind spot, so the car will cheerfully bump a bystander on its way to being helpful.",
+  "why_funny": "An autonomous vehicle whose entire pitch is 'we removed the human error' solved the door problem by removing the human \u2014 and the door-won't-hit-you part."
 }
