@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Autonomous taxi designed to pick you up — also designed to door you on the way in",
-      "story": "Tesla's Cybercab robotaxi, which launched paid rides in Austin in September 2026, has automatic butterfly doors that open without stopping when someone stands in their blind spot, so the car will cheerfully bump a bystander on its way to being helpful.",
-      "why_funny": "An autonomous vehicle whose entire pitch is 'we removed the human error' solved the door problem by removing the human — and the door-won't-hit-you part.",
-      "alt": "Tesla Cybercab parked at Santana Row, photographed from the side showing the sleek two-door autonomous robotaxi body with its distinctive butterfly door design and no steering wheel visible through the windscreen",
-      "source": "https://www.creativebloq.com/design/product-design/the-tesla-cybercab-has-a-pretty-silly-design-fail",
-      "credit": "Dllu / Wikimedia Commons",
+      "tagline": "McLaren rebranded. Their new logo looks like a Parisian fashion house. It was inspired by a gas station.",
+      "story": "On September 22, 2026, McLaren unveiled a unified brand identity for Racing and Automotive built around a new wordmark inspired by 1920s lettering above the McLaren family service station in Auckland — which critics immediately noted looks more like Chanel or Louis Vuitton than a supercar brand.",
+      "why_funny": "A Formula 1 team and supercar company looked deep into their heritage and emerged with: gas station chic.",
+      "alt": "A gleaming teal-blue McLaren 720S Spider supercar with its distinctive dihedral scissor door fully raised, on display at a Sotheby's auction preview in Hong Kong",
+      "source": "https://www.planetf1.com/news/mclaren-new-logo-2026",
+      "credit": "Horzhenung Tadiae Sotaod / Wikimedia Commons",
       "license": "CC BY-SA 4.0",
-      "key": "2026-09-22-a"
+      "key": "2026-09-23-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "US Space Force: 'Our new uniform is inspired by Starship Troopers' — the anti-fascist satire",
-      "story": "President Trump posted a Truth Social graphic on September 7, 2026 proposing new Space Force 'next generation' uniforms — dark peaked caps, leather boots, silver belt buckles — explicitly stating they were 'inspired by the discipline and functionality of the Starship Trooper uniform,' the 1997 film director Paul Verhoeven made as a deliberate satire of fascism using Nazi propaganda aesthetics.",
-      "why_funny": "The US military asked for menacing sci-fi villain uniforms, cited an anti-fascist satire as their reference, and the film's director immediately noted the design was originally based on Leni Riefenstahl's Nazi propaganda films — making the inspiration loop complete.",
-      "alt": "AI-generated graphic posted by Donald Trump on Truth Social showing proposed US Space Force Guardian ceremonial uniforms: Space Force members in dark grey fitted jackets, matching trousers, peaked caps, black boots, and silver belt buckles bearing the Space Force delta insignia",
-      "source": "https://www.newsweek.com/space-force-uniforms-starship-troopers-12411536",
-      "credit": "Newsweek / Donald Trump via Truth Social",
-      "license": "editorial — © Newsweek",
-      "key": "2026-09-22-b"
+      "tagline": "Trump told the UN that AI is now called 'super intelligence' — that wasn't one of the options in his own poll",
+      "story": "At the UN General Assembly on September 22, 2026, President Trump announced the US would rename 'artificial intelligence' to 'super intelligence' in all government documents — ignoring the three renaming choices (Superior, Extreme, or Supreme Intelligence) he had asked his Truth Social followers to vote on just days earlier.",
+      "why_funny": "He crowdsourced three name options, picked none of them, and announced the fourth to the entire world at the UN.",
+      "alt": "Wide shot of the United Nations General Assembly hall in New York packed with world leaders and delegates, with Trump visible at the podium and on the large video screens above",
+      "source": "https://thehill.com/homenews/administration/6104142-trump-renames-ai-super-intelligence/",
+      "credit": "AP / The Week In",
+      "license": "editorial — © AP",
+      "key": "2026-09-23-b"
     }
   ]
 }
