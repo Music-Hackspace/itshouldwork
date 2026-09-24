@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-23",
+  "date": "2026-09-24",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "McLaren rebranded. Their new logo looks like a Parisian fashion house. It was inspired by a gas station.",
-      "story": "On September 22, 2026, McLaren unveiled a unified brand identity for Racing and Automotive built around a new wordmark inspired by 1920s lettering above the McLaren family service station in Auckland — which critics immediately noted looks more like Chanel or Louis Vuitton than a supercar brand.",
-      "why_funny": "A Formula 1 team and supercar company looked deep into their heritage and emerged with: gas station chic.",
-      "alt": "A gleaming teal-blue McLaren 720S Spider supercar with its distinctive dihedral scissor door fully raised, on display at a Sotheby's auction preview in Hong Kong",
-      "source": "https://www.planetf1.com/news/mclaren-new-logo-2026",
-      "credit": "Horzhenung Tadiae Sotaod / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-09-23-a"
+      "tagline": "The $2.1B stadium where 'obstructed view' is a design feature",
+      "story": "Buffalo's new $2.1B Highmark Stadium opened in 2026 with hundreds of seats blocked by safety railings; after viral complaints, the architect insisted the obstructed views are intentional, not a design flaw.",
+      "why_funny": "The architect's defence — 'You will find some level of obstruction in every stadium in the world' — is the classic 'it's a feature, not a bug' for a $2.1B construction project.",
+      "alt": "Interior wide shot of the new Buffalo Bills Highmark Stadium packed with fans during a football event",
+      "source": "https://bleacherreport.com/articles/25470074-bills-respond-viral-photos-seats-obstructed-views-new-highmark-stadium",
+      "credit": "AP / Bleacher Report",
+      "license": "editorial — © AP",
+      "key": "2026-09-24-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Trump told the UN that AI is now called 'super intelligence' — that wasn't one of the options in his own poll",
-      "story": "At the UN General Assembly on September 22, 2026, President Trump announced the US would rename 'artificial intelligence' to 'super intelligence' in all government documents — ignoring the three renaming choices (Superior, Extreme, or Supreme Intelligence) he had asked his Truth Social followers to vote on just days earlier.",
-      "why_funny": "He crowdsourced three name options, picked none of them, and announced the fourth to the entire world at the UN.",
-      "alt": "Wide shot of the United Nations General Assembly hall in New York packed with world leaders and delegates, with Trump visible at the podium and on the large video screens above",
-      "source": "https://thehill.com/homenews/administration/6104142-trump-renames-ai-super-intelligence/",
-      "credit": "AP / The Week In",
-      "license": "editorial — © AP",
-      "key": "2026-09-23-b"
+      "tagline": "$499 to livestream your own cavities — 661 engineers, 6 years",
+      "story": "Dyson's September 2026 CameraJet is a $499 electric toothbrush with a built-in Wi-Fi camera that streams live footage of your molars to your phone; it took six years and 661 engineers to build.",
+      "why_funny": "Dyson rebranded a dental endoscope as a toothbrush, filed 38 patents, and expected the public to pay $499 to watch their own teeth in real time.",
+      "alt": "Person holding the Dyson CameraJet electric toothbrush with its built-in camera visible near the brush head",
+      "source": "https://www.techradar.com/health-fitness/oral-health/dyson-camerajet-review",
+      "credit": "TechRadar / Future plc",
+      "license": "editorial — © TechRadar",
+      "key": "2026-09-24-b"
     }
   ]
 }
