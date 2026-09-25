@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "The $2.1B stadium where 'obstructed view' is a design feature",
-      "story": "Buffalo's new $2.1B Highmark Stadium opened in 2026 with hundreds of seats blocked by safety railings; after viral complaints, the architect insisted the obstructed views are intentional, not a design flaw.",
-      "why_funny": "The architect's defence — 'You will find some level of obstruction in every stadium in the world' — is the classic 'it's a feature, not a bug' for a $2.1B construction project.",
-      "alt": "Interior wide shot of the new Buffalo Bills Highmark Stadium packed with fans during a football event",
-      "source": "https://bleacherreport.com/articles/25470074-bills-respond-viral-photos-seats-obstructed-views-new-highmark-stadium",
-      "credit": "AP / Bleacher Report",
-      "license": "editorial — © AP",
-      "key": "2026-09-24-a"
+      "tagline": "Meta's big AI hardware vision: a keychain Tamagotchi, shipping maybe in December",
+      "story": "On September 23, 2026, Mark Zuckerberg unveiled the Muse Charm — a palm-sized keychain device with a tiny screen and fingerprint sensor for talking to Meta's Muse AI agent — which reviewers immediately compared to a 1990s Tamagotchi; the components aren't even finalised yet, and it won't ship until the holidays.",
+      "why_funny": "Meta's answer to 'what replaces the smartphone?' is a keychain you press to ask your AI something, and Zuckerberg announced it at a splashy event while admitting the components aren't done yet.",
+      "alt": "Mark Zuckerberg presenting the Meta Muse Charm — a small palm-sized device with a tiny screen — at the Meta Connect announcement event in September 2026",
+      "source": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
+      "credit": "Getty Images / TechCrunch",
+      "license": "editorial — © Getty Images",
+      "key": "2026-09-25-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "$499 to livestream your own cavities — 661 engineers, 6 years",
-      "story": "Dyson's September 2026 CameraJet is a $499 electric toothbrush with a built-in Wi-Fi camera that streams live footage of your molars to your phone; it took six years and 661 engineers to build.",
-      "why_funny": "Dyson rebranded a dental endoscope as a toothbrush, filed 38 patents, and expected the public to pay $499 to watch their own teeth in real time.",
-      "alt": "Person holding the Dyson CameraJet electric toothbrush with its built-in camera visible near the brush head",
-      "source": "https://www.techradar.com/health-fitness/oral-health/dyson-camerajet-review",
-      "credit": "TechRadar / Future plc",
-      "license": "editorial — © TechRadar",
-      "key": "2026-09-24-b"
+      "tagline": "Galway spent €28,000 on a new logo. It looks identical to a Belgian shelf company.",
+      "story": "Galway City Council unveiled a new lowercase 'g' logo on September 17, 2026 as part of a €28,000 'brand evolution' — only for the public to discover it is nearly identical to the logo of Gondella, a Belgian retail shelving company, as well as two other European brands; the Labour councillor said 'They've made a balls of it.'",
+      "why_funny": "The city paid a designer €28,000 to replace a beloved 40-year-old logo with one indistinguishable from a warehouse-fitting company, sparking a grassroots campaign where locals changed their profile photos to preserve the old design.",
+      "alt": "Irish publican Fergus McGinn standing in his McGinn's Hop House bar in Galway beside the beloved old Galway City Council 'G' logo — the 1980s design that the council's €28,000 rebrand replaced",
+      "source": "https://www.irishtimes.com/ireland/2026/09/22/splitting-the-g-people-galway-city-councils-efforts-to-rebrand-divide-and-backfire/",
+      "credit": "Joe O'Shaughnessy / The Irish Times",
+      "license": "editorial — © The Irish Times",
+      "key": "2026-09-25-b"
     }
   ]
 }
