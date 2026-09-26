@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Meta's big AI hardware vision: a keychain Tamagotchi, shipping maybe in December",
-      "story": "On September 23, 2026, Mark Zuckerberg unveiled the Muse Charm — a palm-sized keychain device with a tiny screen and fingerprint sensor for talking to Meta's Muse AI agent — which reviewers immediately compared to a 1990s Tamagotchi; the components aren't even finalised yet, and it won't ship until the holidays.",
-      "why_funny": "Meta's answer to 'what replaces the smartphone?' is a keychain you press to ask your AI something, and Zuckerberg announced it at a splashy event while admitting the components aren't done yet.",
-      "alt": "Mark Zuckerberg presenting the Meta Muse Charm — a small palm-sized device with a tiny screen — at the Meta Connect announcement event in September 2026",
-      "source": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent/",
-      "credit": "Getty Images / TechCrunch",
-      "license": "editorial — © Getty Images",
-      "key": "2026-09-25-a"
+      "tagline": "Samsung's AI fridge plays music, suggests recipes, and ruins Chuseok dinner",
+      "story": "A botched SmartThings firmware update on September 22, 2026 bricked Samsung Bespoke AI 4-Door refrigerators across South Korea just days before Chuseok — cooling failed entirely, screens went dark, and owners who paid ~$4,000 for fridges with recipe AI and music playback had to discard holiday food while awaiting in-person technician visits scheduled for after the holiday.",
+      "why_funny": "Samsung spent years adding AI, recipe suggestions, and music streaming to a century-old reliable appliance, then a software update stripped out the one thing a fridge absolutely must do: stay cold.",
+      "alt": "A Samsung smart refrigerator with a large touchscreen display panel built into the front door, showing the connected-appliance interface that turned a fridge into a software dependency",
+      "source": "https://futurism.com/artificial-intelligence/software-update-samsung-ai-fridges-useless-bricks",
+      "credit": "Eliseandchai / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-09-26-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "Galway spent €28,000 on a new logo. It looks identical to a Belgian shelf company.",
-      "story": "Galway City Council unveiled a new lowercase 'g' logo on September 17, 2026 as part of a €28,000 'brand evolution' — only for the public to discover it is nearly identical to the logo of Gondella, a Belgian retail shelving company, as well as two other European brands; the Labour councillor said 'They've made a balls of it.'",
-      "why_funny": "The city paid a designer €28,000 to replace a beloved 40-year-old logo with one indistinguishable from a warehouse-fitting company, sparking a grassroots campaign where locals changed their profile photos to preserve the old design.",
-      "alt": "Irish publican Fergus McGinn standing in his McGinn's Hop House bar in Galway beside the beloved old Galway City Council 'G' logo — the 1980s design that the council's €28,000 rebrand replaced",
-      "source": "https://www.irishtimes.com/ireland/2026/09/22/splitting-the-g-people-galway-city-councils-efforts-to-rebrand-divide-and-backfire/",
-      "credit": "Joe O'Shaughnessy / The Irish Times",
-      "license": "editorial — © The Irish Times",
-      "key": "2026-09-25-b"
+      "file": "candidate-b.png",
+      "tagline": "Thieves stole trailers branded with Nvidia. Inside: 20 tons of sand.",
+      "story": "On September 24, 2026, thieves stole two trailers from PlusAI's autonomous-trucking warehouse in Fremont, California, drawn by the prominent Nvidia branding and convinced they'd scored a fortune in AI chips; the trailers contained 20 tons of sand used to simulate freight loads during self-driving truck testing — the thieves abandoned both rigs just four miles away.",
+      "why_funny": "Slapping the world's hottest AI brand on a truck full of sand fooled actual criminals into committing a heist for construction materials — the most expensive-looking 20 tons of quartz in Silicon Valley.",
+      "alt": "A white semi-truck trailer bearing PlusAI and Nvidia co-branding parked in front of a glass office building — the truck the thieves stole, expecting AI hardware",
+      "source": "https://sfstandard.com/2026/09/25/plusai-autonomous-trucking-trailers-stolen-fremont/",
+      "credit": "SF Standard / PlusAI",
+      "license": "editorial — © SF Standard / PlusAI",
+      "key": "2026-09-26-b"
     }
   ]
 }
