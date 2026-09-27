@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Samsung's AI fridge plays music, suggests recipes, and ruins Chuseok dinner",
-      "story": "A botched SmartThings firmware update on September 22, 2026 bricked Samsung Bespoke AI 4-Door refrigerators across South Korea just days before Chuseok — cooling failed entirely, screens went dark, and owners who paid ~$4,000 for fridges with recipe AI and music playback had to discard holiday food while awaiting in-person technician visits scheduled for after the holiday.",
-      "why_funny": "Samsung spent years adding AI, recipe suggestions, and music streaming to a century-old reliable appliance, then a software update stripped out the one thing a fridge absolutely must do: stay cold.",
-      "alt": "A Samsung smart refrigerator with a large touchscreen display panel built into the front door, showing the connected-appliance interface that turned a fridge into a software dependency",
-      "source": "https://futurism.com/artificial-intelligence/software-update-samsung-ai-fridges-useless-bricks",
-      "credit": "Eliseandchai / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-09-26-a"
+      "tagline": "\"Finally U vs J\" — boxing's biggest fight, ruined by typography",
+      "story": "The official promotional poster for the long-awaited Tyson Fury vs Anthony Joshua fight accidentally reads 'finally U vs J' due to vertical placement of the fighters' shortened names, drawing F-grade mockery from graphic designers worldwide.",
+      "why_funny": "The most hyped boxing match announcement of 2026 shipped a promotional poster that doesn't actually name the right fighters — just whoever 'U' and 'J' are.",
+      "alt": "Promotional boxing poster with 'FINALLY' in large bold text and the fighters' names arranged vertically so they read as 'U vs J' instead of Fury vs AJ",
+      "source": "https://www.creativebloq.com/design/poster-design/new-tyson-fury-vs-anthony-joshua-poster-features-graphic-design-fail",
+      "credit": "freeyork.org",
+      "license": "editorial — © freeyork.org",
+      "key": "2026-09-27-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.png",
-      "tagline": "Thieves stole trailers branded with Nvidia. Inside: 20 tons of sand.",
-      "story": "On September 24, 2026, thieves stole two trailers from PlusAI's autonomous-trucking warehouse in Fremont, California, drawn by the prominent Nvidia branding and convinced they'd scored a fortune in AI chips; the trailers contained 20 tons of sand used to simulate freight loads during self-driving truck testing — the thieves abandoned both rigs just four miles away.",
-      "why_funny": "Slapping the world's hottest AI brand on a truck full of sand fooled actual criminals into committing a heist for construction materials — the most expensive-looking 20 tons of quartz in Silicon Valley.",
-      "alt": "A white semi-truck trailer bearing PlusAI and Nvidia co-branding parked in front of a glass office building — the truck the thieves stole, expecting AI hardware",
-      "source": "https://sfstandard.com/2026/09/25/plusai-autonomous-trucking-trailers-stolen-fremont/",
-      "credit": "SF Standard / PlusAI",
-      "license": "editorial — © SF Standard / PlusAI",
-      "key": "2026-09-26-b"
+      "file": "candidate-b.jpg",
+      "tagline": "Apple, the anti-ad company, added a permanent unskippable ad to iPhone Settings",
+      "story": "Apple began embedding persistent promotional banners in the iPhone Settings app in iOS that cannot be dismissed, with a red notification badge making sales pitches for iCloud+ indistinguishable from urgent security warnings — even for users already subscribed.",
+      "why_funny": "Apple built its brand on mocking Google's ad-driven model, then added undismissable ads disguised as security alerts to the most 'trusted' screen on its own phone.",
+      "alt": "iPhone Settings app showing a persistent promotional banner with a red notification badge pushing iCloud+ subscription upgrades",
+      "source": "https://www.gadgetreview.com/apple-has-added-persistent-ads-to-ios-and-users-are-not-happy-about-it",
+      "credit": "Gadget Review",
+      "license": "editorial — © Gadget Review",
+      "key": "2026-09-27-b"
     }
   ]
 }
