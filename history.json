@@ -1,6 +1,17 @@
 {
-  "count": 114,
+  "count": 115,
   "photos": [
+    {
+      "date": "2026-09-26",
+      "alt": "A Samsung smart refrigerator with a large touchscreen display panel built into the front door, showing the connected-appliance interface that turned a fridge into a software dependency",
+      "source": "https://futurism.com/artificial-intelligence/software-update-samsung-ai-fridges-useless-bricks",
+      "credit": "Eliseandchai / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "story": "A botched SmartThings firmware update on September 22, 2026 bricked Samsung Bespoke AI 4-Door refrigerators across South Korea just days before Chuseok \u2014 cooling failed entirely, screens went dark, and owners who paid ~$4,000 for fridges with recipe AI and music playback had to discard holiday food while awaiting in-person technician visits scheduled for after the holiday.",
+      "why_funny": "Samsung spent years adding AI, recipe suggestions, and music streaming to a century-old reliable appliance, then a software update stripped out the one thing a fridge absolutely must do: stay cold.",
+      "id": "59bf0cecc9",
+      "file": "archive/2026-09-26-59bf0cecc9.jpg"
+    },
     {
       "date": "2026-09-25",
       "alt": "Mark Zuckerberg presenting the Meta Muse Charm \u2014 a small palm-sized device with a tiny screen \u2014 at the Meta Connect announcement event in September 2026",
