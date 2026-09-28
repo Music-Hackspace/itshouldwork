@@ -1,6 +1,17 @@
 {
-  "count": 115,
+  "count": 116,
   "photos": [
+    {
+      "date": "2026-09-27",
+      "alt": "iPhone Settings app showing a persistent promotional banner with a red notification badge pushing iCloud+ subscription upgrades",
+      "source": "https://www.gadgetreview.com/apple-has-added-persistent-ads-to-ios-and-users-are-not-happy-about-it",
+      "credit": "Gadget Review",
+      "license": "editorial \u2014 \u00a9 Gadget Review",
+      "story": "Apple began embedding persistent promotional banners in the iPhone Settings app in iOS that cannot be dismissed, with a red notification badge making sales pitches for iCloud+ indistinguishable from urgent security warnings \u2014 even for users already subscribed.",
+      "why_funny": "Apple built its brand on mocking Google's ad-driven model, then added undismissable ads disguised as security alerts to the most 'trusted' screen on its own phone.",
+      "id": "420b2e97c2",
+      "file": "archive/2026-09-27-420b2e97c2.jpg"
+    },
     {
       "date": "2026-09-26",
       "alt": "A Samsung smart refrigerator with a large touchscreen display panel built into the front door, showing the connected-appliance interface that turned a fridge into a software dependency",
