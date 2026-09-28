@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-27",
+  "date": "2026-09-28",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "\"Finally U vs J\" — boxing's biggest fight, ruined by typography",
-      "story": "The official promotional poster for the long-awaited Tyson Fury vs Anthony Joshua fight accidentally reads 'finally U vs J' due to vertical placement of the fighters' shortened names, drawing F-grade mockery from graphic designers worldwide.",
-      "why_funny": "The most hyped boxing match announcement of 2026 shipped a promotional poster that doesn't actually name the right fighters — just whoever 'U' and 'J' are.",
-      "alt": "Promotional boxing poster with 'FINALLY' in large bold text and the fighters' names arranged vertically so they read as 'U vs J' instead of Fury vs AJ",
-      "source": "https://www.creativebloq.com/design/poster-design/new-tyson-fury-vs-anthony-joshua-poster-features-graphic-design-fail",
-      "credit": "freeyork.org",
-      "license": "editorial — © freeyork.org",
-      "key": "2026-09-27-a"
+      "tagline": "Co-op horror game ships key art that reads as 'Anus'",
+      "story": "Engawa Games revealed the Steam key art for their co-op horror game 'In Us' with a stylized font where the 'I' and 'n' merge so tightly that the title reads unmistakably as 'Anus', earning it the unofficial 'Most Unfortunate Artwork of the Year' award.",
+      "why_funny": "A serious, atmospheric horror game about exorcising demons accidentally made its own logo the demon.",
+      "alt": "Four hooded bird-masked exorcist characters stand before a glowing stained-glass window, with the game's title logo 'In Us' appearing to spell 'Anus' due to tight kerning",
+      "source": "https://www.creativebloq.com/design/fonts-typography/is-this-the-worst-typography-cockup-of-2026",
+      "credit": "Creative Bloq / Engawa Games",
+      "license": "editorial — © Creative Bloq",
+      "key": "2026-09-28-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Apple, the anti-ad company, added a permanent unskippable ad to iPhone Settings",
-      "story": "Apple began embedding persistent promotional banners in the iPhone Settings app in iOS that cannot be dismissed, with a red notification badge making sales pitches for iCloud+ indistinguishable from urgent security warnings — even for users already subscribed.",
-      "why_funny": "Apple built its brand on mocking Google's ad-driven model, then added undismissable ads disguised as security alerts to the most 'trusted' screen on its own phone.",
-      "alt": "iPhone Settings app showing a persistent promotional banner with a red notification badge pushing iCloud+ subscription upgrades",
-      "source": "https://www.gadgetreview.com/apple-has-added-persistent-ads-to-ios-and-users-are-not-happy-about-it",
-      "credit": "Gadget Review",
-      "license": "editorial — © Gadget Review",
-      "key": "2026-09-27-b"
+      "tagline": "Apple's macOS 27 wallpaper contains a building that cannot physically exist",
+      "story": "Apple's default Golden Gate Bridge live wallpaper for macOS 27 has a VFX masking error where a brick-walled building overlaps a foreground rock in a physically impossible way, turning Apple's 'it just works' promise into an internet detective mystery.",
+      "why_funny": "The company that prides itself on obsessive attention to detail shipped an OS wallpaper with a glitched building that defies the laws of physics.",
+      "alt": "The Golden Gate Bridge under a vivid sunset sky, with a section near the foreground where a brick building edge impossibly overlaps a rock closer to the camera",
+      "source": "https://freeyork.org/technology/macos-27-wallpaper-flaw-macos-golden-gate-wallpape/",
+      "credit": "freeyork.org",
+      "license": "editorial — © freeyork.org",
+      "key": "2026-09-28-b"
     }
   ]
 }
