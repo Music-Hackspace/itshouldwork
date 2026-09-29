@@ -1,10 +1,10 @@
 {
   "file": "photo.jpg",
-  "date": "2026-09-27",
-  "alt": "iPhone Settings app showing a persistent promotional banner with a red notification badge pushing iCloud+ subscription upgrades",
-  "source": "https://www.gadgetreview.com/apple-has-added-persistent-ads-to-ios-and-users-are-not-happy-about-it",
-  "credit": "Gadget Review",
-  "license": "editorial \u2014 \u00a9 Gadget Review",
-  "story": "Apple began embedding persistent promotional banners in the iPhone Settings app in iOS that cannot be dismissed, with a red notification badge making sales pitches for iCloud+ indistinguishable from urgent security warnings \u2014 even for users already subscribed.",
-  "why_funny": "Apple built its brand on mocking Google's ad-driven model, then added undismissable ads disguised as security alerts to the most 'trusted' screen on its own phone."
+  "date": "2026-09-28",
+  "alt": "The Golden Gate Bridge under a vivid sunset sky, with a section near the foreground where a brick building edge impossibly overlaps a rock closer to the camera",
+  "source": "https://freeyork.org/technology/macos-27-wallpaper-flaw-macos-golden-gate-wallpape/",
+  "credit": "freeyork.org",
+  "license": "editorial \u2014 \u00a9 freeyork.org",
+  "story": "Apple's default Golden Gate Bridge live wallpaper for macOS 27 has a VFX masking error where a brick-walled building overlaps a foreground rock in a physically impossible way, turning Apple's 'it just works' promise into an internet detective mystery.",
+  "why_funny": "The company that prides itself on obsessive attention to detail shipped an OS wallpaper with a glitched building that defies the laws of physics."
 }
