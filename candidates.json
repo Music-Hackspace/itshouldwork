@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Co-op horror game ships key art that reads as 'Anus'",
-      "story": "Engawa Games revealed the Steam key art for their co-op horror game 'In Us' with a stylized font where the 'I' and 'n' merge so tightly that the title reads unmistakably as 'Anus', earning it the unofficial 'Most Unfortunate Artwork of the Year' award.",
-      "why_funny": "A serious, atmospheric horror game about exorcising demons accidentally made its own logo the demon.",
-      "alt": "Four hooded bird-masked exorcist characters stand before a glowing stained-glass window, with the game's title logo 'In Us' appearing to spell 'Anus' due to tight kerning",
-      "source": "https://www.creativebloq.com/design/fonts-typography/is-this-the-worst-typography-cockup-of-2026",
-      "credit": "Creative Bloq / Engawa Games",
-      "license": "editorial — © Creative Bloq",
-      "key": "2026-09-28-a"
+      "tagline": "Two boxing legends finally fight — the poster promotes 'U vs J'",
+      "story": "The official promotional poster for Tyson Fury vs Anthony Joshua, unveiled September 26, 2026, stacked 'Fury' and 'AJ' vertically alongside 'Finally' in a layout that reads unmistakably as 'Finally U vs J' — promptly awarded an F grade by designers and fans.",
+      "why_funny": "After years of negotiations to get two boxing legends in the same ring, the poster accidentally promoted a fight between two people named U and J.",
+      "alt": "Official Tyson Fury vs Anthony Joshua promotional boxing poster with 'Finally', 'Fury' and 'AJ' arranged vertically so the layout reads as 'Finally U vs J'",
+      "source": "https://www.creativebloq.com/design/poster-design/new-tyson-fury-vs-anthony-joshua-poster-features-graphic-design-fail",
+      "credit": "Creative Bloq / fight promoters",
+      "license": "editorial — © fight promoters",
+      "key": "2026-09-29-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Apple's macOS 27 wallpaper contains a building that cannot physically exist",
-      "story": "Apple's default Golden Gate Bridge live wallpaper for macOS 27 has a VFX masking error where a brick-walled building overlaps a foreground rock in a physically impossible way, turning Apple's 'it just works' promise into an internet detective mystery.",
-      "why_funny": "The company that prides itself on obsessive attention to detail shipped an OS wallpaper with a glitched building that defies the laws of physics.",
-      "alt": "The Golden Gate Bridge under a vivid sunset sky, with a section near the foreground where a brick building edge impossibly overlaps a rock closer to the camera",
-      "source": "https://freeyork.org/technology/macos-27-wallpaper-flaw-macos-golden-gate-wallpape/",
-      "credit": "freeyork.org",
-      "license": "editorial — © freeyork.org",
-      "key": "2026-09-28-b"
+      "tagline": "Ontario spent millions building bike lanes. Now paying millions to un-build them.",
+      "story": "Ontario Premier Doug Ford issued a 110-page request for proposals on September 28, 2026, to remove 19 kilometres of protected bike lanes from Toronto's busiest streets — with bids due November 2026 and a first milestone deadline of April 1, 2027.",
+      "why_funny": "The government answered demands to keep the pandemic-era lanes by formally contracting to dig up the same streets all over again, then scheduled the 'alternative routes' deadline on April Fools' Day.",
+      "alt": "Protected bike lane with green painted markings on Bloor Street in Toronto, with cyclists riding in the dedicated lane alongside parked cars",
+      "source": "https://spacing.ca/toronto/2026/09/28/exclusive-inside-the-contract-to-rip-out-torontos-bike-lanes/",
+      "credit": "Dillan Payne / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "key": "2026-09-29-b"
     }
   ]
 }
