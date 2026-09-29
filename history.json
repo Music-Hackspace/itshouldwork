@@ -1,6 +1,17 @@
 {
-  "count": 116,
+  "count": 117,
   "photos": [
+    {
+      "date": "2026-09-28",
+      "alt": "The Golden Gate Bridge under a vivid sunset sky, with a section near the foreground where a brick building edge impossibly overlaps a rock closer to the camera",
+      "source": "https://freeyork.org/technology/macos-27-wallpaper-flaw-macos-golden-gate-wallpape/",
+      "credit": "freeyork.org",
+      "license": "editorial \u2014 \u00a9 freeyork.org",
+      "story": "Apple's default Golden Gate Bridge live wallpaper for macOS 27 has a VFX masking error where a brick-walled building overlaps a foreground rock in a physically impossible way, turning Apple's 'it just works' promise into an internet detective mystery.",
+      "why_funny": "The company that prides itself on obsessive attention to detail shipped an OS wallpaper with a glitched building that defies the laws of physics.",
+      "id": "0b5d924f45",
+      "file": "archive/2026-09-28-0b5d924f45.jpg"
+    },
     {
       "date": "2026-09-27",
       "alt": "iPhone Settings app showing a persistent promotional banner with a red notification badge pushing iCloud+ subscription upgrades",
