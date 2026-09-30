@@ -1,30 +1,30 @@
 {
-  "date": "2026-09-29",
+  "date": "2026-09-30",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Two boxing legends finally fight — the poster promotes 'U vs J'",
-      "story": "The official promotional poster for Tyson Fury vs Anthony Joshua, unveiled September 26, 2026, stacked 'Fury' and 'AJ' vertically alongside 'Finally' in a layout that reads unmistakably as 'Finally U vs J' — promptly awarded an F grade by designers and fans.",
-      "why_funny": "After years of negotiations to get two boxing legends in the same ring, the poster accidentally promoted a fight between two people named U and J.",
-      "alt": "Official Tyson Fury vs Anthony Joshua promotional boxing poster with 'Finally', 'Fury' and 'AJ' arranged vertically so the layout reads as 'Finally U vs J'",
-      "source": "https://www.creativebloq.com/design/poster-design/new-tyson-fury-vs-anthony-joshua-poster-features-graphic-design-fail",
-      "credit": "Creative Bloq / fight promoters",
-      "license": "editorial — © fight promoters",
-      "key": "2026-09-29-a"
+      "tagline": "Galway spent €28,000 on a 'g' that looks like a Belgian shopfitter",
+      "story": "Galway City Council replaced its beloved 1984 capital 'G' logo with a generic lowercase 'g' for €28,000 — which the public immediately identified as nearly identical to a Belgian shopfitting company's brand — and councillors met today to vote on whether to scrap it.",
+      "why_funny": "The city paid a branding agency €28,000 to produce something so generic it was already taken by a European shopfitter, while citizens erected 'Keep the G' protest flags around the city.",
+      "alt": "Galway City Council's new brand identity displayed on a large outdoor hoarding, showing the new maroon lowercase 'g' logo on a maroon stripe alongside 'Comhairle Cathrach na Gaillimhe / Galway City Council' text and circular photos of Galway harbour and cathedral",
+      "source": "https://www.rte.ie/news/regional/2026/0930/1593472-galway-branding/",
+      "credit": "RTÉ / Galway City Council",
+      "license": "editorial — © RTÉ",
+      "key": "2026-09-30-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "Ontario spent millions building bike lanes. Now paying millions to un-build them.",
-      "story": "Ontario Premier Doug Ford issued a 110-page request for proposals on September 28, 2026, to remove 19 kilometres of protected bike lanes from Toronto's busiest streets — with bids due November 2026 and a first milestone deadline of April 1, 2027.",
-      "why_funny": "The government answered demands to keep the pandemic-era lanes by formally contracting to dig up the same streets all over again, then scheduled the 'alternative routes' deadline on April Fools' Day.",
-      "alt": "Protected bike lane with green painted markings on Bloor Street in Toronto, with cyclists riding in the dedicated lane alongside parked cars",
-      "source": "https://spacing.ca/toronto/2026/09/28/exclusive-inside-the-contract-to-rip-out-torontos-bike-lanes/",
-      "credit": "Dillan Payne / Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "key": "2026-09-29-b"
+      "file": "candidate-b.webp",
+      "tagline": "Ferrari designed a car so sleek there was literally no room for windshield wipers",
+      "story": "Ferrari's Jony Ive-designed Luce EV has a cowl so aerodynamically low there is no gutter for wiper blades, forcing Ferrari to file a patent for a new electromagnetic sliding wiper system — because they optimised the car's lines until rain became an engineering emergency.",
+      "why_funny": "Ferrari spent years perfecting every curve of the Luce, then had to reinvent one of the oldest automotive components because nowhere on their beautiful car could traditional windshield wipers actually go.",
+      "alt": "Baby blue Ferrari Luce EV photographed in three-quarter front view, showing the car's unusually low cowl and windshield wiper blades positioned vertically along the A-pillars rather than resting flat along the bottom of the windshield",
+      "source": "https://www.thedrive.com/news/the-ferrari-luce-had-to-reinvent-the-windshield-wiper-because-its-design-left-them-nowhere-to-go",
+      "credit": "Ferrari / SupercarBlondie",
+      "license": "editorial — © Ferrari",
+      "key": "2026-09-30-b"
     }
   ]
 }
