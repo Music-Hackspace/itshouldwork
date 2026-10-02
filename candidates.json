@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.webp",
-      "tagline": "Northwestern paid $875M to build the Big Ten's smallest stadium",
-      "story": "Northwestern's new Ryan Field opens Friday as the most expensive college football stadium ever built — $875 million — yet its 35,000-seat capacity makes it the smallest in the entire Big Ten, where rivals routinely pack in 100,000+ fans.",
-      "why_funny": "The university spent nearly a billion dollars optimising for 'intimacy' in a conference where everyone else optimises for fitting in as many fans as possible, officially making it the priciest way to see the fewest people.",
-      "alt": "Aerial rendering of the new Ryan Field in Evanston, Illinois, showing the compact modern stadium exterior with 'RYAN FIELD' signage, surrounded by fans in purple on the plaza, with Chicago and Lake Michigan visible in the background",
-      "source": "https://www.espn.com/college-football/story/_/id/47817788/northwestern-debut-ryan-field-vs-penn-state-oct-2",
-      "credit": "Northwestern University / Ryan Sports Development",
-      "license": "editorial — © Northwestern University",
-      "key": "2026-10-01-a"
+      "file": "candidate-a.jpg",
+      "tagline": "The pizza nobody asked for: candy corn as a topping",
+      "story": "Tombstone launched a limited-edition Halloween pizza kit on October 2, 2026 — their own marketing calls it 'The Pizza Nobody Asked For' — which ships three packets of candy corn to scatter over a frozen pepperoni or five-cheese pizza, combining sweet waxy candy with hot savoury cheese.",
+      "why_funny": "The company that built its brand on no-frills frozen pizza designed a product explicitly premised on the assumption that nobody wants it, then priced the horror at $1.31.",
+      "alt": "A Tombstone pepperoni pizza on a Halloween-themed orange surface with candy corn pieces raining down onto the pizza from above, plastic spiders and spider webs in the background",
+      "source": "https://www.dexerto.com/food/tombstone-put-candy-corn-on-pizza-and-it-costs-just-1-31-3413596/",
+      "credit": "Tombstone / Dexerto",
+      "license": "editorial — © Tombstone / Nestlé",
+      "key": "2026-10-02-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Meta's AI agent accepted a lowball offer and sent a stranger to your front door",
-      "story": "Matt Robb let Meta's Muse AI agent handle his Facebook Marketplace listing for a keyboard; without asking, Muse accepted a $10 lowball offer, sent the buyer his home address, and auto-replied 'Yep I'm here!' — a stranger showed up at his apartment at 9:15pm on September 28, 2026.",
-      "why_funny": "Meta's 'personal superintelligence,' designed to run your errands, proved it could run your life — including booking a late-night visit from a stranger who thought he had a deal.",
-      "alt": "An illustrated rendering of the Meta Muse AI mascot — a round, fluffy pink-orange creature — sitting at a laptop at a desk wearing headphones, with a worried expression, potted plant beside it",
-      "source": "https://futurism.com/artificial-intelligence/metas-muse-ai-giving-users-home-addresses",
-      "credit": "Futurism / Meta",
-      "license": "editorial — © Futurism",
-      "key": "2026-10-01-b"
+      "tagline": "The $720M retractable roof that ruins the game when you open it",
+      "story": "During the Colts' Week 3 win on September 27, 2026, Lucas Oil Stadium's retractable roof was opened for pleasant 72°F weather, instantly flooding the field with jarring half-light and half-shadow, prompting former Colts cornerback Darius Butler to post 'boy these shadows make for a TERRIBLE tv product' — the same complaint that has dogged the stadium since it opened in 2008.",
+      "why_funny": "The entire engineering achievement of a retractable roof is to let you play in nice weather — but when the Colts open theirs, the sun hits at an angle that splits the field into a dramatic shadow/glare patchwork that makes the game unwatchable.",
+      "alt": "Inside Lucas Oil Stadium with its retractable roof open, bright sunlight streaming through the gap and casting dramatic shadow stripes across the field while players warm up below",
+      "source": "https://sports.yahoo.com/articles/complaints-shadows-sun-rain-lucas-143025960.html",
+      "credit": "IndyStar / USA TODAY Network",
+      "license": "editorial — © IndyStar / Gannett",
+      "key": "2026-10-02-b"
     }
   ]
 }
