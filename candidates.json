@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-02",
+  "date": "2026-10-03",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "The pizza nobody asked for: candy corn as a topping",
-      "story": "Tombstone launched a limited-edition Halloween pizza kit on October 2, 2026 — their own marketing calls it 'The Pizza Nobody Asked For' — which ships three packets of candy corn to scatter over a frozen pepperoni or five-cheese pizza, combining sweet waxy candy with hot savoury cheese.",
-      "why_funny": "The company that built its brand on no-frills frozen pizza designed a product explicitly premised on the assumption that nobody wants it, then priced the horror at $1.31.",
-      "alt": "A Tombstone pepperoni pizza on a Halloween-themed orange surface with candy corn pieces raining down onto the pizza from above, plastic spiders and spider webs in the background",
-      "source": "https://www.dexerto.com/food/tombstone-put-candy-corn-on-pizza-and-it-costs-just-1-31-3413596/",
-      "credit": "Tombstone / Dexerto",
-      "license": "editorial — © Tombstone / Nestlé",
-      "key": "2026-10-02-a"
+      "tagline": "The $895 camera that turns your phone back into a camera",
+      "story": "Huawei launched the Ruiying Z10 on October 1, 2026 — a $895, 346g camera module with a 1-inch sensor and 10x optical zoom that screws onto the Mate 90 Pro Max via a DSLR-style bayonet mount. The entire premise of smartphone photography was eliminating the need to carry a separate camera; the Z10 reverses that by bolting a lens bigger than many mirrorless bodies onto a phone.",
+      "why_funny": "The phone camera was supposed to replace your camera bag; Huawei's answer to 'how do we improve phone cameras?' is to turn your phone into a camera bag.",
+      "alt": "Huawei Mate 90 Pro Max with the Ruiying Z10 camera module screwed onto its back, the large zoom lens barrel extending far beyond the phone's slim profile",
+      "source": "https://9to5google.com/2026/10/01/huawei-mate-90-pro-max/",
+      "credit": "9to5Google / Huawei",
+      "license": "editorial — © 9to5Google / Huawei",
+      "key": "2026-10-03-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "The $720M retractable roof that ruins the game when you open it",
-      "story": "During the Colts' Week 3 win on September 27, 2026, Lucas Oil Stadium's retractable roof was opened for pleasant 72°F weather, instantly flooding the field with jarring half-light and half-shadow, prompting former Colts cornerback Darius Butler to post 'boy these shadows make for a TERRIBLE tv product' — the same complaint that has dogged the stadium since it opened in 2008.",
-      "why_funny": "The entire engineering achievement of a retractable roof is to let you play in nice weather — but when the Colts open theirs, the sun hits at an angle that splits the field into a dramatic shadow/glare patchwork that makes the game unwatchable.",
-      "alt": "Inside Lucas Oil Stadium with its retractable roof open, bright sunlight streaming through the gap and casting dramatic shadow stripes across the field while players warm up below",
-      "source": "https://sports.yahoo.com/articles/complaints-shadows-sun-rain-lucas-143025960.html",
-      "credit": "IndyStar / USA TODAY Network",
-      "license": "editorial — © IndyStar / Gannett",
-      "key": "2026-10-02-b"
+      "file": "candidate-b.webp",
+      "tagline": "OpenAI's $100/month AI agents look like Tamagotchis — and the demo froze",
+      "story": "On September 29, 2026, OpenAI unveiled 'Dots' at DevDay — always-on AI agents shaped like a cloud with a beret, a frog, a heart, and a triangle with glasses, priced at $100/month — but the flagship demo saw the agent 'Dottie' freeze completely for ten seconds when asked to summarise user testing, finally replying only that it was 'still checking.'",
+      "why_funny": "OpenAI spent years marketing AI as the future of productivity, then unveiled its always-on personal assistant as a collection of cute plush blob mascots that couldn't respond during their own debut.",
+      "alt": "Four colorful OpenAI Dots mascots: a blue cloud with a beret, a green frog, a yellow triangle wearing glasses, and a pink heart wearing sunglasses — the always-on AI agents compared by reviewers to 1990s Tamagotchi toys",
+      "source": "https://sfstandard.com/2026/09/29/openai-launches-dots/",
+      "credit": "SF Standard / OpenAI",
+      "license": "editorial — © SF Standard / OpenAI",
+      "key": "2026-10-03-b"
     }
   ]
 }
