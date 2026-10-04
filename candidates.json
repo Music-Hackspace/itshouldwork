@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "The $895 camera that turns your phone back into a camera",
-      "story": "Huawei launched the Ruiying Z10 on October 1, 2026 — a $895, 346g camera module with a 1-inch sensor and 10x optical zoom that screws onto the Mate 90 Pro Max via a DSLR-style bayonet mount. The entire premise of smartphone photography was eliminating the need to carry a separate camera; the Z10 reverses that by bolting a lens bigger than many mirrorless bodies onto a phone.",
-      "why_funny": "The phone camera was supposed to replace your camera bag; Huawei's answer to 'how do we improve phone cameras?' is to turn your phone into a camera bag.",
-      "alt": "Huawei Mate 90 Pro Max with the Ruiying Z10 camera module screwed onto its back, the large zoom lens barrel extending far beyond the phone's slim profile",
-      "source": "https://9to5google.com/2026/10/01/huawei-mate-90-pro-max/",
-      "credit": "9to5Google / Huawei",
-      "license": "editorial — © 9to5Google / Huawei",
-      "key": "2026-10-03-a"
+      "tagline": "Tesla's AI taxi drove on the wrong side of the road and dropped people off in intersections",
+      "story": "Tesla's Cybercab launched in Austin in September 2026 as a no-steering-wheel autonomous taxi with dramatic butterfly doors, but its rocky first month brought passenger reports of driving on the wrong side of the road, phantom braking, drop-offs in intersections, butterfly doors closing improperly — and the NHTSA opened an investigation.",
+      "why_funny": "Tesla promised a seamless autonomous future, then delivered a car that drives on the wrong side of the road and ejects passengers into intersections.",
+      "alt": "A sleek white Tesla Cybercab autonomous robotaxi parked on a San Francisco street in June 2026, showing its minimalist exterior with no visible steering wheel or outside door handles",
+      "source": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+      "credit": "9yz / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "key": "2026-10-04-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.webp",
-      "tagline": "OpenAI's $100/month AI agents look like Tamagotchis — and the demo froze",
-      "story": "On September 29, 2026, OpenAI unveiled 'Dots' at DevDay — always-on AI agents shaped like a cloud with a beret, a frog, a heart, and a triangle with glasses, priced at $100/month — but the flagship demo saw the agent 'Dottie' freeze completely for ten seconds when asked to summarise user testing, finally replying only that it was 'still checking.'",
-      "why_funny": "OpenAI spent years marketing AI as the future of productivity, then unveiled its always-on personal assistant as a collection of cute plush blob mascots that couldn't respond during their own debut.",
-      "alt": "Four colorful OpenAI Dots mascots: a blue cloud with a beret, a green frog, a yellow triangle wearing glasses, and a pink heart wearing sunglasses — the always-on AI agents compared by reviewers to 1990s Tamagotchi toys",
-      "source": "https://sfstandard.com/2026/09/29/openai-launches-dots/",
-      "credit": "SF Standard / OpenAI",
-      "license": "editorial — © SF Standard / OpenAI",
-      "key": "2026-10-03-b"
+      "file": "candidate-b.jpg",
+      "tagline": "Apple's 2026 smart home hub design innovation: a 2002 computer they discontinued 22 years ago",
+      "story": "Apple announced its long-awaited smart home hub for October 13, 2026, and the big design reveal is that it's a miniature version of the iMac G4 from 2002 — the same half-dome base, polished metal arm, and floating display that Apple used for a computer they stopped selling in 2004.",
+      "why_funny": "After years of promising to reinvent the smart home, Apple's breakthrough was to dig up a design they buried during the George W. Bush administration.",
+      "alt": "The Apple iMac G4 from 2002, with its iconic white half-dome base and flat-panel display floating on a polished metal arm — the same design Apple reportedly revived for its 2026 HomePad smart home hub",
+      "source": "https://9to5mac.com/2026/09/30/apples-homepad-smart-home-hub-launching-on-oct-13-bloomberg/",
+      "credit": "Felix Winkelnkemper / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "key": "2026-10-04-b"
     }
   ]
 }
