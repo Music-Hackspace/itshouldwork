@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Tesla's AI taxi drove on the wrong side of the road and dropped people off in intersections",
-      "story": "Tesla's Cybercab launched in Austin in September 2026 as a no-steering-wheel autonomous taxi with dramatic butterfly doors, but its rocky first month brought passenger reports of driving on the wrong side of the road, phantom braking, drop-offs in intersections, butterfly doors closing improperly — and the NHTSA opened an investigation.",
-      "why_funny": "Tesla promised a seamless autonomous future, then delivered a car that drives on the wrong side of the road and ejects passengers into intersections.",
-      "alt": "A sleek white Tesla Cybercab autonomous robotaxi parked on a San Francisco street in June 2026, showing its minimalist exterior with no visible steering wheel or outside door handles",
-      "source": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
-      "credit": "9yz / Wikimedia Commons",
-      "license": "CC BY 4.0",
-      "key": "2026-10-04-a"
+      "tagline": "Apple's priciest phone can't make calls — fix requires a whole new phone",
+      "story": "Apple's $1,299 iPhone 18 Pro Max has a hardware bug that permanently kills cellular service on AT&T networks; no software fix exists, so Apple is replacing every affected unit with an entirely new device.",
+      "why_funny": "A phone that physically cannot phone people is the platonic ideal of 'it should work' — and the solution is to throw the phone away.",
+      "alt": "Apple iPhone 18 Pro Max smartphone in black titanium finish",
+      "source": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+      "credit": "9to5Mac / Apple",
+      "license": "editorial — © Apple / 9to5Mac",
+      "key": "2026-10-05-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "Apple's 2026 smart home hub design innovation: a 2002 computer they discontinued 22 years ago",
-      "story": "Apple announced its long-awaited smart home hub for October 13, 2026, and the big design reveal is that it's a miniature version of the iMac G4 from 2002 — the same half-dome base, polished metal arm, and floating display that Apple used for a computer they stopped selling in 2004.",
-      "why_funny": "After years of promising to reinvent the smart home, Apple's breakthrough was to dig up a design they buried during the George W. Bush administration.",
-      "alt": "The Apple iMac G4 from 2002, with its iconic white half-dome base and flat-panel display floating on a polished metal arm — the same design Apple reportedly revived for its 2026 HomePad smart home hub",
-      "source": "https://9to5mac.com/2026/09/30/apples-homepad-smart-home-hub-launching-on-oct-13-bloomberg/",
-      "credit": "Felix Winkelnkemper / Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "key": "2026-10-04-b"
+      "file": "candidate-b.webp",
+      "tagline": "Olympics committee leaked their own logo reveal to YouTube 3 days early",
+      "story": "Brisbane 2032 Olympics organizers accidentally published their elaborate logo-reveal video on their own YouTube channel on Friday, ruining a months-long PR build-up — the emblem is a pink galah cockatoo, which in Australian slang means 'a fool'.",
+      "why_funny": "They chose a bird that Australians call a fool as their emblem, then immediately proved the point by fouling up their own reveal — the logo picked perfectly.",
+      "alt": "Pink galah cockatoo (rose-breasted cockatoo) perched on a branch, the species chosen as Brisbane 2032 Olympic emblem",
+      "source": "https://www.abc.net.au/news/2026-10-03/brisbane-2032-olympic-emblem-leaked-by-official-youtube-channel/107223880",
+      "credit": "rawpixel (CC0 1.0)",
+      "license": "CC0 1.0",
+      "key": "2026-10-05-b"
     }
   ]
 }
