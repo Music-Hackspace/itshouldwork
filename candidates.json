@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-05",
+  "date": "2026-10-06",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Apple's priciest phone can't make calls — fix requires a whole new phone",
-      "story": "Apple's $1,299 iPhone 18 Pro Max has a hardware bug that permanently kills cellular service on AT&T networks; no software fix exists, so Apple is replacing every affected unit with an entirely new device.",
-      "why_funny": "A phone that physically cannot phone people is the platonic ideal of 'it should work' — and the solution is to throw the phone away.",
-      "alt": "Apple iPhone 18 Pro Max smartphone in black titanium finish",
-      "source": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
-      "credit": "9to5Mac / Apple",
-      "license": "editorial — © Apple / 9to5Mac",
-      "key": "2026-10-05-a"
+      "tagline": "Tombstone put candy corn on pizza — they named it 'The Pizza Nobody Asked For'",
+      "story": "For Halloween 2026, Tombstone launched a $1.31 kit where you add candy corn to frozen pepperoni pizza — a product they marketed under the official name 'The Pizza Nobody Asked For,' with three limited online drops throughout October.",
+      "why_funny": "Tombstone essentially published its own one-star review as the product title and sold it anyway.",
+      "alt": "Pepperoni pizza topped with candy corn kernels on a dark surface, Tombstone's 2026 Halloween pizza kit alongside the box packaging",
+      "source": "https://totallythebomb.com/tombstone-candy-corn-pizza/",
+      "credit": "Tombstone Pizza / TotallyTheBomb.com",
+      "license": "editorial — © Tombstone/Kraft Heinz",
+      "key": "2026-10-06-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.webp",
-      "tagline": "Olympics committee leaked their own logo reveal to YouTube 3 days early",
-      "story": "Brisbane 2032 Olympics organizers accidentally published their elaborate logo-reveal video on their own YouTube channel on Friday, ruining a months-long PR build-up — the emblem is a pink galah cockatoo, which in Australian slang means 'a fool'.",
-      "why_funny": "They chose a bird that Australians call a fool as their emblem, then immediately proved the point by fouling up their own reveal — the logo picked perfectly.",
-      "alt": "Pink galah cockatoo (rose-breasted cockatoo) perched on a branch, the species chosen as Brisbane 2032 Olympic emblem",
-      "source": "https://www.abc.net.au/news/2026-10-03/brisbane-2032-olympic-emblem-leaked-by-official-youtube-channel/107223880",
-      "credit": "rawpixel (CC0 1.0)",
-      "license": "CC0 1.0",
-      "key": "2026-10-05-b"
+      "file": "candidate-b.jpg",
+      "tagline": "Russia's robot tank needed a human driver — then still got stuck in a ditch",
+      "story": "During Russia's Tsentr-2026 military exercise on October 3, the Shturm autonomous combat tank repeatedly lost its radio link with its control vehicle, so organisers put a human driver inside for the Putin demonstration — the opposite of the tank's entire purpose — whereupon it immediately became stuck nose-down in a muddy ditch.",
+      "why_funny": "Russia's answer to 'how do we field a tank without risking a soldier?' produced a vehicle that can't navigate a dirt track even with a human inside it.",
+      "alt": "Russia's Shturm robotic tank tilted nose-forward into a muddy ditch during the Tsentr-2026 military exercise, its front hull and tracks partially submerged in soft ground",
+      "source": "https://united24media.com/war-in-ukraine/russia-debuts-new-shturm-robotic-tank-it-loses-connection-and-gets-stuck-in-the-mud-23085",
+      "credit": "Open source footage via United24 Media",
+      "license": "editorial — open source social media screengrab",
+      "key": "2026-10-06-b"
     }
   ]
 }
