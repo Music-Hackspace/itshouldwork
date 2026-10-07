@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Tombstone put candy corn on pizza — they named it 'The Pizza Nobody Asked For'",
-      "story": "For Halloween 2026, Tombstone launched a $1.31 kit where you add candy corn to frozen pepperoni pizza — a product they marketed under the official name 'The Pizza Nobody Asked For,' with three limited online drops throughout October.",
-      "why_funny": "Tombstone essentially published its own one-star review as the product title and sold it anyway.",
-      "alt": "Pepperoni pizza topped with candy corn kernels on a dark surface, Tombstone's 2026 Halloween pizza kit alongside the box packaging",
-      "source": "https://totallythebomb.com/tombstone-candy-corn-pizza/",
-      "credit": "Tombstone Pizza / TotallyTheBomb.com",
-      "license": "editorial — © Tombstone/Kraft Heinz",
-      "key": "2026-10-06-a"
+      "tagline": "$500 toothbrush with a camera that regular toothpaste blinds",
+      "story": "Dyson launched a $499 AI toothbrush with a built-in camera that requires special non-foaming toothpaste because regular foam blinds the lens — then units immediately stopped working, prompting a stealth recall Dyson refuses to call a recall.",
+      "why_funny": "A vacuum-company toothbrush needs its own custom toothpaste recipe to avoid blinding its own camera, then breaks anyway.",
+      "alt": "Dyson CameraJet electric toothbrush in ceramic pink, a sleek high-tech device with a built-in camera in the handle",
+      "source": "https://beautymatter.com/articles/dyson-toothbrush-gate",
+      "credit": "Digital Camera World / Future Publishing",
+      "license": "editorial — © Digital Camera World/Future Publishing",
+      "key": "2026-10-07-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "Russia's robot tank needed a human driver — then still got stuck in a ditch",
-      "story": "During Russia's Tsentr-2026 military exercise on October 3, the Shturm autonomous combat tank repeatedly lost its radio link with its control vehicle, so organisers put a human driver inside for the Putin demonstration — the opposite of the tank's entire purpose — whereupon it immediately became stuck nose-down in a muddy ditch.",
-      "why_funny": "Russia's answer to 'how do we field a tank without risking a soldier?' produced a vehicle that can't navigate a dirt track even with a human inside it.",
-      "alt": "Russia's Shturm robotic tank tilted nose-forward into a muddy ditch during the Tsentr-2026 military exercise, its front hull and tracks partially submerged in soft ground",
-      "source": "https://united24media.com/war-in-ukraine/russia-debuts-new-shturm-robotic-tank-it-loses-connection-and-gets-stuck-in-the-mud-23085",
-      "credit": "Open source footage via United24 Media",
-      "license": "editorial — open source social media screengrab",
-      "key": "2026-10-06-b"
+      "file": "candidate-b.png",
+      "tagline": "McLaren's new logo is giving Marriott Bonvoy",
+      "story": "In September 2026, McLaren unveiled a new logo meant to honor its founder's 1920s garage sign — but the internet said it looks more like a hotel loyalty program than an F1 racing team.",
+      "why_funny": "A legendary race team traded their aggressive identity for a wordmark that makes people ask if they can use their points for a free night.",
+      "alt": "Side-by-side comparison of McLaren's old racing logo and the bland new 2026 wordmark redesign",
+      "source": "https://www.autonocion.com/us/mclaren-logo-reaction-suv/",
+      "credit": "Autonocion.com",
+      "license": "editorial — © Autonocion.com",
+      "key": "2026-10-07-b"
     }
   ]
 }
