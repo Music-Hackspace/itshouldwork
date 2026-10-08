@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "$500 toothbrush with a camera that regular toothpaste blinds",
-      "story": "Dyson launched a $499 AI toothbrush with a built-in camera that requires special non-foaming toothpaste because regular foam blinds the lens — then units immediately stopped working, prompting a stealth recall Dyson refuses to call a recall.",
-      "why_funny": "A vacuum-company toothbrush needs its own custom toothpaste recipe to avoid blinding its own camera, then breaks anyway.",
-      "alt": "Dyson CameraJet electric toothbrush in ceramic pink, a sleek high-tech device with a built-in camera in the handle",
-      "source": "https://beautymatter.com/articles/dyson-toothbrush-gate",
-      "credit": "Digital Camera World / Future Publishing",
-      "license": "editorial — © Digital Camera World/Future Publishing",
-      "key": "2026-10-07-a"
+      "file": "candidate-a.png",
+      "tagline": "The car brand that ran an ad with no cars just unveiled a £130,000 car",
+      "story": "Jaguar's 2024 'Copy Nothing' rebrand campaign showed no cars at all, sent European sales crashing 97.5%, and on 7 Oct 2026 the company finally unveiled the £130,000 Type 01 EV in New York.",
+      "why_funny": "A company that forgot to put cars in its own car commercial is now selling the most expensive car in its history.",
+      "alt": "Jaguar Type 01 electric GT on display at its New York reveal, a wide silver luxury car with sweeping lines",
+      "source": "https://www.techdigest.tv/2026/10/jaguar-unveils-130000-type-01-ev-following-rebrand-backlash.html",
+      "credit": "Tech Digest",
+      "license": "editorial — © Tech Digest",
+      "key": "2026-10-08-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.png",
-      "tagline": "McLaren's new logo is giving Marriott Bonvoy",
-      "story": "In September 2026, McLaren unveiled a new logo meant to honor its founder's 1920s garage sign — but the internet said it looks more like a hotel loyalty program than an F1 racing team.",
-      "why_funny": "A legendary race team traded their aggressive identity for a wordmark that makes people ask if they can use their points for a free night.",
-      "alt": "Side-by-side comparison of McLaren's old racing logo and the bland new 2026 wordmark redesign",
-      "source": "https://www.autonocion.com/us/mclaren-logo-reaction-suv/",
-      "credit": "Autonocion.com",
-      "license": "editorial — © Autonocion.com",
-      "key": "2026-10-07-b"
+      "file": "candidate-b.jpg",
+      "tagline": "Gatorade — famous for neon colors — forgot to list the yellow dye on 122,000 cases",
+      "story": "PepsiCo recalled 122,021 cases of Gatorade Lemon Lime and Orange on 5 Oct 2026 because the labels omitted Yellow No. 5 and Yellow No. 6, the dyes that give the drink its signature fluorescent color.",
+      "why_funny": "The one thing Gatorade is universally known for — its electric, eye-watering colors — was somehow left off the label.",
+      "alt": "Row of brightly colored Gatorade bottles on a store shelf, vivid yellows, oranges and greens",
+      "source": "https://www.wgcu.org/health/2026-10-05/pepsico-recalls-more-than-122-000-cases-of-gatorade-due-to-undeclared-yellow-dyes",
+      "credit": "Mike Mozart / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "key": "2026-10-08-b"
     }
   ]
 }
