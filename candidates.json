@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-10",
+  "date": "2026-10-11",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "Google Japan built a keyboard where the keys scroll to your fingers — firmware marked TBD",
-      "story": "Google Japan released an open-source concept keyboard where 116 keys ride on 4 continuous conveyor belts rotating toward the user's fingers so you never move your hand, but the firmware section for actually sending key presses to a computer is marked 'TBD.'",
-      "why_funny": "The solution to not wanting to move your fingers is an elaborate conveyor system — and it doesn't even fully work yet.",
-      "alt": "Blue keyboard with four rows of mechanical keys mounted on conveyor belts, a hand reaching toward the scrolling keys",
-      "source": "https://hackaday.com/2026/10/05/conveyor-belt-gboard-brings-the-keys-to-you/",
-      "credit": "Google Japan / Hackaday",
-      "license": "editorial — © Google Japan / Hackaday",
-      "key": "2026-10-10-a"
+      "file": "candidate-a.webp",
+      "tagline": "Amazon removed Kindle's buttons. Now sells you the buttons back for $35.",
+      "story": "Amazon discontinued the Kindle Oasis — its last e-reader with physical page-turn buttons — in 2024, saying 'all our devices are touch-forward which is what our customers are comfortable with'; then on October 1, 2026, launched the $34.99 Kindle Click Bluetooth remote and a $79.99 Page-Turn Cover with built-in physical buttons so readers can turn pages without touching their touchscreen Kindle.",
+      "why_funny": "The company that spent years removing buttons and insisting touchscreens were the future is now charging premium prices to sell the past back to you as optional accessories.",
+      "alt": "The Amazon Kindle Click, a small white Bluetooth remote with two round page-turn buttons, resting next to a new Amazon Kindle e-reader",
+      "source": "https://techcrunch.com/2026/10/01/amazon-introduces-kindle-click-a-35-remote-for-hands-free-reading/",
+      "credit": "Amazon / TechCrunch",
+      "license": "editorial — © Amazon / TechCrunch",
+      "key": "2026-10-11-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Every microwave has a Popcorn button. Every bag of microwave popcorn says don't use it.",
-      "story": "Hackaday surfaced why microwaves universally ship with a dedicated Popcorn button while every bag of microwave popcorn carries an explicit 'Do not use popcorn button' warning — because manufacturers implement it wildly differently, from a dumb timer to humidity sensors, so no popcorn maker can calibrate for all of them.",
-      "why_funny": "The Popcorn button was designed to make popcorn perfectly; it's so inconsistent that the product specifically made for it warns you never to use it.",
-      "alt": "Back of a ConAgra microwave popcorn bag with 'HELPFUL HINTS' section visibly reading 'Do not use popcorn button'",
-      "source": "https://hackaday.com/2026/10/10/why-every-microwave-has-a-popcorn-button-but-every-bag-warns-you-not-to-use-it/",
-      "credit": "Howcheng / Wikimedia Commons",
-      "license": "CC BY-SA 3.0",
-      "key": "2026-10-10-b"
+      "tagline": "$1.1 billion in 'nearly impossible to evade' NYC subway gates — they held an Olympics jumping over them.",
+      "story": "In January 2026, New York riders held a viral 'Fare Evasion Olympics' at the MTA's new prototype fare gates — a pole dancer, a parkour athlete, and a blindfolded man with a cane all slipped through — yet on October 7, 2026, Governor Hochul announced a $1.1 billion contract to expand the same gates to 150 more subway stations, describing them as 'nearly impossible to evade.'",
+      "why_funny": "The gates that spawned a competitive sport for bypassing them are now the centerpiece of a billion-dollar infrastructure rollout, still officially branded as 'nearly impossible' to get through.",
+      "alt": "New modern saloon-style sliding fare gates at a New York City subway station, with wide glass panels replacing traditional rotating turnstiles",
+      "source": "https://www.planetizen.com/news/2026/10/138621-mta-invests-11-billion-nearly-impossible-evade-fare-gates",
+      "credit": "Metropolitan Transportation Authority / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "key": "2026-10-11-b"
     }
   ]
 }
