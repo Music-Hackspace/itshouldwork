@@ -1,6 +1,17 @@
 {
-  "count": 130,
+  "count": 131,
   "photos": [
+    {
+      "date": "2026-10-12",
+      "alt": "2027 Ford Super Duty pickup truck showing the front hood and grille where the water-drain design flaw was located",
+      "source": "https://www.thedrive.com/news/ford-finally-addressed-a-costly-design-flaw-on-the-2027-super-duty",
+      "credit": "The Drive",
+      "license": "editorial \u2014 \u00a9 The Drive",
+      "story": "Ford's Super Duty trucks ship with a hood cowling that funnels rainwater through a hole directly above the fuse box; when the lid fails to seal (common), water destroys the electronics for a ~$700 repair \u2014 and the 2027 fix is a small plastic diverter that also retrofits 2023\u20132026 trucks as a $20 drop-in part.",
+      "why_funny": "Four model years to add a plastic rain deflector to stop the hood from acting as a precision irrigation system aimed at the most sensitive electronics in a $90,000 truck.",
+      "id": "8add5845b8",
+      "file": "archive/2026-10-12-8add5845b8.jpg"
+    },
     {
       "date": "2026-10-11",
       "alt": "New modern saloon-style sliding fare gates at a New York City subway station, with wide glass panels replacing traditional rotating turnstiles",
