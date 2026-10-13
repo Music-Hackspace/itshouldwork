@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "A $499 toothbrush with a built-in water jet — defeated by water",
-      "story": "Dyson launched the CameraJet in September 2026 — a $499 electric toothbrush with a miniature camera, AI brushing guidance, and a built-in water jet — then pulled it from US, UK, and French stores within two weeks after buyers reported water seeping into the battery compartment and causing charging failures and dead units.",
-      "why_funny": "The product's headline feature is a water jet; the thing that killed it was water — a toothbrush that couldn't survive its own bathroom.",
-      "alt": "Dyson CameraJet AI electric toothbrush with camera lens visible in the handle, shown in product photography",
-      "source": "https://www.gadgetreview.com/?p=415636",
-      "credit": "GadgetReview / Dyson",
-      "license": "editorial — © GadgetReview / Dyson",
-      "key": "2026-10-12-a"
+      "tagline": "The 'no more keys' smart lock that needs a hand crank when the battery dies",
+      "story": "Ring's first smart lock ($249) solves the dead-battery lockout problem with a built-in power dial — turn it a few times and the crank generator gives the electronics just enough power to accept your PIN; founder Jamie Siminoff pitched the lock as the end of 'little pieces of metal in our pockets', but the backup when digital fails is manual cranking.",
+      "why_funny": "The inventor's argument against physical keys is that they're primitive, yet his solution when the smart lock's battery dies is turning a hand crank like you're starting a 1920s motorcar.",
+      "alt": "Black Ring Smart Lock mounted on a wooden door, showing a stacked fingerprint reader and backlit keypad with the knurled power-generating dial below them",
+      "source": "https://tbreak.com/ring-smart-lock-power-dial/",
+      "credit": "Amazon / Ring",
+      "license": "editorial — © Amazon/Ring",
+      "key": "2026-10-13-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Four years of precision hood engineering — aimed at the fuse box",
-      "story": "Ford's Super Duty trucks ship with a hood cowling that funnels rainwater through a hole directly above the fuse box; when the lid fails to seal (common), water destroys the electronics for a ~$700 repair — and the 2027 fix is a small plastic diverter that also retrofits 2023–2026 trucks as a $20 drop-in part.",
-      "why_funny": "Four model years to add a plastic rain deflector to stop the hood from acting as a precision irrigation system aimed at the most sensitive electronics in a $90,000 truck.",
-      "alt": "2027 Ford Super Duty pickup truck showing the front hood and grille where the water-drain design flaw was located",
-      "source": "https://www.thedrive.com/news/ford-finally-addressed-a-costly-design-flaw-on-the-2027-super-duty",
-      "credit": "The Drive",
-      "license": "editorial — © The Drive",
-      "key": "2026-10-12-b"
+      "tagline": "Car makers spent a decade removing every button — China just ordered them all back",
+      "story": "China's MIIT published draft regulations on October 10, 2026 requiring physical switches alongside touchscreens for headlights, wipers, defrosters, and gear selection in all vehicles — after automakers spent billions engineering interiors with zero physical controls to look futuristic.",
+      "why_funny": "The entire design language of the modern luxury EV — one giant screen, no buttons anywhere — just got officially classified as a design flaw by the world's largest car market.",
+      "alt": "The centrally-mounted 15.4-inch touchscreen of a Tesla Model 3, showing the car's minimalist interior with no physical buttons on the dashboard — exactly the interface China is now requiring physical controls alongside",
+      "source": "https://dailycarblog.com/2026/10/china-proposes-stricter-vehicle-safety-rules-targeting-touchscreens",
+      "credit": "SirAsdof / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-10-13-b"
     }
   ]
 }
