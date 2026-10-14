@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "The 'no more keys' smart lock that needs a hand crank when the battery dies",
-      "story": "Ring's first smart lock ($249) solves the dead-battery lockout problem with a built-in power dial — turn it a few times and the crank generator gives the electronics just enough power to accept your PIN; founder Jamie Siminoff pitched the lock as the end of 'little pieces of metal in our pockets', but the backup when digital fails is manual cranking.",
-      "why_funny": "The inventor's argument against physical keys is that they're primitive, yet his solution when the smart lock's battery dies is turning a hand crank like you're starting a 1920s motorcar.",
-      "alt": "Black Ring Smart Lock mounted on a wooden door, showing a stacked fingerprint reader and backlit keypad with the knurled power-generating dial below them",
-      "source": "https://tbreak.com/ring-smart-lock-power-dial/",
-      "credit": "Amazon / Ring",
-      "license": "editorial — © Amazon/Ring",
-      "key": "2026-10-13-a"
+      "tagline": "The startup replacing SpaceX with a really, really big gun (Jules Verne called)",
+      "story": "Longshot Space Technology unveiled at TechCrunch Disrupt 2026 its plan to fire cargo into orbit using a ground-based pneumatic cannon that would need to be approximately 6 miles (10 km) long — reviving the same concept the US and Canadian militaries tried, and abandoned, in Project HARP in the 1960s.",
+      "why_funny": "The 'revolutionary alternative to rockets' they're pitching was already tried, failed, and the only thing left of that attempt is a rusting gun barrel in Barbados that's now a tourist attraction.",
+      "alt": "Aerial NASA photograph of the HARP project's two massive space gun barrels laid out horizontally on test grounds in Barbados, seen from above, showing the enormous scale of the 1960s cannon-to-space experiment",
+      "source": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
+      "credit": "NASA",
+      "license": "Public domain",
+      "key": "2026-10-14-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Car makers spent a decade removing every button — China just ordered them all back",
-      "story": "China's MIIT published draft regulations on October 10, 2026 requiring physical switches alongside touchscreens for headlights, wipers, defrosters, and gear selection in all vehicles — after automakers spent billions engineering interiors with zero physical controls to look futuristic.",
-      "why_funny": "The entire design language of the modern luxury EV — one giant screen, no buttons anywhere — just got officially classified as a design flaw by the world's largest car market.",
-      "alt": "The centrally-mounted 15.4-inch touchscreen of a Tesla Model 3, showing the car's minimalist interior with no physical buttons on the dashboard — exactly the interface China is now requiring physical controls alongside",
-      "source": "https://dailycarblog.com/2026/10/china-proposes-stricter-vehicle-safety-rules-targeting-touchscreens",
-      "credit": "SirAsdof / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-10-13-b"
+      "tagline": "Galway spent €28k replacing their beloved 'G' with a lowercase 'g'. The city is now flying the old one from buildings.",
+      "story": "Galway City Council paid €28,000 to replace its beloved 1984 capital 'G' logo with a maroon lowercase 'g' that critics say looks like generic corporate branding; 'Keep the G' protest flags appeared across the city, a petition launched, and councillors objected — then on October 12 the council announced it won't track the total rebrand rollout cost, assuring the public it will be 'cost-neutral.'",
+      "why_funny": "The city's proudest design achievement is now a citywide flag-waving revolt, and the council's response to 'how much is this going to cost?' was officially 'we won't be checking.'",
+      "alt": "'Keep the G' protest flags bearing Galway City's old capital G logo displayed on poles around Galway city centre, with residents opposing the council's rebranding to a new generic lowercase design",
+      "source": "https://www.galwaybayfm.ie/galway-bay-fm-news-desk/city-council-rebrand-cost-wont-be-tracked-but-local-authority-assures-it-will-be-cost-neutral-231848",
+      "credit": "RTÉ News",
+      "license": "editorial — © RTÉ",
+      "key": "2026-10-14-b"
     }
   ]
 }
