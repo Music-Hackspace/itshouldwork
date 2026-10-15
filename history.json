@@ -1,6 +1,17 @@
 {
-  "count": 132,
+  "count": 133,
   "photos": [
+    {
+      "date": "2026-10-14",
+      "alt": "Aerial NASA photograph of the HARP project's two massive space gun barrels laid out horizontally on test grounds in Barbados, seen from above, showing the enormous scale of the 1960s cannon-to-space experiment",
+      "source": "https://techcrunch.com/2026/10/13/forget-rockets-longshot-wants-to-fire-cargo-into-space-from-a-gun-see-it-at-techcrunch-disrupt-2026/",
+      "credit": "NASA",
+      "license": "Public domain",
+      "story": "Longshot Space Technology unveiled at TechCrunch Disrupt 2026 its plan to fire cargo into orbit using a ground-based pneumatic cannon that would need to be approximately 6 miles (10 km) long \u2014 reviving the same concept the US and Canadian militaries tried, and abandoned, in Project HARP in the 1960s.",
+      "why_funny": "The 'revolutionary alternative to rockets' they're pitching was already tried, failed, and the only thing left of that attempt is a rusting gun barrel in Barbados that's now a tourist attraction.",
+      "id": "cd4a574575",
+      "file": "archive/2026-10-14-cd4a574575.jpg"
+    },
     {
       "date": "2026-10-13",
       "alt": "Black Ring Smart Lock mounted on a wooden door, showing a stacked fingerprint reader and backlit keypad with the knurled power-generating dial below them",
