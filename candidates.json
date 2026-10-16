@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-15",
+  "date": "2026-10-16",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.webp",
-      "tagline": "Coca-Cola redesigned Coke Zero to look more like Coke. Now nobody can tell them apart.",
-      "story": "In July 2026, Coca-Cola's global 'unified look' rebrand made Coke Zero predominantly red with the classic Coca-Cola logo — so similar to regular Coke that a Melbourne flight attendant's TikTok about repeatedly handing out the wrong drink went viral with 850,000 views, and people with diabetes and allergies raised safety concerns; Creative Bloq reported the confusion was 'still happening three months on' in October.",
-      "why_funny": "The company spent decades making Coke Zero unmistakably black so nobody would grab the wrong one, then decided 'unified branding' was more important than the ability to tell the sugar-free version apart from the full-sugar one.",
-      "alt": "A refrigerator shelf packed with identical-looking red Coca-Cola cans, with only faint 'NO SUGAR' text visible at the top of some cans in the back row — all otherwise indistinguishable at a glance",
-      "source": "https://creativebloq.com/news/the-coca-cola-rebrand-is-still-causing-confusion-three-months-on",
-      "credit": "Gameblog.fr / Coca-Cola",
-      "license": "editorial — © Gameblog / Coca-Cola",
-      "key": "2026-10-15-a"
+      "tagline": "$194M new road built to ease congestion triggers 1km queues immediately",
+      "story": "Australia's Ison Road connection, a $194 million project opened 3 months early, was designed to finally ease peak-hour congestion in Wyndham — and instead immediately created kilometre-long traffic queues during peak hours.",
+      "why_funny": "They finished it early and everything, and the road that was supposed to fix the traffic is now its own traffic jam.",
+      "alt": "Cars bumper-to-bumper in heavy traffic on the new Ison Road connection in Wyndham, Victoria, Australia",
+      "source": "https://www.wyndhamtv.com.au/ison-road-fail/",
+      "credit": "Wyndham TV",
+      "license": "editorial — © Wyndham TV",
+      "key": "2026-10-16-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "Nothing's CMF built a $109 Bluetooth speaker. Every tech outlet called it a milk carton.",
-      "story": "CMF by Nothing launched its first-ever Bluetooth speakers on October 12, 2026 — the Speaker S ($59) and Speaker M ($109) — with a boxy rectangular design and gabled top so similar to dairy packaging that TechRadar, Yanko Design, and Business Today all independently led with the milk-carton comparison in their headlines.",
-      "why_funny": "The entire press corps covering a premium audio launch independently agreed the design looked like something you'd find next to the 2% milk — and CMF apparently considers this a selling point.",
-      "alt": "Four CMF by Nothing Bluetooth speakers in white, orange, dark grey, and turquoise arranged together, each with a large circular speaker grille and small volume knob — their boxy rectangular shapes resembling milk cartons",
-      "source": "https://businesstoday.in/technology/news/story/cmf-launches-first-speakers-that-look-like-milk-cartons-what-the-new-speaker-m-and-speaker-s-offer-561175-2026-10-13",
-      "credit": "CMF by Nothing / Business Today India",
-      "license": "editorial — © CMF/Nothing",
-      "key": "2026-10-15-b"
+      "file": "candidate-b.png",
+      "tagline": "Rocket Lab delayed its rocket to 2027 because the fuel tank has air bubbles in it",
+      "story": "Rocket Lab announced on October 15, 2026 that its Neutron rocket's maiden launch is pushed to 2027 after engineers found microscopic voids (air pockets) in the carbon-composite forward dome of the first-stage propellant tank — a manufacturing flaw that knocked 11% off the company's stock.",
+      "why_funny": "Years of development and hundreds of millions of dollars, and the showstopper is: there's air where there shouldn't be air.",
+      "alt": "Artist's rendering of the Rocket Lab Neutron heavy-lift rocket in its stacked two-stage configuration",
+      "source": "https://aviationweek.com/space/operations-safety/rocket-lab-tank-design-flaw-formally-pushes-neutron-debut-2027",
+      "credit": "Cybertron42 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-10-16-b"
     }
   ]
 }
