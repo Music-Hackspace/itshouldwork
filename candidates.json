@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.webp",
-      "tagline": "$194M new road built to ease congestion triggers 1km queues immediately",
-      "story": "Australia's Ison Road connection, a $194 million project opened 3 months early, was designed to finally ease peak-hour congestion in Wyndham — and instead immediately created kilometre-long traffic queues during peak hours.",
-      "why_funny": "They finished it early and everything, and the road that was supposed to fix the traffic is now its own traffic jam.",
-      "alt": "Cars bumper-to-bumper in heavy traffic on the new Ison Road connection in Wyndham, Victoria, Australia",
-      "source": "https://www.wyndhamtv.com.au/ison-road-fail/",
-      "credit": "Wyndham TV",
-      "license": "editorial — © Wyndham TV",
-      "key": "2026-10-16-a"
+      "file": "candidate-a.jpg",
+      "tagline": "Cape Town's 50-year highway-to-nowhere finally has a plan: build another bridge, then demolish this one",
+      "story": "Cape Town's Foreshore Freeway Bridge — a concrete elevated highway started in the early 1970s and abandoned unfinished in 1977 when the city ran out of money — has dangled over the CBD for nearly 50 years as a famous 'bridge to nowhere'; on October 2, 2026, Mayor Hill-Lewis unveiled the city's 'solution': build new alternative links over the next decade-plus, then demolish the old bridge.",
+      "why_funny": "After half a century of a concrete highway hanging in mid-air, the official fix is a multi-decade plan to build a different structure nearby, then tear down the dangling original.",
+      "alt": "Concrete elevated freeway structure in central Cape Town ending abruptly in mid-air, photographed looking east, with CBD buildings visible in the background — the famous 'bridge to nowhere' abandoned since 1977",
+      "source": "https://www.timeout.com/cape-town/news/cape-town-reveals-bold-new-plan-to-finally-finish-its-infamous-unfinished-bridges-100326",
+      "credit": "elyob / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "key": "2026-10-17-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.png",
-      "tagline": "Rocket Lab delayed its rocket to 2027 because the fuel tank has air bubbles in it",
-      "story": "Rocket Lab announced on October 15, 2026 that its Neutron rocket's maiden launch is pushed to 2027 after engineers found microscopic voids (air pockets) in the carbon-composite forward dome of the first-stage propellant tank — a manufacturing flaw that knocked 11% off the company's stock.",
-      "why_funny": "Years of development and hundreds of millions of dollars, and the showstopper is: there's air where there shouldn't be air.",
-      "alt": "Artist's rendering of the Rocket Lab Neutron heavy-lift rocket in its stacked two-stage configuration",
-      "source": "https://aviationweek.com/space/operations-safety/rocket-lab-tank-design-flaw-formally-pushes-neutron-debut-2027",
-      "credit": "Cybertron42 / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-10-16-b"
+      "file": "candidate-b.jpg",
+      "tagline": "SEGA sold 'all future paid DLC' then charged $30 for future paid DLC. Future came fast.",
+      "story": "SEGA's Digital Deluxe Edition of Sonic Racing: CrossWorlds (up to $100) was marketed as including 'all future paid downloadable content' — but in October 2026, SEGA announced a Year 2 Season Pass ($29.99) for new crossover packs, prompting fans to publicly label SEGA 'stupid liars' and demand Year 2 content for free.",
+      "why_funny": "'All future paid DLC' turned out to have a remarkably short future — exactly one year — and SEGA apparently forgot they made the promise until the internet reminded them.",
+      "alt": "Sonic the Hedgehog and crossover characters racing on a futuristic track in Sonic Racing: CrossWorlds, the game whose Digital Deluxe Edition promised 'all future paid DLC' before SEGA charged extra for Year 2",
+      "source": "https://kotaku.com/fans-accuse-sonic-racing-crossworlds-of-breaking-deluxe-edition-promise-after-revealing-ff7-dlc-paid-100-for-this-sht-guess-i-learned-my-lesson-2000744567",
+      "credit": "Kotaku / SEGA",
+      "license": "editorial — © Kotaku/SEGA",
+      "key": "2026-10-17-b"
     }
   ]
 }
