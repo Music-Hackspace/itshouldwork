@@ -1,6 +1,17 @@
 {
-  "count": 134,
+  "count": 135,
   "photos": [
+    {
+      "date": "2026-10-16",
+      "alt": "Artist's rendering of the Rocket Lab Neutron heavy-lift rocket in its stacked two-stage configuration",
+      "source": "https://aviationweek.com/space/operations-safety/rocket-lab-tank-design-flaw-formally-pushes-neutron-debut-2027",
+      "credit": "Cybertron42 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "story": "Rocket Lab announced on October 15, 2026 that its Neutron rocket's maiden launch is pushed to 2027 after engineers found microscopic voids (air pockets) in the carbon-composite forward dome of the first-stage propellant tank \u2014 a manufacturing flaw that knocked 11% off the company's stock.",
+      "why_funny": "Years of development and hundreds of millions of dollars, and the showstopper is: there's air where there shouldn't be air.",
+      "id": "7238744c36",
+      "file": "archive/2026-10-16-7238744c36.png"
+    },
     {
       "date": "2026-10-15",
       "alt": "Four CMF by Nothing Bluetooth speakers in white, orange, dark grey, and turquoise arranged together, each with a large circular speaker grille and small volume knob \u2014 their boxy rectangular shapes resembling milk cartons",
