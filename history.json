@@ -1,6 +1,17 @@
 {
-  "count": 136,
+  "count": 137,
   "photos": [
+    {
+      "date": "2026-10-18",
+      "alt": "Second-generation Ray-Ban x Meta Wayfarer smart glasses with Polaroid lenses shown close-up, with the small camera module visible on the right side of the frame and the recording LED indicator on the inner frame",
+      "source": "https://www.androidheadlines.com/2026/10/meta-fixes-ray-ban-smart-glasses-bug-after-reports-of-unexpected-recording.html",
+      "credit": "ItzANormalFioko / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "story": "After a firmware update in October 2026, Ray-Ban Meta smart glasses were capturing conversations and sending audio to the Meta AI app even when the 'Hey Meta' wake phrase was never used and the setting to allow hands-free activation was disabled \u2014 and the recording LED indicator stayed dark the entire time.",
+      "why_funny": "Meta's entire PR defence for camera glasses has always been 'the little light tells bystanders when they're being recorded' \u2014 then a firmware update made them record without turning the light on.",
+      "id": "f9b426eeba",
+      "file": "archive/2026-10-18-f9b426eeba.jpg"
+    },
     {
       "date": "2026-10-17",
       "alt": "Concrete elevated freeway structure in central Cape Town ending abruptly in mid-air, photographed looking east, with CBD buildings visible in the background \u2014 the famous 'bridge to nowhere' abandoned since 1977",
