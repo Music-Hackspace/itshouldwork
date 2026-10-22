@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "The $25K EV that ships without paint, a radio, or any illusions",
-      "story": "Slate Auto's bare-bones electric pickup is starting Q4 2026 deliveries with no factory paint (just raw plastic panels), no infotainment, no speakers, and hand-crank windows — software updates require you to plug your phone into a USB port.",
-      "why_funny": "In 2026, the cutting-edge EV asks you to hand-crank your windows and plug your phone in like it's 2004.",
-      "alt": "A light blue vinyl-wrapped Slate electric pickup truck with its hood open on display near the Space Needle in Seattle, surrounded by curious onlookers",
-      "source": "https://www.engadget.com/2283988/slate-truck-no-infotainment-over-the-air-sofware-updates/",
-      "credit": "SounderBruce / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-10-21-a"
+      "tagline": "Jaguar's £130K 'Copy Nothing' rebrand delivers a car critics called 'a hearse'",
+      "story": "Jaguar unveiled the $130,500 Type 01 electric grand tourer at a New York event in October 2026, completing its controversial 'Copy Nothing' rebrand — only for critics to call it 'an unmitigated catastrophe that looks like a hearse.'",
+      "why_funny": "A luxury car brand spent two years on a rebrand that showed no cars, then revealed a $130K electric car that looks like a hearse.",
+      "alt": "A silver Jaguar Type 01 electric grand tourer, long and low-slung with narrow aggressive LED headlights at the front",
+      "source": "https://www.autoguide.com/auto/jaguar-type-01-44639872",
+      "credit": "BBC / Jaguar",
+      "license": "editorial — © BBC/Jaguar",
+      "key": "2026-10-22-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Epic fired 1,000 programmers, then said 'programming is hard' and shipped a buggy AI launcher",
-      "story": "Seven months after laying off 1,000 employees, Epic Games released a 'vibe coded' (AI-written) game launcher on October 14, 2026, explaining that 'programming is hard' — users immediately found it riddled with login errors and update bugs.",
-      "why_funny": "Epic told a thousand programmers they weren't needed, then discovered they were needed.",
-      "alt": "Screenshot of the new Epic Games Store Preview 0.95.2 launcher showing a dark game library grid with game tiles including Alan Wake 2, Control, and Hades",
-      "source": "https://engadget.com/2286721/epic-thinks-youll-love-its-new-vibe-coded-game-launcher/",
-      "credit": "Engadget / Epic Games",
-      "license": "editorial — © Epic Games",
-      "key": "2026-10-21-b"
+      "tagline": "Amazon removed Kindle's page-turn buttons. Now they sell them back for $35.",
+      "story": "Amazon discontinued physical page-turn buttons on all Kindles in 2024, then in October 2026 launched the $34.99 Kindle Click Bluetooth remote and an $80 case-with-buttons — 72% of users in a poll said the buttons should just be built in.",
+      "why_funny": "The company that spent a decade removing beloved buttons now charges $35 extra to restore the feature they took away.",
+      "alt": "The Kindle Click, a small rounded white Bluetooth remote with two page-turn buttons and a wrist lanyard, shown next to a Kindle e-reader",
+      "source": "https://www.dexerto.com/entertainment/amazon-finally-answers-kindle-fans-calls-for-physical-page-turn-buttons-3414709/",
+      "credit": "Dexerto / Amazon",
+      "license": "editorial — © Amazon/Dexerto",
+      "key": "2026-10-22-b"
     }
   ]
 }
