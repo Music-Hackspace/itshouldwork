@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-22",
+  "date": "2026-10-23",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Jaguar's £130K 'Copy Nothing' rebrand delivers a car critics called 'a hearse'",
-      "story": "Jaguar unveiled the $130,500 Type 01 electric grand tourer at a New York event in October 2026, completing its controversial 'Copy Nothing' rebrand — only for critics to call it 'an unmitigated catastrophe that looks like a hearse.'",
-      "why_funny": "A luxury car brand spent two years on a rebrand that showed no cars, then revealed a $130K electric car that looks like a hearse.",
-      "alt": "A silver Jaguar Type 01 electric grand tourer, long and low-slung with narrow aggressive LED headlights at the front",
-      "source": "https://www.autoguide.com/auto/jaguar-type-01-44639872",
-      "credit": "BBC / Jaguar",
-      "license": "editorial — © BBC/Jaguar",
-      "key": "2026-10-22-a"
+      "tagline": "NFL's throwback crest sailed through approval — then the whole internet spotted it",
+      "story": "On October 22, 2026, the Atlanta Falcons posted a 1960s throwback crest graphic for their Week 7 game, featuring a black falcon against vertical red, black, and gold stripes — and fans immediately compared it to Nazi-era heraldry, generating millions of views and 'I did Nazi this coming' jokes.",
+      "why_funny": "The design that apparently cleared every level of NFL and team brand approval looked, to millions of observers, unmistakably like something from 1930s Germany.",
+      "alt": "The Atlanta Falcons 1960s throwback crest: a black falcon silhouette against bold red, black, and gold vertical stripes on a red background",
+      "source": "https://tmz.com/2026/10/22/atlanta-falcons-new-logo-draws-comparisons-to-nazis",
+      "credit": "TMZ / Atlanta Falcons / NFL",
+      "license": "editorial — © TMZ",
+      "key": "2026-10-23-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Amazon removed Kindle's page-turn buttons. Now they sell them back for $35.",
-      "story": "Amazon discontinued physical page-turn buttons on all Kindles in 2024, then in October 2026 launched the $34.99 Kindle Click Bluetooth remote and an $80 case-with-buttons — 72% of users in a poll said the buttons should just be built in.",
-      "why_funny": "The company that spent a decade removing beloved buttons now charges $35 extra to restore the feature they took away.",
-      "alt": "The Kindle Click, a small rounded white Bluetooth remote with two page-turn buttons and a wrist lanyard, shown next to a Kindle e-reader",
-      "source": "https://www.dexerto.com/entertainment/amazon-finally-answers-kindle-fans-calls-for-physical-page-turn-buttons-3414709/",
-      "credit": "Dexerto / Amazon",
-      "license": "editorial — © Amazon/Dexerto",
-      "key": "2026-10-22-b"
+      "tagline": "Tesla wants to build 20,000 robots a week. First: the hands.",
+      "story": "On October 21, 2026, Tesla announced it had started mass production of its Optimus humanoid robot in Fremont, CA — converting the Model S/X line — while Q3 profit fell 43%; but per The Information, the assembly equipment still isn't reliably lining up the robot's hand and joint components, and output remains hundreds per week, not the promised 20,000.",
+      "why_funny": "The most ambitious humanoid robot program in history, backed by billions, is staking its future on the premise that hands are basically a solved problem — and they are not.",
+      "alt": "A white and black Tesla Optimus Gen 2 humanoid robot at an outdoor event, its five-fingered articulated hand raised toward the camera while attendees look on",
+      "source": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "credit": "Steve Jurvetson / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "key": "2026-10-23-b"
     }
   ]
 }
