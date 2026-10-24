@@ -1,6 +1,17 @@
 {
-  "count": 141,
+  "count": 142,
   "photos": [
+    {
+      "date": "2026-10-23",
+      "alt": "A white and black Tesla Optimus Gen 2 humanoid robot at an outdoor event, its five-fingered articulated hand raised toward the camera while attendees look on",
+      "source": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
+      "credit": "Steve Jurvetson / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "story": "On October 21, 2026, Tesla announced it had started mass production of its Optimus humanoid robot in Fremont, CA \u2014 converting the Model S/X line \u2014 while Q3 profit fell 43%; but per The Information, the assembly equipment still isn't reliably lining up the robot's hand and joint components, and output remains hundreds per week, not the promised 20,000.",
+      "why_funny": "The most ambitious humanoid robot program in history, backed by billions, is staking its future on the premise that hands are basically a solved problem \u2014 and they are not.",
+      "id": "3b089364c7",
+      "file": "archive/2026-10-23-3b089364c7.jpg"
+    },
     {
       "date": "2026-10-22",
       "alt": "A silver Jaguar Type 01 electric grand tourer, long and low-slung with narrow aggressive LED headlights at the front",
