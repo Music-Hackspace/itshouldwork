@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "NFL's throwback crest sailed through approval — then the whole internet spotted it",
-      "story": "On October 22, 2026, the Atlanta Falcons posted a 1960s throwback crest graphic for their Week 7 game, featuring a black falcon against vertical red, black, and gold stripes — and fans immediately compared it to Nazi-era heraldry, generating millions of views and 'I did Nazi this coming' jokes.",
-      "why_funny": "The design that apparently cleared every level of NFL and team brand approval looked, to millions of observers, unmistakably like something from 1930s Germany.",
-      "alt": "The Atlanta Falcons 1960s throwback crest: a black falcon silhouette against bold red, black, and gold vertical stripes on a red background",
-      "source": "https://tmz.com/2026/10/22/atlanta-falcons-new-logo-draws-comparisons-to-nazis",
-      "credit": "TMZ / Atlanta Falcons / NFL",
-      "license": "editorial — © TMZ",
-      "key": "2026-10-23-a"
+      "tagline": "Batman's concept bike: deadly on the outside, deadlier if you actually tried to ride it",
+      "story": "On October 22, 2026, HotCars analyzed an AI-generated Batman motorcycle concept by Instagram artist darkkuston; while it looks menacing, real riders immediately spot that the front wheel sits so close to the bodywork that any bump or hard braking would cause the tire to strike the cowl — catastrophic at speed.",
+      "why_funny": "The Caped Crusader's imaginary engineers nailed the 'insane' brief but missed the part where the front wheel needs room to actually turn and absorb bumps.",
+      "alt": "AI-rendered futuristic Batman motorcycle in matte black and yellow with massive tires, low handlebars, and an angular front cowl that sits dangerously close to the front wheel",
+      "source": "https://www.hotcars.com/batman-motorcycle-design-concept-terrifying-design-flaw/",
+      "credit": "HotCars / darkkuston.com_ (Instagram)",
+      "license": "editorial — © HotCars / darkkuston.com_",
+      "key": "2026-10-24-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Tesla wants to build 20,000 robots a week. First: the hands.",
-      "story": "On October 21, 2026, Tesla announced it had started mass production of its Optimus humanoid robot in Fremont, CA — converting the Model S/X line — while Q3 profit fell 43%; but per The Information, the assembly equipment still isn't reliably lining up the robot's hand and joint components, and output remains hundreds per week, not the promised 20,000.",
-      "why_funny": "The most ambitious humanoid robot program in history, backed by billions, is staking its future on the premise that hands are basically a solved problem — and they are not.",
-      "alt": "A white and black Tesla Optimus Gen 2 humanoid robot at an outdoor event, its five-fingered articulated hand raised toward the camera while attendees look on",
-      "source": "https://techcrunch.com/2026/10/21/tesla-stars-optimus-robot-production-in-california-as-profit-falls-43/",
-      "credit": "Steve Jurvetson / Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "key": "2026-10-23-b"
+      "tagline": "Smart lock with no key. Except when the battery dies — then you crank it like a 1920s car",
+      "story": "On October 7, 2026, Amazon Ring unveiled its first smart lock at $249 — fingerprint reader, touchscreen keypad, app control, no physical key — but added a knurled 'Power Dial' crank below the keypad so you can hand-generate enough power to unlock the door when the battery inevitably dies.",
+      "why_funny": "Ring solved the 'what if our keyless smart lock loses power' problem by bolting on the oldest energy technology known to humans: a hand crank.",
+      "alt": "The Ring Smart Lock mounted on a door: a sleek rectangular device with a circular fingerprint reader at top, a backlit touchscreen keypad in the middle, and a manual knurled dial crank at the bottom",
+      "source": "https://www.aboutamazon.com/news/devices/ring-smart-lock-battery-recharge",
+      "credit": "Ring / Amazon / Yanko Design",
+      "license": "editorial — © Ring / Amazon",
+      "key": "2026-10-24-b"
     }
   ]
 }
