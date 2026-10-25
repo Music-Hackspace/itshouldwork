@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Batman's concept bike: deadly on the outside, deadlier if you actually tried to ride it",
-      "story": "On October 22, 2026, HotCars analyzed an AI-generated Batman motorcycle concept by Instagram artist darkkuston; while it looks menacing, real riders immediately spot that the front wheel sits so close to the bodywork that any bump or hard braking would cause the tire to strike the cowl — catastrophic at speed.",
-      "why_funny": "The Caped Crusader's imaginary engineers nailed the 'insane' brief but missed the part where the front wheel needs room to actually turn and absorb bumps.",
-      "alt": "AI-rendered futuristic Batman motorcycle in matte black and yellow with massive tires, low handlebars, and an angular front cowl that sits dangerously close to the front wheel",
-      "source": "https://www.hotcars.com/batman-motorcycle-design-concept-terrifying-design-flaw/",
-      "credit": "HotCars / darkkuston.com_ (Instagram)",
-      "license": "editorial — © HotCars / darkkuston.com_",
-      "key": "2026-10-24-a"
+      "tagline": "Apple builds the touchscreen MacBook Jobs called 'ergonomically terrible'",
+      "story": "On October 19, 2026 Apple confirmed its 'Pro and Tell' event launching the first-ever touchscreen MacBook Pro — doing exactly what Steve Jobs said in 2010 'doesn't work' and is 'ergonomically terrible,' predicting users would get 'gorilla arm' from holding their arm up to poke a vertical screen.",
+      "why_funny": "Apple spent 16 years insisting touchscreen laptops are bad ergonomics and would tire your arm out, then built one anyway and named the launch event 'Pro and Tell.'",
+      "alt": "A MacBook Pro laptop with a touchscreen display being tapped with a finger — the exact gorilla-arm ergonomic scenario Steve Jobs warned about in 2010",
+      "source": "https://www.macrumors.com/2026/10/19/apple-october-28-product-launch/",
+      "credit": "MacRumors / Apple",
+      "license": "editorial — © MacRumors",
+      "key": "2026-10-25-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Smart lock with no key. Except when the battery dies — then you crank it like a 1920s car",
-      "story": "On October 7, 2026, Amazon Ring unveiled its first smart lock at $249 — fingerprint reader, touchscreen keypad, app control, no physical key — but added a knurled 'Power Dial' crank below the keypad so you can hand-generate enough power to unlock the door when the battery inevitably dies.",
-      "why_funny": "Ring solved the 'what if our keyless smart lock loses power' problem by bolting on the oldest energy technology known to humans: a hand crank.",
-      "alt": "The Ring Smart Lock mounted on a door: a sleek rectangular device with a circular fingerprint reader at top, a backlit touchscreen keypad in the middle, and a manual knurled dial crank at the bottom",
-      "source": "https://www.aboutamazon.com/news/devices/ring-smart-lock-battery-recharge",
-      "credit": "Ring / Amazon / Yanko Design",
-      "license": "editorial — © Ring / Amazon",
-      "key": "2026-10-24-b"
+      "tagline": "Third AI listening pendant this year raises $33M — investors haven't met Friend",
+      "story": "On October 22, 2026, startup Nirva Labs raised $33 million for a $249 pendant that silently records only the wearer — the same concept as the widely-mocked Friend AI necklace (whose subway ads were vandalized with 'AI wouldn't care if you lived or died') and the discontinued Humane AI Pin, both of which flopped spectacularly.",
+      "why_funny": "After Friend's New York subway ads were defaced and Humane's AI Pin was sold for parts, investors just handed $33M to the exact same always-on AI listening necklace idea in a prettier jewelry case.",
+      "alt": "The Nirva AI pendant — a small silver and black jewelry pendant worn as a necklace that passively records everything its wearer says",
+      "source": "https://techcrunch.com/2026/10/22/nirva-raises-33m-for-a-pendant-that-only-listens-to-you/",
+      "credit": "TechCrunch / Nirva Labs",
+      "license": "editorial — © TechCrunch",
+      "key": "2026-10-25-b"
     }
   ]
 }
