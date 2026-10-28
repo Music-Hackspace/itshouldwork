@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "NFL team's throwback graphic accidentally looks like a Nazi war flag",
-      "story": "On October 21, 2026, the Atlanta Falcons posted a 'throwback weekend' social media graphic showing their 1966 geometric falcon logo centred on vertical red, cream, and gold stripes; 26 million people on X immediately compared it to a World War II-era German military banner, and the internet dubbed it the 'Bird Reich' and '28-3rd Reich.'",
-      "why_funny": "The social media team spent time crafting a celebratory throwback graphic and accidentally built a Reichskriegsflagge with a bird on it.",
-      "alt": "The Atlanta Falcons 1966 throwback logo — a geometric black-and-cream falcon — centred on bold vertical stripes of red, cream, and gold that drew instant mass comparisons to Nazi-era German war flags when the team posted it on social media in October 2026",
-      "source": "https://www.creativebloq.com/news/the-atlanta-falcons-nazi-logo-controversy-strikes-again",
-      "credit": "Creative Bloq / Future plc",
-      "license": "editorial — © Creative Bloq / Future plc",
-      "key": "2026-10-27-a"
+      "tagline": "Ferrari hired the iPhone designer, spent €550K per car, and this is what they got",
+      "story": "On Oct 22, 2026, McLaren P1 designer Frank Stephenson wrote in Top Gear that the Ferrari Luce — a €550,000 EV with exterior shaped with Jony Ive's studio LoveFrom — is 'a well-executed mistake in automotive design,' while Pininfarina's former design chief called it 'a soulless object' and ex-CEO Luca di Montezemolo declared it 'destruction of a myth.'",
+      "why_funny": "Ferrari paid the designer of the iPhone to create its dream first EV, priced it at half a million euros, and professional car designers are making YouTube redesigns to fix it.",
+      "alt": "A matte grey 2027 Ferrari Luce electric liftback on display at a concours event, its small yellow prancing-horse badge the only obvious Ferrari cue on an otherwise generic-looking body",
+      "source": "https://www.topgear.com/car-news/opinion/a-well-executed-mistake-automotive-design-mclaren-p1-designer-ferrari-luce",
+      "credit": "Banhada / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "key": "2026-10-28-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "Apple's $149 'Siri AI speaker' launches Oct 30 — without the Siri AI",
-      "story": "Apple announced the HomePod mini 2 at $149 on October 13, 2026, marketing it with 'Siri AI' as the headline upgrade — but the product page footnote reads 'available later in a future software update,' meaning the speaker's entire selling point won't exist when it goes on sale October 30.",
-      "why_funny": "Apple named and marketed a product after its AI assistant, put that on the product page, then quietly added a footnote explaining the AI assistant won't actually be in the product at launch.",
-      "alt": "Three Apple HomePod mini 2 speakers in green, pink, and blue mesh fabric arranged in a product photograph — Apple's new smart speaker whose flagship Siri AI feature will be absent when it goes on sale October 30, 2026",
-      "source": "https://www.macrumors.com/2026/10/13/homepod-mini-2-siri-ai-coming-later/",
-      "credit": "MacRumors / Apple",
-      "license": "editorial — © Apple",
-      "key": "2026-10-27-b"
+      "file": "candidate-b.webp",
+      "tagline": "JustEat's AI read 'soda bread' and put a full fry-up in a pint of Coke",
+      "story": "On Oct 21–23, 2026, Just Eat apologized and paused a trial of AI-generated menu photos after they went viral: the AI placed fried eggs and sausages inside a cola glass (apparently reading 'soda bread' as soda), produced garlic bread shaped like a plane, and a jacket potato rendered as a puffer jacket — every image was manually reviewed by a human before going live.",
+      "why_funny": "Just Eat deployed AI to make menus look more appetising, had a human check every image, and still managed to publish a photo of a Northern Irish breakfast floating in a pint of fizzy drink as the recommended image for a soda bread sandwich.",
+      "alt": "AI-generated Just Eat menu photo showing a fried egg and two sausages floating inside a tall glass of dark cola with ice, with bread visible on a plate in the background",
+      "source": "https://boingboing.net/2026/10/26/just-eat-slop-food-delivery-service-apologizes-for-bizarre-ai-generated-menu.html",
+      "credit": "Just Eat / shattered.io",
+      "license": "editorial — © Just Eat",
+      "key": "2026-10-28-b"
     }
   ]
 }
