@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-28",
+  "date": "2026-10-29",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Ferrari hired the iPhone designer, spent €550K per car, and this is what they got",
-      "story": "On Oct 22, 2026, McLaren P1 designer Frank Stephenson wrote in Top Gear that the Ferrari Luce — a €550,000 EV with exterior shaped with Jony Ive's studio LoveFrom — is 'a well-executed mistake in automotive design,' while Pininfarina's former design chief called it 'a soulless object' and ex-CEO Luca di Montezemolo declared it 'destruction of a myth.'",
-      "why_funny": "Ferrari paid the designer of the iPhone to create its dream first EV, priced it at half a million euros, and professional car designers are making YouTube redesigns to fix it.",
-      "alt": "A matte grey 2027 Ferrari Luce electric liftback on display at a concours event, its small yellow prancing-horse badge the only obvious Ferrari cue on an otherwise generic-looking body",
-      "source": "https://www.topgear.com/car-news/opinion/a-well-executed-mistake-automotive-design-mclaren-p1-designer-ferrari-luce",
-      "credit": "Banhada / Wikimedia Commons",
-      "license": "CC BY 4.0",
-      "key": "2026-10-28-a"
+      "tagline": "Apple's $2,000 foldable cracks at the fold after fewer than 20 opens",
+      "story": "Apple's iPhone Duo, launched October 23 at $1,999, began showing inner-display cracks along the hinge crease within days of purchase — with some users reporting failure after fewer than 20 folds — and iFixit's teardown identified a hinge support bar that appears to press into the OLED panel; Apple acknowledged 'an issue impacting the inner display on a small number of iPhone Duo units' and offered free replacements.",
+      "why_funny": "The iPhone Duo's entire design premise is that folding is a feature — and the flaw is that it cannot fold without breaking.",
+      "alt": "Close-up of an iPhone Duo's inner OLED display showing a T-shaped crack running horizontally from the fold crease toward the screen edge, the damaged area showing dead pixels and display separation",
+      "source": "https://mobilesyrup.com/2026/10/26/iphone-duo-hinge-issue-screen-crack",
+      "credit": "MobileSyrup",
+      "license": "editorial — © MobileSyrup",
+      "key": "2026-10-29-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.webp",
-      "tagline": "JustEat's AI read 'soda bread' and put a full fry-up in a pint of Coke",
-      "story": "On Oct 21–23, 2026, Just Eat apologized and paused a trial of AI-generated menu photos after they went viral: the AI placed fried eggs and sausages inside a cola glass (apparently reading 'soda bread' as soda), produced garlic bread shaped like a plane, and a jacket potato rendered as a puffer jacket — every image was manually reviewed by a human before going live.",
-      "why_funny": "Just Eat deployed AI to make menus look more appetising, had a human check every image, and still managed to publish a photo of a Northern Irish breakfast floating in a pint of fizzy drink as the recommended image for a soda bread sandwich.",
-      "alt": "AI-generated Just Eat menu photo showing a fried egg and two sausages floating inside a tall glass of dark cola with ice, with bread visible on a plate in the background",
-      "source": "https://boingboing.net/2026/10/26/just-eat-slop-food-delivery-service-apologizes-for-bizarre-ai-generated-menu.html",
-      "credit": "Just Eat / shattered.io",
-      "license": "editorial — © Just Eat",
-      "key": "2026-10-28-b"
+      "file": "candidate-b.jpg",
+      "tagline": "Ballon d'Or website named Kane the winner — and Mbappé — and Yamal — all at once",
+      "story": "Hours before the October 26 Ballon d'Or ceremony at London Palladium, the award's official website accidentally published pre-written 'winner' articles for multiple nominees simultaneously — declaring Harry Kane, Kylian Mbappé, and Lamine Yamal each the 2026 winner — because France Football had prepared a full article for every nominee in advance and their CMS published all of them; Kane ultimately won for real.",
+      "why_funny": "The organization whose entire brand is a year-long dramatic build-up to a secret reveal had their website spoil it — for three different winners at once — because they prepared all the endings but forgot to lock the drafts.",
+      "alt": "Harry Kane in a white England shirt, mid-stride on the pitch during England vs Ghana on 23 June 2026, the same player the Ballon d'Or website prematurely named winner of the award alongside two other nominees",
+      "source": "https://www.football365.com/news/harry-kane-announced-as-ballon-dor-winner-early-in-huge-blunder-as-organisers-launch-investigation",
+      "credit": "Bryan Berlin / WikiPortraits (Wikimedia Commons)",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-10-29-b"
     }
   ]
 }
