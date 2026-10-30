@@ -1,10 +1,10 @@
 {
-  "file": "photo.webp",
-  "date": "2026-10-28",
-  "alt": "AI-generated Just Eat menu photo showing a fried egg and two sausages floating inside a tall glass of dark cola with ice, with bread visible on a plate in the background",
-  "source": "https://boingboing.net/2026/10/26/just-eat-slop-food-delivery-service-apologizes-for-bizarre-ai-generated-menu.html",
-  "credit": "Just Eat / shattered.io",
-  "license": "editorial \u2014 \u00a9 Just Eat",
-  "story": "On Oct 21\u201323, 2026, Just Eat apologized and paused a trial of AI-generated menu photos after they went viral: the AI placed fried eggs and sausages inside a cola glass (apparently reading 'soda bread' as soda), produced garlic bread shaped like a plane, and a jacket potato rendered as a puffer jacket \u2014 every image was manually reviewed by a human before going live.",
-  "why_funny": "Just Eat deployed AI to make menus look more appetising, had a human check every image, and still managed to publish a photo of a Northern Irish breakfast floating in a pint of fizzy drink as the recommended image for a soda bread sandwich."
+  "file": "photo.jpg",
+  "date": "2026-10-29",
+  "alt": "Harry Kane in a white England shirt, mid-stride on the pitch during England vs Ghana on 23 June 2026, the same player the Ballon d'Or website prematurely named winner of the award alongside two other nominees",
+  "source": "https://www.football365.com/news/harry-kane-announced-as-ballon-dor-winner-early-in-huge-blunder-as-organisers-launch-investigation",
+  "credit": "Bryan Berlin / WikiPortraits (Wikimedia Commons)",
+  "license": "CC BY-SA 4.0",
+  "story": "Hours before the October 26 Ballon d'Or ceremony at London Palladium, the award's official website accidentally published pre-written 'winner' articles for multiple nominees simultaneously \u2014 declaring Harry Kane, Kylian Mbapp\u00e9, and Lamine Yamal each the 2026 winner \u2014 because France Football had prepared a full article for every nominee in advance and their CMS published all of them; Kane ultimately won for real.",
+  "why_funny": "The organization whose entire brand is a year-long dramatic build-up to a secret reveal had their website spoil it \u2014 for three different winners at once \u2014 because they prepared all the endings but forgot to lock the drafts."
 }
