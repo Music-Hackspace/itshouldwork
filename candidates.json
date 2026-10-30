@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Apple's $2,000 foldable cracks at the fold after fewer than 20 opens",
-      "story": "Apple's iPhone Duo, launched October 23 at $1,999, began showing inner-display cracks along the hinge crease within days of purchase — with some users reporting failure after fewer than 20 folds — and iFixit's teardown identified a hinge support bar that appears to press into the OLED panel; Apple acknowledged 'an issue impacting the inner display on a small number of iPhone Duo units' and offered free replacements.",
-      "why_funny": "The iPhone Duo's entire design premise is that folding is a feature — and the flaw is that it cannot fold without breaking.",
-      "alt": "Close-up of an iPhone Duo's inner OLED display showing a T-shaped crack running horizontally from the fold crease toward the screen edge, the damaged area showing dead pixels and display separation",
-      "source": "https://mobilesyrup.com/2026/10/26/iphone-duo-hinge-issue-screen-crack",
-      "credit": "MobileSyrup",
-      "license": "editorial — © MobileSyrup",
-      "key": "2026-10-29-a"
+      "tagline": "Ford recalled 102,000 trucks because the speedometer lies — and that's technically legal",
+      "story": "Ford issued recall 26C46 on October 6, 2026, covering 102,159 F-Series trucks (2025–2026 F-150 through F-750) because the analog speedometer and tachometer can stick or swing to wrong readings; Ford's own filing admits the trucks meet FMVSS 101 (which governs speedometer placement and labeling) but may not meet the standard's 'full intent' — because the federal regulation does not require passenger-car speedometers to be accurate.",
+      "why_funny": "America's best-selling truck, priced up to $90,000+, shipped with a speedometer that can lie to you, and the only reason it's being recalled is that Ford felt bad about the spirit of the law it technically didn't break.",
+      "alt": "A 2019 Ford F-250 Super Duty XLT pickup truck in white, parked on a paved surface, showing its large front grille, raised ride height, and dual rear wheels",
+      "source": "https://autos.yahoo.com/safety-and-recalls/articles/ford-recalling-102-159-trucks-230000170.html",
+      "credit": "HJUdall / Wikimedia Commons",
+      "license": "CC0 1.0",
+      "key": "2026-10-30-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Ballon d'Or website named Kane the winner — and Mbappé — and Yamal — all at once",
-      "story": "Hours before the October 26 Ballon d'Or ceremony at London Palladium, the award's official website accidentally published pre-written 'winner' articles for multiple nominees simultaneously — declaring Harry Kane, Kylian Mbappé, and Lamine Yamal each the 2026 winner — because France Football had prepared a full article for every nominee in advance and their CMS published all of them; Kane ultimately won for real.",
-      "why_funny": "The organization whose entire brand is a year-long dramatic build-up to a secret reveal had their website spoil it — for three different winners at once — because they prepared all the endings but forgot to lock the drafts.",
-      "alt": "Harry Kane in a white England shirt, mid-stride on the pitch during England vs Ghana on 23 June 2026, the same player the Ballon d'Or website prematurely named winner of the award alongside two other nominees",
-      "source": "https://www.football365.com/news/harry-kane-announced-as-ballon-dor-winner-early-in-huge-blunder-as-organisers-launch-investigation",
-      "credit": "Bryan Berlin / WikiPortraits (Wikimedia Commons)",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-10-29-b"
+      "tagline": "Land Rover's $100K 'go anywhere' SUV recalled because rain gets in the camera",
+      "story": "JLR issued NHTSA recall 26V678 in October 2026, covering 93,997 Range Rovers (2022–2026) because the tailgate trim has insufficient drain holes — water pools around the rearview camera, potentially damaging it and leaving drivers with a blank backup screen; the engineering solution is for dealers to drill additional drain holes in the underside of the tailgate and replace any water-damaged cameras.",
+      "why_funny": "Land Rover built its entire brand on the premise that its vehicles can ford rivers, traverse mud, and conquer any terrain — and yet 94,000 of them need a warranty visit because the tailgate can't drain a rainstorm away from a camera.",
+      "alt": "A 2022 Range Rover P400 in dark blue (Varesine Blue) photographed from the front three-quarter angle, showing the full-size luxury SUV's signature floating roof, slim LED headlights, and flush door handles",
+      "source": "https://www.autoevolution.com/news/jlr-north-america-recalls-nearly-94000-range-rover-vehicles-over-failing-rearview-cameras-277494.html",
+      "credit": "Charles from Port Chester, NY / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "key": "2026-10-30-b"
     }
   ]
 }
