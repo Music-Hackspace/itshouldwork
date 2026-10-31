@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Ford recalled 102,000 trucks because the speedometer lies — and that's technically legal",
-      "story": "Ford issued recall 26C46 on October 6, 2026, covering 102,159 F-Series trucks (2025–2026 F-150 through F-750) because the analog speedometer and tachometer can stick or swing to wrong readings; Ford's own filing admits the trucks meet FMVSS 101 (which governs speedometer placement and labeling) but may not meet the standard's 'full intent' — because the federal regulation does not require passenger-car speedometers to be accurate.",
-      "why_funny": "America's best-selling truck, priced up to $90,000+, shipped with a speedometer that can lie to you, and the only reason it's being recalled is that Ford felt bad about the spirit of the law it technically didn't break.",
-      "alt": "A 2019 Ford F-250 Super Duty XLT pickup truck in white, parked on a paved surface, showing its large front grille, raised ride height, and dual rear wheels",
-      "source": "https://autos.yahoo.com/safety-and-recalls/articles/ford-recalling-102-159-trucks-230000170.html",
-      "credit": "HJUdall / Wikimedia Commons",
-      "license": "CC0 1.0",
-      "key": "2026-10-30-a"
+      "tagline": "Apple's $1,999 foldable cracked after ~20 folds — the hinge was pressing into the screen",
+      "story": "Reports flooded in on Oct 25–27, 2026 of Apple's first-ever foldable iPhone Duo developing cracks along the inner display's center fold within hours or days of purchase; iFixit's teardown found the hinge's central support bar may not drop far enough when opening, pressing directly against the flexible screen — Apple is now collecting affected units and charging $999 out-of-warranty for a screen replacement.",
+      "why_funny": "Apple spent years insisting it needed to get foldable phones right before releasing one, then the hinge of its $1,999 debut foldable literally presses a support bar into the screen it's supposed to support.",
+      "alt": "An open iPhone Duo foldable smartphone lying face-up on a wooden surface, showing a prominent crack running across the inner display along the center fold line",
+      "source": "https://www.gadgetreview.com/iphone-duo-owners-report-devices-breaking-worldwide-as-fears-grow-over-critical-design-flaw",
+      "credit": "Phone Arena / GadgetReview",
+      "license": "editorial — © Phone Arena",
+      "key": "2026-10-31-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Land Rover's $100K 'go anywhere' SUV recalled because rain gets in the camera",
-      "story": "JLR issued NHTSA recall 26V678 in October 2026, covering 93,997 Range Rovers (2022–2026) because the tailgate trim has insufficient drain holes — water pools around the rearview camera, potentially damaging it and leaving drivers with a blank backup screen; the engineering solution is for dealers to drill additional drain holes in the underside of the tailgate and replace any water-damaged cameras.",
-      "why_funny": "Land Rover built its entire brand on the premise that its vehicles can ford rivers, traverse mud, and conquer any terrain — and yet 94,000 of them need a warranty visit because the tailgate can't drain a rainstorm away from a camera.",
-      "alt": "A 2022 Range Rover P400 in dark blue (Varesine Blue) photographed from the front three-quarter angle, showing the full-size luxury SUV's signature floating roof, slim LED headlights, and flush door handles",
-      "source": "https://www.autoevolution.com/news/jlr-north-america-recalls-nearly-94000-range-rover-vehicles-over-failing-rearview-cameras-277494.html",
-      "credit": "Charles from Port Chester, NY / Wikimedia Commons",
-      "license": "CC BY 2.0",
-      "key": "2026-10-30-b"
+      "tagline": "Apple's new desktop is roughly the size of a hardback book and costs as much as a Toyota Corolla",
+      "story": "On October 28, 2026, Apple started selling the Mac Studio M5 Ultra with 512GB of unified RAM for $22,299 — or $29,799 with 16TB of storage; Macworld pointed out that buying two 256GB Mac Studios would give you the same total RAM, twice the storage, and two processors, for about $700 less.",
+      "why_funny": "Apple put more RAM in a compact desktop than most cloud servers, priced it at new-car money, and the workaround to get the same specs cheaper is to buy two of them.",
+      "alt": "An Apple Mac Studio silver compact desktop computer shown from the front with '512 GB' displayed in large overlaid text, and the Apple Mac Studio logo below",
+      "source": "https://macworld.com/article/3271691/the-mac-studio-with-512gb-of-ram-is-shipping-and-it-costs-new-car-money.html",
+      "credit": "Macworld / Apple",
+      "license": "editorial — © Macworld / Apple",
+      "key": "2026-10-31-b"
     }
   ]
 }
