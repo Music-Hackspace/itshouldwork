@@ -1,6 +1,17 @@
 {
-  "count": 149,
+  "count": 150,
   "photos": [
+    {
+      "date": "2026-10-31",
+      "alt": "An Apple Mac Studio silver compact desktop computer shown from the front with '512 GB' displayed in large overlaid text, and the Apple Mac Studio logo below",
+      "source": "https://macworld.com/article/3271691/the-mac-studio-with-512gb-of-ram-is-shipping-and-it-costs-new-car-money.html",
+      "credit": "Macworld / Apple",
+      "license": "editorial \u2014 \u00a9 Macworld / Apple",
+      "story": "On October 28, 2026, Apple started selling the Mac Studio M5 Ultra with 512GB of unified RAM for $22,299 \u2014 or $29,799 with 16TB of storage; Macworld pointed out that buying two 256GB Mac Studios would give you the same total RAM, twice the storage, and two processors, for about $700 less.",
+      "why_funny": "Apple put more RAM in a compact desktop than most cloud servers, priced it at new-car money, and the workaround to get the same specs cheaper is to buy two of them.",
+      "id": "4fc46fb3ca",
+      "file": "archive/2026-10-31-4fc46fb3ca.jpg"
+    },
     {
       "date": "2026-10-30",
       "alt": "A 2019 Ford F-250 Super Duty XLT pickup truck in white, parked on a paved surface, showing its large front grille, raised ride height, and dual rear wheels",
