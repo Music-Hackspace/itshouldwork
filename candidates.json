@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "McDonald's recycled Happy Meal toys into a computer mouse — 4,000 units, China only, sold out in minutes",
-      "story": "On October 22–23, 2026, McDonald's China and Lenovo launched the 'Fry Mark,' a wireless computer mouse shaped like a McDonald's french-fries carton and made from over 60% recycled Happy Meal toy plastic; just 4,000 units were available exclusively through the McDonald's app and WeChat for ¥99 + 18 member points, and they sold out almost instantly.",
-      "why_funny": "McDonald's framed this as a sustainability initiative to rescue plastic Happy Meal toys from landfills, then channelled them into a luxury collectible computer peripheral that fewer than 4,000 China McDonald's power users can own.",
-      "alt": "A red wireless computer mouse shaped exactly like a McDonald's french-fries carton, with golden fries emerging from the top and the McDonald's Golden Arches logo on the side, displayed on a flat surface",
-      "source": "https://www.notebookcheck.net/Limited-edition-McDonald-s-Fry-Mark-mouse-is-made-from-recycled-Happy-Meals.1435430.0.html",
-      "credit": "Notebookcheck.net / McDonald's / Lenovo",
-      "license": "editorial — © McDonald's / Lenovo",
-      "key": "2026-11-01-a"
+      "tagline": "6 years. 38 patents. 5,126 prototypes. Dyson made a $499 toothbrush that leaks.",
+      "story": "Dyson's CameraJet launched September 1, 2026 — a $499 electric toothbrush with a built-in camera and AI that streams a live view of your teeth to your phone; within two weeks, units started failing due to water seeping into battery compartments, and the product was pulled from multiple retailers while Dyson scrambled to find the fault in a device designed for daily use inside a human mouth.",
+      "why_funny": "Dyson spent six years and 38 patents engineering a toothbrush complex enough to watch your own teeth, and its single biggest flaw is that water gets in — which is the one thing a toothbrush is guaranteed to encounter every time.",
+      "alt": "A person holds the pink and white Dyson CameraJet electric toothbrush in their mouth while watching their smartphone, which displays a live camera view of the inside of their mouth via the CameraJet's built-in lens",
+      "source": "https://www.gadgetreview.com/dyson-camerajet-a-499-99-toothbrush-is-failing-and-the-company-wont-say-why",
+      "credit": "Dyson (press photo via GadgetReview)",
+      "license": "editorial — © Dyson",
+      "key": "2026-11-02-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Apple called the OLED iPad mini its 'biggest upgrade ever' — it still tops out at the same 60Hz as your 2021 model",
-      "story": "On October 26, 2026, Apple announced the first-ever OLED iPad mini, marketing it as the 'biggest update ever' for the product; the 8.5-inch OLED panel is genuinely new, but Apple kept the screen locked at 60Hz — the same refresh rate as the 2021 LCD model — while every OLED iPad Pro ships with ProMotion 120Hz, a feature iPad mini users have asked for since 2021.",
-      "why_funny": "Apple spent the engineering budget to make the iPad mini's blacks blacker and its colors more vivid with OLED — and then didn't bother adding the feature that would have made it feel smoother to use, keeping that strictly for the model that costs twice as much.",
-      "alt": "Apple iPad mini 7 tablet photographed from the front showing its compact 8.3-inch display and slim aluminum chassis — nearly identical in form factor to the 2026 OLED model Apple marketed as its 'biggest iPad mini upgrade ever' while keeping the same 60Hz screen rate",
-      "source": "https://www.pcguide.com/news/apples-new-ipad-mini-with-oled-display-looks-like-its-locked-to-60hz-with-no-promotion-technology/",
-      "credit": "茅野ふたば / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-11-01-b"
+      "tagline": "Apple's new $299 smart home hub launches Nov 13 — shipping with six-month-old software, no YouTube, and banned from Europe",
+      "story": "Apple's HomeView smart home display launches November 13, 2026 for $299, but pre-launch code analysis revealed it ships with HomeView OS 26.5 — software already six months out of date — while also lacking YouTube, Netflix, and most third-party apps at launch, and being entirely unavailable in the EU because its flagship Siri AI feature is blocked there by regulators.",
+      "why_funny": "Apple spent years positioning its AI-first smart home hub as the definitive answer to Amazon Echo, then shipped it running half-year-old firmware, without the apps people actually watch, and unable to legally sell it in one of the world's biggest consumer markets.",
+      "alt": "Apple HomeView smart home display, a compact rounded-square device with a 7-inch screen showing the Siri AI interface, sitting on a mesh speaker base, with an iPhone beside it displaying Siri AI conversation results",
+      "source": "https://www.macrumors.com/2026/11/01/apple-homeview-ships-with-older-software/",
+      "credit": "Apple / MacRumors",
+      "license": "editorial — © Apple",
+      "key": "2026-11-02-b"
     }
   ]
 }
