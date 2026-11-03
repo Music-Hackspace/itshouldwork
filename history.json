@@ -1,6 +1,17 @@
 {
-  "count": 151,
+  "count": 152,
   "photos": [
+    {
+      "date": "2026-11-02",
+      "alt": "Apple HomeView smart home display, a compact rounded-square device with a 7-inch screen showing the Siri AI interface, sitting on a mesh speaker base, with an iPhone beside it displaying Siri AI conversation results",
+      "source": "https://www.macrumors.com/2026/11/01/apple-homeview-ships-with-older-software/",
+      "credit": "Apple / MacRumors",
+      "license": "editorial \u2014 \u00a9 Apple",
+      "story": "Apple's HomeView smart home display launches November 13, 2026 for $299, but pre-launch code analysis revealed it ships with HomeView OS 26.5 \u2014 software already six months out of date \u2014 while also lacking YouTube, Netflix, and most third-party apps at launch, and being entirely unavailable in the EU because its flagship Siri AI feature is blocked there by regulators.",
+      "why_funny": "Apple spent years positioning its AI-first smart home hub as the definitive answer to Amazon Echo, then shipped it running half-year-old firmware, without the apps people actually watch, and unable to legally sell it in one of the world's biggest consumer markets.",
+      "id": "8e0250c25e",
+      "file": "archive/2026-11-02-8e0250c25e.jpg"
+    },
     {
       "date": "2026-11-01",
       "alt": "A red wireless computer mouse shaped exactly like a McDonald's french-fries carton, with golden fries emerging from the top and the McDonald's Golden Arches logo on the side, displayed on a flat surface",
