@@ -1,6 +1,17 @@
 {
-  "count": 153,
+  "count": 154,
   "photos": [
+    {
+      "date": "2026-11-04",
+      "alt": "Several black DDR5 G.Skill Trident Z5 CK Series memory sticks arranged in a row on a dark surface, their angular heat spreaders gleaming",
+      "source": "https://www.techradar.com/ai-platforms-assistants/he-can-pry-it-from-my-cold-dead-hands-sam-altman-says-its-quite-terrible-that-youre-using-ram-in-your-pc-when-theres-not-enough-for-ai-data-centers",
+      "credit": "Notebookcheck / G.Skill",
+      "license": "editorial \u2014 \u00a9 Notebookcheck",
+      "story": "On November 2, 2026, OpenAI CEO Sam Altman said on a podcast that it is 'quite terrible' for everyone to hold a share of the world's limited DRAM supply in personal computers where it sits idle most of the time, arguing all memory should be pooled in AI data centers \u2014 where OpenAI can charge you to use it.",
+      "why_funny": "The CEO of a company that sells cloud AI subscriptions earnestly told the world that your personal RAM is a problem he would like to solve personally \u2014 by holding all of it, in his servers, for a monthly fee.",
+      "id": "fdcf13a0ea",
+      "file": "archive/2026-11-04-fdcf13a0ea.webp"
+    },
     {
       "date": "2026-11-03",
       "alt": "A silver LAX SkyLink Innovia APM 300 automated people mover vehicle at the Maintenance and Storage Facility in 2022 \u2014 a brand-new airport train that has been waiting to open since 2023",
