@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.webp",
-      "tagline": "Sam Altman: having RAM in your PC is 'quite terrible' — it should be his",
-      "story": "On November 2, 2026, OpenAI CEO Sam Altman said on a podcast that it is 'quite terrible' for everyone to hold a share of the world's limited DRAM supply in personal computers where it sits idle most of the time, arguing all memory should be pooled in AI data centers — where OpenAI can charge you to use it.",
-      "why_funny": "The CEO of a company that sells cloud AI subscriptions earnestly told the world that your personal RAM is a problem he would like to solve personally — by holding all of it, in his servers, for a monthly fee.",
-      "alt": "Several black DDR5 G.Skill Trident Z5 CK Series memory sticks arranged in a row on a dark surface, their angular heat spreaders gleaming",
-      "source": "https://www.techradar.com/ai-platforms-assistants/he-can-pry-it-from-my-cold-dead-hands-sam-altman-says-its-quite-terrible-that-youre-using-ram-in-your-pc-when-theres-not-enough-for-ai-data-centers",
-      "credit": "Notebookcheck / G.Skill",
-      "license": "editorial — © Notebookcheck",
-      "key": "2026-11-04-a"
+      "file": "candidate-a.jpg",
+      "tagline": "\"Robots Never Clock Out\" — but two were fired for bad attitude",
+      "story": "On November 4, 2026, AgiBot ran a 24-hour 'Robots Never Clock Out' trial with six G2 humanoid robots at a convenience store; four were promoted to official employees, but two were dismissed from their probationary period — one for 'slacking off' and lacking 'on-duty enthusiasm,' and one for being unable to keep up with the pace.",
+      "why_funny": "The robots designed to outperform every human worker, marketed under the slogan 'Robots Never Clock Out,' had to be let go from their first job for underperforming and having a bad attitude.",
+      "alt": "AgiBot G2 humanoid robots working at a convenience store during the 'Robots Never Clock Out' trial, stocking shelves and performing tasks alongside human staff",
+      "source": "https://dexerto.com/entertainment/humanoid-robots-fail-supermarket-trial-after-slacking-off-and-having-bad-attitude-3424776",
+      "credit": "AgiBot / Dexerto",
+      "license": "editorial — © AgiBot / Dexerto",
+      "key": "2026-11-05-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "OpenAI promised always-on AI agents for everyone; turned out they can't afford to run them",
-      "story": "OpenAI launched 'Dots' in September 2026 — always-on AI agents with their own dedicated cloud computer to do everything for you 24/7 — but on November 3, 2026, OpenAI's head of ChatGPT admitted Dots are 'on the compute heavy side' and the company will route tasks to smaller, cheaper models; the same week, xAI throttled its own AI agents (Grok Bot) because costs were 'unsustainably high relative to revenue.'",
-      "why_funny": "The entire AI industry promised personal agents that would run everything for you all day every day, then in the same week two major AI companies discovered they cannot actually afford to do that.",
-      "alt": "Close-up photograph of the OpenAI custom Jalapeño inference chip developed with Broadcom, showing the semiconductor package on a circuit board",
-      "source": "https://fortune.com/2026/11/03/musk-says-grok-bots-costs-are-unsustainably-high-while-openai-admits-dots-are-compute-heavy-is-the-personal-ai-agent-push-dead-on-arrival",
-      "credit": "Fortune / OpenAI / Broadcom",
-      "license": "editorial — © Fortune / OpenAI",
-      "key": "2026-11-04-b"
+      "tagline": "AI promised the world compute campuses. Voters promised them the door.",
+      "story": "On November 3, 2026, American voters rejected AI data centers in 40 of 45 ballot measures across 10 states — the same week OpenAI announced a plan to rename data centers 'compute campuses' to make them more palatable to communities where 71% of Americans already oppose one being built nearby.",
+      "why_funny": "The AI industry's response to overwhelming public opposition was to rebrand the facilities, then discover that renaming a giant power-hungry warehouse does not change how people feel about living next to one.",
+      "alt": "Drone aerial view of rows of large grey industrial server buildings at the Apple Sparks Campus data center complex in Sparks, Nevada",
+      "source": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+      "credit": "Daniel Cole / Reuters (via Semafor)",
+      "license": "editorial — © Reuters",
+      "key": "2026-11-05-b"
     }
   ]
 }
