@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-06",
+  "date": "2026-11-07",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Bulletproof. Unbreakable. Discontinued.",
-      "story": "On November 6, 2026, Elon Musk announced Tesla will end Cybertruck production in mid-2027 — the truck was designed with installed capacity for 250,000 units per year but has sold roughly 12% of that target, a failure that began at the 2019 unveiling when Musk's 'armor glass' window shattered live on stage during the demo.",
-      "why_funny": "The truck built to withstand anything immediately couldn't survive a metal ball thrown by its own designer, and seven years later it also couldn't survive the market.",
-      "alt": "Cracked Tesla Cybertruck 'armor glass' window at the November 2019 unveiling event, with fracture lines radiating from the steel-ball impact point across the dark glass pane",
-      "source": "https://electrek.co/2026/11/06/tesla-ending-cybertruck-production-sales-10-percent-plan/",
-      "credit": "u/Kruzat / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-11-06-a"
+      "tagline": "Built the most advanced Silverado ever. The screen is 16 inches. The icons are very, very small.",
+      "story": "Engadget's first drive of the 2027 Chevrolet Silverado (November 5, 2026) — marketed by GM as the 'most powerful and advanced Silverado ever' with a 16.3-inch main touchscreen — found the control icons so tiny that reviewers couldn't hit the right one while driving; separately, the Super Cruise autonomous system tried to change lanes into a passing motorcycle, requiring the reviewer to grab the wheel.",
+      "why_funny": "GM filled America's most macho truck with the biggest screens in the class, then made the icons so small nobody can tap them, and the AI safety feature's first highway trick was to nearly sideswipe a biker.",
+      "alt": "2027 Chevrolet Silverado 1500 pickup truck photographed in green during Engadget's first drive review — GM's self-described most powerful and advanced Silverado ever, with a 16.3-inch touchscreen whose icons proved too small to press while driving",
+      "source": "https://www.engadget.com/2304128/2027-chevrolet-silverado-1500-first-drive/",
+      "credit": "Engadget / GM",
+      "license": "editorial — © Engadget / GM",
+      "key": "2026-11-07-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "A ring with a screen, joystick, and mic — for when your phone is too convenient.",
-      "story": "On November 5, 2026, hardware startup Aina launched the Aina Ring — a $399–$499 titanium ring with a small screen, joystick, microphone, and speaker to control AI agents — whose standout use case in the first review was acting as an Apple TV remote when the reviewer couldn't find the actual Apple TV remote.",
-      "why_funny": "Aina built a $400 AI-powered finger computer to solve the problem of needing to look at your phone, and the clearest real-world win was replacing a device that costs $19.",
-      "alt": "The Aina AI Ring product, a chunky titanium band with a small rectangular screen and a joystick nub visible on its flat top surface, shown in a product photograph",
-      "source": "https://techcrunch.com/2026/11/05/ainas-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-agents/",
-      "credit": "Notebookcheck.net / Aina",
-      "license": "editorial — © Notebookcheck / Aina",
-      "key": "2026-11-06-b"
+      "tagline": "Pay $970 to monitor your brain. The sensor sits on the outside of your skull.",
+      "story": "On November 6, 2026, Indian doctors — including AIIMS Delhi radiologists and hepatologist Dr Cyriac Abby Philips — declared that Deepinder Goyal's Temple wearable (₹85,000 / ~$970), which claims to track cerebral blood flow in real time to slow aging, cannot do what it promises: a sensor on the outside of the skull can only measure blood flow to the face and scalp, not inside the brain.",
+      "why_funny": "The founder of a food-delivery app spent $20 million of his own money building a brain blood-flow monitor, then doctors pointed out the sensor doesn't touch the brain, can't see the brain, and is separated from the brain by an entire skull.",
+      "alt": "Deepinder Goyal, founder of the Temple brain-health startup, shown with the Temple wearable — a small sensor worn near the temple that claims to track cerebral blood flow through the skull in real time, whose science Indian doctors publicly challenged in November 2026",
+      "source": "https://theprint.in/feature/deepinder-goyal-calls-temple-humanitys-last-personal-device-doctors-still-want-proof/3092469/",
+      "credit": "Digit.in / Temple",
+      "license": "editorial — © Digit.in / Temple",
+      "key": "2026-11-07-b"
     }
   ]
 }
