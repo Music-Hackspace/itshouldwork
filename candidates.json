@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Built the most advanced Silverado ever. The screen is 16 inches. The icons are very, very small.",
-      "story": "Engadget's first drive of the 2027 Chevrolet Silverado (November 5, 2026) — marketed by GM as the 'most powerful and advanced Silverado ever' with a 16.3-inch main touchscreen — found the control icons so tiny that reviewers couldn't hit the right one while driving; separately, the Super Cruise autonomous system tried to change lanes into a passing motorcycle, requiring the reviewer to grab the wheel.",
-      "why_funny": "GM filled America's most macho truck with the biggest screens in the class, then made the icons so small nobody can tap them, and the AI safety feature's first highway trick was to nearly sideswipe a biker.",
-      "alt": "2027 Chevrolet Silverado 1500 pickup truck photographed in green during Engadget's first drive review — GM's self-described most powerful and advanced Silverado ever, with a 16.3-inch touchscreen whose icons proved too small to press while driving",
-      "source": "https://www.engadget.com/2304128/2027-chevrolet-silverado-1500-first-drive/",
-      "credit": "Engadget / GM",
-      "license": "editorial — © Engadget / GM",
-      "key": "2026-11-07-a"
+      "tagline": "Singapore Airlines new biz class looks like Scoot, their own budget airline",
+      "story": "On November 6, 2026, Singapore Airlines unveiled its new Boeing 777-9 Business Class designed by BMW Designworks — but the cabin's yellow-accented, dark gray palette looked so much like the finishes on Scoot (SIA's low-cost subsidiary) that aviation bloggers immediately nicknamed it 'Scoot J,' with one reviewer saying it looks like 'Scoot and Spirit Airlines had a baby.'",
+      "why_funny": "One of the world's most prestigious airlines spent years developing a new Business Class and ended up with something indistinguishable from its own budget carrier.",
+      "alt": "New Singapore Airlines Boeing 777-9 Business Class center seats showing gray and black upholstery with yellow accent stripes — a design critics immediately compared to Scoot's low-cost cabin aesthetic",
+      "source": "https://onemileatatime.com/news/singapore-airlines-new-business-class-finishes-cheap-mismatched/",
+      "credit": "One Mile at a Time / Singapore Airlines",
+      "license": "editorial — © Singapore Airlines / One Mile at a Time",
+      "key": "2026-11-08-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Pay $970 to monitor your brain. The sensor sits on the outside of your skull.",
-      "story": "On November 6, 2026, Indian doctors — including AIIMS Delhi radiologists and hepatologist Dr Cyriac Abby Philips — declared that Deepinder Goyal's Temple wearable (₹85,000 / ~$970), which claims to track cerebral blood flow in real time to slow aging, cannot do what it promises: a sensor on the outside of the skull can only measure blood flow to the face and scalp, not inside the brain.",
-      "why_funny": "The founder of a food-delivery app spent $20 million of his own money building a brain blood-flow monitor, then doctors pointed out the sensor doesn't touch the brain, can't see the brain, and is separated from the brain by an entire skull.",
-      "alt": "Deepinder Goyal, founder of the Temple brain-health startup, shown with the Temple wearable — a small sensor worn near the temple that claims to track cerebral blood flow through the skull in real time, whose science Indian doctors publicly challenged in November 2026",
-      "source": "https://theprint.in/feature/deepinder-goyal-calls-temple-humanitys-last-personal-device-doctors-still-want-proof/3092469/",
-      "credit": "Digit.in / Temple",
-      "license": "editorial — © Digit.in / Temple",
-      "key": "2026-11-07-b"
+      "tagline": "Paid $200 for Logic Pro — Apple's new AI feature is subscription-only",
+      "story": "On November 5, 2026, Apple released Logic Pro 13.0 with an AI-powered 'Intelligent Assistant' — but the feature requires a $12.99/month Apple Creator Studio subscription and is excluded from the $199.99 one-time-purchase version, reversing Apple's earlier promise that Logic Pro features would be identical regardless of which way you paid.",
+      "why_funny": "Apple spent years mocking Adobe's subscription-only model, then launched their AI feature in their flagship paid DAW locked behind — a subscription.",
+      "alt": "Screenshot of the Logic Pro 13 Intelligent Assistant AI feature panel with a subscription paywall notice, displayed against the Logic Pro DAW interface",
+      "source": "https://www.macrumors.com/2026/11/05/logic-pro-new-feature-requires-subscription/",
+      "credit": "MacRumors / Apple",
+      "license": "editorial — © Apple / MacRumors",
+      "key": "2026-11-08-b"
     }
   ]
 }
