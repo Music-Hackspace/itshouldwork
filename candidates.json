@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Singapore Airlines new biz class looks like Scoot, their own budget airline",
-      "story": "On November 6, 2026, Singapore Airlines unveiled its new Boeing 777-9 Business Class designed by BMW Designworks — but the cabin's yellow-accented, dark gray palette looked so much like the finishes on Scoot (SIA's low-cost subsidiary) that aviation bloggers immediately nicknamed it 'Scoot J,' with one reviewer saying it looks like 'Scoot and Spirit Airlines had a baby.'",
-      "why_funny": "One of the world's most prestigious airlines spent years developing a new Business Class and ended up with something indistinguishable from its own budget carrier.",
-      "alt": "New Singapore Airlines Boeing 777-9 Business Class center seats showing gray and black upholstery with yellow accent stripes — a design critics immediately compared to Scoot's low-cost cabin aesthetic",
-      "source": "https://onemileatatime.com/news/singapore-airlines-new-business-class-finishes-cheap-mismatched/",
-      "credit": "One Mile at a Time / Singapore Airlines",
-      "license": "editorial — © Singapore Airlines / One Mile at a Time",
-      "key": "2026-11-08-a"
+      "tagline": "8 years, 1,024 cores on paper — the chip that never shipped just went bankrupt",
+      "story": "Tachyum's Prodigy processor, pitched since 2018 as a single chip beating Intel, AMD, and NVIDIA combined, missed six consecutive launch dates (2020–2025), ballooned its core-count claims from 64 to 1,024 on paper, took over $220 million in reported funding, and never publicly demonstrated working silicon before its Slovak subsidiary filed for bankruptcy on October 22, 2026.",
+      "why_funny": "After eight years of raising the core count every time a launch date slipped, the only thing Tachyum actually shipped was a bankruptcy filing — Tom's Hardware had been calling it a 'meme chip' for years.",
+      "alt": "News infographic reading 'TACHYUM FILES FOR BANKRUPTCY — Prodigy: 8 years, 1,024 cores on paper, no shipping chip' with a chip icon crossed out in orange and all promised launch years 2020 through 2025 struck through in red, ending with '2030+?' in an orange box",
+      "source": "https://hwbusters.com/news/tachyum-bankruptcy-filing-leaves-the-never-shipped-prodigy-cpu-in-limbo/",
+      "credit": "HWBusters",
+      "license": "editorial — © HWBusters",
+      "key": "2026-11-09-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Paid $200 for Logic Pro — Apple's new AI feature is subscription-only",
-      "story": "On November 5, 2026, Apple released Logic Pro 13.0 with an AI-powered 'Intelligent Assistant' — but the feature requires a $12.99/month Apple Creator Studio subscription and is excluded from the $199.99 one-time-purchase version, reversing Apple's earlier promise that Logic Pro features would be identical regardless of which way you paid.",
-      "why_funny": "Apple spent years mocking Adobe's subscription-only model, then launched their AI feature in their flagship paid DAW locked behind — a subscription.",
-      "alt": "Screenshot of the Logic Pro 13 Intelligent Assistant AI feature panel with a subscription paywall notice, displayed against the Logic Pro DAW interface",
-      "source": "https://www.macrumors.com/2026/11/05/logic-pro-new-feature-requires-subscription/",
-      "credit": "MacRumors / Apple",
-      "license": "editorial — © Apple / MacRumors",
-      "key": "2026-11-08-b"
+      "tagline": "Google's AI laptop ate all its own RAM — first update frees 6GB back",
+      "story": "Google's Googlebook OS, launched weeks ago as an AI-first Android laptop platform, received its first major patch on November 9, 2026 fixing 30+ bugs and recovering 3–6 GB of RAM by cutting the memory that on-device AI had been silently consuming — amounting to 20–33% of system memory on 16 GB machines.",
+      "why_funny": "Google built a laptop whose headline feature was on-device AI, then the AI immediately ate a third of the laptop's memory before the user opened a single app; Thurrott called the launch state 'shoddy' and 'half-assed,' and the first update was titled '31 launch headaches.'",
+      "alt": "Lenovo Googlebook 15 laptop open on a wooden coffee table, showing the Googlebook OS Android-style interface with a teal wave wallpaper and the Gemini assistant panel open on the left",
+      "source": "https://chromeunboxed.com/a-big-new-googlebook-os-update-is-here-and-it-wipes-out-over-30-launch-headaches/",
+      "credit": "Engadget / Lenovo",
+      "license": "editorial — © Engadget / AOL",
+      "key": "2026-11-09-b"
     }
   ]
 }
