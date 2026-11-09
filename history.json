@@ -1,6 +1,17 @@
 {
-  "count": 157,
+  "count": 158,
   "photos": [
+    {
+      "date": "2026-11-08",
+      "alt": "Screenshot of the Logic Pro 13 Intelligent Assistant AI feature panel with a subscription paywall notice, displayed against the Logic Pro DAW interface",
+      "source": "https://www.macrumors.com/2026/11/05/logic-pro-new-feature-requires-subscription/",
+      "credit": "MacRumors / Apple",
+      "license": "editorial \u2014 \u00a9 Apple / MacRumors",
+      "story": "On November 5, 2026, Apple released Logic Pro 13.0 with an AI-powered 'Intelligent Assistant' \u2014 but the feature requires a $12.99/month Apple Creator Studio subscription and is excluded from the $199.99 one-time-purchase version, reversing Apple's earlier promise that Logic Pro features would be identical regardless of which way you paid.",
+      "why_funny": "Apple spent years mocking Adobe's subscription-only model, then launched their AI feature in their flagship paid DAW locked behind \u2014 a subscription.",
+      "id": "b465ad44bd",
+      "file": "archive/2026-11-08-b465ad44bd.jpg"
+    },
     {
       "date": "2026-11-07",
       "alt": "2027 Chevrolet Silverado 1500 pickup truck photographed in green during Engadget's first drive review \u2014 GM's self-described most powerful and advanced Silverado ever, with a 16.3-inch touchscreen whose icons proved too small to press while driving",
