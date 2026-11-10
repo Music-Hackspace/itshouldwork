@@ -1,6 +1,17 @@
 {
-  "count": 158,
+  "count": 159,
   "photos": [
+    {
+      "date": "2026-11-09",
+      "alt": "News infographic reading 'TACHYUM FILES FOR BANKRUPTCY \u2014 Prodigy: 8 years, 1,024 cores on paper, no shipping chip' with a chip icon crossed out in orange and all promised launch years 2020 through 2025 struck through in red, ending with '2030+?' in an orange box",
+      "source": "https://hwbusters.com/news/tachyum-bankruptcy-filing-leaves-the-never-shipped-prodigy-cpu-in-limbo/",
+      "credit": "HWBusters",
+      "license": "editorial \u2014 \u00a9 HWBusters",
+      "story": "Tachyum's Prodigy processor, pitched since 2018 as a single chip beating Intel, AMD, and NVIDIA combined, missed six consecutive launch dates (2020\u20132025), ballooned its core-count claims from 64 to 1,024 on paper, took over $220 million in reported funding, and never publicly demonstrated working silicon before its Slovak subsidiary filed for bankruptcy on October 22, 2026.",
+      "why_funny": "After eight years of raising the core count every time a launch date slipped, the only thing Tachyum actually shipped was a bankruptcy filing \u2014 Tom's Hardware had been calling it a 'meme chip' for years.",
+      "id": "8e5e311d63",
+      "file": "archive/2026-11-09-8e5e311d63.jpg"
+    },
     {
       "date": "2026-11-08",
       "alt": "Screenshot of the Logic Pro 13 Intelligent Assistant AI feature panel with a subscription paywall notice, displayed against the Logic Pro DAW interface",
