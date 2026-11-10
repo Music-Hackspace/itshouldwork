@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "8 years, 1,024 cores on paper — the chip that never shipped just went bankrupt",
-      "story": "Tachyum's Prodigy processor, pitched since 2018 as a single chip beating Intel, AMD, and NVIDIA combined, missed six consecutive launch dates (2020–2025), ballooned its core-count claims from 64 to 1,024 on paper, took over $220 million in reported funding, and never publicly demonstrated working silicon before its Slovak subsidiary filed for bankruptcy on October 22, 2026.",
-      "why_funny": "After eight years of raising the core count every time a launch date slipped, the only thing Tachyum actually shipped was a bankruptcy filing — Tom's Hardware had been calling it a 'meme chip' for years.",
-      "alt": "News infographic reading 'TACHYUM FILES FOR BANKRUPTCY — Prodigy: 8 years, 1,024 cores on paper, no shipping chip' with a chip icon crossed out in orange and all promised launch years 2020 through 2025 struck through in red, ending with '2030+?' in an orange box",
-      "source": "https://hwbusters.com/news/tachyum-bankruptcy-filing-leaves-the-never-shipped-prodigy-cpu-in-limbo/",
-      "credit": "HWBusters",
-      "license": "editorial — © HWBusters",
-      "key": "2026-11-09-a"
+      "tagline": "Honda CR-V wipers can't reach the whole windshield — 'it's a feature, not a bug'",
+      "story": "The 2023–2026 Honda CR-V places windshield-washer nozzles on the wiper arms instead of the hood, so coverage is poor — and owners report the driver-side wiper doesn't sweep the full windshield up to the A-pillar; when taken to dealers, they were told it is 'a feature, not a bug.'",
+      "why_funny": "Honda engineered four consecutive model years of a rain-clearing system that can't fully clear the rain, and the official position is that this is working as intended.",
+      "alt": "2023 Honda CR-V EX-L AWD in white photographed from the front-right, the exact model affected by the wiper-arm nozzle design that leaves the A-pillar corner unwiped",
+      "source": "https://www.slashgear.com/2309867/honda-crv-windshield-wiper-flaw/",
+      "credit": "MercurySable99 / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-11-10-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Google's AI laptop ate all its own RAM — first update frees 6GB back",
-      "story": "Google's Googlebook OS, launched weeks ago as an AI-first Android laptop platform, received its first major patch on November 9, 2026 fixing 30+ bugs and recovering 3–6 GB of RAM by cutting the memory that on-device AI had been silently consuming — amounting to 20–33% of system memory on 16 GB machines.",
-      "why_funny": "Google built a laptop whose headline feature was on-device AI, then the AI immediately ate a third of the laptop's memory before the user opened a single app; Thurrott called the launch state 'shoddy' and 'half-assed,' and the first update was titled '31 launch headaches.'",
-      "alt": "Lenovo Googlebook 15 laptop open on a wooden coffee table, showing the Googlebook OS Android-style interface with a teal wave wallpaper and the Gemini assistant panel open on the left",
-      "source": "https://chromeunboxed.com/a-big-new-googlebook-os-update-is-here-and-it-wipes-out-over-30-launch-headaches/",
-      "credit": "Engadget / Lenovo",
-      "license": "editorial — © Engadget / AOL",
-      "key": "2026-11-09-b"
+      "tagline": "Ring's answer to 'too many cameras outside' was an AI drone inside your house",
+      "story": "On November 10, 2026, Amazon's Ring — already under fire for letting police access doorbell footage without warrants — launched Ring Robotics: a $270 'Ring Drone Cam' that autonomously flies room-to-room inside your home when an alarm trips, and a $1,000 'Ring Rover Cam' that rolls through your office on a patrol schedule.",
+      "why_funny": "Ring's entire PR problem has been 'we gave your outdoor footage to the police' — their fix was to launch an AI drone that follows you around inside your own house.",
+      "alt": "The Ring Drone Cam, a compact white quadcopter indoor security drone shown docked in its charging station — Ring's new autonomous flying camera that patrols the inside of your home",
+      "source": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
+      "credit": "TechCrunch / Amazon Ring",
+      "license": "editorial — © TechCrunch / Amazon Ring",
+      "key": "2026-11-10-b"
     }
   ]
 }
