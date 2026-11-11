@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Honda CR-V wipers can't reach the whole windshield — 'it's a feature, not a bug'",
-      "story": "The 2023–2026 Honda CR-V places windshield-washer nozzles on the wiper arms instead of the hood, so coverage is poor — and owners report the driver-side wiper doesn't sweep the full windshield up to the A-pillar; when taken to dealers, they were told it is 'a feature, not a bug.'",
-      "why_funny": "Honda engineered four consecutive model years of a rain-clearing system that can't fully clear the rain, and the official position is that this is working as intended.",
-      "alt": "2023 Honda CR-V EX-L AWD in white photographed from the front-right, the exact model affected by the wiper-arm nozzle design that leaves the A-pillar corner unwiped",
-      "source": "https://www.slashgear.com/2309867/honda-crv-windshield-wiper-flaw/",
-      "credit": "MercurySable99 / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-11-10-a"
+      "tagline": "Apple's first foldable cracked at the hinge within hours — Samsung says 'welcome'",
+      "story": "Apple's $1,999 iPhone Duo — its first-ever foldable, launched October 23, 2026 — has inner displays cracking along the hinge within hours of unboxing; iFixit's teardown identified a hidden flaw where a display cable crosses a central support bar under the screen, and Samsung immediately launched global billboards saying 'Welcome to Foldables' and 'folding since 2019.'",
+      "why_funny": "Apple spent years refusing to make a foldable until it got it right, while Samsung built seven generations of them — and Apple's very first attempt cracked before most users had opened it twice.",
+      "alt": "An open iPhone Duo foldable held in a hand, showing a bright white horizontal crack line running across the inner display right at the hinge point, with Chinese iOS widgets visible around it",
+      "source": "https://www.notebookcheck.net/Apple-s-2-000-foldable-iPhone-reportedly-cracks-within-hours-as-owners-report-display-failures.1432971.0.html",
+      "credit": "Notebookcheck / user photo",
+      "license": "editorial — © Notebookcheck",
+      "key": "2026-11-11-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "Ring's answer to 'too many cameras outside' was an AI drone inside your house",
-      "story": "On November 10, 2026, Amazon's Ring — already under fire for letting police access doorbell footage without warrants — launched Ring Robotics: a $270 'Ring Drone Cam' that autonomously flies room-to-room inside your home when an alarm trips, and a $1,000 'Ring Rover Cam' that rolls through your office on a patrol schedule.",
-      "why_funny": "Ring's entire PR problem has been 'we gave your outdoor footage to the police' — their fix was to launch an AI drone that follows you around inside your own house.",
-      "alt": "The Ring Drone Cam, a compact white quadcopter indoor security drone shown docked in its charging station — Ring's new autonomous flying camera that patrols the inside of your home",
-      "source": "https://techcrunch.com/2026/11/10/ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterprise-security-robot/",
-      "credit": "TechCrunch / Amazon Ring",
-      "license": "editorial — © TechCrunch / Amazon Ring",
-      "key": "2026-11-10-b"
+      "file": "candidate-b.png",
+      "tagline": "Skims' $148 advent calendar: 12 days of bobby pins, keychains, and scrunchies",
+      "story": "Kim Kardashian's Skims brand sold a $148 'Accessories Advent Calendar' in November 2026; unboxing TikToks — including one that got 18.9 million views — revealed 12 compartments containing SKIMS-branded bobby pins, hair clips, scrunchies, keychains, a compact mirror, and a squishy toy, with no clothing; Skims has since offered every buyer a full refund after the 'Temu junk' backlash.",
+      "why_funny": "An advent calendar is supposed to build excitement with increasingly valuable daily reveals — Skims managed to make $148 of hair accessories feel like they arrived in a Temu haul, then had to issue refunds to anyone who pointed that out.",
+      "alt": "Split image: left shows TikToker holding the cute red-and-pink 2026 Skims Advent Calendar box with a deer motif; right shows all 12 contents dumped on the floor — a pile of scrunchies, hair ties, plastic keychains, and a red SKIMS logo keyring",
+      "source": "https://thetab.com/2026/11/09/skims-issues-statement-after-its-158-advent-calendar-sparks-huge-wave-of-complaints",
+      "credit": "The Tab / Kayla Ryan (TikTok unboxing)",
+      "license": "editorial — © The Tab / Kayla Ryan",
+      "key": "2026-11-11-b"
     }
   ]
 }
