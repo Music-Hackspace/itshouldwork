@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-11",
+  "date": "2026-11-12",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Apple's first foldable cracked at the hinge within hours — Samsung says 'welcome'",
-      "story": "Apple's $1,999 iPhone Duo — its first-ever foldable, launched October 23, 2026 — has inner displays cracking along the hinge within hours of unboxing; iFixit's teardown identified a hidden flaw where a display cable crosses a central support bar under the screen, and Samsung immediately launched global billboards saying 'Welcome to Foldables' and 'folding since 2019.'",
-      "why_funny": "Apple spent years refusing to make a foldable until it got it right, while Samsung built seven generations of them — and Apple's very first attempt cracked before most users had opened it twice.",
-      "alt": "An open iPhone Duo foldable held in a hand, showing a bright white horizontal crack line running across the inner display right at the hinge point, with Chinese iOS widgets visible around it",
-      "source": "https://www.notebookcheck.net/Apple-s-2-000-foldable-iPhone-reportedly-cracks-within-hours-as-owners-report-display-failures.1432971.0.html",
-      "credit": "Notebookcheck / user photo",
-      "license": "editorial — © Notebookcheck",
-      "key": "2026-11-11-a"
+      "tagline": "Nothing unveiled its 'AI-first' device — it's one big button",
+      "story": "Nothing (the phone maker behind Phone 2 and Phone 3) teased its first 'AI-native product' on November 10, 2026: a handleless brushed-metal rectangle with two pill-shaped LEDs and one large rectangular button with a red dot, described as a screenless 'productivity tool' — launching December 2026 — with pundits already comparing it to a 1970s dictaphone.",
+      "why_funny": "A company famous for making phones beautiful with transparent backs and glowing LED strips unveils its vision for the AI future: an object that looks exactly like an old tape recorder.",
+      "alt": "Top portion of a small dark-grey brushed-metal device with two pill-shaped LED lights and one large light-grey rectangular button with a prominent red dot in the center",
+      "source": "https://gadgets.beebom.com/news/nothing-ai-device-record-button-teaser",
+      "credit": "Beebom",
+      "license": "editorial — © Beebom",
+      "key": "2026-11-12-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.png",
-      "tagline": "Skims' $148 advent calendar: 12 days of bobby pins, keychains, and scrunchies",
-      "story": "Kim Kardashian's Skims brand sold a $148 'Accessories Advent Calendar' in November 2026; unboxing TikToks — including one that got 18.9 million views — revealed 12 compartments containing SKIMS-branded bobby pins, hair clips, scrunchies, keychains, a compact mirror, and a squishy toy, with no clothing; Skims has since offered every buyer a full refund after the 'Temu junk' backlash.",
-      "why_funny": "An advent calendar is supposed to build excitement with increasingly valuable daily reveals — Skims managed to make $148 of hair accessories feel like they arrived in a Temu haul, then had to issue refunds to anyone who pointed that out.",
-      "alt": "Split image: left shows TikToker holding the cute red-and-pink 2026 Skims Advent Calendar box with a deer motif; right shows all 12 contents dumped on the floor — a pile of scrunchies, hair ties, plastic keychains, and a red SKIMS logo keyring",
-      "source": "https://thetab.com/2026/11/09/skims-issues-statement-after-its-158-advent-calendar-sparks-huge-wave-of-complaints",
-      "credit": "The Tab / Kayla Ryan (TikTok unboxing)",
-      "license": "editorial — © The Tab / Kayla Ryan",
-      "key": "2026-11-11-b"
+      "file": "candidate-b.jpg",
+      "tagline": "San Diego's self-driving future forgot to leave a charger for the humans",
+      "story": "Since Waymo launched its autonomous taxi service in San Diego in September 2026, its vehicles have been hogging public fast-charging stations, with human EV drivers reporting waits of up to an hour while multiple Waymo robotaxis occupy every available stall; Waymo says it tries to avoid clustering but builds its own depots 'as operations mature.'",
+      "why_funny": "Self-driving vehicles were designed to solve transportation problems — they've now created a new one by outcompeting the humans they're supposed to serve for the same scarce public chargers.",
+      "alt": "A white Waymo autonomous Jaguar I-Pace vehicle with the company's distinctive multi-sensor dome on the roof, parked on a city street in San Francisco",
+      "source": "https://www.yahoo.com/news/us/articles/come-droves-robotaxis-hogging-ev-130237419.html",
+      "credit": "Dllu / Wikimedia Commons",
+      "license": "CC BY 4.0",
+      "key": "2026-11-12-b"
     }
   ]
 }
