@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Nothing unveiled its 'AI-first' device — it's one big button",
-      "story": "Nothing (the phone maker behind Phone 2 and Phone 3) teased its first 'AI-native product' on November 10, 2026: a handleless brushed-metal rectangle with two pill-shaped LEDs and one large rectangular button with a red dot, described as a screenless 'productivity tool' — launching December 2026 — with pundits already comparing it to a 1970s dictaphone.",
-      "why_funny": "A company famous for making phones beautiful with transparent backs and glowing LED strips unveils its vision for the AI future: an object that looks exactly like an old tape recorder.",
-      "alt": "Top portion of a small dark-grey brushed-metal device with two pill-shaped LED lights and one large light-grey rectangular button with a prominent red dot in the center",
-      "source": "https://gadgets.beebom.com/news/nothing-ai-device-record-button-teaser",
-      "credit": "Beebom",
-      "license": "editorial — © Beebom",
-      "key": "2026-11-12-a"
+      "tagline": "Memphis built a bike lane. Drivers saw a parking spot.",
+      "story": "Memphis resurfaced North Parkway and installed new bike lanes on Nov 10, 2026, but the stripe design is immediately confusing — the two solid white lines marking parking spaces look like an extra-wide bike lane, signs are tiny, and cars were caught parked in the new bike lane within days.",
+      "why_funny": "The entire point of a bike lane is to be unmistakably clear, and this one confused drivers and cyclists before the paint was dry.",
+      "alt": "Wide suburban road on North Parkway, Memphis, showing newly painted white lane markings with an orange traffic cone visible in the distance; TV chyron reads 'New Bike Lanes on Busy Street'",
+      "source": "https://yahoo.com/news/articles/north-parkway-bike-lanes-spark-233735975.html",
+      "credit": "WREG Memphis / Olivia Yepez",
+      "license": "editorial — © WREG/Yahoo",
+      "key": "2026-11-13-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "San Diego's self-driving future forgot to leave a charger for the humans",
-      "story": "Since Waymo launched its autonomous taxi service in San Diego in September 2026, its vehicles have been hogging public fast-charging stations, with human EV drivers reporting waits of up to an hour while multiple Waymo robotaxis occupy every available stall; Waymo says it tries to avoid clustering but builds its own depots 'as operations mature.'",
-      "why_funny": "Self-driving vehicles were designed to solve transportation problems — they've now created a new one by outcompeting the humans they're supposed to serve for the same scarce public chargers.",
-      "alt": "A white Waymo autonomous Jaguar I-Pace vehicle with the company's distinctive multi-sensor dome on the roof, parked on a city street in San Francisco",
-      "source": "https://www.yahoo.com/news/us/articles/come-droves-robotaxis-hogging-ev-130237419.html",
-      "credit": "Dllu / Wikimedia Commons",
-      "license": "CC BY 4.0",
-      "key": "2026-11-12-b"
+      "tagline": "They called it the new Sydney Opera House. Everyone else calls it the Milk Crate.",
+      "story": "Sydney's $915M Powerhouse Parramatta museum opened November 7, 2026 — billed as Australia's biggest cultural investment since the Opera House — but critics immediately nicknamed its geometric steel lattice exterior the 'Milk Crate,' while its CEO stepped down under a misconduct investigation and key collection pieces (like a 240-year-old steam engine) remained in storage.",
+      "why_funny": "A billion-dollar museum shaped like a crate, built in a flood zone, opened without its own exhibits or its own CEO — right on schedule.",
+      "alt": "Two large white museum buildings with diamond-patterned steel lattice facades rising above Parramatta, Sydney, surrounded by trees and taller glass office towers",
+      "source": "https://architectureau.com/articles/powerhouse-parramatta-announces-opening-date/",
+      "credit": "Rory Gardiner / Architecture AU",
+      "license": "editorial — © Architecture AU",
+      "key": "2026-11-13-b"
     }
   ]
 }
