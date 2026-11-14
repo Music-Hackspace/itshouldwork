@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Memphis built a bike lane. Drivers saw a parking spot.",
-      "story": "Memphis resurfaced North Parkway and installed new bike lanes on Nov 10, 2026, but the stripe design is immediately confusing — the two solid white lines marking parking spaces look like an extra-wide bike lane, signs are tiny, and cars were caught parked in the new bike lane within days.",
-      "why_funny": "The entire point of a bike lane is to be unmistakably clear, and this one confused drivers and cyclists before the paint was dry.",
-      "alt": "Wide suburban road on North Parkway, Memphis, showing newly painted white lane markings with an orange traffic cone visible in the distance; TV chyron reads 'New Bike Lanes on Busy Street'",
-      "source": "https://yahoo.com/news/articles/north-parkway-bike-lanes-spark-233735975.html",
-      "credit": "WREG Memphis / Olivia Yepez",
-      "license": "editorial — © WREG/Yahoo",
-      "key": "2026-11-13-a"
+      "tagline": "The truck they said would be bulletproof got 11 recalls — now it's cancelled.",
+      "story": "Tesla announced on November 6, 2026 that it will end Cybertruck production in 2027 to free factory space for Cybercab robotaxis, retiring a vehicle that promised 250,000 units/year, delivered roughly 30,000, and racked up 11 safety recalls in three years.",
+      "why_funny": "A truck unveiled by shattering its own supposedly indestructible windows live on stage, designed with flat steel panels no factory knew how to weld, is being cancelled to make room for robot taxis.",
+      "alt": "2024 Tesla Cybertruck Foundation Series in front-left three-quarter view at a car show, showing its angular stainless-steel wedge body and hard geometric lines",
+      "source": "https://electrek.co/2026/11/06/tesla-ending-cybertruck-production-sales-10-percent-plan/",
+      "credit": "Mr.choppers / Wikimedia Commons",
+      "license": "CC BY-SA 3.0",
+      "key": "2026-11-14-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "They called it the new Sydney Opera House. Everyone else calls it the Milk Crate.",
-      "story": "Sydney's $915M Powerhouse Parramatta museum opened November 7, 2026 — billed as Australia's biggest cultural investment since the Opera House — but critics immediately nicknamed its geometric steel lattice exterior the 'Milk Crate,' while its CEO stepped down under a misconduct investigation and key collection pieces (like a 240-year-old steam engine) remained in storage.",
-      "why_funny": "A billion-dollar museum shaped like a crate, built in a flood zone, opened without its own exhibits or its own CEO — right on schedule.",
-      "alt": "Two large white museum buildings with diamond-patterned steel lattice facades rising above Parramatta, Sydney, surrounded by trees and taller glass office towers",
-      "source": "https://architectureau.com/articles/powerhouse-parramatta-announces-opening-date/",
-      "credit": "Rory Gardiner / Architecture AU",
-      "license": "editorial — © Architecture AU",
-      "key": "2026-11-13-b"
+      "tagline": "Toy giant marks 100 years with a logo that looks like a fintech wellness app.",
+      "story": "On November 11, 2026, Takara Tomy announced it will replace its cheerful red TOMY wordmark with an abstract teal-to-magenta gradient symbol for its 100th anniversary global rebrand — leaving fans and design critics baffled at what an indistinct gradient has to do with toys.",
+      "why_funny": "A company whose entire brand equity is built on colourful, joyful, recognisable toys — Transformers, Tamagotchi, Thomas the Tank Engine — chose a logo indistinguishable from a mindfulness startup.",
+      "alt": "Side-by-side comparison of the old bold red TOMY wordmark logo and the new abstract teal-to-magenta gradient TakaraTomy symbol",
+      "source": "https://www.creativebloq.com/news/the-toy-company-tomy-has-a-new-logo-and-people-are-baffled",
+      "credit": "Creative Bloq / Takara Tomy",
+      "license": "editorial — © Creative Bloq / Takara Tomy",
+      "key": "2026-11-14-b"
     }
   ]
 }
