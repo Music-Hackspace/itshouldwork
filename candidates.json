@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-15",
+  "date": "2026-11-16",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "A 'routine' router upgrade just grounded every flight in America.",
-      "story": "On November 13, 2026, contractor L3Harris turned on a new Cisco 600 router during a copper-to-fibre upgrade at a remote FAA site in Arkansas — it immediately began flooding the FAA's flight-control network with ~1,000 connection attempts per second, triggering only the third nationwide ground stop in US aviation history. Over 10,000 flights were disrupted; the router's manufacturer insists the devices 'did not fail.'",
-      "why_funny": "The company responsible for protecting America's skies managed to ground every single flight by plugging in a router, and the router maker's official response is that it worked exactly as designed.",
-      "alt": "Passengers at a Delta Airlines gate at JFK airport staring at a departures board covered in red CANCELLED labels during the November 13 2026 FAA nationwide ground stop, one traveller holding his head in his hands",
-      "source": "https://techcrunch.com/2026/11/14/transportation-secretary-blames-routine-equipment-upgrade-for-grounding-flights-nationwide/",
-      "credit": "Sashimi-b / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-11-15-a"
+      "tagline": "Built to end SpaceX's monopoly. Lasted 10 minutes.",
+      "story": "On November 15, 2026, ULA's Vulcan Centaur rocket failed 10 minutes after liftoff on its 'return to flight' mission — only its 5th ever launch — destroying all 40 Amazon Project Kuiper satellites on board. It was ULA's first total mission failure in 20 years; Amazon, which had booked 38 Vulcan flights for its Starlink competitor, must now rely on SpaceX to launch its anti-SpaceX constellation.",
+      "why_funny": "The rocket designed to end SpaceX's stranglehold on launches forced Amazon to book more SpaceX flights for its own Starlink competitor — the moment the rivalry was resolved, it was resolved by SpaceX winning by default.",
+      "alt": "ULA Vulcan Centaur rocket on the launch pad at Cape Canaveral during the rollout for its first flight in January 2024, showing the full two-stage rocket and all six solid rocket boosters against a clear sky",
+      "source": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+      "credit": "NASA / Ben Smegelsky",
+      "license": "Public domain",
+      "key": "2026-11-16-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "35 years of 'Maybe it's Maybelline.' Retired. For this.",
-      "story": "On November 10, 2026, Maybelline retired its iconic 35-year-old tagline 'Maybe she's born with it. Maybe it's Maybelline.' — replacing it globally with 'Maybe. We're born with it. Maybe. It's Maybelline.' in a campaign fronted by Miley Cyrus; Allure called it the destruction of 'one of the greatest beauty slogans ever written,' saying 'both its rhythm and satisfying payoff are now gone.'",
-      "why_funny": "One of the most memorised advertising slogans in history, repeated across four decades and every continent, was swapped for a version that reads like someone sat on the period key.",
-      "alt": "Maybelline New York cosmetics store front inside Nanxiang Incity Mega shopping mall in Shanghai, showing the brand's blue backlit signage and digital screens displaying makeup models",
-      "source": "https://www.adweek.com/creativity/maybelline-rewrites-its-35-year-old-tagline-for-gen-z/",
-      "credit": "Shwangtianyuan / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-11-15-b"
+      "tagline": "BYD's flagship SUV shipped with the front and rear wheels literally on backwards.",
+      "story": "On November 11, 2026, BYD apologized after its flagship Da Tang electric SUV was delivered to customers with front and rear wheel rims swapped — wider 9J rims fitted to the front axle and narrower 8J rims on the rear — because supplier Hubei Boyu Industrial entered a coding error. BYD's official statement: 'dedicated testing showed no safety impact.'",
+      "why_funny": "The world's #1 EV maker delivered its marquee launch SUV with the wheels on backwards because someone typed a wrong code — and their reassurance that this is fine is somehow less reassuring than the error itself.",
+      "alt": "BYD Da Tang electric SUV parked outside, the wheel size mismatch visible between front and rear axles — the result of a supplier coding error that swapped wider rear rims to the front and narrower front rims to the rear",
+      "source": "https://electrek.co/2026/11/11/byds-flagship-suv-wheel-problem-fixing-for-free/",
+      "credit": "Electrek / BYD",
+      "license": "editorial — © Electrek / BYD",
+      "key": "2026-11-16-b"
     }
   ]
 }
