@@ -1,6 +1,17 @@
 {
-  "count": 165,
+  "count": 166,
   "photos": [
+    {
+      "date": "2026-11-16",
+      "alt": "ULA Vulcan Centaur rocket on the launch pad at Cape Canaveral during the rollout for its first flight in January 2024, showing the full two-stage rocket and all six solid rocket boosters against a clear sky",
+      "source": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
+      "credit": "NASA / Ben Smegelsky",
+      "license": "Public domain",
+      "story": "On November 15, 2026, ULA's Vulcan Centaur rocket failed 10 minutes after liftoff on its 'return to flight' mission \u2014 only its 5th ever launch \u2014 destroying all 40 Amazon Project Kuiper satellites on board. It was ULA's first total mission failure in 20 years; Amazon, which had booked 38 Vulcan flights for its Starlink competitor, must now rely on SpaceX to launch its anti-SpaceX constellation.",
+      "why_funny": "The rocket designed to end SpaceX's stranglehold on launches forced Amazon to book more SpaceX flights for its own Starlink competitor \u2014 the moment the rivalry was resolved, it was resolved by SpaceX winning by default.",
+      "id": "0e0c26ed2f",
+      "file": "archive/2026-11-16-0e0c26ed2f.jpg"
+    },
     {
       "date": "2026-11-15",
       "alt": "Maybelline New York cosmetics store front inside Nanxiang Incity Mega shopping mall in Shanghai, showing the brand's blue backlit signage and digital screens displaying makeup models",
