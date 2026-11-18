@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "The upgrade was supposed to modernize US air traffic control. It stopped all of it instead.",
-      "story": "On November 13, 2026, defense contractor L3Harris triggered the second-ever nationwide US aviation ground stop since 9/11 while replacing the FAA's copper-wire telecom backbone with fiber; a router being swapped out flooded the air traffic control network with over 1,000 connection attempts per second, collapsing the system. About 25,000 flights were delayed and 9,000+ cancelled. Transportation Secretary Duffy said the FAA 'is using old equipment.' The first nationwide ground stop since 9/11 — in 2023 — was also caused by contractor error at an FAA system. A 2023 safety review had already warned the network relied on 'obsolete telecommunications technology.'",
-      "why_funny": "The agency responsible for keeping every US flight safe was already warned in writing that its telecom system was dangerously obsolete — then grounded the entire country during a routine upgrade of the very system it already knew was fragile.",
-      "alt": "The FAA air traffic control tower at Philadelphia International Airport rising above the terminal buildings — identical in design to the towers whose copper-wire telecom backbone was being upgraded when a router collapse triggered a nationwide ground stop on November 13, 2026",
-      "source": "https://www.stlpr.org/npr/2026-11-14/faa-blames-fridays-ground-stop-on-equipment-issue-during-telecoms-network-upgrade",
-      "credit": "Harrison Keely / Wikimedia Commons",
-      "license": "CC BY 4.0",
-      "key": "2026-11-17-a"
+      "tagline": "The self-driving car that's supposed to be better than humans can't get through a construction zone.",
+      "story": "On November 11, 2026, California's DMV banned Waymo's autonomous robotaxis from all state freeways after three vehicles drove into an active construction closure on US Route 101 near Burlingame — a hazard human drivers handle by simply slowing down and reading signs. This came after the same thing happened in May 2026, Waymo pushed a software fix in July, resumed freeway service, then drove into construction zones again. The DMV called the repeated incursions an 'imminent hazard to public safety.' Waymo responded by suspending freeway operations in all its markets nationwide.",
+      "why_funny": "Waymo's entire sales pitch is 'we're safer than human drivers' — and human drivers handle construction zones just by seeing the orange cones and slowing down; Waymo needed two failures, one fix, one recall, and a nationwide suspension to still not solve it.",
+      "alt": "White Waymo Jaguar I-PACE autonomous robotaxi with its distinctive black sensor dome on the roof, driving on a residential street in Austin, Texas — the same model repeatedly drove into active highway construction zones in California, triggering a statewide freeway ban by the DMV",
+      "source": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "credit": "Lars Plougmann / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "key": "2026-11-18-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "The company behind Transformers transformed their logo into something nobody recognizes.",
-      "story": "On November 9, 2026, Takara Tomy — Japan's largest toy company, co-creator of Transformers, and licensed maker of Beyblades and Pokémon products — announced its first corporate rebrand since the 2006 Takara–TOMY merger: a new abstract gradient symbol based on Japanese katakana for 'asobi' (play), replacing the simple recognizable TOMY wordmark globally from April 1, 2027. The move also renames the company to TAKARATOMY Corporation. Design outlet Creative Bloq headlined its coverage: 'The toy company Tomy has a new logo, and people are baffled.'",
-      "why_funny": "The company that makes Transformers — toys whose entire concept is 'changes into something nobody recognises' — applied that exact transformation to their own logo, effective April Fools' Day.",
-      "alt": "A red Optimus Prime Transformers truck at Hamleys toy store's London parade — one of the flagship products made by Takara Tomy, now rebranding to TAKARATOMY Corporation with a gradient abstract logo that leaves international markets baffled",
-      "source": "https://www.creativebloq.com/news/the-toy-company-tomy-has-a-new-logo-and-people-are-baffled",
-      "credit": "Robert Lamb / Geograph.org.uk (Wikimedia Commons)",
-      "license": "CC BY-SA 2.0",
-      "key": "2026-11-17-b"
+      "tagline": "Samsung spent months mocking Apple's phone. Its next flagship will look just like Apple's phone.",
+      "story": "Leaked CAD renders of the Samsung Galaxy S27 Ultra, confirmed by multiple independent tipsters in November 2026, show the flagship abandoning its distinctive vertical camera stack for a wide horizontal camera plateau nearly identical to the iPhone 17 and 18 Pro — while Samsung has simultaneously been running global billboard and social media campaigns mocking Apple's cracking iPhone Duo foldable. Tom's Guide warned the redesign could cause 'the most intense wave of criticism in Galaxy history,' and ProPakistani headlined it 'Samsung to Copy iPhone Design After Months of Mocking Apple.'",
+      "why_funny": "Samsung has built its entire brand identity around 'we're not Apple' and runs ongoing global ads mocking Apple — while designing its next flagship to look exactly like Apple.",
+      "alt": "Samsung Galaxy S26 Ultra in dark violet shown from the back at a Samsung retail store in Japan, displaying its distinctive vertical four-lens camera arrangement — the design Samsung's next S27 Ultra will reportedly replace with a wide horizontal camera plateau nearly identical to Apple's iPhone 17 Pro",
+      "source": "https://www.techadvisor.com/article/3226402/samsung-galaxy-s27-ultra-and-pro-tipped-to-copy-iphone-design.html",
+      "credit": "Kyu3a / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-11-18-b"
     }
   ]
 }
