@@ -1,10 +1,10 @@
 {
   "file": "photo.jpg",
-  "date": "2026-11-16",
-  "alt": "ULA Vulcan Centaur rocket on the launch pad at Cape Canaveral during the rollout for its first flight in January 2024, showing the full two-stage rocket and all six solid rocket boosters against a clear sky",
-  "source": "https://spaceflightnow.com/2026/11/15/ula-suffers-first-total-mission-failure-with-loss-of-vulcan-rocket-carrying-40-amazon-leo-satellites/",
-  "credit": "NASA / Ben Smegelsky",
-  "license": "Public domain",
-  "story": "On November 15, 2026, ULA's Vulcan Centaur rocket failed 10 minutes after liftoff on its 'return to flight' mission \u2014 only its 5th ever launch \u2014 destroying all 40 Amazon Project Kuiper satellites on board. It was ULA's first total mission failure in 20 years; Amazon, which had booked 38 Vulcan flights for its Starlink competitor, must now rely on SpaceX to launch its anti-SpaceX constellation.",
-  "why_funny": "The rocket designed to end SpaceX's stranglehold on launches forced Amazon to book more SpaceX flights for its own Starlink competitor \u2014 the moment the rivalry was resolved, it was resolved by SpaceX winning by default."
+  "date": "2026-11-17",
+  "alt": "The FAA air traffic control tower at Philadelphia International Airport rising above the terminal buildings \u2014 identical in design to the towers whose copper-wire telecom backbone was being upgraded when a router collapse triggered a nationwide ground stop on November 13, 2026",
+  "source": "https://www.stlpr.org/npr/2026-11-14/faa-blames-fridays-ground-stop-on-equipment-issue-during-telecoms-network-upgrade",
+  "credit": "Harrison Keely / Wikimedia Commons",
+  "license": "CC BY 4.0",
+  "story": "On November 13, 2026, defense contractor L3Harris triggered the second-ever nationwide US aviation ground stop since 9/11 while replacing the FAA's copper-wire telecom backbone with fiber; a router being swapped out flooded the air traffic control network with over 1,000 connection attempts per second, collapsing the system. About 25,000 flights were delayed and 9,000+ cancelled. Transportation Secretary Duffy said the FAA 'is using old equipment.' The first nationwide ground stop since 9/11 \u2014 in 2023 \u2014 was also caused by contractor error at an FAA system. A 2023 safety review had already warned the network relied on 'obsolete telecommunications technology.'",
+  "why_funny": "The agency responsible for keeping every US flight safe was already warned in writing that its telecom system was dangerously obsolete \u2014 then grounded the entire country during a routine upgrade of the very system it already knew was fragile."
 }
