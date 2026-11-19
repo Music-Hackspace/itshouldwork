@@ -1,6 +1,17 @@
 {
-  "count": 167,
+  "count": 168,
   "photos": [
+    {
+      "date": "2026-11-18",
+      "alt": "White Waymo Jaguar I-PACE autonomous robotaxi with its distinctive black sensor dome on the roof, driving on a residential street in Austin, Texas \u2014 the same model repeatedly drove into active highway construction zones in California, triggering a statewide freeway ban by the DMV",
+      "source": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
+      "credit": "Lars Plougmann / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "story": "On November 11, 2026, California's DMV banned Waymo's autonomous robotaxis from all state freeways after three vehicles drove into an active construction closure on US Route 101 near Burlingame \u2014 a hazard human drivers handle by simply slowing down and reading signs. This came after the same thing happened in May 2026, Waymo pushed a software fix in July, resumed freeway service, then drove into construction zones again. The DMV called the repeated incursions an 'imminent hazard to public safety.' Waymo responded by suspending freeway operations in all its markets nationwide.",
+      "why_funny": "Waymo's entire sales pitch is 'we're safer than human drivers' \u2014 and human drivers handle construction zones just by seeing the orange cones and slowing down; Waymo needed two failures, one fix, one recall, and a nationwide suspension to still not solve it.",
+      "id": "ff68ea3b64",
+      "file": "archive/2026-11-18-ff68ea3b64.jpg"
+    },
     {
       "date": "2026-11-17",
       "alt": "The FAA air traffic control tower at Philadelphia International Airport rising above the terminal buildings \u2014 identical in design to the towers whose copper-wire telecom backbone was being upgraded when a router collapse triggered a nationwide ground stop on November 13, 2026",
