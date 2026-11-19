@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "The self-driving car that's supposed to be better than humans can't get through a construction zone.",
-      "story": "On November 11, 2026, California's DMV banned Waymo's autonomous robotaxis from all state freeways after three vehicles drove into an active construction closure on US Route 101 near Burlingame — a hazard human drivers handle by simply slowing down and reading signs. This came after the same thing happened in May 2026, Waymo pushed a software fix in July, resumed freeway service, then drove into construction zones again. The DMV called the repeated incursions an 'imminent hazard to public safety.' Waymo responded by suspending freeway operations in all its markets nationwide.",
-      "why_funny": "Waymo's entire sales pitch is 'we're safer than human drivers' — and human drivers handle construction zones just by seeing the orange cones and slowing down; Waymo needed two failures, one fix, one recall, and a nationwide suspension to still not solve it.",
-      "alt": "White Waymo Jaguar I-PACE autonomous robotaxi with its distinctive black sensor dome on the roof, driving on a residential street in Austin, Texas — the same model repeatedly drove into active highway construction zones in California, triggering a statewide freeway ban by the DMV",
-      "source": "https://techcrunch.com/2026/11/17/waymo-suspends-freeway-rides-nationwide-after-california-dmv-order/",
-      "credit": "Lars Plougmann / Wikimedia Commons",
-      "license": "CC BY-SA 2.0",
-      "key": "2026-11-18-a"
+      "tagline": "12 years to ship GTA VI. PSN went down. You still couldn't play it.",
+      "story": "GTA VI launched November 19, 2026 — 12 years after GTA V — but Sony's PlayStation Network went down twice: first the afternoon before launch, then again at the US midnight unlock; players who had already downloaded the game found themselves locked out of single-player mode because Sony requires internet authentication even to start a solo game.",
+      "why_funny": "The game that took 12 years to ship requires the internet to play offline — and on the one night every gamer was watching, that internet connection wasn't there.",
+      "alt": "The Sony Interactive Entertainment headquarters building in San Mateo, California, lit with event lighting at night — the company that runs PlayStation Network, which suffered two outages on the night GTA VI finally launched",
+      "source": "https://www.neowin.net/news/sony-playstation-outage-hits-as-psn-goes-down-on-gta-6-release-day/",
+      "credit": "Coolcaesar / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-11-19-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Samsung spent months mocking Apple's phone. Its next flagship will look just like Apple's phone.",
-      "story": "Leaked CAD renders of the Samsung Galaxy S27 Ultra, confirmed by multiple independent tipsters in November 2026, show the flagship abandoning its distinctive vertical camera stack for a wide horizontal camera plateau nearly identical to the iPhone 17 and 18 Pro — while Samsung has simultaneously been running global billboard and social media campaigns mocking Apple's cracking iPhone Duo foldable. Tom's Guide warned the redesign could cause 'the most intense wave of criticism in Galaxy history,' and ProPakistani headlined it 'Samsung to Copy iPhone Design After Months of Mocking Apple.'",
-      "why_funny": "Samsung has built its entire brand identity around 'we're not Apple' and runs ongoing global ads mocking Apple — while designing its next flagship to look exactly like Apple.",
-      "alt": "Samsung Galaxy S26 Ultra in dark violet shown from the back at a Samsung retail store in Japan, displaying its distinctive vertical four-lens camera arrangement — the design Samsung's next S27 Ultra will reportedly replace with a wide horizontal camera plateau nearly identical to Apple's iPhone 17 Pro",
-      "source": "https://www.techadvisor.com/article/3226402/samsung-galaxy-s27-ultra-and-pro-tipped-to-copy-iphone-design.html",
-      "credit": "Kyu3a / Wikimedia Commons",
+      "tagline": "Outlook died for a day across 70 countries. Microsoft's response: more AI.",
+      "story": "On November 12–13, 2026, a nearly 24-hour Microsoft 365 outage disrupted Outlook, Exchange, Teams, and Copilot across more than 70 countries, with 80% of servers unresponsive at the peak; five days later, Satya Nadella opened Microsoft Ignite 2026 by addressing the outage, called digital infrastructure 'the dial tone for the world,' then announced Copilot as 'the new OS for work' and asked enterprises to trust Microsoft AI with their entire business workflow.",
+      "why_funny": "The pitch for 'bet your business on Microsoft AI' was delivered five days after the email platform businesses already depend on collapsed globally for a full day — with no explanation of what specifically broke.",
+      "alt": "Microsoft Building 92, the visitor center at Microsoft Corporation's headquarters campus in Redmond, Washington — the company whose Microsoft 365 cloud services, including Outlook and Copilot, went offline for nearly 24 hours across 70 countries on November 12–13, 2026",
+      "source": "https://windowsforum.com/news/ignite-2026-microsoft-bets-on-copilot-and-microsoft-365-after-global-outlook-outage.453211/",
+      "credit": "Coolcaesar / Wikimedia Commons",
       "license": "CC BY-SA 4.0",
-      "key": "2026-11-18-b"
+      "key": "2026-11-19-b"
     }
   ]
 }
