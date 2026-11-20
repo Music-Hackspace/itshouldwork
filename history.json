@@ -1,6 +1,17 @@
 {
-  "count": 168,
+  "count": 169,
   "photos": [
+    {
+      "date": "2026-11-19",
+      "alt": "Microsoft Building 92, the visitor center at Microsoft Corporation's headquarters campus in Redmond, Washington \u2014 the company whose Microsoft 365 cloud services, including Outlook and Copilot, went offline for nearly 24 hours across 70 countries on November 12\u201313, 2026",
+      "source": "https://windowsforum.com/news/ignite-2026-microsoft-bets-on-copilot-and-microsoft-365-after-global-outlook-outage.453211/",
+      "credit": "Coolcaesar / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "story": "On November 12\u201313, 2026, a nearly 24-hour Microsoft 365 outage disrupted Outlook, Exchange, Teams, and Copilot across more than 70 countries, with 80% of servers unresponsive at the peak; five days later, Satya Nadella opened Microsoft Ignite 2026 by addressing the outage, called digital infrastructure 'the dial tone for the world,' then announced Copilot as 'the new OS for work' and asked enterprises to trust Microsoft AI with their entire business workflow.",
+      "why_funny": "The pitch for 'bet your business on Microsoft AI' was delivered five days after the email platform businesses already depend on collapsed globally for a full day \u2014 with no explanation of what specifically broke.",
+      "id": "0046734882",
+      "file": "archive/2026-11-19-0046734882.jpg"
+    },
     {
       "date": "2026-11-18",
       "alt": "White Waymo Jaguar I-PACE autonomous robotaxi with its distinctive black sensor dome on the roof, driving on a residential street in Austin, Texas \u2014 the same model repeatedly drove into active highway construction zones in California, triggering a statewide freeway ban by the DMV",
