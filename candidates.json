@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Built in August. Went nowhere. Blocked an ambulance. Gone by October.",
-      "story": "In August 2026, Boston installed a roughly 100-foot protected bike lane on O'Connor Way in South Boston that didn't connect to any other cycling infrastructure; the lane sat in unpaved gravel, removed accessible parking spots for a senior housing building, and was torn out by October after ambulances couldn't navigate past it — with the city still refusing to disclose what either the construction or the demolition cost.",
-      "why_funny": "The city built infrastructure specifically for people trying to get somewhere, that literally went nowhere, then paid again to remove it, and won't say what either trip cost.",
-      "alt": "New concrete curb barriers forming a short bike lane on O'Connor Way in South Boston, flanked entirely by loose gravel where pavement should be, clearly unfinished and unconnected to any other cycling infrastructure",
-      "source": "https://www.bostonglobe.com/2026/11/15/metro/south-boston-bike-lane-removed/",
-      "credit": "David L. Ryan / Globe Staff",
-      "license": "editorial — © Boston Globe",
-      "key": "2026-11-20-a"
+      "tagline": "The NSA's classified network went down during routine maintenance — the same routine it uses to monitor everyone else's",
+      "story": "On November 17, 2026, the NSA's classified internal communications network, NSANet, went offline during what the agency described as 'scheduled routine maintenance'; a defense official confirmed the disruption but assured that 'mission-critical capabilities' were not affected — a classic understatement from the organization whose entire job is never going offline.",
+      "why_funny": "The organization whose entire mission is to monitor, intercept, and secure global communications for the US intelligence community couldn't maintain its own classified communications network through basic scheduled maintenance.",
+      "alt": "Aerial photograph of the NSA headquarters complex at Fort Meade, Maryland, showing the distinctive black glass main office buildings, parking structures, antenna arrays, and surrounding facilities of the National Security Agency campus",
+      "source": "https://www.fox5vegas.com/2026/11/17/highly-classified-nsa-communications-network-is-down-report-says/",
+      "credit": "Trevor Paglen",
+      "license": "CC0",
+      "key": "2026-11-21-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "JLo's $150 crystal lip balm is the same $19 formula with Swarovski on the tin.",
-      "story": "On November 5, 2026, JLo Beauty released Beso Bling — three limited-edition lip balms encrusted with Swarovski crystals, each priced at $150 (or $225 for the set), compared to the $19 Beso Balm they're based on — accompanied by a surreal AI-generated promo video labeled 'AI content' that showed cherries rolling through subway cars and crystal-covered hummingbirds, prompting critics to call it 'the dumbest product launch in history.'",
-      "why_funny": "JLo Beauty's answer to 'how do we innovate our lip balm?' was: apply Swarovski crystals to the same formula and charge eight times as much, then hire an AI to write the ad because apparently the concept required no human creativity either.",
-      "alt": "Jennifer Lopez posing in a composite image flanked by two oversized pink Beso Bling lip balm containers decorated with large Swarovski crystals — JLo Beauty's $150 limited-edition version of their $19 original lip balm",
-      "source": "https://www.inkl.com/news/dumbest-product-launch-in-history-jennifer-lopez-slammed-over-150-lip-balm-and-bizarre-ai-looking-ad",
-      "credit": "JLo Beauty / balleralert.com",
-      "license": "editorial — © JLo Beauty",
-      "key": "2026-11-20-b"
+      "tagline": "Amazon removed the Kindle's bezel, accidentally replaced it with a glowing ring of light bleed, then said it was 'expected'",
+      "story": "Amazon's new 2026 Kindle eliminated the physical bezel for a sleek flush-glass design, but the edge lighting bleeds through the glass in dark mode, creating a bright glowing ring along all four edges; when users complained, Amazon's official response was that this was 'expected' to achieve a 'color bezel' — meaning Amazon's solution for the bezel-free design was to accidentally create a bezel made of light.",
+      "why_funny": "Amazon's design goal was to remove the bezel; the design they shipped created one out of light bleed; and Amazon's official position is that a glowing fake bezel was always the plan.",
+      "alt": "Amazon Kindle 2026 e-readers in four colors — black, gold, rose, and denim — displayed together, showing the new bezel-free flush-glass design that introduced the light bleed issue on the base model",
+      "source": "https://androidheadlines.com/2026/10/amazon-admits-base-kindle-2026-light-bleed-defect-replacements.html",
+      "credit": "Amazon / Android Headlines",
+      "license": "editorial — © Amazon / Android Headlines",
+      "key": "2026-11-21-b"
     }
   ]
 }
