@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "The NSA's classified network went down during routine maintenance — the same routine it uses to monitor everyone else's",
-      "story": "On November 17, 2026, the NSA's classified internal communications network, NSANet, went offline during what the agency described as 'scheduled routine maintenance'; a defense official confirmed the disruption but assured that 'mission-critical capabilities' were not affected — a classic understatement from the organization whose entire job is never going offline.",
-      "why_funny": "The organization whose entire mission is to monitor, intercept, and secure global communications for the US intelligence community couldn't maintain its own classified communications network through basic scheduled maintenance.",
-      "alt": "Aerial photograph of the NSA headquarters complex at Fort Meade, Maryland, showing the distinctive black glass main office buildings, parking structures, antenna arrays, and surrounding facilities of the National Security Agency campus",
-      "source": "https://www.fox5vegas.com/2026/11/17/highly-classified-nsa-communications-network-is-down-report-says/",
-      "credit": "Trevor Paglen",
-      "license": "CC0",
-      "key": "2026-11-21-a"
+      "tagline": "$3.8M NZ cycleway hated by cyclists AND drivers — torn out after 16 months",
+      "story": "In November 2026, New Plymouth District Council voted at an extraordinary meeting to rip out its 16-month-old $3.8M Devon Street cycleway — nicknamed 'Tim Tam Alley' for the shape of its chunky concrete lane separators — after motorists reported tyre damage and blocked driveways, some cyclists found the lane too narrow and clipped the blocks, and 7,500 residents signed a petition to remove it; demolition is expected to cost the council another $300K–$1.6M.",
+      "why_funny": "The city installed a bike lane designed to protect cyclists that managed to annoy cyclists (too narrow, blocks clipped tyres), infuriate drivers (tyre damage, blocked driveways), and cost $300K more just to tear out — all within 16 months of opening.",
+      "alt": "Three Tim Tam chocolate biscuit-shaped sandwich cookies — the same shape as the concrete lane dividers that gave New Plymouth's controversial Devon Street cycleway its nickname 'Tim Tam Alley', voted to be demolished after just 16 months",
+      "source": "https://www.1news.co.nz/2026/11/19/new-plymouth-councillors-vote-to-rip-up-tim-tam-cycleway/",
+      "credit": "ajay_suresh / Wikimedia Commons",
+      "license": "CC BY 2.0",
+      "key": "2026-11-22-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Amazon removed the Kindle's bezel, accidentally replaced it with a glowing ring of light bleed, then said it was 'expected'",
-      "story": "Amazon's new 2026 Kindle eliminated the physical bezel for a sleek flush-glass design, but the edge lighting bleeds through the glass in dark mode, creating a bright glowing ring along all four edges; when users complained, Amazon's official response was that this was 'expected' to achieve a 'color bezel' — meaning Amazon's solution for the bezel-free design was to accidentally create a bezel made of light.",
-      "why_funny": "Amazon's design goal was to remove the bezel; the design they shipped created one out of light bleed; and Amazon's official position is that a glowing fake bezel was always the plan.",
-      "alt": "Amazon Kindle 2026 e-readers in four colors — black, gold, rose, and denim — displayed together, showing the new bezel-free flush-glass design that introduced the light bleed issue on the base model",
-      "source": "https://androidheadlines.com/2026/10/amazon-admits-base-kindle-2026-light-bleed-defect-replacements.html",
-      "credit": "Amazon / Android Headlines",
-      "license": "editorial — © Amazon / Android Headlines",
-      "key": "2026-11-21-b"
+      "tagline": "Apple's $1,999 foldable iPhone has a hinge that cracks its own screen",
+      "story": "Apple's first foldable phone, the iPhone Duo ($1,999), launched October 23, 2026; within weeks owners reported a crunching hinge sound followed by a horizontal row of dead pixels on the inner screen — iFixit's teardown found the hinge's center support bar doesn't retract far enough and presses directly into the display electronics; Apple acknowledged the issue and explained its hinge assembly used 'AI algorithms' to match components, with replacement screens costing $999 out of warranty.",
+      "why_funny": "Apple advertised the iPhone Duo as achieving 'a visually crease-free state' and shipped a $2,000 phone whose hinge cracks its own screen — then explained the hinge design process involved AI, as if that made it less broken.",
+      "alt": "An Apple iPhone Duo foldable phone open to show its flexible inner display and distinctive book-fold hinge — the same hinge mechanism later found to press against the display electronics, cracking screens in reported units",
+      "source": "https://futurism.com/artificial-intelligence/hinge-apple-breaking-foldable-iphone-built-with-ai",
+      "credit": "ΚΑ ΚΙΤ / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-11-22-b"
     }
   ]
 }
