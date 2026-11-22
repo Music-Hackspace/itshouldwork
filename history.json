@@ -1,6 +1,17 @@
 {
-  "count": 170,
+  "count": 171,
   "photos": [
+    {
+      "date": "2026-11-21",
+      "alt": "Amazon Kindle 2026 e-readers in four colors \u2014 black, gold, rose, and denim \u2014 displayed together, showing the new bezel-free flush-glass design that introduced the light bleed issue on the base model",
+      "source": "https://androidheadlines.com/2026/10/amazon-admits-base-kindle-2026-light-bleed-defect-replacements.html",
+      "credit": "Amazon / Android Headlines",
+      "license": "editorial \u2014 \u00a9 Amazon / Android Headlines",
+      "story": "Amazon's new 2026 Kindle eliminated the physical bezel for a sleek flush-glass design, but the edge lighting bleeds through the glass in dark mode, creating a bright glowing ring along all four edges; when users complained, Amazon's official response was that this was 'expected' to achieve a 'color bezel' \u2014 meaning Amazon's solution for the bezel-free design was to accidentally create a bezel made of light.",
+      "why_funny": "Amazon's design goal was to remove the bezel; the design they shipped created one out of light bleed; and Amazon's official position is that a glowing fake bezel was always the plan.",
+      "id": "cc89e907ab",
+      "file": "archive/2026-11-21-cc89e907ab.jpg"
+    },
     {
       "date": "2026-11-20",
       "alt": "Jennifer Lopez posing in a composite image flanked by two oversized pink Beso Bling lip balm containers decorated with large Swarovski crystals \u2014 JLo Beauty's $150 limited-edition version of their $19 original lip balm",
