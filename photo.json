@@ -1,10 +1,10 @@
 {
   "file": "photo.jpg",
-  "date": "2026-11-22",
-  "alt": "An Apple iPhone Duo foldable phone open to show its flexible inner display and distinctive book-fold hinge \u2014 the same hinge mechanism later found to press against the display electronics, cracking screens in reported units",
-  "source": "https://futurism.com/artificial-intelligence/hinge-apple-breaking-foldable-iphone-built-with-ai",
-  "credit": "\u039a\u0391 \u039a\u0399\u03a4 / Wikimedia Commons",
-  "license": "CC BY-SA 4.0",
-  "story": "Apple's first foldable phone, the iPhone Duo ($1,999), launched October 23, 2026; within weeks owners reported a crunching hinge sound followed by a horizontal row of dead pixels on the inner screen \u2014 iFixit's teardown found the hinge's center support bar doesn't retract far enough and presses directly into the display electronics; Apple acknowledged the issue and explained its hinge assembly used 'AI algorithms' to match components, with replacement screens costing $999 out of warranty.",
-  "why_funny": "Apple advertised the iPhone Duo as achieving 'a visually crease-free state' and shipped a $2,000 phone whose hinge cracks its own screen \u2014 then explained the hinge design process involved AI, as if that made it less broken."
+  "date": "2026-11-23",
+  "alt": "Tesla vehicle interior showing the driver's seat and dashboard with no steering wheel installed \u2014 a demonstration of the wheel-free design Musk announced for a Model Y variant",
+  "source": "https://electrek.co/2026/11/19/musk-tesla-model-y-no-steering-wheel-7-seat/",
+  "credit": "Electrek / Tesla",
+  "license": "editorial \u2014 \u00a9 Electrek",
+  "story": "At the NY Times DealBook Summit on November 19, 2026, Elon Musk announced Tesla will build a Model Y variant with no steering wheel or pedals \u2014 despite Tesla's own robotaxi fleet already using steering-wheel-equipped Model Ys, and Cox Automotive finding only 10% of US consumers prefer fully driverless Level 5 autonomy (down from 17% in 2016); Musk gave no timeline, price, or location.",
+  "why_funny": "Tesla's solution to low demand for autonomous cars is to remove the steering wheel from the car most people buy for its practicality, then announce it at a conference with zero concrete details about when or how it would ever work."
 }
