@@ -1,6 +1,17 @@
 {
-  "count": 173,
+  "count": 174,
   "photos": [
+    {
+      "date": "2026-11-24",
+      "alt": "Aerial view of Nvidia's striking triangular headquarters campus in Santa Clara, California, with Apple Park visible in the distance",
+      "source": "https://www.cnn.com/2026/11/23/tech/nvidia-reinstates-jensen-huang-corporate-governance",
+      "credit": "Dicklyon / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "story": "On November 12, 2026, Nvidia's board accepted Jensen Huang's resignation; on November 17 they stated publicly 'no plans to reinstate him'; on November 23 \u2014 after the company shed roughly $1.5 trillion in market cap and US government officials reportedly weighed in \u2014 the board unanimously reversed course and reinstated Huang as CEO, all within 11 days.",
+      "why_funny": "The world's most valuable AI company built a succession plan, tested it for 11 days, lost $1.5 trillion, and immediately reverted \u2014 a live demonstration that the plan existed only on paper.",
+      "id": "68f9522e64",
+      "file": "archive/2026-11-24-68f9522e64.jpg"
+    },
     {
       "date": "2026-11-23",
       "alt": "Tesla vehicle interior showing the driver's seat and dashboard with no steering wheel installed \u2014 a demonstration of the wheel-free design Musk announced for a Model Y variant",
