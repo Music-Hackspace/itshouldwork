@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Meta's AI read your Signal messages after you said no — then texted you a stranger's bank balance",
-      "story": "On November 18-19, 2026, Reuters reported that Meta's Muse AI app — the second most popular free iPhone app — accessed encrypted Signal messages through OS accessibility features even after users explicitly denied permission, then sent one user a push notification with another user's bank balance appended as a casual afterthought; Meta's own staff called it an 'extreme privacy violation' in internal messages.",
-      "why_funny": "Meta designed a personal AI assistant so eager to be helpful that it violated your privacy settings, broke into your Signal messages, then accidentally sent you a stranger's bank statement as a drive-by notification.",
-      "alt": "Editorial graphic showing the Meta Muse AI app icon alongside a skull and crossbones symbol, illustrating a major security and privacy breach",
-      "source": "https://9to5mac.com/2026/11/19/major-privacy-breaches-reported-in-muse-ai-including-bank-balances/",
-      "credit": "9to5Mac / Meta",
-      "license": "editorial — © 9to5Mac",
-      "key": "2026-11-24-a"
+      "tagline": "Ferrari invented a downforce trick 6 teams copied — then Las Vegas happened",
+      "story": "Ferrari designed the SF-26 with a unique exhaust wing that uses exhaust gases to generate extra downforce — a system so innovative that six rival teams copied it during 2026. But at the Las Vegas Grand Prix on November 22, 2026, the design's inherent drag cost both Charles Leclerc and Lewis Hamilton over a second per straight; both Ferrari drivers were eliminated in Q2 qualifying, and Max Verstappen pointed to the exhaust wing as the key design weakness at a circuit whose entire identity is going fast in a straight line.",
+      "why_funny": "Ferrari built the cleverest aero trick in 2026 F1, got copied by half the grid, then showed up at the one circuit where their brilliant innovation is a liability — and both world-class drivers couldn't even reach the top-10 shootout.",
+      "alt": "Lewis Hamilton driving the red Ferrari SF-26 at the 2026 Austrian Grand Prix, the car whose innovative exhaust-wing aero design generates extra downforce but loses straight-line speed on fast circuits like Las Vegas",
+      "source": "https://scuderiafans.com/max-verstappen-identifies-ferrari-sf-26-aerodynamic-flaw-behind-las-vegas-straight-line-speed-deficit/",
+      "credit": "Lukas Raich / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "key": "2026-11-25-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.jpg",
-      "tagline": "Nvidia tried running without its CEO for 11 days. It cost roughly $1.5 trillion to discover this was not viable.",
-      "story": "On November 12, 2026, Nvidia's board accepted Jensen Huang's resignation; on November 17 they stated publicly 'no plans to reinstate him'; on November 23 — after the company shed roughly $1.5 trillion in market cap and US government officials reportedly weighed in — the board unanimously reversed course and reinstated Huang as CEO, all within 11 days.",
-      "why_funny": "The world's most valuable AI company built a succession plan, tested it for 11 days, lost $1.5 trillion, and immediately reverted — a live demonstration that the plan existed only on paper.",
-      "alt": "Aerial view of Nvidia's striking triangular headquarters campus in Santa Clara, California, with Apple Park visible in the distance",
-      "source": "https://www.cnn.com/2026/11/23/tech/nvidia-reinstates-jensen-huang-corporate-governance",
-      "credit": "Dicklyon / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-11-24-b"
+      "file": "candidate-b.png",
+      "tagline": "GTA 6's $80 'physical' edition: a game case, an empty disc hub, and nothing else",
+      "story": "Grand Theft Auto VI launched November 19, 2026 for $79.99 as the world's biggest-ever game launch; Rockstar confirmed the 'physical' edition contains no game disc — just an empty plastic disc hub and a download code card — and some buyers received boxes with missing or already-redeemed codes; with no disc as a fallback, those buyers paid $80 for a box containing nothing that could install the game. The game comes in at 150GB to download.",
+      "why_funny": "The 'physical' in 'physical edition' now means 'you can hold the box' — Rockstar charged $80 for the experience of unboxing a game case to find an empty disc holder and a slip of paper.",
+      "alt": "Open GTA VI physical edition case showing an empty plastic disc hub where the game disc would normally sit, with an instruction card pointing to where buyers find the download code",
+      "source": "https://www.tweaktown.com/news/114703/gta-6-players-furious-as-physical-copies-reportedly-arrive-with-missing-or-already-used-codes/index.html",
+      "credit": "TweakTown / Rockstar Games",
+      "license": "editorial — © TweakTown",
+      "key": "2026-11-25-b"
     }
   ]
 }
