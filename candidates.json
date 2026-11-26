@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-25",
+  "date": "2026-11-26",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
       "file": "candidate-a.jpg",
-      "tagline": "Ferrari invented a downforce trick 6 teams copied — then Las Vegas happened",
-      "story": "Ferrari designed the SF-26 with a unique exhaust wing that uses exhaust gases to generate extra downforce — a system so innovative that six rival teams copied it during 2026. But at the Las Vegas Grand Prix on November 22, 2026, the design's inherent drag cost both Charles Leclerc and Lewis Hamilton over a second per straight; both Ferrari drivers were eliminated in Q2 qualifying, and Max Verstappen pointed to the exhaust wing as the key design weakness at a circuit whose entire identity is going fast in a straight line.",
-      "why_funny": "Ferrari built the cleverest aero trick in 2026 F1, got copied by half the grid, then showed up at the one circuit where their brilliant innovation is a liability — and both world-class drivers couldn't even reach the top-10 shootout.",
-      "alt": "Lewis Hamilton driving the red Ferrari SF-26 at the 2026 Austrian Grand Prix, the car whose innovative exhaust-wing aero design generates extra downforce but loses straight-line speed on fast circuits like Las Vegas",
-      "source": "https://scuderiafans.com/max-verstappen-identifies-ferrari-sf-26-aerodynamic-flaw-behind-las-vegas-straight-line-speed-deficit/",
-      "credit": "Lukas Raich / Wikimedia Commons",
-      "license": "CC BY-SA 4.0",
-      "key": "2026-11-25-a"
+      "tagline": "Fashion giant ditched its photo team for AI — AI embedded the pants in the shoes",
+      "story": "In 2026, luxury fashion e-commerce SSENSE replaced its entire photo and makeup team with AI during court-supervised restructuring; the AI published product images where designer Gerrit Jacob leather pants appeared with their graphic print smeared, random hallucinated seams, and the trousers seemingly tucked impossibly into the soles of the model's shoes — designers publicly called them out on Instagram, and SSENSE pulled the photos.",
+      "why_funny": "SSENSE built its reputation on elevated, impeccable fashion photography — the AI they replaced the entire team with made the clothes look physically impossible to put on a human body.",
+      "alt": "Screenshot of SSENSE product page showing AI-generated Gerrit Jacob leather pants with graphic print smeared and the trousers apparently tucked into the soles of the model's shoes — an AI hallucination from the retailer's replacement photo system",
+      "source": "https://www.thefader.com/2026/11/19/ssense-ai-product-photos-explainer",
+      "credit": "The Fader / SSENSE",
+      "license": "editorial — © The Fader / SSENSE",
+      "key": "2026-11-26-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.png",
-      "tagline": "GTA 6's $80 'physical' edition: a game case, an empty disc hub, and nothing else",
-      "story": "Grand Theft Auto VI launched November 19, 2026 for $79.99 as the world's biggest-ever game launch; Rockstar confirmed the 'physical' edition contains no game disc — just an empty plastic disc hub and a download code card — and some buyers received boxes with missing or already-redeemed codes; with no disc as a fallback, those buyers paid $80 for a box containing nothing that could install the game. The game comes in at 150GB to download.",
-      "why_funny": "The 'physical' in 'physical edition' now means 'you can hold the box' — Rockstar charged $80 for the experience of unboxing a game case to find an empty disc holder and a slip of paper.",
-      "alt": "Open GTA VI physical edition case showing an empty plastic disc hub where the game disc would normally sit, with an instruction card pointing to where buyers find the download code",
-      "source": "https://www.tweaktown.com/news/114703/gta-6-players-furious-as-physical-copies-reportedly-arrive-with-missing-or-already-used-codes/index.html",
-      "credit": "TweakTown / Rockstar Games",
-      "license": "editorial — © TweakTown",
-      "key": "2026-11-25-b"
+      "file": "candidate-b.webp",
+      "tagline": "Amazon made Kindle's back panel easy to swap — now it falls off in the case",
+      "story": "Amazon's 2026 Kindle redesign added a removable back panel to comply with EU right-to-repair battery-replacement rules; Mashable testing found the panel pops off when the device is pulled from a tight case — Amazon's official response: 'If the back panel accidentally comes off, it does not mean the device is broken; just press it firmly back into place at all four corners.'",
+      "why_funny": "Amazon made the Kindle 'repair-friendly' by designing a back that detaches for battery swaps — but it also detaches when you take it out of a case, so the fix for the EU repair mandate is now its own repair problem.",
+      "alt": "Amazon Kindle 2026 e-reader showing its redesigned flush-glass front and the new removable back panel added for EU right-to-repair battery-replacement compliance — the same panel that testers found pops off accidentally when the device is removed from a tight case",
+      "source": "https://shiftdelete.net/en/kindle-2026-back-panel-pops-off",
+      "credit": "Mashable / Amazon",
+      "license": "editorial — © Mashable / Amazon",
+      "key": "2026-11-26-b"
     }
   ]
 }
