@@ -1,6 +1,17 @@
 {
-  "count": 174,
+  "count": 175,
   "photos": [
+    {
+      "date": "2026-11-25",
+      "alt": "Lewis Hamilton driving the red Ferrari SF-26 at the 2026 Austrian Grand Prix, the car whose innovative exhaust-wing aero design generates extra downforce but loses straight-line speed on fast circuits like Las Vegas",
+      "source": "https://scuderiafans.com/max-verstappen-identifies-ferrari-sf-26-aerodynamic-flaw-behind-las-vegas-straight-line-speed-deficit/",
+      "credit": "Lukas Raich / Wikimedia Commons",
+      "license": "CC BY-SA 4.0",
+      "story": "Ferrari designed the SF-26 with a unique exhaust wing that uses exhaust gases to generate extra downforce \u2014 a system so innovative that six rival teams copied it during 2026. But at the Las Vegas Grand Prix on November 22, 2026, the design's inherent drag cost both Charles Leclerc and Lewis Hamilton over a second per straight; both Ferrari drivers were eliminated in Q2 qualifying, and Max Verstappen pointed to the exhaust wing as the key design weakness at a circuit whose entire identity is going fast in a straight line.",
+      "why_funny": "Ferrari built the cleverest aero trick in 2026 F1, got copied by half the grid, then showed up at the one circuit where their brilliant innovation is a liability \u2014 and both world-class drivers couldn't even reach the top-10 shootout.",
+      "id": "2ca679f81d",
+      "file": "archive/2026-11-25-2ca679f81d.jpg"
+    },
     {
       "date": "2026-11-24",
       "alt": "Aerial view of Nvidia's striking triangular headquarters campus in Santa Clara, California, with Apple Park visible in the distance",
