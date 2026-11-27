@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.jpg",
-      "tagline": "Fashion giant ditched its photo team for AI — AI embedded the pants in the shoes",
-      "story": "In 2026, luxury fashion e-commerce SSENSE replaced its entire photo and makeup team with AI during court-supervised restructuring; the AI published product images where designer Gerrit Jacob leather pants appeared with their graphic print smeared, random hallucinated seams, and the trousers seemingly tucked impossibly into the soles of the model's shoes — designers publicly called them out on Instagram, and SSENSE pulled the photos.",
-      "why_funny": "SSENSE built its reputation on elevated, impeccable fashion photography — the AI they replaced the entire team with made the clothes look physically impossible to put on a human body.",
-      "alt": "Screenshot of SSENSE product page showing AI-generated Gerrit Jacob leather pants with graphic print smeared and the trousers apparently tucked into the soles of the model's shoes — an AI hallucination from the retailer's replacement photo system",
-      "source": "https://www.thefader.com/2026/11/19/ssense-ai-product-photos-explainer",
-      "credit": "The Fader / SSENSE",
-      "license": "editorial — © The Fader / SSENSE",
-      "key": "2026-11-26-a"
+      "file": "candidate-a.png",
+      "tagline": "Sandbach's £6,200 bike ramp on stairs: pedal met fence post, 4M people watched",
+      "story": "On November 21, 2026, Mayor Sam Corcoran opened a new £6,200 bike channel on the stairs at Sandbach railway station in Cheshire, filming himself riding up — only for his left pedal to strike a fence post at the top; the video went viral with over 4 million views on X, with critics noting nobody had measured the channel wide enough to clear a standard bike's pedal width, while campaigners are now leveraging the global media coverage to push for the actual accessibility need: a lift to Platform 2.",
+      "why_funny": "The solution to 'bikes can't get up these stairs' cost £6,200 and was inaugurated with a ceremonial pedal-meets-fence-post moment for 4 million witnesses.",
+      "alt": "Screenshot from Mayor Sam Corcoran's viral video showing him wheeling a bicycle up the new bike channel on Sandbach railway station's stairs, with his left pedal caught on the railing at the top",
+      "source": "https://www.thepoke.com/2026/11/24/there-was-something-transcendentally-british-about-this-little-bike-ramp-and-it-sent-it-viral-for-all-the-wrong-reasons/",
+      "credit": "The Poke / Sam Corcoran",
+      "license": "editorial — © The Poke / Sam Corcoran",
+      "key": "2026-11-27-a"
     },
     {
       "slot": "b",
-      "file": "candidate-b.webp",
-      "tagline": "Amazon made Kindle's back panel easy to swap — now it falls off in the case",
-      "story": "Amazon's 2026 Kindle redesign added a removable back panel to comply with EU right-to-repair battery-replacement rules; Mashable testing found the panel pops off when the device is pulled from a tight case — Amazon's official response: 'If the back panel accidentally comes off, it does not mean the device is broken; just press it firmly back into place at all four corners.'",
-      "why_funny": "Amazon made the Kindle 'repair-friendly' by designing a back that detaches for battery swaps — but it also detaches when you take it out of a case, so the fix for the EU repair mandate is now its own repair problem.",
-      "alt": "Amazon Kindle 2026 e-reader showing its redesigned flush-glass front and the new removable back panel added for EU right-to-repair battery-replacement compliance — the same panel that testers found pops off accidentally when the device is removed from a tight case",
-      "source": "https://shiftdelete.net/en/kindle-2026-back-panel-pops-off",
-      "credit": "Mashable / Amazon",
-      "license": "editorial — © Mashable / Amazon",
-      "key": "2026-11-26-b"
+      "file": "candidate-b.jpg",
+      "tagline": "Microsoft's AI doctor for slow PCs was secretly eating 860MB of your RAM",
+      "story": "At Ignite 2026 in November, Microsoft admitted its own background apps — Defender, OneDrive, Purview, and Microsoft 365 — were collectively consuming 860MB of RAM on Windows 11 PCs without users knowing; Copilot itself uses up to 1GB idle while advertising the ability to diagnose why your PC runs slowly; Microsoft has since freed that memory and is removing force-installed Copilot-heavy Microsoft 365 apps from enterprise Windows 11, saying they 'came at a very high cost' — weeks after telling users that 8GB RAM is 'a great fit for everyday Windows 11 use.'",
+      "why_funny": "Windows 11's AI health tool, advertised as diagnosing why your PC runs slowly, was itself running on a gigabyte of silently-installed Microsoft bloatware — the patient was the doctor.",
+      "alt": "Windows 11 performance comparison graphic showing RAM usage before and after Microsoft freed nearly 900MB previously consumed by its own force-installed apps including Defender, OneDrive, and Microsoft 365",
+      "source": "https://www.windowslatest.com/2026/11/25/microsoft-admits-nearly-900mb-of-your-windows-11-pcs-ram-was-being-quietly-eaten-by-its-own-apps-like-defender-onedrive-and-microsoft-365-and-its-freed-it-up/",
+      "credit": "Windows Latest",
+      "license": "editorial — © Windows Latest",
+      "key": "2026-11-27-b"
     }
   ]
 }
