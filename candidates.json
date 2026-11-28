@@ -1,30 +1,30 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "ns": "itshouldwork-org",
   "candidates": [
     {
       "slot": "a",
-      "file": "candidate-a.png",
-      "tagline": "Sandbach's £6,200 bike ramp on stairs: pedal met fence post, 4M people watched",
-      "story": "On November 21, 2026, Mayor Sam Corcoran opened a new £6,200 bike channel on the stairs at Sandbach railway station in Cheshire, filming himself riding up — only for his left pedal to strike a fence post at the top; the video went viral with over 4 million views on X, with critics noting nobody had measured the channel wide enough to clear a standard bike's pedal width, while campaigners are now leveraging the global media coverage to push for the actual accessibility need: a lift to Platform 2.",
-      "why_funny": "The solution to 'bikes can't get up these stairs' cost £6,200 and was inaugurated with a ceremonial pedal-meets-fence-post moment for 4 million witnesses.",
-      "alt": "Screenshot from Mayor Sam Corcoran's viral video showing him wheeling a bicycle up the new bike channel on Sandbach railway station's stairs, with his left pedal caught on the railing at the top",
-      "source": "https://www.thepoke.com/2026/11/24/there-was-something-transcendentally-british-about-this-little-bike-ramp-and-it-sent-it-viral-for-all-the-wrong-reasons/",
-      "credit": "The Poke / Sam Corcoran",
-      "license": "editorial — © The Poke / Sam Corcoran",
-      "key": "2026-11-27-a"
+      "file": "candidate-a.jpg",
+      "tagline": "Rivian's third sticker recall: the adventure EV that keeps mis-labelling its own door jamb",
+      "story": "On November 27, 2026, Rivian issued recall 26V761 — its third label-related recall in a short span — covering roughly 1,500 R1S, R1T, and newly launched R2 vehicles because tire placard stickers show the wrong tire specifications after the tires were swapped between build and delivery but the labels were never updated; the fix is mailing replacement stickers.",
+      "why_funny": "A company selling $70,000+ adventure-ready electric trucks has now recalled vehicles three separate times because it can't get the information on its own door-jamb sticker right.",
+      "alt": "Rivian R1T electric pickup truck with a distinctive blue and grey artistic wrap, plugged into an EV charger at a shopping mall parking lot in Torrance, California",
+      "source": "https://carbuzz.com/rivian-r1s-r1t-r2-recall-label-26v761-november-2026/",
+      "credit": "RykJ / Wikimedia Commons",
+      "license": "CC BY-SA 2.0",
+      "key": "2026-11-28-a"
     },
     {
       "slot": "b",
       "file": "candidate-b.jpg",
-      "tagline": "Microsoft's AI doctor for slow PCs was secretly eating 860MB of your RAM",
-      "story": "At Ignite 2026 in November, Microsoft admitted its own background apps — Defender, OneDrive, Purview, and Microsoft 365 — were collectively consuming 860MB of RAM on Windows 11 PCs without users knowing; Copilot itself uses up to 1GB idle while advertising the ability to diagnose why your PC runs slowly; Microsoft has since freed that memory and is removing force-installed Copilot-heavy Microsoft 365 apps from enterprise Windows 11, saying they 'came at a very high cost' — weeks after telling users that 8GB RAM is 'a great fit for everyday Windows 11 use.'",
-      "why_funny": "Windows 11's AI health tool, advertised as diagnosing why your PC runs slowly, was itself running on a gigabyte of silently-installed Microsoft bloatware — the patient was the doctor.",
-      "alt": "Windows 11 performance comparison graphic showing RAM usage before and after Microsoft freed nearly 900MB previously consumed by its own force-installed apps including Defender, OneDrive, and Microsoft 365",
-      "source": "https://www.windowslatest.com/2026/11/25/microsoft-admits-nearly-900mb-of-your-windows-11-pcs-ram-was-being-quietly-eaten-by-its-own-apps-like-defender-onedrive-and-microsoft-365-and-its-freed-it-up/",
-      "credit": "Windows Latest",
-      "license": "editorial — © Windows Latest",
-      "key": "2026-11-27-b"
+      "tagline": "Allstate 'You're in Good Hands' — except the app, website, and roadside help",
+      "story": "On November 23, 2026, Allstate's entire digital stack — website, mobile app, and app-based roadside assistance — went dark for over four days through the Thanksgiving travel week, leaving customers unable to log in, file claims, pay bills, or call for roadside help; as of November 27 the company had not disclosed the cause, while its tagline has always been 'You're in Good Hands.'",
+      "why_funny": "An insurance company whose entire brand promise is reliability and peace of mind quietly became completely unreachable during the highest-stakes travel week of the year — with no explanation.",
+      "alt": "Person sitting on a sofa using a laptop showing the Allstate website with 'let's start an insurance quote' on screen, the same site that went dark for four days over Thanksgiving 2026",
+      "source": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+      "credit": "Marcin Golba/NurPhoto / Getty Images / TechCrunch",
+      "license": "editorial — © Marcin Golba/NurPhoto/Getty Images",
+      "key": "2026-11-28-b"
     }
   ]
 }
