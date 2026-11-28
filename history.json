@@ -1,6 +1,17 @@
 {
-  "count": 176,
+  "count": 177,
   "photos": [
+    {
+      "date": "2026-11-27",
+      "alt": "Windows 11 performance comparison graphic showing RAM usage before and after Microsoft freed nearly 900MB previously consumed by its own force-installed apps including Defender, OneDrive, and Microsoft 365",
+      "source": "https://www.windowslatest.com/2026/11/25/microsoft-admits-nearly-900mb-of-your-windows-11-pcs-ram-was-being-quietly-eaten-by-its-own-apps-like-defender-onedrive-and-microsoft-365-and-its-freed-it-up/",
+      "credit": "Windows Latest",
+      "license": "editorial \u2014 \u00a9 Windows Latest",
+      "story": "At Ignite 2026 in November, Microsoft admitted its own background apps \u2014 Defender, OneDrive, Purview, and Microsoft 365 \u2014 were collectively consuming 860MB of RAM on Windows 11 PCs without users knowing; Copilot itself uses up to 1GB idle while advertising the ability to diagnose why your PC runs slowly; Microsoft has since freed that memory and is removing force-installed Copilot-heavy Microsoft 365 apps from enterprise Windows 11, saying they 'came at a very high cost' \u2014 weeks after telling users that 8GB RAM is 'a great fit for everyday Windows 11 use.'",
+      "why_funny": "Windows 11's AI health tool, advertised as diagnosing why your PC runs slowly, was itself running on a gigabyte of silently-installed Microsoft bloatware \u2014 the patient was the doctor.",
+      "id": "10d7c82e1f",
+      "file": "archive/2026-11-27-10d7c82e1f.jpg"
+    },
     {
       "date": "2026-11-26",
       "alt": "Amazon Kindle 2026 e-reader showing its redesigned flush-glass front and the new removable back panel added for EU right-to-repair battery-replacement compliance \u2014 the same panel that testers found pops off accidentally when the device is removed from a tight case",
